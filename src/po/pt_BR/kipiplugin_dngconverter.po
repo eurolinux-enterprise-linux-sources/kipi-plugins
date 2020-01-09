@@ -1,0 +1,213 @@
+# tradução do kipiplugin_dngconverter.po para Brazilian Portuguese
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# André Marcelo Alvarenga <andrealvarenga@gmx.net>, 2008, 2009.
+# Luiz Fernando Ranghetti <elchevive@opensuse.org>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_dngconverter\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-27 07:11+0100\n"
+"PO-Revision-Date: 2009-10-04 18:15-0300\n"
+"Last-Translator: André Marcelo Alvarenga <andrealvarenga@gmx.net>\n"
+"Language-Team: Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: aboutdata.h:47
+msgid "DNG Image Converter"
+msgstr "Conversor de imagens DNG"
+
+#: aboutdata.h:49
+msgid "A tool to batch convert RAW camera images to DNG"
+msgstr "Uma ferramenta para converter em lote as imagens de câmera RAW em DNG"
+
+#: aboutdata.h:50
+msgid "(c) 2008-2009, Gilles Caulier"
+msgstr "(c) 2008-2009, Gilles Caulier"
+
+#: aboutdata.h:52
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: aboutdata.h:53
+msgid "Author"
+msgstr "Autor"
+
+#: actionthread.cpp:229
+msgid "Cannot identify Raw image"
+msgstr "Não é possível identificar a imagem RAW"
+
+#: actionthread.cpp:236
+#, kde-format
+msgid "Make: %1\n"
+msgstr "Marca: %1\n"
+
+#: actionthread.cpp:237
+#, kde-format
+msgid "Model: %1\n"
+msgstr "Modelo: %1\n"
+
+#: actionthread.cpp:241
+#, kde-format
+msgid "Created: %1\n"
+msgstr "Criado em: %1\n"
+
+#: actionthread.cpp:248
+#, kde-format
+msgid "Aperture: f/%1\n"
+msgstr "Abertura: f/%1\n"
+
+#: actionthread.cpp:253
+#, kde-format
+msgid "Focal: %1 mm\n"
+msgstr "Distância focal: %1 mm\n"
+
+#: actionthread.cpp:258
+#, kde-format
+msgid "Exposure: 1/%1 s\n"
+msgstr "Exposição: 1/%1 s\n"
+
+#: actionthread.cpp:263
+#, kde-format
+msgid "Sensitivity: %1 ISO"
+msgstr "Sensibilidade: ISO %1"
+
+#: batchdialog.cpp:129
+msgid "Exit DNG Converter"
+msgstr "Sair do conversor DNG"
+
+#: batchdialog.cpp:130
+msgid "Batch convert RAW camera images to DNG"
+msgstr "Converter em lote as imagens RAW de câmera para DNG"
+
+#: batchdialog.cpp:133
+msgid "&Add"
+msgstr "&Adicionar"
+
+#: batchdialog.cpp:134
+msgid "Add new Raw files to the list"
+msgstr "Adicionar novos arquivos Raw a lista"
+
+#: batchdialog.cpp:136
+msgid "&Remove"
+msgstr "&Remover"
+
+#: batchdialog.cpp:137
+msgid "Remove selected Raw files from the list"
+msgstr "Remover da lista os arquivos Raw selecionados"
+
+#: batchdialog.cpp:156
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: batchdialog.cpp:157
+msgid "Raw File"
+msgstr "Arquivo Raw"
+
+#: batchdialog.cpp:158
+msgid "Target File"
+msgstr "Arquivo de destino"
+
+#: batchdialog.cpp:159
+msgid "Camera"
+msgstr "Câmera"
+
+#: batchdialog.cpp:190
+msgid "Handbook"
+msgstr "Manual"
+
+#: batchdialog.cpp:331
+msgid "The list does not contain any Raw files to process."
+msgstr "A lista não contém nenhum arquivo RAW para processar."
+
+#: batchdialog.cpp:472
+msgid "&Abort"
+msgstr "&Cancelar"
+
+#: batchdialog.cpp:473
+msgid "Abort the conversion of Raw files."
+msgstr "Cancelar a conversão de arquivos RAW."
+
+#: batchdialog.cpp:478
+msgid "Con&vert"
+msgstr "Con&verter"
+
+#: batchdialog.cpp:479
+msgid "Start converting the Raw images using the current settings."
+msgstr "Inicia a conversão das imagens RAW usando as configurações atuais."
+
+#: batchdialog.cpp:528
+#, kde-format
+msgid "Save Raw Image converted from '%1' as"
+msgstr "Salvar a imagem Raw convertida de '%1' como"
+
+#: batchdialog.cpp:557
+#, kde-format
+msgid "Failed to save image %1"
+msgstr "Falha ao salvar a imagem %1"
+
+#: dngconverter.cpp:54
+msgid "File(s) to convert"
+msgstr "Arquivo(s) a converter"
+
+#: plugin_dngconverter.cpp:66
+msgid "DNG Converter..."
+msgstr "Conversor DNG..."
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Luiz Fernando Ranghetti"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "elchevive@opensuse.org"
+
+#: settingswidget.cpp:106
+msgid "Embed Original File"
+msgstr "Incorporar arquivo original"
+
+#: settingswidget.cpp:108
+msgid "Lossless Compression"
+msgstr "Compressão sem perdas"
+
+#: settingswidget.cpp:110
+msgid "Update File Modification Date"
+msgstr "Atualizar a data de modificação do arquivo"
+
+#: settingswidget.cpp:114
+msgid "JPEG Preview:"
+msgstr "Visualização JPEG:"
+
+#: settingswidget.cpp:116
+msgid "None"
+msgstr "Nenhum"
+
+#: settingswidget.cpp:117
+msgid "Medium"
+msgstr "Médio"
+
+#: settingswidget.cpp:118
+msgid "Full size"
+msgstr "Tamanho completo"
+
+#: settingswidget.cpp:124
+msgid "If Target File Exists:"
+msgstr "Se o arquivo de destino existir:"
+
+#: settingswidget.cpp:128
+msgid "Overwrite automatically"
+msgstr "Sobrescrever automaticamente"
+
+#: settingswidget.cpp:129
+msgid "Open rename-file dialog"
+msgstr "Abrir o diálogo de renomear arquivo"

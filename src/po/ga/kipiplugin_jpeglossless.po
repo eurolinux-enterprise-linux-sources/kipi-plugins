@@ -1,0 +1,196 @@
+# Irish translation of kipiplugin_jpeglossless
+# Copyright (C) 2009 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kipiplugin_jpeglossless package.
+# Kevin Scannell <kscanne@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-libs/kipiplugin_jpeglossless.po\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-22 06:48+0200\n"
+"PO-Revision-Date: 2007-07-27 07:19-0500\n"
+"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
+"Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n < 11 ? "
+"3 : 4\n"
+
+#: convert2grayscale.cpp:85 convert2grayscale.cpp:162 imageflip.cpp:79
+#: imagerotate.cpp:80 jpegtransform.cpp:216 jpegtransform.cpp:319
+msgid "Error in opening input file"
+msgstr "Earráid agus inchomhad á oscailt"
+
+#: convert2grayscale.cpp:91 imageflip.cpp:85 imagerotate.cpp:88
+msgid "Error in opening temporary file"
+msgstr "Earráid agus comhad sealadach á oscailt"
+
+#: convert2grayscale.cpp:99
+msgid "Cannot convert to gray scale RAW file"
+msgstr "Ní féidir tiontú go comhad liathscála RAW"
+
+#: convert2grayscale.cpp:123 imageflip.cpp:117 imagerotate.cpp:123
+msgid "Cannot update source image"
+msgstr "Ní féidir an íomhá fhoinseach a nuashonrú"
+
+#: convert2grayscale.cpp:171 jpegtransform.cpp:225 jpegtransform.cpp:262
+#: jpegtransform.cpp:328
+msgid "Error in opening output file"
+msgstr "Earráid agus an t-aschomhad á oscailt"
+
+#: convert2grayscale.cpp:273
+#, kde-format
+msgid "Cannot convert to gray scale: %1"
+msgstr "Ní féidir tiontú go liathscála: %1"
+
+#: imageflip.cpp:93 imagerotate.cpp:96
+msgid "Cannot rotate RAW file"
+msgstr "Ní féidir an comhad RAW a rothlú"
+
+#: imageflip.cpp:144 imageflip.cpp:173
+msgid "Nonstandard flip action"
+msgstr "Gníomh neamhchaighdeánach smeacha"
+
+#: imageflip.cpp:206
+#, kde-format
+msgid "Cannot flip: %1"
+msgstr "Ní féidir smeachadh: %1"
+
+#: imagerotate.cpp:160 imagerotate.cpp:200
+msgid "Nonstandard rotation angle"
+msgstr "Uillinn neamhchaighdeánach rothlú"
+
+#: imagerotate.cpp:233
+#, kde-format
+msgid "Cannot rotate: %1"
+msgstr "Ní féidir rothlú: %1"
+
+#: plugin_jpeglossless.cpp:113
+msgid "Auto Rotate/Flip Using Exif Information"
+msgstr "Rothlaigh/Smeach go hUathoibríoch le hEolas Exif"
+
+#: plugin_jpeglossless.cpp:118
+msgid "Rotate"
+msgstr "Rothlaigh"
+
+#: plugin_jpeglossless.cpp:123
+msgid "Left"
+msgstr "Go Tuathalach"
+
+#: plugin_jpeglossless.cpp:130
+msgid "Right"
+msgstr "Go Deisealach"
+
+#: plugin_jpeglossless.cpp:136
+msgid "Flip"
+msgstr "Smeach"
+
+#: plugin_jpeglossless.cpp:140
+msgid "Horizontally"
+msgstr "Go Cothrománach"
+
+#: plugin_jpeglossless.cpp:147
+msgid "Vertically"
+msgstr "Go hIngearach"
+
+#: plugin_jpeglossless.cpp:154
+msgid "Convert to Black && White"
+msgstr "Tiontaigh go Dubh agus Bán"
+
+#: plugin_jpeglossless.cpp:198
+msgid "horizontally"
+msgstr "go cothrománach"
+
+#: plugin_jpeglossless.cpp:203
+msgid "vertically"
+msgstr "go hingearach"
+
+#: plugin_jpeglossless.cpp:224
+#, kde-format
+msgid "Flip images %1"
+msgstr "Smeach íomhánna %1"
+
+#: plugin_jpeglossless.cpp:237
+msgid "right (clockwise)"
+msgstr "go deisealach"
+
+#: plugin_jpeglossless.cpp:242
+msgid "left (counterclockwise)"
+msgstr "go tuathalach"
+
+#: plugin_jpeglossless.cpp:247
+msgid "using Exif orientation tag"
+msgstr "ón chlib threoshuímh Exif"
+
+#: plugin_jpeglossless.cpp:268
+#, kde-format
+msgid "Rotate images %1"
+msgstr "Rothlaigh íomhánna %1"
+
+#: plugin_jpeglossless.cpp:284
+msgid ""
+"<p>Are you sure you wish to convert the selected image(s) to black and "
+"white? This operation <b>cannot</b> be undone.</p>"
+msgstr ""
+"<p>An bhfuil tú cinnte gur mian leat na híomhánna roghnaithe a thiontú go "
+"dubh agus bán?  <b>Ní féidir</b> dul ar ais ar an oibríocht seo.</p>"
+
+#: plugin_jpeglossless.cpp:301
+msgid "Convert images to black & white"
+msgstr "Tiontaigh íomhánna go dubh agus bán"
+
+#: plugin_jpeglossless.cpp:336
+#, kde-format
+msgid "Rotating Image \"%1\""
+msgstr "Íomhá \"%1\" á Rothlú"
+
+#: plugin_jpeglossless.cpp:341
+#, kde-format
+msgid "Flipping Image \"%1\""
+msgstr "Íomhá \"%1\" á Smeachadh"
+
+#: plugin_jpeglossless.cpp:346
+#, kde-format
+msgid "Converting to Black & White \"%1\""
+msgstr "\"%1\" á Thiontú go Dubh agus Bán"
+
+#: plugin_jpeglossless.cpp:368
+msgid "Rotate image complete"
+msgstr "Rothlaíodh an íomhá"
+
+#: plugin_jpeglossless.cpp:373
+msgid "Flip image complete"
+msgstr "Smeachadh an íomhá"
+
+#: plugin_jpeglossless.cpp:378
+msgid "Convert to Black & White complete"
+msgstr "Tiontaíodh go Dubh agus Bán"
+
+#: plugin_jpeglossless.cpp:403
+msgid "Failed to Rotate image"
+msgstr "Theip ar rothlú na híomhá"
+
+#: plugin_jpeglossless.cpp:408
+msgid "Failed to Flip image"
+msgstr "Theip ar smeachadh na híomhá"
+
+#: plugin_jpeglossless.cpp:413
+msgid "Failed to convert image to Black & White"
+msgstr "Theip ar thiontú go dubh agus bán"
+
+#: utils.cpp:88
+msgid "unable to open source file"
+msgstr "ní féidir comhad foinseach a oscailt"
+
+#: utils.cpp:112 utils.cpp:139
+msgid "unable to open temp file"
+msgstr "ní féidir comhad sealadach a oscailt"
+
+#: utils.cpp:126
+msgid "Cannot rotate: unable to open temp file"
+msgstr "Ní féidir rothlú: ní féidir comhad sealadach a oscailt"
+
+#: utils.cpp:188
+#, kde-format
+msgid "Cannot update metadata: %1"
+msgstr "Ní féidir na meiteashonraí a nuashonrú: %1"

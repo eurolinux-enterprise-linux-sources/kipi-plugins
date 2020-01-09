@@ -1,0 +1,214 @@
+# translation of kipiplugin_dngconverter.po to german
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Oliver Dörr <kde@doerr-privat.de>, 2008, 2009.
+# Burkhard Lück <lueck@hube-lueck.de>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_dngconverter\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-27 07:11+0100\n"
+"PO-Revision-Date: 2009-10-30 17:20+0100\n"
+"Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
+"Language-Team: German <kde-i18n-de@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: aboutdata.h:47
+msgid "DNG Image Converter"
+msgstr "DNG-Bildkonverter"
+
+#: aboutdata.h:49
+msgid "A tool to batch convert RAW camera images to DNG"
+msgstr ""
+"Ein Werkzeug um Rohbilder einer Kamera nach DNG mit einer Stapelverarbeitung "
+"zu konvertieren"
+
+#: aboutdata.h:50
+msgid "(c) 2008-2009, Gilles Caulier"
+msgstr "(c) 2008-2009, Gilles Caulier"
+
+#: aboutdata.h:52
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: aboutdata.h:53
+msgid "Author"
+msgstr "Autor"
+
+#: actionthread.cpp:229
+msgid "Cannot identify Raw image"
+msgstr "Das Rohbild kann nicht erkannt werden."
+
+#: actionthread.cpp:236
+#, kde-format
+msgid "Make: %1\n"
+msgstr "Marke: %1\n"
+
+#: actionthread.cpp:237
+#, kde-format
+msgid "Model: %1\n"
+msgstr "Modell: %1\n"
+
+#: actionthread.cpp:241
+#, kde-format
+msgid "Created: %1\n"
+msgstr "Erstellt: %1\n"
+
+#: actionthread.cpp:248
+#, kde-format
+msgid "Aperture: f/%1\n"
+msgstr "Blende: f/%1\n"
+
+#: actionthread.cpp:253
+#, kde-format
+msgid "Focal: %1 mm\n"
+msgstr "Fokus: %1 mm\n"
+
+#: actionthread.cpp:258
+#, kde-format
+msgid "Exposure: 1/%1 s\n"
+msgstr "Belichtung: 1/%1 s\n"
+
+#: actionthread.cpp:263
+#, kde-format
+msgid "Sensitivity: %1 ISO"
+msgstr "Sensitivität: %1 ISO"
+
+#: batchdialog.cpp:129
+msgid "Exit DNG Converter"
+msgstr "DNG-Konverter beenden"
+
+#: batchdialog.cpp:130
+msgid "Batch convert RAW camera images to DNG"
+msgstr ""
+"Rohbilder der Kamera mit einer Stapelverarbeitung nach DNG konvertieren"
+
+#: batchdialog.cpp:133
+msgid "&Add"
+msgstr "&Hinzufügen"
+
+#: batchdialog.cpp:134
+msgid "Add new Raw files to the list"
+msgstr "Neue Rohdateien der Liste hinzufügen."
+
+#: batchdialog.cpp:136
+msgid "&Remove"
+msgstr "Entfe&rnen"
+
+#: batchdialog.cpp:137
+msgid "Remove selected Raw files from the list"
+msgstr "Die ausgewählten Rohdateien aus der Liste entfernen."
+
+#: batchdialog.cpp:156
+msgid "Thumbnail"
+msgstr "Vorschaubild"
+
+#: batchdialog.cpp:157
+msgid "Raw File"
+msgstr "Rohdatei"
+
+#: batchdialog.cpp:158
+msgid "Target File"
+msgstr "Zieldatei"
+
+#: batchdialog.cpp:159
+msgid "Camera"
+msgstr "Kamera"
+
+#: batchdialog.cpp:190
+msgid "Handbook"
+msgstr "Handbuch"
+
+#: batchdialog.cpp:331
+msgid "The list does not contain any Raw files to process."
+msgstr "Es gibt keine Rohdatei in der Liste zu bearbeiten."
+
+#: batchdialog.cpp:472
+msgid "&Abort"
+msgstr "&Abbrechen"
+
+#: batchdialog.cpp:473
+msgid "Abort the conversion of Raw files."
+msgstr "Bricht die Konvertierung der Rohdateien ab."
+
+#: batchdialog.cpp:478
+msgid "Con&vert"
+msgstr "Kon&vertieren"
+
+#: batchdialog.cpp:479
+msgid "Start converting the Raw images using the current settings."
+msgstr ""
+"Startet die Konvertierung der Rohbilder mit den aktuellen Einstellungen."
+
+#: batchdialog.cpp:528
+#, kde-format
+msgid "Save Raw Image converted from '%1' as"
+msgstr "Rohbild konvertiert von „%1“ speichern unter"
+
+#: batchdialog.cpp:557
+#, kde-format
+msgid "Failed to save image %1"
+msgstr "Das Bild %1 lässt sich nicht speichern."
+
+#: dngconverter.cpp:54
+msgid "File(s) to convert"
+msgstr "Zu konvertierende Datei(en)"
+
+#: plugin_dngconverter.cpp:66
+msgid "DNG Converter..."
+msgstr "DNG-Konverter ..."
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Oliver Dörr"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kde@doerr-privat.de"
+
+#: settingswidget.cpp:106
+msgid "Embed Original File"
+msgstr "Originaldatei einbetten"
+
+#: settingswidget.cpp:108
+msgid "Lossless Compression"
+msgstr "Verlustfreie Kompression"
+
+#: settingswidget.cpp:110
+msgid "Update File Modification Date"
+msgstr "Änderungsdatum der Datei aktualisieren"
+
+#: settingswidget.cpp:114
+msgid "JPEG Preview:"
+msgstr "JPEG-Vorschau:"
+
+#: settingswidget.cpp:116
+msgid "None"
+msgstr "Keine"
+
+#: settingswidget.cpp:117
+msgid "Medium"
+msgstr "Mittel"
+
+#: settingswidget.cpp:118
+msgid "Full size"
+msgstr "Volle Größe"
+
+#: settingswidget.cpp:124
+msgid "If Target File Exists:"
+msgstr "Falls die Zieldatei existiert:"
+
+#: settingswidget.cpp:128
+msgid "Overwrite automatically"
+msgstr "Automatisch überschreiben"
+
+#: settingswidget.cpp:129
+msgid "Open rename-file dialog"
+msgstr "Dialog zum Umbenennen von Dateien öffnen"

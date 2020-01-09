@@ -1,0 +1,4146 @@
+# translation of kipiplugin_metadataedit.po to 简体中文
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Funda Wang <fundawang@linux.net.cn>, 2006.
+# sanfanling <xujia19@gmail.com>, 2007.
+# Ni Hui <shuizhuyuanluo@126.com>, 2007, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_metadataedit\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-09-24 06:24+0200\n"
+"PO-Revision-Date: 2009-05-28 10:24+0000\n"
+"Last-Translator: Ni Hui <shuizhuyuanluo@126.com>\n"
+"Language-Team: 简体中文 <kde-china@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: altlangstringedit.cpp:75
+msgid "Default Language"
+msgstr "默认语言"
+
+#: altlangstringedit.cpp:79
+msgid "Afrikaans (South Africa)"
+msgstr "南非荷兰语(南非)"
+
+#: altlangstringedit.cpp:80
+msgid "Amharic (Ethiopia)"
+msgstr "阿比西尼亚官话(埃塞俄比亚)"
+
+#: altlangstringedit.cpp:81
+msgid "Arabic (UAE)"
+msgstr "阿拉伯语(阿拉伯联合酋长国)"
+
+#: altlangstringedit.cpp:82
+msgid "Arabic (Bahrain)"
+msgstr "阿拉伯语(巴林)"
+
+#: altlangstringedit.cpp:83
+msgid "Arabic (Algeria)"
+msgstr "阿拉伯语(阿尔及利亚)"
+
+#: altlangstringedit.cpp:84
+msgid "Arabic (Egypt)"
+msgstr "阿拉伯语(埃及)"
+
+#: altlangstringedit.cpp:85
+msgid "Arabic (Iraq)"
+msgstr "阿拉伯语(伊拉克)"
+
+#: altlangstringedit.cpp:86
+msgid "Arabic (Jordan)"
+msgstr "阿拉伯语(约旦)"
+
+#: altlangstringedit.cpp:87
+msgid "Arabic (Kuwait)"
+msgstr "阿拉伯语(科威特)"
+
+#: altlangstringedit.cpp:88
+msgid "Arabic (Lebanon)"
+msgstr "阿拉伯语(黎巴嫩)"
+
+#: altlangstringedit.cpp:89
+msgid "Arabic (Libya)"
+msgstr "阿拉伯语(利比亚)"
+
+#: altlangstringedit.cpp:90
+msgid "Arabic (Morocco)"
+msgstr "阿拉伯语(摩洛哥)"
+
+#: altlangstringedit.cpp:91
+msgid "Arabic (Oman)"
+msgstr "阿拉伯语(阿曼)"
+
+#: altlangstringedit.cpp:92
+msgid "Arabic (Qatar)"
+msgstr "阿拉伯语(卡塔尔)"
+
+#: altlangstringedit.cpp:93
+msgid "Arabic (Saudi Arabia)"
+msgstr "阿拉伯语(沙特阿拉伯)"
+
+#: altlangstringedit.cpp:94
+msgid "Arabic (Syria)"
+msgstr "阿拉伯语(叙利亚)"
+
+#: altlangstringedit.cpp:95
+msgid "Arabic (Tunisia)"
+msgstr "阿拉伯语(突尼斯)"
+
+#: altlangstringedit.cpp:96
+msgid "Arabic (Yemen)"
+msgstr "阿拉伯语(也门)"
+
+#: altlangstringedit.cpp:97
+msgid "Assamese (India)"
+msgstr "阿萨姆语(印度)"
+
+#: altlangstringedit.cpp:98
+msgid "Bashkir (Russia)"
+msgstr "巴什基尔语(俄罗斯)"
+
+#: altlangstringedit.cpp:99
+msgid "Belarusian (Belarus)"
+msgstr "白俄罗斯语(白俄罗斯)"
+
+#: altlangstringedit.cpp:100
+msgid "Bulgarian (Bulgaria)"
+msgstr "保加利亚语(保加利亚)"
+
+#: altlangstringedit.cpp:101
+msgid "Bengali (India)"
+msgstr "孟加拉语(印度)"
+
+#: altlangstringedit.cpp:102
+msgid "Tibetan (Bhutan)"
+msgstr "藏语(不丹)"
+
+#: altlangstringedit.cpp:103
+msgid "Tibetan (PRC)"
+msgstr "藏语(中华人民共和国)"
+
+#: altlangstringedit.cpp:104
+msgid "Breton (France)"
+msgstr "布列塔尼语(法国)"
+
+#: altlangstringedit.cpp:105
+msgid "Catalan (Andorra)"
+msgstr "加泰罗尼亚语(安道尔)"
+
+#: altlangstringedit.cpp:106
+msgid "Catalan (Spain)"
+msgstr "加泰罗尼亚语(西班牙)"
+
+#: altlangstringedit.cpp:107
+msgid "Catalan (France)"
+msgstr "加泰罗尼亚语(法国)"
+
+#: altlangstringedit.cpp:108
+msgid "Corsican (France)"
+msgstr "科西嘉方言(法国)"
+
+#: altlangstringedit.cpp:109
+msgid "Czech (Czech Republic)"
+msgstr "捷克语(捷克共和国)"
+
+#: altlangstringedit.cpp:110
+msgid "Welsh (United Kingdom)"
+msgstr "威尔士语(英国)"
+
+#: altlangstringedit.cpp:111
+msgid "Danish (Denmark)"
+msgstr "丹麦语(丹麦)"
+
+#: altlangstringedit.cpp:112
+msgid "German (Austria)"
+msgstr "德语(奥地利)"
+
+#: altlangstringedit.cpp:113
+msgid "German (Switzerland)"
+msgstr "德语(瑞士)"
+
+#: altlangstringedit.cpp:114
+msgid "German (Germany)"
+msgstr "德语(德国)"
+
+#: altlangstringedit.cpp:115
+msgid "German (Liechtenstein)"
+msgstr "德语(列支敦士登)"
+
+#: altlangstringedit.cpp:116
+msgid "German (Luxembourg)"
+msgstr "德语(卢森堡)"
+
+#: altlangstringedit.cpp:117
+msgid "Greek (Greece)"
+msgstr "希腊语(希腊)"
+
+#: altlangstringedit.cpp:118
+msgid "English (Australia)"
+msgstr "英语(澳大利亚)"
+
+#: altlangstringedit.cpp:119
+msgid "English (Belize)"
+msgstr "英语(伯利兹)"
+
+#: altlangstringedit.cpp:120
+msgid "English (Canada)"
+msgstr "英语(加拿大)"
+
+#: altlangstringedit.cpp:121
+msgid "English (Caribbean)"
+msgstr "英语(加勒比海地区)"
+
+#: altlangstringedit.cpp:122
+msgid "English (United Kingdom)"
+msgstr "英语(英国)"
+
+#: altlangstringedit.cpp:123
+msgid "English (Ireland)"
+msgstr "英语(爱尔兰)"
+
+#: altlangstringedit.cpp:124
+msgid "English (India)"
+msgstr "英语(印度)"
+
+#: altlangstringedit.cpp:125
+msgid "English (Jamaica)"
+msgstr "英语(牙买加)"
+
+#: altlangstringedit.cpp:126
+msgid "English (Malaysia)"
+msgstr "英语(马来西亚)"
+
+#: altlangstringedit.cpp:127
+msgid "English (New Zealand)"
+msgstr "英语(新西兰)"
+
+#: altlangstringedit.cpp:128
+msgid "English (Philippines)"
+msgstr "英语(菲律宾)"
+
+#: altlangstringedit.cpp:129
+msgid "English (Singapore)"
+msgstr "英语(新加坡)"
+
+#: altlangstringedit.cpp:130
+msgid "English (Trinidad)"
+msgstr "英语(特立尼达)"
+
+#: altlangstringedit.cpp:131
+msgid "English (United States)"
+msgstr "英语(美国)"
+
+#: altlangstringedit.cpp:132
+msgid "English (South Africa)"
+msgstr "英语(南非)"
+
+#: altlangstringedit.cpp:133
+msgid "English (Zimbabwe)"
+msgstr "英语(津巴布韦)"
+
+#: altlangstringedit.cpp:134
+msgid "Spanish (Argentina)"
+msgstr "西班牙语(阿根廷)"
+
+#: altlangstringedit.cpp:135
+msgid "Spanish (Bolivia)"
+msgstr "西班牙语(玻利维亚)"
+
+#: altlangstringedit.cpp:136
+msgid "Spanish (Chile)"
+msgstr "西班牙语(智利)"
+
+#: altlangstringedit.cpp:137
+msgid "Spanish (Colombia)"
+msgstr "西班牙语(哥伦比亚)"
+
+#: altlangstringedit.cpp:138
+msgid "Spanish (Costa Rica)"
+msgstr "西班牙语(哥斯达黎加)"
+
+#: altlangstringedit.cpp:139
+msgid "Spanish (Dominican Republic)"
+msgstr "西班牙语(多米尼加共和国)"
+
+#: altlangstringedit.cpp:140
+msgid "Spanish (Ecuador)"
+msgstr "西班牙语(厄瓜多尔)"
+
+#: altlangstringedit.cpp:141
+msgid "Spanish (Spain)"
+msgstr "西班牙语(西班牙)"
+
+#: altlangstringedit.cpp:142
+msgid "Spanish (Guatemala)"
+msgstr "西班牙语(危地马拉)"
+
+#: altlangstringedit.cpp:143
+msgid "Spanish (Honduras)"
+msgstr "西班牙语(洪都拉斯)"
+
+#: altlangstringedit.cpp:144
+msgid "Spanish (Mexico)"
+msgstr "西班牙语(墨西哥)"
+
+#: altlangstringedit.cpp:145
+msgid "Spanish (Nicaragua)"
+msgstr "西班牙语(尼加拉瓜)"
+
+#: altlangstringedit.cpp:146
+msgid "Spanish (Panama)"
+msgstr "西班牙语(巴拿马)"
+
+#: altlangstringedit.cpp:147
+msgid "Spanish (Peru)"
+msgstr "西班牙(秘鲁)"
+
+#: altlangstringedit.cpp:148
+msgid "Spanish (Puerto Rico)"
+msgstr "西班牙语(波多黎各)"
+
+#: altlangstringedit.cpp:149
+msgid "Spanish (Paraguay)"
+msgstr "西班牙语(巴拉圭)"
+
+#: altlangstringedit.cpp:150
+msgid "Spanish (El Salvador)"
+msgstr "西班牙语(圣萨尔瓦多)"
+
+#: altlangstringedit.cpp:151
+msgid "Spanish (Uruguay)"
+msgstr "西班牙语(乌拉圭)"
+
+#: altlangstringedit.cpp:152
+msgid "Spanish (United States)"
+msgstr "西班牙语(美国)"
+
+#: altlangstringedit.cpp:153
+msgid "Spanish (Venezuela)"
+msgstr "西班牙语(委内瑞拉)"
+
+#: altlangstringedit.cpp:154
+msgid "Estonian (Estonia)"
+msgstr "爱沙尼亚语(爱沙尼亚)"
+
+#: altlangstringedit.cpp:155
+msgid "Basque (Basque Country)"
+msgstr "巴斯克语(巴斯克国)"
+
+#: altlangstringedit.cpp:156
+msgid "Persian (Iran)"
+msgstr "波斯语(伊朗)"
+
+#: altlangstringedit.cpp:157
+msgid "Finnish (Finland)"
+msgstr "芬兰语(芬兰)"
+
+#: altlangstringedit.cpp:158
+msgid "Faeroese (Faero Islands)"
+msgstr "法罗语(法罗群岛)"
+
+#: altlangstringedit.cpp:159
+msgid "French (Belgium)"
+msgstr "法语(比利时)"
+
+#: altlangstringedit.cpp:160
+msgid "French (Canada)"
+msgstr "法语(加拿大)"
+
+#: altlangstringedit.cpp:161
+msgid "French (Switzerland)"
+msgstr "法语(瑞士)"
+
+#: altlangstringedit.cpp:162
+msgid "French (France)"
+msgstr "法语(法国)"
+
+#: altlangstringedit.cpp:163
+msgid "French (Luxembourg)"
+msgstr "法语(卢森堡)"
+
+#: altlangstringedit.cpp:164
+msgid "French (Monaco)"
+msgstr "法语(摩纳哥)"
+
+#: altlangstringedit.cpp:165
+msgid "Frisian (Netherlands)"
+msgstr "法语(荷兰)"
+
+#: altlangstringedit.cpp:166
+msgid "Irish (Ireland)"
+msgstr "爱尔兰语(爱尔兰)"
+
+#: altlangstringedit.cpp:167
+msgid "Galician (Galicia)"
+msgstr "加里西亚语(加里西亚)"
+
+#: altlangstringedit.cpp:168
+msgid "Gujarati (India)"
+msgstr "古吉拉特语(印度)"
+
+#: altlangstringedit.cpp:169
+msgid "Hebrew (Israel)"
+msgstr "希伯来语(以色列)"
+
+#: altlangstringedit.cpp:170
+msgid "Hindi (India)"
+msgstr "印地语(印度)"
+
+#: altlangstringedit.cpp:171
+msgid "Croatian (Bosnia and Herzegovina, Latin)"
+msgstr "克罗地亚语(波斯尼亚和黑塞哥维那)"
+
+#: altlangstringedit.cpp:172
+msgid "Croatian (Croatia)"
+msgstr "克罗地亚语(克罗地亚)"
+
+#: altlangstringedit.cpp:173
+msgid "Hungarian (Hungary)"
+msgstr "匈牙利语(匈牙利)"
+
+#: altlangstringedit.cpp:174
+msgid "Armenian (Armenia)"
+msgstr "亚美尼亚语(亚美尼亚)"
+
+#: altlangstringedit.cpp:175
+msgid "(Indonesian)"
+msgstr "(印尼语)"
+
+#: altlangstringedit.cpp:176
+msgid "Yi (PRC)"
+msgstr "彝语(中华人民共和国)"
+
+#: altlangstringedit.cpp:177
+msgid "Icelandic (Iceland)"
+msgstr "冰岛语(冰岛)"
+
+#: altlangstringedit.cpp:178
+msgid "Italian (Switzerland)"
+msgstr "意大利语(瑞士)"
+
+#: altlangstringedit.cpp:179
+msgid "Italian (Italy)"
+msgstr "意大利语(意大利)"
+
+#: altlangstringedit.cpp:180
+msgid "Japanese (Japan)"
+msgstr "日语(日本)"
+
+#: altlangstringedit.cpp:181
+msgid "Georgian (Georgia)"
+msgstr "格鲁吉亚语(格鲁吉亚)"
+
+#: altlangstringedit.cpp:182
+msgid "Kazakh (Kazakhstan)"
+msgstr "哈萨克语(哈萨克斯坦)"
+
+#: altlangstringedit.cpp:183
+msgid "Greenlandic (Greenland)"
+msgstr "格棱兰语(格陵兰)"
+
+#: altlangstringedit.cpp:184
+msgid "Khmer (Cambodia)"
+msgstr "高棉语(柬埔寨)"
+
+#: altlangstringedit.cpp:185
+msgid "Kannada (India)"
+msgstr "埃纳德语(印度)"
+
+#: altlangstringedit.cpp:186
+msgid "Korean (Korea)"
+msgstr "朝鲜语(韩国)"
+
+#: altlangstringedit.cpp:187
+msgid "Kyrgyz (Kyrgyzstan)"
+msgstr "吉尔吉斯语(吉尔吉斯斯坦)"
+
+#: altlangstringedit.cpp:188
+msgid "Luxembourgish (Luxembourg)"
+msgstr "卢森堡语(卢森堡)"
+
+#: altlangstringedit.cpp:189
+msgid "Lao (Lao PDR)"
+msgstr "老挝语(老挝)"
+
+#: altlangstringedit.cpp:190
+msgid "Lithuanian (Lithuania)"
+msgstr "立陶宛语(立陶宛)"
+
+#: altlangstringedit.cpp:191
+msgid "Latvian (Latvia)"
+msgstr "拉脱维亚语(拉脱维亚)"
+
+#: altlangstringedit.cpp:192
+msgid "Maori (New Zealand)"
+msgstr "毛利语(新西兰)"
+
+#: altlangstringedit.cpp:193
+msgid "Macedonian (Macedonia)"
+msgstr "马其顿语(马其顿)"
+
+#: altlangstringedit.cpp:194
+msgid "Malayalam (India)"
+msgstr "马拉雅拉姆语(印度)"
+
+#: altlangstringedit.cpp:195
+msgid "Mongolian (PRC)"
+msgstr "蒙古语(中华人民共和国)"
+
+#: altlangstringedit.cpp:196
+msgid "Mongolian (Mongolia)"
+msgstr "蒙古语(蒙古)"
+
+#: altlangstringedit.cpp:197
+msgid "Marathi (India)"
+msgstr "马拉地语(印度)"
+
+#: altlangstringedit.cpp:198
+msgid "Malay (Brunei Darussalam)"
+msgstr "马来语(文莱达鲁萨兰国)"
+
+#: altlangstringedit.cpp:199
+msgid "Malay (Malaysia)"
+msgstr "马来语(马来西亚)"
+
+#: altlangstringedit.cpp:200
+msgid "Maltese (Malta)"
+msgstr "马耳他语(马耳他)"
+
+#: altlangstringedit.cpp:201
+msgid "Norwegian Bokmål (Norway)"
+msgstr "书面挪威语(挪威)"
+
+#: altlangstringedit.cpp:202
+msgid "Nepali (Nepal)"
+msgstr "尼泊尔语(尼泊尔)"
+
+#: altlangstringedit.cpp:203
+msgid "Dutch (Belgium)"
+msgstr "荷兰语(比利时)"
+
+#: altlangstringedit.cpp:204
+msgid "Dutch (Netherlands)"
+msgstr "荷兰语(荷兰)"
+
+#: altlangstringedit.cpp:205
+msgid "Norwegian Nynorsk (Norway)"
+msgstr "新挪威语(挪威)"
+
+#: altlangstringedit.cpp:206
+msgid "Sesotho sa Leboa (South Africa)"
+msgstr "北梭托语(南非)"
+
+#: altlangstringedit.cpp:207
+msgid "Occitan (France)"
+msgstr "奥克西坦语(法国)"
+
+#: altlangstringedit.cpp:208
+msgid "Oriya (India)"
+msgstr "奥里雅语(印度)"
+
+#: altlangstringedit.cpp:209
+msgid "Punjabi (India)"
+msgstr "旁遮普语(印度)"
+
+#: altlangstringedit.cpp:210
+msgid "Polish (Poland)"
+msgstr "波兰语(波兰)"
+
+#: altlangstringedit.cpp:211
+msgid "Pashto (Afghanistan)"
+msgstr "帕施图语(阿富汗)"
+
+#: altlangstringedit.cpp:212
+msgid "Portuguese (Brazil)"
+msgstr "葡萄牙语(巴西)"
+
+#: altlangstringedit.cpp:213
+msgid "Portuguese (Portugal)"
+msgstr "葡萄牙语(葡萄牙)"
+
+#: altlangstringedit.cpp:214
+msgid "Romansh (Switzerland)"
+msgstr "罗曼什语(瑞士)"
+
+#: altlangstringedit.cpp:215
+msgid "Romanian (Romania)"
+msgstr "罗马尼亚语(罗马尼亚)"
+
+#: altlangstringedit.cpp:216
+msgid "Russian (Russia)"
+msgstr "俄语(俄罗斯)"
+
+#: altlangstringedit.cpp:217
+msgid "Kinyarwanda (Rwanda)"
+msgstr "齐尼亚卢旺达语(卢旺达)"
+
+#: altlangstringedit.cpp:218
+msgid "Sanskrit (India)"
+msgstr "梵语(印度)"
+
+#: altlangstringedit.cpp:219
+msgid "Sami (Northern, Finland)"
+msgstr "萨米语(芬兰北部)"
+
+#: altlangstringedit.cpp:220
+msgid "Sami (Northern, Norway)"
+msgstr "萨米语(挪威北部)"
+
+#: altlangstringedit.cpp:221
+msgid "Sami (Northern, Sweden)"
+msgstr "萨米语(瑞典北部)"
+
+#: altlangstringedit.cpp:222
+msgid "Sinhala (Sri Lanka)"
+msgstr "僧伽罗语(斯里兰卡)"
+
+#: altlangstringedit.cpp:223
+msgid "Slovak (Slovakia)"
+msgstr "斯洛伐克语(斯洛伐克)"
+
+#: altlangstringedit.cpp:224
+msgid "Slovenian (Slovenia)"
+msgstr "斯洛文尼亚语(斯洛文尼亚)"
+
+#: altlangstringedit.cpp:225
+msgid "Albanian (Albania)"
+msgstr "阿尔巴尼亚语(阿尔巴尼亚)"
+
+#: altlangstringedit.cpp:226
+msgid "Swedish (Finland)"
+msgstr "瑞典语(芬兰)"
+
+#: altlangstringedit.cpp:227
+msgid "Swedish (Sweden)"
+msgstr "瑞典语(瑞典)"
+
+#: altlangstringedit.cpp:228
+msgid "Swahili (Kenya)"
+msgstr "斯瓦希里语(肯尼亚)"
+
+#: altlangstringedit.cpp:229
+msgid "Tamil (India)"
+msgstr "泰米尔语(印度)"
+
+#: altlangstringedit.cpp:230
+msgid "Telugu (India)"
+msgstr "泰卢固语(印度)"
+
+#: altlangstringedit.cpp:231
+msgid "Thai (Thailand)"
+msgstr "泰国语(泰国)"
+
+#: altlangstringedit.cpp:232
+msgid "Turkmen (Turkmenistan)"
+msgstr "土库曼语(土库曼斯坦)"
+
+#: altlangstringedit.cpp:233
+msgid "Setswana Tswana (South Africa)"
+msgstr "塞茨瓦纳语(南非)"
+
+#: altlangstringedit.cpp:234
+msgid "Urdu (India)"
+msgstr "乌尔杜语(印度)"
+
+#: altlangstringedit.cpp:235
+msgid "Turkish (Turkey)"
+msgstr "土耳其语(土耳其)"
+
+#: altlangstringedit.cpp:236
+msgid "Tatar (Russia)"
+msgstr "鞑靼语(俄罗斯)"
+
+#: altlangstringedit.cpp:237
+msgid "Uighur (PRC)"
+msgstr "维吾尔语(中华人民共和国)"
+
+#: altlangstringedit.cpp:238
+msgid "Ukrainian (Ukraine)"
+msgstr "乌克兰语(乌克兰)"
+
+#: altlangstringedit.cpp:239
+msgid "Urdu (Pakistan)"
+msgstr "乌尔杜语(巴基斯坦)"
+
+#: altlangstringedit.cpp:240
+msgid "Vietnamese (Vietnam)"
+msgstr "越南语(越南)"
+
+#: altlangstringedit.cpp:241
+msgid "Wolof (Senegal)"
+msgstr "沃洛夫语(塞内加尔)"
+
+#: altlangstringedit.cpp:242
+msgid "isiXhosa Xhosa (South Africa)"
+msgstr "索萨语(南非)"
+
+#: altlangstringedit.cpp:243
+msgid "Yoruba (Nigeria)"
+msgstr "约鲁巴语(尼日利亚)"
+
+#: altlangstringedit.cpp:244
+msgid "Chinese (PRC)"
+msgstr "汉语(中华人民共和国)"
+
+#: altlangstringedit.cpp:245
+msgid "Chinese (Hong Kong SAR, PRC)"
+msgstr "汉语(香港特别行政区，中华人民共和国)"
+
+#: altlangstringedit.cpp:246
+msgid "Chinese (Macao SAR)"
+msgstr "汉语(澳门特别行政区)"
+
+#: altlangstringedit.cpp:247
+msgid "Chinese (Singapore)"
+msgstr "汉语(新加坡)"
+
+#: altlangstringedit.cpp:248
+msgid "Chinese (Taiwan)"
+msgstr "汉语(中国台湾)"
+
+#: altlangstringedit.cpp:249
+msgid "isiZulu Zulu (South Africa)"
+msgstr "祖鲁语(南非)"
+
+#: altlangstringedit.cpp:286 multistringsedit.cpp:95 multivaluesedit.cpp:99
+#: objectattributesedit.cpp:109
+msgid "Add a new value to the list"
+msgstr "向列表添加新值"
+
+#: altlangstringedit.cpp:287 multistringsedit.cpp:96 multivaluesedit.cpp:100
+#: objectattributesedit.cpp:110
+msgid "Remove the current selected value from the list"
+msgstr "从列表删除选中的值"
+
+#: altlangstringedit.cpp:288 multistringsedit.cpp:97 multivaluesedit.cpp:101
+#: objectattributesedit.cpp:111
+msgid "Replace the current selected value from the list"
+msgstr "替换当前列表中选中的值"
+
+#: altlangstringedit.cpp:299
+msgid "Select here language code."
+msgstr "在此选择语言代码。"
+
+#: altlangstringedit.cpp:313 iptcproperties.cpp:169 xmpproperties.cpp:174
+msgid "Language:"
+msgstr "语言："
+
+#: commenteditdialog.cpp:89 plugin_metadataedit.cpp:763
+msgid "Edit Image Caption"
+msgstr "编辑图像标题"
+
+#: commenteditdialog.cpp:95 commentremovedialog.cpp:93 exifeditdialog.cpp:181
+#: iptceditdialog.cpp:215 xmpeditdialog.cpp:205
+msgid "Edit Metadata"
+msgstr "编辑元数据"
+
+#: commenteditdialog.cpp:98 commentremovedialog.cpp:96 exifeditdialog.cpp:184
+#: iptceditdialog.cpp:218 xmpeditdialog.cpp:208
+msgid "A Plugin to edit pictures' metadata."
+msgstr "一个编辑图片元数据的插件。"
+
+#: commenteditdialog.cpp:99 commentremovedialog.cpp:97 exifeditdialog.cpp:185
+#: iptceditdialog.cpp:219
+msgid "(c) 2006-2009, Gilles Caulier"
+msgstr "(c) 2006-2009，Gilles Caulier"
+
+#: commenteditdialog.cpp:101 commentremovedialog.cpp:99 exifeditdialog.cpp:187
+#: iptceditdialog.cpp:221 xmpeditdialog.cpp:211
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: commenteditdialog.cpp:101 commentremovedialog.cpp:99 exifeditdialog.cpp:187
+#: iptceditdialog.cpp:221 xmpeditdialog.cpp:211
+msgid "Author and Maintainer"
+msgstr "作者和维护者"
+
+#: commenteditdialog.cpp:109 commentremovedialog.cpp:107
+#: exifeditdialog.cpp:195 iptceditdialog.cpp:229 xmpeditdialog.cpp:219
+msgid "Handbook"
+msgstr "手册"
+
+#: commenteditdialog.cpp:120
+#, kde-format
+msgid ""
+"Enter the image caption entered through <b>%1</b>. This field is not limited "
+"(excepted with IPTC). UTF-8 encoding will be used to save text."
+msgstr ""
+"通过 <b>%1</b> 输入图像说明。本字段没有限制(IPTC 除外)。文本将会以 UTF-8 编码"
+"保存。"
+
+#: commenteditdialog.cpp:130 exifcaption.cpp:150 iptccontent.cpp:107
+#: xmpcontent.cpp:103
+msgid "Sync JFIF Comment section"
+msgstr "同步 JFIF 注释段"
+
+#: commenteditdialog.cpp:131 iptccontent.cpp:111 xmpcontent.cpp:107
+msgid "Sync EXIF Comment"
+msgstr "同步 EXIF 注释"
+
+#: commenteditdialog.cpp:132
+msgid "Sync XMP Caption"
+msgstr "同步 XMP 说明"
+
+#: commenteditdialog.cpp:133 exifcaption.cpp:152
+msgid "Sync IPTC caption (warning: limited to 2000 printable Ascii characters)"
+msgstr "同步 IPTC 说明(警告：限于 2000 用于出版印刷的 Ascii 字符)"
+
+#: commenteditdialog.cpp:139
+msgid ""
+"<b>Note: captions from currently selected images will be permanently "
+"replaced.</b>"
+msgstr "<b>注意：当前选中图像的说明将会永久替换。</b>"
+
+#: commentremovedialog.cpp:87 plugin_metadataedit.cpp:844
+msgid "Remove Image Caption"
+msgstr "删除图像说明"
+
+#: commentremovedialog.cpp:118
+#, kde-format
+msgid "Remove caption hosted by %1"
+msgstr "删除由 %1 撰写的说明"
+
+#: commentremovedialog.cpp:121
+msgid "Remove JFIF Comment section"
+msgstr "删除 JFIF 注释段"
+
+#: commentremovedialog.cpp:122
+msgid "Remove EXIF Comment"
+msgstr "删除 EXIF 注释"
+
+#: commentremovedialog.cpp:123
+msgid "Remove XMP Caption"
+msgstr "删除 XMP 说明"
+
+#: commentremovedialog.cpp:124
+msgid "Remove IPTC Caption"
+msgstr "删除 IPTC 说明"
+
+#: commentremovedialog.cpp:129
+msgid ""
+"<b>Note: Captions from currently selected images will be permanently removed."
+"</b>"
+msgstr "<b>注意：当前选中图像的说明将会永久替换。</b>"
+
+#: exifadjust.cpp:96
+msgid "Brightness (APEX):"
+msgstr "亮度(APEX)："
+
+#: exifadjust.cpp:101
+msgid ""
+"Set here the brightness adjustment value in APEX unit used by camera to take "
+"the picture."
+msgstr "在此选择用于拍摄的图像亮度值，以 APEX 单位计。"
+
+#: exifadjust.cpp:106
+msgid "Gain Control:"
+msgstr "增益控制："
+
+#: exifadjust.cpp:108
+msgid "None"
+msgstr "无"
+
+#: exifadjust.cpp:109
+msgid "Low gain up"
+msgstr "低增益上调"
+
+#: exifadjust.cpp:110
+msgid "High gain up"
+msgstr "高增益上调"
+
+#: exifadjust.cpp:111
+msgid "Low gain down"
+msgstr "低增益下调"
+
+#: exifadjust.cpp:112
+msgid "High gain down"
+msgstr "高增益下调"
+
+#: exifadjust.cpp:113
+msgid ""
+"Set here the degree of overall image gain adjustment used by camera to take "
+"the picture."
+msgstr "在此选择用于拍摄的综合图像增益调节。"
+
+#: exifadjust.cpp:118
+msgid "Contrast:"
+msgstr "对比度："
+
+#: exifadjust.cpp:120 exifadjust.cpp:130 exifadjust.cpp:140
+msgid "Normal"
+msgstr "普通"
+
+#: exifadjust.cpp:121 exifadjust.cpp:141
+msgid "Soft"
+msgstr "柔和"
+
+#: exifadjust.cpp:122 exifadjust.cpp:142
+msgid "Hard"
+msgstr "强烈"
+
+#: exifadjust.cpp:123
+msgid ""
+"Set here the direction of contrast processing applied by the camera to take "
+"the picture."
+msgstr "在此设定对相机拍摄的图片应用的对比度处理方针。"
+
+#: exifadjust.cpp:128
+msgid "Saturation:"
+msgstr "饱和度："
+
+#: exifadjust.cpp:131
+msgid "Low"
+msgstr "低"
+
+#: exifadjust.cpp:132
+msgid "High"
+msgstr "高"
+
+#: exifadjust.cpp:133
+msgid ""
+"Set here the direction of saturation processing applied by the camera to "
+"take the picture."
+msgstr "在此设定对相机拍摄的图片应用的饱和度处理方针。"
+
+#: exifadjust.cpp:138
+msgid "Sharpness:"
+msgstr "清晰度："
+
+#: exifadjust.cpp:143
+msgid ""
+"Set here the direction of sharpness processing applied by the camera to take "
+"the picture."
+msgstr "在此设定对相机拍摄的图片应用的清晰度处理方针。"
+
+#: exifadjust.cpp:148
+msgid "Custom rendered:"
+msgstr "自定义渲染："
+
+#: exifadjust.cpp:150
+msgid "Normal process"
+msgstr "普通处理"
+
+#: exifadjust.cpp:151
+msgid "Custom process"
+msgstr "自定义处理"
+
+#: exifadjust.cpp:152
+msgid ""
+"Set here the use of special processing on image data, such as rendering "
+"geared to output."
+msgstr "在此设定对图像数据的特殊处理的使用，比如 rendering geared to output."
+
+#: exifcaption.cpp:104
+msgid "Name (*):"
+msgstr "名称(*)："
+
+#: exifcaption.cpp:108
+msgid ""
+"Enter the name of the document from which this image was been scanned. This "
+"field is limited to ASCII characters."
+msgstr "输入扫描出的图像文档名称。本字段限 ASCII 字符。"
+
+#: exifcaption.cpp:114
+msgid "Title (*):"
+msgstr "标题(*)："
+
+#: exifcaption.cpp:118
+msgid "Enter the image title. This field is limited to ASCII characters."
+msgstr "输入图像标题。本字段限 ASCII 字符。"
+
+#: exifcaption.cpp:123
+msgid "Artist (*):"
+msgstr "艺术家(*)："
+
+#: exifcaption.cpp:127
+msgid ""
+"Enter the image author's name. This field is limited to ASCII characters."
+msgstr "输入图像作者的名字。本字段限 ASCII 字符。"
+
+#: exifcaption.cpp:132
+msgid "Copyright (*):"
+msgstr "版权(*)："
+
+#: exifcaption.cpp:136
+msgid ""
+"Enter the copyright owner of the image. This field is limited to ASCII "
+"characters."
+msgstr "输入图像的版权拥有者。本字段限 ASCII 字符。"
+
+#: exifcaption.cpp:141 iptccontent.cpp:105 xmpcontent.cpp:97
+msgid "Caption:"
+msgstr "说明："
+
+#: exifcaption.cpp:143
+msgid ""
+"Enter the image's caption. This field is not limited. UTF8 encoding will be "
+"used to save the text."
+msgstr "输入图像的说明。本字段没有字符限制。保存文本时将会使用 UTF8 编码。"
+
+#: exifcaption.cpp:147
+#, kde-format
+msgid "Sync captions entered through %1"
+msgstr "同步通过 %1 输入的说明"
+
+#: exifcaption.cpp:151
+msgid "Sync XMP caption"
+msgstr "同步 XMP 说明"
+
+#: exifcaption.cpp:160 exifdevice.cpp:314
+msgid ""
+"<b>Note: <b><a href='http://en.wikipedia.org/wiki/EXIF'>EXIF</a></b> text "
+"tags marked by (*) only support printable <b><a href='http://en.wikipedia."
+"org/wiki/Ascii'>ASCII</a></b> characters.</b>"
+msgstr ""
+"<b>注意：由(*)标出的 <b><a href='http://en.wikipedia.org/wiki/EXIF'>EXIF</"
+"a></b> 文本标记仅支持可打印的 <b><a href='http://en.wikipedia.org/wiki/"
+"Ascii'>ASCII</a></b> 字符。</b>"
+
+#: exifdatetime.cpp:109
+msgid "Creation date and time"
+msgstr "创建日期和时间"
+
+#: exifdatetime.cpp:110
+msgid "Creation sub-second"
+msgstr "创建子秒"
+
+#: exifdatetime.cpp:113 iptcorigin.cpp:424 xmporigin.cpp:398
+#, kde-format
+msgid "Sync creation date hosted by %1"
+msgstr "同步由 %1 生成的创建日期"
+
+#: exifdatetime.cpp:116
+msgid "Sync XMP creation date"
+msgstr "同步 XMP 创建日期"
+
+#: exifdatetime.cpp:117
+msgid "Sync IPTC creation date"
+msgstr "同步 IPTC 创建日期"
+
+#: exifdatetime.cpp:121 iptcorigin.cpp:431 xmporigin.cpp:405
+msgid "Set creation date to today"
+msgstr "设定创建日期为今天"
+
+#: exifdatetime.cpp:126
+msgid ""
+"Set here the date and time of image creation. In this standard it is the "
+"date and time the file was changed."
+msgstr "在此设定图像创建的日期和时间。标准定义为文件更改的日期和时间。"
+
+#: exifdatetime.cpp:128
+msgid ""
+"Set here the fractions of seconds for the date and time of image creation."
+msgstr "在此设定图像创建的秒数部分。"
+
+#: exifdatetime.cpp:135
+msgid "Original date and time"
+msgstr "原始日期和时间"
+
+#: exifdatetime.cpp:136
+msgid "Original sub-second"
+msgstr "原始子秒"
+
+#: exifdatetime.cpp:142
+msgid "Set original date to today"
+msgstr "设定原始日期为今天"
+
+#: exifdatetime.cpp:144
+msgid ""
+"Set here the date and time when the original image data was generated. For a "
+"digital still camera the date and time the picture was taken are recorded."
+msgstr ""
+"在此设定原始图像数据创建时的日期和时间。 对于静态数码相机而言，这就是拍摄图片"
+"的记录日期和时间。"
+
+#: exifdatetime.cpp:147
+msgid ""
+"Set here the fractions of seconds for the date and time when the original "
+"image data was generated."
+msgstr "在此设定原始图像数据创建时的秒数部分。"
+
+#: exifdatetime.cpp:154
+msgid "Digitization date and time"
+msgstr "数字化采样日期和时间"
+
+#: exifdatetime.cpp:155
+msgid "Digitization sub-second"
+msgstr "数字化采样子秒"
+
+#: exifdatetime.cpp:161 iptcorigin.cpp:409 xmporigin.cpp:387
+msgid "Set digitization date to today"
+msgstr "设定数字化采样日期为今天"
+
+#: exifdatetime.cpp:163
+msgid ""
+"Set here the date and time when the image was stored as digital data. If, "
+"for example, an image was captured by a digital still camera and at the same "
+"time the file was recorded, then Original and Digitization date and time "
+"will have the same contents."
+msgstr ""
+"在此设定数字化存储图像的日期和时间。例如，如果一张照片由静态数码相机拍摄，同"
+"时记录下了文件，那么原始和数字化日期和时间的内容将会相同。"
+
+#: exifdatetime.cpp:168
+msgid ""
+"Set here the fractions of seconds for the date and time when the image was "
+"stored as digital data."
+msgstr "在此设定数字化存储图像时的日期和时间的秒数部分。"
+
+#: exifdevice.cpp:131
+msgid "Device manufacturer (*):"
+msgstr "设备制造商(*)："
+
+#: exifdevice.cpp:135
+msgid ""
+"Set here the manufacturer of image input equipment used to take the picture. "
+"This field is limited to ASCII characters."
+msgstr "在此设定用于拍摄的图像输入设备的制造商。本字段限 ASCII 字符。"
+
+#: exifdevice.cpp:140
+msgid "Device model (*):"
+msgstr "设备型号(*)："
+
+#: exifdevice.cpp:144
+msgid ""
+"Set here the model of image input equipment used to take the picture. This "
+"field is limited to ASCII characters."
+msgstr "在此设定用于拍摄的图像输入设备的型号。本字段限 ASCII 字符。"
+
+#: exifdevice.cpp:149
+msgid "Device type:"
+msgstr "设备类型："
+
+#: exifdevice.cpp:151
+msgid "Film scanner"
+msgstr "胶片扫描器"
+
+#: exifdevice.cpp:152
+#, fuzzy
+msgid "Reflection print scanner"
+msgstr "反射式印刷物扫描仪"
+
+#: exifdevice.cpp:153
+msgid "Digital still camera"
+msgstr "数码静态相机"
+
+#: exifdevice.cpp:154
+msgid "Select here the image input equipment type used to take the picture."
+msgstr "在此选择用于拍摄的图像输入设备类型。"
+
+#: exifdevice.cpp:157
+msgid ""
+"<b>Warning: EXIF <b><a href='http://en.wikipedia.org/wiki/"
+"Exchangeable_image_file_format#MakerNote_data'>Makernotes</a></b> can be "
+"unreadable if you set wrong device manufacturer/model description.</b>"
+msgstr ""
+"<b>警告：如果您设定了错误的设备制造商/型号描述，EXIF <b><a href='http://en."
+"wikipedia.org/wiki/"
+"Exchangeable_image_file_format#MakerNote_data'>Makernotes</a></b> 信息会无法"
+"读取。</b>"
+
+#: exifdevice.cpp:169
+msgid "Exposure time (seconds):"
+msgstr "曝光时间(秒)："
+
+#: exifdevice.cpp:174
+msgid ""
+"Set on this option to set the exposure time of picture, given in seconds."
+msgstr "此选项设定图片的曝光时间，以秒计。"
+
+#: exifdevice.cpp:179
+msgid "Exposure program:"
+msgstr "曝光程序："
+
+#: exifdevice.cpp:181 exifdevice.cpp:280
+msgid "Not defined"
+msgstr "未定义"
+
+#: exifdevice.cpp:182 exifdevice.cpp:198 exiflight.cpp:193
+msgid "Manual"
+msgstr "手动"
+
+#: exifdevice.cpp:183 exifdevice.cpp:197 exiflight.cpp:192
+msgid "Auto"
+msgstr "自动"
+
+#: exifdevice.cpp:184
+msgid "Aperture priority"
+msgstr "光圈优先"
+
+#: exifdevice.cpp:185
+msgid "Shutter priority"
+msgstr "快门优先"
+
+#: exifdevice.cpp:186
+msgid "Creative program"
+msgstr "创建程序"
+
+#: exifdevice.cpp:187
+msgid "Action program"
+msgstr "动作程序"
+
+#: exifdevice.cpp:188
+msgid "Portrait mode"
+msgstr "静态模式"
+
+#: exifdevice.cpp:189
+msgid "Landscape mode"
+msgstr "风景模式"
+
+#: exifdevice.cpp:190
+msgid ""
+"Select here the program used by the camera to set exposure when the picture "
+"was taken."
+msgstr "在此选择相机拍摄时使用的曝光设定程序。"
+
+#: exifdevice.cpp:195
+msgid "Exposure mode:"
+msgstr "曝光模式："
+
+#: exifdevice.cpp:199
+msgid "Auto bracket"
+msgstr "自动包围曝光"
+
+#: exifdevice.cpp:200
+msgid ""
+"Select here the mode used by the camera to set exposure when the picture was "
+"taken. In auto-bracketing mode, the camera shoots a series of frames of the "
+"same scene at different exposure settings."
+msgstr ""
+"在此选择相机拍摄时使用的曝光设定模式。在自动包围曝光模式下，相机会以不同的曝"
+"光设置拍摄一系列相同景物的图像帧。"
+
+#: exifdevice.cpp:208
+msgid "Exposure bias (APEX):"
+msgstr "曝光偏移(APEX)："
+
+#: exifdevice.cpp:213
+msgid ""
+"Set here the exposure bias value (in APEX units) used by camera to take the "
+"picture."
+msgstr "在此设定照相时所用的曝光偏移值，单位是 APEX。"
+
+#: exifdevice.cpp:220
+msgid "Metering mode:"
+msgstr "测光模式："
+
+#: exifdevice.cpp:222 exifdevice.cpp:305 exiflight.cpp:138
+msgid "Unknown"
+msgstr "未知"
+
+#: exifdevice.cpp:223
+msgid "Average"
+msgstr "平均"
+
+#: exifdevice.cpp:224
+msgid "Center weighted average"
+msgstr "中央重点平均"
+
+#: exifdevice.cpp:225
+msgid "Spot"
+msgstr "点"
+
+#: exifdevice.cpp:226
+msgid "Multi-spot"
+msgstr "多点"
+
+#: exifdevice.cpp:227
+msgid "Multi-segment"
+msgstr "多区"
+
+#: exifdevice.cpp:228
+msgid "Partial"
+msgstr "中央部分"
+
+#: exifdevice.cpp:229
+msgid "Other"
+msgstr "其它"
+
+#: exifdevice.cpp:230
+msgid ""
+"Select here the metering mode used by the camera to set exposure when the "
+"picture was taken."
+msgstr "在此选择相机拍摄时用于设定曝光的测光模式。"
+
+#: exifdevice.cpp:235
+msgid "Sensitivity (ISO):"
+msgstr "感光度(ISO)："
+
+#: exifdevice.cpp:273
+msgid "Select here the ISO Speed of the camera which took the picture."
+msgstr "在此选择相机拍摄的 ISO 速度。"
+
+#: exifdevice.cpp:278
+msgid "Sensing method:"
+msgstr "感光方式："
+
+#: exifdevice.cpp:281
+msgid "One-chip color area"
+msgstr ""
+
+#: exifdevice.cpp:282
+msgid "Two-chip color area"
+msgstr ""
+
+#: exifdevice.cpp:283
+msgid "Three-chip color area"
+msgstr ""
+
+#: exifdevice.cpp:284
+msgid "Color sequential area"
+msgstr ""
+
+#: exifdevice.cpp:285
+msgid "Trilinear sensor"
+msgstr "三线感光"
+
+#: exifdevice.cpp:286
+msgid "Color sequential linear"
+msgstr ""
+
+#: exifdevice.cpp:287
+msgid ""
+"Select here the image sensor type used by the camera to take the picture."
+msgstr "在此选择相机拍摄所用的图像感光类型。"
+
+#: exifdevice.cpp:292
+msgid "Scene capture type:"
+msgstr "景物捕获类型："
+
+#: exifdevice.cpp:294
+msgid "Standard"
+msgstr "标准"
+
+#: exifdevice.cpp:295
+msgid "Landscape"
+msgstr "风景"
+
+#: exifdevice.cpp:296
+msgid "Portrait"
+msgstr "肖像"
+
+#: exifdevice.cpp:297 xmpproperties.cpp:98
+msgid "Night scene"
+msgstr "夜景"
+
+#: exifdevice.cpp:298
+msgid "Select here the type of scene used by the camera to take the picture."
+msgstr "在此选择相机拍摄所用的景物类型。"
+
+#: exifdevice.cpp:303
+msgid "Subject distance type:"
+msgstr "主景物距离类型："
+
+#: exifdevice.cpp:306
+msgid "Macro"
+msgstr "远距离"
+
+#: exifdevice.cpp:307
+msgid "Close view"
+msgstr "近距离"
+
+#: exifdevice.cpp:308
+msgid "Distant view"
+msgstr "中距离"
+
+#: exifdevice.cpp:309
+msgid ""
+"Select here the type of distance between the subject and the image input "
+"equipment."
+msgstr "在此选择主拍摄景物与图像输入设备间的距离。"
+
+#: exifeditdialog.cpp:141 iptceditdialog.cpp:151 xmpeditdialog.cpp:147
+msgid "Next"
+msgstr "下一步"
+
+#: exifeditdialog.cpp:142 iptceditdialog.cpp:152 xmpeditdialog.cpp:148
+msgid "Previous"
+msgstr "上一步"
+
+#: exifeditdialog.cpp:149
+msgid "Caption"
+msgstr "说明"
+
+#: exifeditdialog.cpp:150
+msgid "Caption Information"
+msgstr "说明信息"
+
+#: exifeditdialog.cpp:154
+msgid "Date & Time"
+msgstr "日期和时间"
+
+#: exifeditdialog.cpp:155
+msgid "Date and Time Information"
+msgstr "日期和时间信息"
+
+#: exifeditdialog.cpp:159
+msgid "Lens"
+msgstr "镜头"
+
+#: exifeditdialog.cpp:160
+msgid "Lens Settings"
+msgstr "镜头设置"
+
+#: exifeditdialog.cpp:164
+msgid "Device"
+msgstr "设备"
+
+#: exifeditdialog.cpp:165
+msgid "Capture Device Settings"
+msgstr "捕获设备设置"
+
+#: exifeditdialog.cpp:169
+msgid "Light"
+msgstr "光源"
+
+#: exifeditdialog.cpp:170
+msgid "Light Source Information"
+msgstr "光源信息"
+
+#: exifeditdialog.cpp:174
+msgctxt "Picture adjustments"
+msgid "Adjustments"
+msgstr "调整"
+
+#: exifeditdialog.cpp:175
+msgid "Pictures Adjustments"
+msgstr "图片调整"
+
+#: exifeditdialog.cpp:326
+msgid "Edit EXIF Metadata"
+msgstr "编辑 EXIF 元数据"
+
+#: exifeditdialog.cpp:327 iptceditdialog.cpp:373 xmpeditdialog.cpp:364
+msgid "(read only)"
+msgstr "(只读)"
+
+#: exiflens.cpp:154
+msgid "Focal length (mm):"
+msgstr "焦距(毫米)："
+
+#: exiflens.cpp:160
+msgid ""
+"Set here the lens focal length in millimeters used by camera to take the "
+"picture."
+msgstr "在此设定相机拍摄所用的镜头焦距(以毫米计)。"
+
+#: exiflens.cpp:165
+msgid "Focal length in 35mm film (mm):"
+msgstr "35 毫米等效焦距(毫米)："
+
+#: exiflens.cpp:167
+msgid ""
+"Set here equivalent focal length assuming a 35mm film camera, in mm. A value "
+"of 0 means the focal length is unknown."
+msgstr "在此设定假定的 35mm 相机的等效焦距，以毫米计。0 值表示焦距未知。"
+
+#: exiflens.cpp:173
+msgid "Digital zoom ratio:"
+msgstr "数码变焦率："
+
+#: exiflens.cpp:179
+msgid "Set here the digital zoom ratio used by camera to take the picture."
+msgstr "在此设定相机拍摄所用的数码变焦率。"
+
+#: exiflens.cpp:184
+msgid "Lens aperture (f-number):"
+msgstr "镜头孔径(焦距比数)："
+
+#: exiflens.cpp:187
+msgid "Select here the lens aperture used by camera to take the picture."
+msgstr "在此选择相机拍摄所用的镜头孔径。"
+
+#: exiflens.cpp:192
+msgid "Max. lens aperture (f-number):"
+msgstr "最大镜头孔径(焦距比数)："
+
+#: exiflens.cpp:195
+msgid ""
+"Select here the smallest aperture of the lens used by camera to take the "
+"picture."
+msgstr "在此选择相机拍摄所用的最小镜头孔径。"
+
+#: exiflight.cpp:86
+msgid "No flash"
+msgstr "无闪光"
+
+#: exiflight.cpp:87
+msgid "Fired"
+msgstr ""
+
+#: exiflight.cpp:88
+msgid "Fired, no strobe return light"
+msgstr ""
+
+#: exiflight.cpp:89
+msgid "Fired, strobe return light"
+msgstr ""
+
+#: exiflight.cpp:90
+msgid "Yes, compulsory"
+msgstr "是，强制"
+
+#: exiflight.cpp:91
+msgid "Yes, compulsory, no return light"
+msgstr "是，强制，无回光"
+
+#: exiflight.cpp:92
+msgid "Yes, compulsory, return light"
+msgstr "是，强制，有回光"
+
+#: exiflight.cpp:93
+msgid "No, compulsory"
+msgstr "否，强制"
+
+#: exiflight.cpp:94
+msgid "No, auto"
+msgstr "否，自动"
+
+#: exiflight.cpp:95
+msgid "Yes, auto"
+msgstr "是，自动"
+
+#: exiflight.cpp:96
+msgid "Yes, auto, no return light"
+msgstr "是，自动，无回光"
+
+#: exiflight.cpp:97
+msgid "Yes, auto, return light"
+msgstr "是，自动，有回光"
+
+#: exiflight.cpp:98
+msgid "No flash function"
+msgstr "无闪光功能"
+
+#: exiflight.cpp:99
+msgid "Yes, red-eye"
+msgstr "是，防红眼"
+
+#: exiflight.cpp:100
+msgid "Yes, red-eye, no return light"
+msgstr "是，防红眼，无回光"
+
+#: exiflight.cpp:101
+msgid "Yes, red-eye, return light"
+msgstr "是，防红眼，有回光"
+
+#: exiflight.cpp:102
+msgid "Yes, compulsory, red-eye"
+msgstr "是，强制，防红眼"
+
+#: exiflight.cpp:103
+msgid "Yes, compulsory, red-eye, no return light"
+msgstr "是，强制，防红眼，无回光"
+
+#: exiflight.cpp:104
+msgid "Yes, compulsory, red-eye, return light"
+msgstr "是，强制，防红眼，有回光"
+
+#: exiflight.cpp:105
+msgid "Yes, auto, red-eye"
+msgstr "是，自动，防红眼"
+
+#: exiflight.cpp:106
+msgid "Yes, auto, red-eye, no return light"
+msgstr "是，自动，防红眼，无回光"
+
+#: exiflight.cpp:107
+msgid "Yes, auto, red-eye, return light"
+msgstr "是，自动，防红眼，有回光"
+
+#: exiflight.cpp:136
+msgid "Light source:"
+msgstr "光源："
+
+#: exiflight.cpp:139
+msgid "Daylight"
+msgstr "日光"
+
+#: exiflight.cpp:140
+msgid "Fluorescent"
+msgstr "荧光"
+
+#: exiflight.cpp:141
+msgid "Tungsten (incandescent light)"
+msgstr "钨(白织灯光)"
+
+#: exiflight.cpp:142
+msgid "Flash"
+msgstr "闪光"
+
+#: exiflight.cpp:143
+msgid "Fine weather"
+msgstr "晴天"
+
+#: exiflight.cpp:144
+msgid "Cloudy weather"
+msgstr "多云"
+
+#: exiflight.cpp:145
+msgid "Shade"
+msgstr "阴暗"
+
+#: exiflight.cpp:146
+#, fuzzy
+msgid "Daylight fluorescent (D 5700 - 7100K)"
+msgstr "荧光灯 - 日光(D 5700 - 7100K)"
+
+#: exiflight.cpp:147
+#, fuzzy
+msgid "Day white fluorescent (N 4600 - 5400K)"
+msgstr "荧光灯 - 白天(N 4600 - 5400K)"
+
+#: exiflight.cpp:148
+msgid "Cool white fluorescent (W 3900 - 4500K)"
+msgstr ""
+
+#: exiflight.cpp:149
+msgid "White fluorescent (WW 3200 - 3700K)"
+msgstr ""
+
+#: exiflight.cpp:150
+msgid "Standard light A"
+msgstr "标准光 A"
+
+#: exiflight.cpp:151
+msgid "Standard light B"
+msgstr "标准光 B"
+
+#: exiflight.cpp:152
+msgid "Standard light C"
+msgstr "标准光 C"
+
+#: exiflight.cpp:153
+msgid "D55"
+msgstr "D55"
+
+#: exiflight.cpp:154
+msgid "D65"
+msgstr "D65"
+
+#: exiflight.cpp:155
+msgid "D75"
+msgstr "D75"
+
+#: exiflight.cpp:156
+msgid "D50"
+msgstr "D50"
+
+#: exiflight.cpp:157
+msgid "ISO studio tungsten"
+msgstr "ISO 标准工作室钨灯"
+
+#: exiflight.cpp:158
+msgid "Other light source"
+msgstr "其它光源"
+
+#: exiflight.cpp:159
+msgid "Select here the kind of light source used to take the picture."
+msgstr "在此选择用于拍摄的光源种类。"
+
+#: exiflight.cpp:164
+msgid "Flash mode:"
+msgstr "闪光模式："
+
+#: exiflight.cpp:171
+msgid ""
+"Select here the flash program mode used by the camera to take the picture."
+msgstr "在此选择相机拍摄所用的闪光程序模式。"
+
+#: exiflight.cpp:176
+msgid "Flash energy (BCPS):"
+msgstr "闪光能量(BCPS)："
+
+#: exiflight.cpp:182
+msgid ""
+"Set here the flash energy used to take the picture in BCPS units.  Beam "
+"Candle Power Seconds is the measure of effective intensity of a light source "
+"when it is focused into a beam by a reflector or lens. This value is the "
+"effective intensity for a period of one second."
+msgstr ""
+"在此设定相机照相时所用的闪光能量，以 BCPS 单位计。光束烛光秒(Beam Candle "
+"Power Second)是光源在由反射镜或透镜聚焦为一条光束后的有效强度的量度。此值是一"
+"秒时间段中的有效强度。"
+
+#: exiflight.cpp:190
+msgid "White balance:"
+msgstr "白平衡："
+
+#: exiflight.cpp:194
+msgid ""
+"Select here the white balance mode set by the camera when the picture was "
+"taken."
+msgstr "在此选择相机拍摄所设定的白平衡模式。"
+
+#: iptccategories.cpp:91 xmpcategories.cpp:85
+msgid "Identify subject of content (3 chars max):"
+msgstr "内容的标识主题(最多 3 个字符)："
+
+#: iptccategories.cpp:96
+msgid ""
+"Set here the category of content. This field is limited to 3 ASCII "
+"characters."
+msgstr "在此设定内容的分类。本字段限 3 个 ACSII 字符。"
+
+#: iptccategories.cpp:99 xmpcategories.cpp:92
+msgid "Supplemental categories:"
+msgstr "增补分类："
+
+#: iptccategories.cpp:105
+msgid ""
+"Enter here a new supplemental category of content. This field is limited to "
+"32 ASCII characters."
+msgstr "在此输入一个新的增补内容分类。本字段限 32 个 ACSII 字符。"
+
+#: iptccategories.cpp:111 iptckeywords.cpp:99 subjects.cpp:201
+#: xmpcategories.cpp:101 xmpkeywords.cpp:90
+msgid "&Add"
+msgstr "添加(&A)"
+
+#: iptccategories.cpp:112 iptckeywords.cpp:100 subjects.cpp:202
+#: xmpcategories.cpp:102 xmpkeywords.cpp:91
+msgid "&Delete"
+msgstr "删除(&D)"
+
+#: iptccategories.cpp:113 iptckeywords.cpp:101 subjects.cpp:203
+#: xmpcategories.cpp:103 xmpkeywords.cpp:92
+msgid "&Replace"
+msgstr "替换(&R)"
+
+#: iptccategories.cpp:122 iptccontent.cpp:126 iptccredits.cpp:146
+#: iptcenvelope.cpp:269 iptckeywords.cpp:110 iptcorigin.cpp:496
+#: iptcproperties.cpp:238 iptcstatus.cpp:129 iptcsubjects.cpp:100
+msgid ""
+"<b>Note: <b><a href='http://en.wikipedia.org/wiki/IPTC'>IPTC</a></b> text "
+"tags only support the printable <b><a href='http://en.wikipedia.org/wiki/"
+"Ascii'>ASCII</a></b> characters and limit string sizes. Use contextual help "
+"for details.</b>"
+msgstr ""
+"<b>注意：<b><a href='http://en.wikipedia.org/wiki/IPTC'>IPTC</a></b> 文本标记"
+"仅支持可打印的 <b><a href='http://en.wikipedia.org/wiki/Ascii'>ASCII</a></b> "
+"字符以及有限的字符串尺寸大小。使用相关帮助以获取详情。</b>"
+
+#: iptccontent.cpp:95 xmpcontent.cpp:90
+msgid "Headline:"
+msgstr "摘要："
+
+#: iptccontent.cpp:100
+msgid ""
+"Enter here the content synopsis. This field is limited to 256 ASCII "
+"characters."
+msgstr "在此输入内容摘要。本字段限 256 个 ACSII 字符。"
+
+#: iptccontent.cpp:108 xmpcontent.cpp:104
+#, kde-format
+msgid "Sync caption entered through %1"
+msgstr "同步通过 %1 输入的说明"
+
+#: iptccontent.cpp:115
+msgid ""
+"Enter the content description. This field is limited to 2000 ASCII "
+"characters."
+msgstr "输入内容描述。本字段限 2000 个 ACSII 字符。"
+
+#: iptccontent.cpp:120 xmpcontent.cpp:117
+msgid "Caption Writer:"
+msgstr "说明作者："
+
+#: iptccontent.cpp:121 xmpcontent.cpp:120
+msgid "Enter the name of the caption author."
+msgstr "输入说明作者的名字。"
+
+#: iptccredits.cpp:98 xmpcontent.cpp:122
+msgid "Copyright:"
+msgstr "版权："
+
+#: iptccredits.cpp:103
+msgid ""
+"Set here the necessary copyright notice. This field is limited to 128 ASCII "
+"characters."
+msgstr "在此设定必需的版权声明。本字段限 128 个 ACSII 字符。"
+
+#: iptccredits.cpp:108 xmpcredits.cpp:112
+msgid "Byline:"
+msgstr "署名："
+
+#: iptccredits.cpp:109 xmpcredits.cpp:113
+msgid "Set here the name of content creator."
+msgstr "在此设定内容原作者的名字。"
+
+#: iptccredits.cpp:114 xmpcredits.cpp:117
+msgid "Byline Title:"
+msgstr "署名标题："
+
+#: iptccredits.cpp:115 xmpcredits.cpp:120
+msgid "Set here the title of content creator."
+msgstr "在此设定内容原作者的标题。"
+
+#: iptccredits.cpp:120 xmpcredits.cpp:182
+msgid "Credit:"
+msgstr "致谢："
+
+#: iptccredits.cpp:125
+msgid ""
+"Set here the content provider. This field is limited to 32 ASCII characters."
+msgstr "在此设定内容提供者。本字段限 32 个 ASCII 字符。"
+
+#: iptccredits.cpp:130 xmpcredits.cpp:189
+msgid "Source:"
+msgstr "来源："
+
+#: iptccredits.cpp:135
+msgid ""
+"Set here the original owner of content. This field is limited to 32 ASCII "
+"characters."
+msgstr "在此设定内容的原作者。本字段限 32 个 ASCII 字符。"
+
+#: iptccredits.cpp:140
+msgid "Contact:"
+msgstr "联系："
+
+#: iptccredits.cpp:141
+msgid "Set here the person or organisation to contact."
+msgstr "在此设定联系人或联系组织。"
+
+#: iptceditdialog.cpp:159 xmpeditdialog.cpp:155
+msgid "Content"
+msgstr "内容"
+
+#: iptceditdialog.cpp:160 xmpeditdialog.cpp:156
+msgid ""
+"<qt>Content Information<br/><i>Use this panel to describe the visual content "
+"of the image</i></qt>"
+msgstr "<qt>内容信息<br/><i>使用此面板来描述图像的可视内容</i></qt>"
+
+#: iptceditdialog.cpp:165 xmpeditdialog.cpp:161
+msgid "Origin"
+msgstr "原始"
+
+#: iptceditdialog.cpp:166 xmpeditdialog.cpp:162
+msgid ""
+"<qt>Origin Information<br/><i>Use this panel for formal descriptive "
+"information about the image</i></qt>"
+msgstr "<qt>原始信息<br/><i>使用此面板用于先前关于图像的描述性信息</i></qt>"
+
+#: iptceditdialog.cpp:171 xmpeditdialog.cpp:167
+msgid "Credits"
+msgstr "致谢"
+
+#: iptceditdialog.cpp:172 xmpeditdialog.cpp:168
+msgid ""
+"<qt>Credit Information<br/><i>Use this panel to record copyright information "
+"about the image</i></qt>"
+msgstr "<qt>致谢信息<br/><i>使用此面板来记录关于图像的版权信息</i></qt>"
+
+#: iptceditdialog.cpp:177 xmpeditdialog.cpp:173
+msgid "Subjects"
+msgstr "主题"
+
+#: iptceditdialog.cpp:178 xmpeditdialog.cpp:174
+msgid ""
+"<qt>Subject Information<br/><i>Use this panel to record subject information "
+"about the image</i></qt>"
+msgstr "<qt>主题信息<br/><i>使用此面板来记录关于图像的主题</i></qt>"
+
+#: iptceditdialog.cpp:183 xmpeditdialog.cpp:179
+msgid "Keywords"
+msgstr "关键字"
+
+#: iptceditdialog.cpp:184 xmpeditdialog.cpp:180
+msgid ""
+"<qt>Keyword Information<br/><i>Use this panel to record keywords relevant to "
+"the image</i></qt>"
+msgstr "<qt>关键字信息<br/><i>使用此面板来记录关于图像的关键字</i></qt>"
+
+#: iptceditdialog.cpp:189 xmpeditdialog.cpp:185
+msgid "Categories"
+msgstr "分类"
+
+#: iptceditdialog.cpp:190 xmpeditdialog.cpp:186
+msgid ""
+"<qt>Category Information<br/><i>Use this panel to record categories relevant "
+"to the image</i></qt>"
+msgstr "<qt>分类信息<br/><i>使用此面板来记录关于图像的分类</i></qt>"
+
+#: iptceditdialog.cpp:195 xmpeditdialog.cpp:191
+msgid "Status"
+msgstr "状态"
+
+#: iptceditdialog.cpp:196 xmpeditdialog.cpp:192
+msgid ""
+"<qt>Status Information<br/><i>Use this panel to record workflow information</"
+"i></qt>"
+msgstr "<qt>状态信息<br/><i>使用此面板来记录工作流程描述</i></qt>"
+
+#: iptceditdialog.cpp:201 xmpeditdialog.cpp:197
+msgid "Properties"
+msgstr "属性"
+
+#: iptceditdialog.cpp:202 xmpeditdialog.cpp:198
+msgid ""
+"<qt>Status Properties<br/><i>Use this panel to record workflow properties</"
+"i></qt>"
+msgstr "<qt>状态属性<br/><i>使用此面板来记录工作流程属性</i></qt>"
+
+#: iptceditdialog.cpp:207
+msgid "Envelope"
+msgstr "信封"
+
+#: iptceditdialog.cpp:208
+msgid ""
+"<qt>Envelope Information<br/><i>Use this panel to record editorial details</"
+"i></qt>"
+msgstr "<qt>信封信息<br/><i>使用此面板记录编辑者描述</i></qt>"
+
+#: iptceditdialog.cpp:372
+msgid "Edit IPTC Metadata"
+msgstr "编辑 IPTC 元数据"
+
+#: iptcenvelope.cpp:91
+msgid "No ObjectData"
+msgstr "没有对象数据"
+
+#: iptcenvelope.cpp:92
+msgid "IPTC-NAA Digital Newsphoto Parameter Record (version 1)"
+msgstr "IPTC-NAA Digital Newsphoto Parameter Record(版本 1)"
+
+#: iptcenvelope.cpp:93
+msgid "IPTC-NAA Digital Newsphoto Parameter Record (version 2)"
+msgstr "IPTC-NAA Digital Newsphoto Parameter Record(版本 2)"
+
+#: iptcenvelope.cpp:94
+msgid "IPTC-NAA Digital Newsphoto Parameter Record (version 3)"
+msgstr "IPTC-NAA Digital Newsphoto Parameter Record(版本 3)"
+
+#: iptcenvelope.cpp:95
+msgid "IPTC-NAA Digital Newsphoto Parameter Record (version 4)"
+msgstr "IPTC-NAA Digital Newsphoto Parameter Record(版本 4)"
+
+#: iptcenvelope.cpp:96
+msgid "IPTC7901 Recommended Message Format"
+msgstr "IPTC7901 Recommended Message Format"
+
+#: iptcenvelope.cpp:97
+msgid "Tagged Image File Format (version 5.0)"
+msgstr "Tagged Image File Format(版本 5.0)"
+
+#: iptcenvelope.cpp:98
+msgid "Tagged Image File Format (version 6.0)"
+msgstr "Tagged Image File Format(版本 6.0)"
+
+#: iptcenvelope.cpp:99
+msgid "Illustrator"
+msgstr "Illustrator"
+
+#: iptcenvelope.cpp:100
+msgid "AppleSingle"
+msgstr "AppleSingle"
+
+#: iptcenvelope.cpp:101
+msgid "NAA 89-3 (ANPA 1312)"
+msgstr "NAA 89-3(ANPA 1312)"
+
+#: iptcenvelope.cpp:102
+msgid "MacBinary II"
+msgstr "MacBinary II"
+
+#: iptcenvelope.cpp:103
+msgid "IPTC Unstructured Character Oriented File Format"
+msgstr "IPTC Unstructured Character Oriented File Format"
+
+#: iptcenvelope.cpp:104
+msgid "United Press International ANPA 1312 variant"
+msgstr "United Press International ANPA 1312 variant"
+
+#: iptcenvelope.cpp:105
+msgid "United Press International Down-Load Message"
+msgstr "United Press International Down-Load Message"
+
+#: iptcenvelope.cpp:106
+msgid "JPEG File Interchange"
+msgstr "JPEG File Interchange"
+
+#: iptcenvelope.cpp:107
+msgid "Photo-CD Image-Pac"
+msgstr "Photo-CD Image-Pac"
+
+#: iptcenvelope.cpp:108
+msgid "Microsoft Bit Mapped Graphics File [*.BMP]"
+msgstr "Microsoft 位图图像文件 [*.BMP]"
+
+#: iptcenvelope.cpp:109
+msgid "Digital Audio File [*.WAV]"
+msgstr "数字音频文件 [*.WAV]"
+
+#: iptcenvelope.cpp:110
+msgid "Audio plus Moving Video [*.AVI]"
+msgstr "多媒体容器 [*.AVI]"
+
+#: iptcenvelope.cpp:111
+msgid "PC DOS/Windows Executable Files [*.COM][*.EXE]"
+msgstr "PC DOS/Windows 可执行文件 [*.COM][*.EXE]"
+
+#: iptcenvelope.cpp:112
+msgid "Compressed Binary File [*.ZIP]"
+msgstr "压缩的二进制文件 [*.ZIP]"
+
+#: iptcenvelope.cpp:113
+msgid "Audio Interchange File Format AIFF"
+msgstr "Audio Interchange File Format AIFF"
+
+#: iptcenvelope.cpp:114
+msgid "RIFF Wave (Microsoft Corporation)"
+msgstr "RIFF Wave(Microsoft Corporation)"
+
+#: iptcenvelope.cpp:115
+msgid "Freehand (version 3.1)"
+msgstr "Freehand(版本 3.1)"
+
+#: iptcenvelope.cpp:116
+msgid "Freehand (version 4.0)"
+msgstr "Freehand(版本 4.0)"
+
+#: iptcenvelope.cpp:117
+msgid "Freehand (version 5.0)"
+msgstr "Freehand(版本 5.0)"
+
+#: iptcenvelope.cpp:118
+msgid "Freehand (version 5.5)"
+msgstr "Freehand(版本 5.5)"
+
+#: iptcenvelope.cpp:119
+msgid "Hypertext Markup Language \"HTML\""
+msgstr "超文本标记语言“HTML”"
+
+#: iptcenvelope.cpp:120
+msgid "MPEG 2 Audio Layer 2 (Musicom), ISO/IEC"
+msgstr "MPEG 2 Audio Layer 2 (Musicom)，ISO/IEC"
+
+#: iptcenvelope.cpp:121
+msgid "MPEG 2 Audio Layer 3, ISO/IEC"
+msgstr "MPEG 2 Audio Layer 3，ISO/IEC"
+
+#: iptcenvelope.cpp:122
+msgid "Portable Document File [*.PDF] Adobe"
+msgstr "可移植文档文件 [*.PDF] Adobe"
+
+#: iptcenvelope.cpp:123
+msgid "News Industry Text Format"
+msgstr "News Industry Text Format"
+
+#: iptcenvelope.cpp:124
+msgid "Tape Archive [*.TAR]"
+msgstr "磁带归档 [*.TAR]"
+
+#: iptcenvelope.cpp:125
+msgid "Tidningarnas Telegrambyra NITF version (TTNITF DTD)"
+msgstr "Tidningarnas Telegrambyra NITF 版本(TTNITF DTD)"
+
+#: iptcenvelope.cpp:126
+msgid "Ritzaus Bureau NITF version (RBNITF DTD)"
+msgstr "Ritzaus Bureau NITF 版本(RBNITF DTD)"
+
+#: iptcenvelope.cpp:127
+msgid "Corel Draw [*.CDR]"
+msgstr "Corel Draw 文档 [*.CDR]"
+
+#: iptcenvelope.cpp:174
+msgid "Destination:"
+msgstr "目的地："
+
+#: iptcenvelope.cpp:178
+msgid ""
+"Enter the envelope destination. This field is limited to 1024 ASCII "
+"characters."
+msgstr "在此输入寄信目的地。本字段最多限 1024 个 ASCII 字符。"
+
+#: iptcenvelope.cpp:183
+msgid "U.N.O ID:"
+msgstr "U.N.O ID："
+
+#: iptcenvelope.cpp:188
+msgid ""
+"Set here the Unique Name of Object identifier. This field is limited to 80 "
+"ASCII characters."
+msgstr ""
+"在此设定 Unique Name of Object(对象的唯一名) 标识符。本字段最多限 80 个 "
+"ASCII 字符。"
+
+#: iptcenvelope.cpp:193
+msgid "Product ID:"
+msgstr "产品 ID："
+
+#: iptcenvelope.cpp:198
+msgid ""
+"Set here the product identifier. This field is limited to 32 ASCII "
+"characters."
+msgstr "在此设定产品标识符。本字段最多限 32 个 ASCII 字符。"
+
+#: iptcenvelope.cpp:203
+msgid "Service ID:"
+msgstr "服务 ID："
+
+#: iptcenvelope.cpp:208
+msgid ""
+"Set here the service identifier. This field is limited to 10 ASCII "
+"characters."
+msgstr "在此设定服务标识符。本字段限 10 个 ASCII 字符。"
+
+#: iptcenvelope.cpp:213
+msgid "Envelope ID:"
+msgstr "信封 ID："
+
+#: iptcenvelope.cpp:218
+msgid ""
+"Set here the envelope identifier. This field is limited to 8 ASCII "
+"characters."
+msgstr "在此设定信封标识符。本字段最多限 8 个 ASCII 字符。"
+
+#: iptcenvelope.cpp:223 iptcproperties.cpp:185 xmpproperties.cpp:186
+msgid "Priority:"
+msgstr "优先级："
+
+#: iptcenvelope.cpp:225 iptcproperties.cpp:187 xmpproperties.cpp:188
+msgid "0: None"
+msgstr "0：无"
+
+#: iptcenvelope.cpp:226 iptcproperties.cpp:188 xmpproperties.cpp:189
+msgid "1: High"
+msgstr "1：高"
+
+#: iptcenvelope.cpp:230 iptcproperties.cpp:192 xmpproperties.cpp:193
+msgid "5: Normal"
+msgstr "5：普通"
+
+#: iptcenvelope.cpp:233 iptcproperties.cpp:195 xmpproperties.cpp:196
+msgid "8: Low"
+msgstr "8：低"
+
+#: iptcenvelope.cpp:234
+msgid "Select here the envelope priority."
+msgstr "在此选择信封优先级。"
+
+#: iptcenvelope.cpp:238
+msgid "Format:"
+msgstr "格式："
+
+#: iptcenvelope.cpp:250
+msgid "Select here envelope file format."
+msgstr "在此选择信封文件格式。"
+
+#: iptcenvelope.cpp:254
+msgid "Sent date:"
+msgstr "发送日期："
+
+#: iptcenvelope.cpp:255
+msgid "Sent time:"
+msgstr "发送时间："
+
+#: iptcenvelope.cpp:261
+msgid "Set envelope sent date to today"
+msgstr "设定信封发送日期为今天"
+
+#: iptcenvelope.cpp:263
+msgid "Set here the date when the service sent the material."
+msgstr "在此设定服务发送素材的日期。"
+
+#: iptcenvelope.cpp:264
+msgid "Set here the time when the service sent the material."
+msgstr "在此设定服务发送素材的时间。"
+
+#: iptckeywords.cpp:87 xmpkeywords.cpp:81
+msgid "Use information retrieval words:"
+msgstr "使用信息检索字："
+
+#: iptckeywords.cpp:93
+msgid "Enter here a new keyword. This field is limited to 64 ASCII characters."
+msgstr "在此输入一个新密码。本字段限 64 个 ASCII 字符。"
+
+#: iptcorigin.cpp:100 xmporigin.cpp:91
+msgid "Afghanistan"
+msgstr "阿富汗"
+
+#: iptcorigin.cpp:101 xmporigin.cpp:92
+msgid "Albania"
+msgstr "阿尔巴尼亚"
+
+#: iptcorigin.cpp:102 xmporigin.cpp:93
+msgid "Algeria"
+msgstr "阿尔及利亚"
+
+#: iptcorigin.cpp:103 xmporigin.cpp:94
+msgid "American Samoa"
+msgstr "美属萨摩亚"
+
+#: iptcorigin.cpp:104 xmporigin.cpp:95
+msgid "Andorra"
+msgstr "安道尔"
+
+#: iptcorigin.cpp:105 iptcorigin.cpp:107 xmporigin.cpp:96 xmporigin.cpp:98
+msgid "Angola"
+msgstr "安哥拉"
+
+#: iptcorigin.cpp:106 xmporigin.cpp:97
+msgid "Anguilla"
+msgstr "阿瓜迪利亚"
+
+#: iptcorigin.cpp:108 xmporigin.cpp:99
+msgid "Antarctica"
+msgstr "阿提卡"
+
+#: iptcorigin.cpp:109 xmporigin.cpp:100
+msgid "Antigua and Barbuda"
+msgstr "安提瓜和巴布达"
+
+#: iptcorigin.cpp:110 xmporigin.cpp:101
+msgid "Argentina"
+msgstr "阿根廷"
+
+#: iptcorigin.cpp:111 xmporigin.cpp:102
+msgid "Armenia"
+msgstr "亚美尼亚"
+
+#: iptcorigin.cpp:112 xmporigin.cpp:103
+msgid "Aruba"
+msgstr "阿劳卡"
+
+#: iptcorigin.cpp:113 xmporigin.cpp:104
+msgid "Australia"
+msgstr "澳大利亚"
+
+#: iptcorigin.cpp:114 xmporigin.cpp:105
+msgid "Austria"
+msgstr "奥地利"
+
+#: iptcorigin.cpp:115 xmporigin.cpp:106
+msgid "Azerbaijan"
+msgstr "阿塞拜疆"
+
+#: iptcorigin.cpp:116 xmporigin.cpp:107
+msgid "Bahamas"
+msgstr "巴哈马"
+
+#: iptcorigin.cpp:117 xmporigin.cpp:108
+msgid "Bahrain"
+msgstr "巴林"
+
+#: iptcorigin.cpp:118 xmporigin.cpp:109
+msgid "Bangladesh"
+msgstr "孟加拉国"
+
+#: iptcorigin.cpp:119 xmporigin.cpp:110
+msgid "Barbados"
+msgstr "巴巴多斯"
+
+#: iptcorigin.cpp:120 xmporigin.cpp:111
+msgid "Belarus"
+msgstr "白俄罗斯"
+
+#: iptcorigin.cpp:121 xmporigin.cpp:112
+msgid "Belgium"
+msgstr "比利时"
+
+#: iptcorigin.cpp:122 xmporigin.cpp:113
+msgid "Belize"
+msgstr "伯利兹"
+
+#: iptcorigin.cpp:123 xmporigin.cpp:114
+msgid "Benin"
+msgstr "贝宁"
+
+#: iptcorigin.cpp:124 xmporigin.cpp:115
+msgid "Bermuda"
+msgstr "培拉特"
+
+#: iptcorigin.cpp:125 xmporigin.cpp:116
+msgid "Bhutan"
+msgstr "不丹"
+
+#: iptcorigin.cpp:126 xmporigin.cpp:117
+msgid "Bolivia"
+msgstr "玻利维亚"
+
+#: iptcorigin.cpp:127 xmporigin.cpp:118
+msgid "Bosnia and Herzegovina"
+msgstr "波斯尼亚和黑塞哥维那"
+
+#: iptcorigin.cpp:128 xmporigin.cpp:119
+msgid "Botswana"
+msgstr "博茨瓦纳"
+
+#: iptcorigin.cpp:129 xmporigin.cpp:120
+msgid "Bouvet Island"
+msgstr "罗得岛"
+
+#: iptcorigin.cpp:130 xmporigin.cpp:121
+msgid "Brazil"
+msgstr "巴西"
+
+#: iptcorigin.cpp:131 xmporigin.cpp:122
+msgid "British Indian Ocean Territory"
+msgstr "英属印度洋领域"
+
+#: iptcorigin.cpp:132 xmporigin.cpp:123
+msgid "British Virgin Islands"
+msgstr "英属维尔京群岛"
+
+#: iptcorigin.cpp:133 xmporigin.cpp:124
+msgid "Brunei Darussalam"
+msgstr "文莱达鲁萨兰国"
+
+#: iptcorigin.cpp:134 xmporigin.cpp:125
+msgid "Bulgaria"
+msgstr "保加利亚"
+
+#: iptcorigin.cpp:135 xmporigin.cpp:126
+msgid "Burkina Faso"
+msgstr "布基纳法索"
+
+#: iptcorigin.cpp:136 xmporigin.cpp:127
+msgid "Burundi"
+msgstr "布隆迪"
+
+#: iptcorigin.cpp:137 xmporigin.cpp:128
+msgid "Cambodia"
+msgstr "柬埔寨"
+
+#: iptcorigin.cpp:138 xmporigin.cpp:129
+msgid "Cameroon"
+msgstr "喀麦隆"
+
+#: iptcorigin.cpp:139 xmporigin.cpp:130
+msgid "Canada"
+msgstr "加拿大"
+
+#: iptcorigin.cpp:140 xmporigin.cpp:131
+msgid "Cape Verde"
+msgstr "大坎普"
+
+#: iptcorigin.cpp:141 xmporigin.cpp:132
+msgid "Cayman Islands"
+msgstr "卡曼群岛"
+
+#: iptcorigin.cpp:142 xmporigin.cpp:133
+msgid "Central African Republic"
+msgstr "中非共和国"
+
+#: iptcorigin.cpp:143 xmporigin.cpp:134
+msgid "Chad"
+msgstr "乍得"
+
+#: iptcorigin.cpp:144 xmporigin.cpp:135
+msgid "Chile"
+msgstr "智利"
+
+#: iptcorigin.cpp:145 xmporigin.cpp:136
+msgid "China"
+msgstr "中华人民共和国"
+
+#: iptcorigin.cpp:146 xmporigin.cpp:137
+msgid "Christmas Island "
+msgstr "克里斯蒂安桑"
+
+#: iptcorigin.cpp:147 xmporigin.cpp:138
+msgid "Cocos Islands"
+msgstr "科科斯群岛"
+
+#: iptcorigin.cpp:148 xmporigin.cpp:139
+msgid "Colombia"
+msgstr "哥伦比亚"
+
+#: iptcorigin.cpp:149 xmporigin.cpp:140
+msgid "Comoros"
+msgstr "科莫"
+
+#: iptcorigin.cpp:150 xmporigin.cpp:141
+msgid "Zaire"
+msgstr "萨格勒布"
+
+#: iptcorigin.cpp:151 xmporigin.cpp:142
+msgid "Congo"
+msgstr "多哥"
+
+#: iptcorigin.cpp:152 xmporigin.cpp:143
+msgid "Cook Islands"
+msgstr "库克群岛"
+
+#: iptcorigin.cpp:153 xmporigin.cpp:144
+msgid "Costa Rica"
+msgstr "哥斯达黎加"
+
+#: iptcorigin.cpp:154 xmporigin.cpp:145
+msgid "Ivory Coast"
+msgstr "科特迪瓦"
+
+#: iptcorigin.cpp:155 xmporigin.cpp:146
+msgid "Cuba"
+msgstr "古巴"
+
+#: iptcorigin.cpp:156 xmporigin.cpp:147
+msgid "Cyprus"
+msgstr "塞浦路斯"
+
+#: iptcorigin.cpp:157 xmporigin.cpp:148
+msgid "Czech Republic"
+msgstr "捷克共和国"
+
+#: iptcorigin.cpp:158 xmporigin.cpp:149
+msgid "Denmark"
+msgstr "丹麦"
+
+#: iptcorigin.cpp:159 xmporigin.cpp:150
+msgid "Djibouti"
+msgstr "吉布提"
+
+#: iptcorigin.cpp:160 xmporigin.cpp:151
+msgid "Dominica"
+msgstr "多米尼加"
+
+#: iptcorigin.cpp:161 xmporigin.cpp:152
+msgid "Dominican Republic"
+msgstr "多米尼加共和国"
+
+#: iptcorigin.cpp:162 xmporigin.cpp:153
+msgid "Ecuador"
+msgstr "厄瓜多尔"
+
+#: iptcorigin.cpp:163 xmporigin.cpp:154
+msgid "Egypt"
+msgstr "埃及"
+
+#: iptcorigin.cpp:164 xmporigin.cpp:155
+msgid "El Salvador"
+msgstr "萨尔瓦多"
+
+#: iptcorigin.cpp:165 xmporigin.cpp:156
+msgid "Equatorial Guinea"
+msgstr "赤道几内亚"
+
+#: iptcorigin.cpp:166 xmporigin.cpp:157
+msgid "Eritrea"
+msgstr "厄立特里亚"
+
+#: iptcorigin.cpp:167 xmporigin.cpp:158
+msgid "Estonia"
+msgstr "爱沙尼亚"
+
+#: iptcorigin.cpp:168 xmporigin.cpp:159
+msgid "Ethiopia"
+msgstr "埃塞俄比亚"
+
+#: iptcorigin.cpp:169 xmporigin.cpp:160
+msgid "Faeroe Islands"
+msgstr "法罗群岛"
+
+#: iptcorigin.cpp:170 xmporigin.cpp:161
+msgid "Falkland Islands"
+msgstr "福克兰群岛"
+
+#: iptcorigin.cpp:171 xmporigin.cpp:162
+msgid "Fiji Islands"
+msgstr "斐济群岛"
+
+#: iptcorigin.cpp:172 xmporigin.cpp:163
+msgid "Finland"
+msgstr "芬兰"
+
+#: iptcorigin.cpp:173 xmporigin.cpp:164
+msgid "France"
+msgstr "法国"
+
+#: iptcorigin.cpp:174 xmporigin.cpp:165
+msgid "French Guiana"
+msgstr "法属圭亚那"
+
+#: iptcorigin.cpp:175 xmporigin.cpp:166
+msgid "French Polynesia"
+msgstr "法属波利尼西亚"
+
+#: iptcorigin.cpp:176 xmporigin.cpp:167
+msgid "French Southern Territories"
+msgstr "法属南部领土"
+
+#: iptcorigin.cpp:177 xmporigin.cpp:168
+msgid "Gabon"
+msgstr "加蓬"
+
+#: iptcorigin.cpp:178 xmporigin.cpp:169
+msgid "Gambia"
+msgstr "赞比亚"
+
+#: iptcorigin.cpp:179 xmporigin.cpp:170
+msgid "Georgia"
+msgstr "格鲁吉亚"
+
+#: iptcorigin.cpp:180 xmporigin.cpp:171
+msgid "Germany"
+msgstr "德国"
+
+#: iptcorigin.cpp:181 xmporigin.cpp:172
+msgid "Ghana"
+msgstr "加纳"
+
+#: iptcorigin.cpp:182 xmporigin.cpp:173
+msgid "Gibraltar"
+msgstr "直布罗陀"
+
+#: iptcorigin.cpp:183 xmporigin.cpp:174
+msgid "Greece"
+msgstr "希腊"
+
+#: iptcorigin.cpp:184 xmporigin.cpp:175
+msgid "Greenland"
+msgstr "格陵兰"
+
+#: iptcorigin.cpp:185 xmporigin.cpp:176
+msgid "Grenada"
+msgstr "格拉纳达"
+
+#: iptcorigin.cpp:186 xmporigin.cpp:177
+msgid "Guadaloupe"
+msgstr "瓜德罗普"
+
+#: iptcorigin.cpp:187 xmporigin.cpp:178
+msgid "Guam"
+msgstr "关岛"
+
+#: iptcorigin.cpp:188 xmporigin.cpp:179
+msgid "Guatemala"
+msgstr "危地马拉"
+
+#: iptcorigin.cpp:189 xmporigin.cpp:180
+msgid "Guinea"
+msgstr "几内亚"
+
+#: iptcorigin.cpp:190 xmporigin.cpp:181
+msgid "Guinea-Bissau"
+msgstr "几内亚比绍"
+
+#: iptcorigin.cpp:191 xmporigin.cpp:182
+msgid "Guyana"
+msgstr "圭亚那"
+
+#: iptcorigin.cpp:192 xmporigin.cpp:183
+msgid "Haiti"
+msgstr "海地"
+
+#: iptcorigin.cpp:193 xmporigin.cpp:184
+msgid "Heard and McDonald Islands"
+msgstr "赫德岛和麦克唐纳群岛"
+
+#: iptcorigin.cpp:194 xmporigin.cpp:185
+msgid "Vatican"
+msgstr "梵蒂冈"
+
+#: iptcorigin.cpp:195 xmporigin.cpp:186
+msgid "Honduras"
+msgstr "洪都拉斯"
+
+#: iptcorigin.cpp:196 xmporigin.cpp:187
+msgid "Hong Kong"
+msgstr "香港特别行政区"
+
+#: iptcorigin.cpp:197 xmporigin.cpp:188
+msgid "Croatia"
+msgstr "克罗地亚"
+
+#: iptcorigin.cpp:198 xmporigin.cpp:189
+msgid "Hungary"
+msgstr "匈牙利"
+
+#: iptcorigin.cpp:199 xmporigin.cpp:190
+msgid "Iceland"
+msgstr "冰岛"
+
+#: iptcorigin.cpp:200 xmporigin.cpp:191
+msgid "India"
+msgstr "印度"
+
+#: iptcorigin.cpp:201 xmporigin.cpp:192
+msgid "Indonesia"
+msgstr "印度尼西亚"
+
+#: iptcorigin.cpp:202 xmporigin.cpp:193
+msgid "Iran"
+msgstr "伊朗"
+
+#: iptcorigin.cpp:203 xmporigin.cpp:194
+msgid "Iraq"
+msgstr "伊拉克"
+
+#: iptcorigin.cpp:204 xmporigin.cpp:195
+msgid "Ireland"
+msgstr "爱尔兰"
+
+#: iptcorigin.cpp:205 xmporigin.cpp:196
+msgid "Israel"
+msgstr "以色列"
+
+#: iptcorigin.cpp:206 xmporigin.cpp:197
+msgid "Italy"
+msgstr "意大利"
+
+#: iptcorigin.cpp:207 xmporigin.cpp:198
+msgid "Jamaica"
+msgstr "牙买加"
+
+#: iptcorigin.cpp:208 xmporigin.cpp:199
+msgid "Japan"
+msgstr "日本"
+
+#: iptcorigin.cpp:209 xmporigin.cpp:200
+msgid "Jordan"
+msgstr "约旦"
+
+#: iptcorigin.cpp:210 xmporigin.cpp:201
+msgid "Kazakhstan"
+msgstr "哈萨克斯坦"
+
+#: iptcorigin.cpp:211 xmporigin.cpp:202
+msgid "Kenya"
+msgstr "肯尼亚"
+
+#: iptcorigin.cpp:212 xmporigin.cpp:203
+msgid "Kiribati"
+msgstr "基里巴斯"
+
+#: iptcorigin.cpp:213 iptcorigin.cpp:214 xmporigin.cpp:204 xmporigin.cpp:205
+msgid "Korea"
+msgstr "韩国"
+
+#: iptcorigin.cpp:215 xmporigin.cpp:206
+msgid "Kuwait"
+msgstr "科威特"
+
+#: iptcorigin.cpp:216 xmporigin.cpp:207
+msgid "Kyrgyz Republic"
+msgstr "捷克共和国"
+
+#: iptcorigin.cpp:217 xmporigin.cpp:208
+msgid "Lao"
+msgstr "老挝"
+
+#: iptcorigin.cpp:218 xmporigin.cpp:209
+msgid "Latvia"
+msgstr "拉脱维亚"
+
+#: iptcorigin.cpp:219 xmporigin.cpp:210
+msgid "Lebanon"
+msgstr "黎巴嫩"
+
+#: iptcorigin.cpp:220 xmporigin.cpp:211
+msgid "Lesotho"
+msgstr "莱索托"
+
+#: iptcorigin.cpp:221 xmporigin.cpp:212
+msgid "Liberia"
+msgstr "利比里亚"
+
+#: iptcorigin.cpp:222 xmporigin.cpp:213
+msgid "Libyan Arab Jamahiriya"
+msgstr "阿拉伯利比亚民众国"
+
+#: iptcorigin.cpp:223 xmporigin.cpp:214
+msgid "Liechtenstein"
+msgstr "列支敦士登"
+
+#: iptcorigin.cpp:224 xmporigin.cpp:215
+msgid "Lithuania"
+msgstr "立陶宛"
+
+#: iptcorigin.cpp:225 xmporigin.cpp:216
+msgid "Luxembourg"
+msgstr "卢森堡"
+
+#: iptcorigin.cpp:226 xmporigin.cpp:217
+msgid "Macao"
+msgstr "澳门特别行政区"
+
+#: iptcorigin.cpp:227 xmporigin.cpp:218
+msgid "Macedonia"
+msgstr "马其顿"
+
+#: iptcorigin.cpp:228 xmporigin.cpp:219
+msgid "Madagascar"
+msgstr "马达加斯加"
+
+#: iptcorigin.cpp:229 xmporigin.cpp:220
+msgid "Malawi"
+msgstr "马拉维"
+
+#: iptcorigin.cpp:230 xmporigin.cpp:221
+msgid "Malaysia"
+msgstr "马来西亚"
+
+#: iptcorigin.cpp:231 xmporigin.cpp:222
+msgid "Maldives"
+msgstr "马尔代夫"
+
+#: iptcorigin.cpp:232 xmporigin.cpp:223
+msgid "Mali"
+msgstr "马里"
+
+#: iptcorigin.cpp:233 xmporigin.cpp:224
+msgid "Malta"
+msgstr "马耳他"
+
+#: iptcorigin.cpp:234 xmporigin.cpp:225
+msgid "Marshall Islands"
+msgstr "马歇尔群岛"
+
+#: iptcorigin.cpp:235 xmporigin.cpp:226
+msgid "Martinique"
+msgstr "马提尼克岛"
+
+#: iptcorigin.cpp:236 xmporigin.cpp:227
+msgid "Mauritania"
+msgstr "毛里塔尼亚"
+
+#: iptcorigin.cpp:237 xmporigin.cpp:228
+msgid "Mauritius"
+msgstr "毛里求斯"
+
+#: iptcorigin.cpp:238 xmporigin.cpp:229
+msgid "Mayotte"
+msgstr "马约特"
+
+#: iptcorigin.cpp:239 xmporigin.cpp:230
+msgid "Mexico"
+msgstr "澳门特别行政区"
+
+#: iptcorigin.cpp:240 xmporigin.cpp:231
+msgid "Micronesia"
+msgstr "密克罗尼西亚"
+
+#: iptcorigin.cpp:241 xmporigin.cpp:232
+msgid "Moldova"
+msgstr "摩尔多瓦"
+
+#: iptcorigin.cpp:242 xmporigin.cpp:233
+msgid "Monaco"
+msgstr "摩纳哥"
+
+#: iptcorigin.cpp:243 xmporigin.cpp:234
+msgid "Mongolia"
+msgstr "蒙古"
+
+#: iptcorigin.cpp:244 xmporigin.cpp:235
+msgid "Montserrat"
+msgstr "蒙特塞拉特"
+
+#: iptcorigin.cpp:245 xmporigin.cpp:236
+msgid "Morocco"
+msgstr "摩洛哥"
+
+#: iptcorigin.cpp:246 xmporigin.cpp:237
+msgid "Mozambique"
+msgstr "莫桑比克"
+
+#: iptcorigin.cpp:247 xmporigin.cpp:238
+msgid "Myanmar"
+msgstr "缅甸"
+
+#: iptcorigin.cpp:248 xmporigin.cpp:239
+msgid "Namibia"
+msgstr "纳米比亚"
+
+#: iptcorigin.cpp:249 xmporigin.cpp:240
+msgid "Nauru"
+msgstr "那慕尔"
+
+#: iptcorigin.cpp:250 xmporigin.cpp:241
+msgid "Nepal"
+msgstr "尼泊尔"
+
+#: iptcorigin.cpp:251 xmporigin.cpp:242
+msgid "Netherlands Antilles"
+msgstr "荷属安的列斯群岛"
+
+#: iptcorigin.cpp:252 xmporigin.cpp:243
+msgid "Netherlands"
+msgstr "荷兰"
+
+#: iptcorigin.cpp:253 xmporigin.cpp:244
+msgid "New Caledonia"
+msgstr "新喀里多尼亚"
+
+#: iptcorigin.cpp:254 xmporigin.cpp:245
+msgid "New Zealand"
+msgstr "新西兰"
+
+#: iptcorigin.cpp:255 xmporigin.cpp:246
+msgid "Nicaragua"
+msgstr "尼加拉瓜"
+
+#: iptcorigin.cpp:256 xmporigin.cpp:247
+msgid "Niger"
+msgstr "尼日尔"
+
+#: iptcorigin.cpp:257 xmporigin.cpp:248
+msgid "Nigeria"
+msgstr "尼日利亚"
+
+#: iptcorigin.cpp:258 xmporigin.cpp:249
+msgid "Niue"
+msgstr "尼斯"
+
+#: iptcorigin.cpp:259 xmporigin.cpp:250
+msgid "Norfolk Island"
+msgstr "诺福克岛"
+
+#: iptcorigin.cpp:260 xmporigin.cpp:251
+msgid "Northern Mariana Islands"
+msgstr "北马里亚纳群岛"
+
+#: iptcorigin.cpp:261 xmporigin.cpp:252
+msgid "Norway"
+msgstr "挪威"
+
+#: iptcorigin.cpp:262 xmporigin.cpp:253
+msgid "Oman"
+msgstr "阿曼"
+
+#: iptcorigin.cpp:263 xmporigin.cpp:254
+msgid "Pakistan"
+msgstr "巴基斯坦"
+
+#: iptcorigin.cpp:264 xmporigin.cpp:255
+msgid "Palau"
+msgstr "帛琉"
+
+#: iptcorigin.cpp:265 xmporigin.cpp:256
+msgid "Palestinian Territory"
+msgstr "巴勒斯坦领地"
+
+#: iptcorigin.cpp:266 xmporigin.cpp:257
+msgid "Panama"
+msgstr "巴拿马"
+
+#: iptcorigin.cpp:267 xmporigin.cpp:258
+msgid "Papua New Guinea"
+msgstr "巴布亚新几内亚"
+
+#: iptcorigin.cpp:268 xmporigin.cpp:259
+msgid "Paraguay"
+msgstr "巴拉圭"
+
+#: iptcorigin.cpp:269 xmporigin.cpp:260
+msgid "Peru"
+msgstr "秘鲁"
+
+#: iptcorigin.cpp:270 xmporigin.cpp:261
+msgid "Philippines"
+msgstr "菲律宾"
+
+#: iptcorigin.cpp:271 xmporigin.cpp:262
+msgid "Pitcairn Island"
+msgstr "皮特克恩岛"
+
+#: iptcorigin.cpp:272 xmporigin.cpp:263
+msgid "Poland"
+msgstr "波兰"
+
+#: iptcorigin.cpp:273 xmporigin.cpp:264
+msgid "Portugal"
+msgstr "葡萄牙"
+
+#: iptcorigin.cpp:274 xmporigin.cpp:265
+msgid "Puerto Rico"
+msgstr "波多黎各"
+
+#: iptcorigin.cpp:275 xmporigin.cpp:266
+msgid "Qatar"
+msgstr "卡塔尔"
+
+#: iptcorigin.cpp:276 xmporigin.cpp:267
+msgid "Reunion"
+msgstr "留尼旺"
+
+#: iptcorigin.cpp:277 xmporigin.cpp:268
+msgid "Romania"
+msgstr "罗马尼亚"
+
+#: iptcorigin.cpp:278 xmporigin.cpp:269
+msgid "Russian Federation"
+msgstr "俄罗斯联邦"
+
+#: iptcorigin.cpp:279 xmporigin.cpp:270
+msgid "Rwanda"
+msgstr "卢旺达"
+
+#: iptcorigin.cpp:280 xmporigin.cpp:271
+msgid "St. Helena"
+msgstr "圣赫勒拿"
+
+#: iptcorigin.cpp:281 xmporigin.cpp:272
+msgid "St. Kitts and Nevis"
+msgstr "圣基茨和尼维斯"
+
+#: iptcorigin.cpp:282 xmporigin.cpp:273
+msgid "St. Lucia"
+msgstr "圣卢西亚"
+
+#: iptcorigin.cpp:283 xmporigin.cpp:274
+msgid "St. Pierre and Miquelon"
+msgstr "圣皮埃尔和密克隆"
+
+#: iptcorigin.cpp:284 xmporigin.cpp:275
+msgid "St. Vincent and the Grenadines"
+msgstr "圣文森特和格林纳丁斯"
+
+#: iptcorigin.cpp:285 xmporigin.cpp:276
+msgid "Samoa"
+msgstr "萨摩亚"
+
+#: iptcorigin.cpp:286 xmporigin.cpp:277
+msgid "San Marino"
+msgstr "圣马力诺"
+
+#: iptcorigin.cpp:287 xmporigin.cpp:278
+msgid "Sao Tome and Principe"
+msgstr "圣多美和普林西比"
+
+#: iptcorigin.cpp:288 xmporigin.cpp:279
+msgid "Saudi Arabia"
+msgstr "沙特阿拉伯"
+
+#: iptcorigin.cpp:289 xmporigin.cpp:280
+msgid "Senegal"
+msgstr "塞内加尔"
+
+#: iptcorigin.cpp:290 xmporigin.cpp:281
+msgid "Serbia and Montenegro"
+msgstr "塞尔维亚和黑山共和国"
+
+#: iptcorigin.cpp:291 xmporigin.cpp:282
+msgid "Seychelles"
+msgstr "塞舌尔"
+
+#: iptcorigin.cpp:292 xmporigin.cpp:283
+msgid "Sierra Leone"
+msgstr "塞拉利昂"
+
+#: iptcorigin.cpp:293 xmporigin.cpp:284
+msgid "Singapore"
+msgstr "新加坡"
+
+#: iptcorigin.cpp:294 xmporigin.cpp:285
+msgid "Slovakia"
+msgstr "斯洛伐克"
+
+#: iptcorigin.cpp:295 xmporigin.cpp:286
+msgid "Slovenia"
+msgstr "斯洛文尼亚"
+
+#: iptcorigin.cpp:296 xmporigin.cpp:287
+msgid "Solomon Islands"
+msgstr "所罗门群岛"
+
+#: iptcorigin.cpp:297 xmporigin.cpp:288
+msgid "Somalia"
+msgstr "索马里"
+
+#: iptcorigin.cpp:298 xmporigin.cpp:289
+msgid "South Africa"
+msgstr "南非"
+
+#: iptcorigin.cpp:299 xmporigin.cpp:290
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "南乔治亚洲和桑威奇群岛"
+
+#: iptcorigin.cpp:300 xmporigin.cpp:291
+msgid "Spain"
+msgstr "西班牙"
+
+#: iptcorigin.cpp:301 xmporigin.cpp:292
+msgid "Sri Lanka"
+msgstr "斯里兰卡"
+
+#: iptcorigin.cpp:302 xmporigin.cpp:293
+msgid "Sudan"
+msgstr "苏丹"
+
+#: iptcorigin.cpp:303 xmporigin.cpp:294
+msgid "Suriname"
+msgstr "苏里南"
+
+#: iptcorigin.cpp:304 xmporigin.cpp:295
+msgid "Svalbard & Jan Mayen Islands"
+msgstr "斯瓦尔巴特和扬马延群岛"
+
+#: iptcorigin.cpp:305 xmporigin.cpp:296
+msgid "Swaziland"
+msgstr "斯威士兰"
+
+#: iptcorigin.cpp:306 xmporigin.cpp:297
+msgid "Sweden"
+msgstr "瑞典"
+
+#: iptcorigin.cpp:307 xmporigin.cpp:298
+msgid "Switzerland"
+msgstr "瑞士"
+
+#: iptcorigin.cpp:308 xmporigin.cpp:299
+msgid "Syrian Arab Republic"
+msgstr "阿拉伯叙利亚共和国"
+
+#: iptcorigin.cpp:309 xmporigin.cpp:300
+msgid "Taiwan"
+msgstr "中国台湾"
+
+#: iptcorigin.cpp:310 xmporigin.cpp:301
+msgid "Tajikistan"
+msgstr "塔吉克斯坦"
+
+#: iptcorigin.cpp:311 xmporigin.cpp:302
+msgid "Tanzania"
+msgstr "坦桑尼亚"
+
+#: iptcorigin.cpp:312 xmporigin.cpp:303
+msgid "Thailand"
+msgstr "泰国"
+
+#: iptcorigin.cpp:313 xmporigin.cpp:304
+msgid "Timor-Leste"
+msgstr "东帝汶民主共和国"
+
+#: iptcorigin.cpp:314 xmporigin.cpp:305
+msgid "Togo"
+msgstr "多哥"
+
+#: iptcorigin.cpp:315 xmporigin.cpp:306
+msgid "Tokelau Islands"
+msgstr "托克劳群岛"
+
+#: iptcorigin.cpp:316 xmporigin.cpp:307
+msgid "Tonga"
+msgstr "汤加"
+
+#: iptcorigin.cpp:317 xmporigin.cpp:308
+msgid "Trinidad and Tobago"
+msgstr "特立尼达和多巴哥"
+
+#: iptcorigin.cpp:318 xmporigin.cpp:309
+msgid "Tunisia"
+msgstr "突尼斯"
+
+#: iptcorigin.cpp:319 xmporigin.cpp:310
+msgid "Turkey"
+msgstr "土耳其"
+
+#: iptcorigin.cpp:320 xmporigin.cpp:311
+msgid "Turkmenistan"
+msgstr "土库曼斯坦"
+
+#: iptcorigin.cpp:321 xmporigin.cpp:312
+msgid "Turks and Caicos Islands"
+msgstr "特克斯和凯科斯群岛"
+
+#: iptcorigin.cpp:322 xmporigin.cpp:313
+msgid "Tuvalu"
+msgstr "图瓦卢"
+
+#: iptcorigin.cpp:323 xmporigin.cpp:314
+msgid "US Virgin Islands"
+msgstr "美属维尔金群岛"
+
+#: iptcorigin.cpp:324 xmporigin.cpp:315
+msgid "Uganda"
+msgstr "乌干达"
+
+#: iptcorigin.cpp:325 xmporigin.cpp:316
+msgid "Ukraine"
+msgstr "乌克兰"
+
+#: iptcorigin.cpp:326 xmporigin.cpp:317
+msgid "United Arab Emirates"
+msgstr "阿拉伯联合酋长国"
+
+#: iptcorigin.cpp:327 xmporigin.cpp:318
+msgid "United Kingdom"
+msgstr "英国"
+
+#: iptcorigin.cpp:328 xmporigin.cpp:319
+msgid "United States Minor Outlying Islands"
+msgstr "美国本土外小岛屿"
+
+#: iptcorigin.cpp:329 xmporigin.cpp:320
+msgid "United States of America"
+msgstr "美利坚合众国"
+
+#: iptcorigin.cpp:330 xmporigin.cpp:321
+msgid "Uruguay, Eastern Republic of"
+msgstr "乌拉圭东岸共和国"
+
+#: iptcorigin.cpp:331 xmporigin.cpp:322
+msgid "Uzbekistan"
+msgstr "乌兹别克斯坦"
+
+#: iptcorigin.cpp:332 xmporigin.cpp:323
+msgid "Vanuatu"
+msgstr "瓦努阿图"
+
+#: iptcorigin.cpp:333 xmporigin.cpp:324
+msgid "Venezuela"
+msgstr "委内瑞拉"
+
+#: iptcorigin.cpp:334 xmporigin.cpp:325
+msgid "Viet Nam"
+msgstr "越南"
+
+#: iptcorigin.cpp:335 xmporigin.cpp:326
+msgid "Wallis and Futuna Islands "
+msgstr "瓦利斯和富图纳群岛"
+
+#: iptcorigin.cpp:336 xmporigin.cpp:327
+msgid "Western Sahara"
+msgstr "西撒哈拉"
+
+#: iptcorigin.cpp:337 xmporigin.cpp:328
+msgid "Yemen"
+msgstr "也门"
+
+#: iptcorigin.cpp:338 xmporigin.cpp:329
+msgid "Zambia"
+msgstr "赞比亚"
+
+#: iptcorigin.cpp:339 xmporigin.cpp:330
+msgid "Zimbabwe"
+msgstr "津巴布韦"
+
+#: iptcorigin.cpp:343 xmporigin.cpp:334
+msgid "United Nations"
+msgstr "英国"
+
+#: iptcorigin.cpp:344 xmporigin.cpp:335
+msgid "European Union"
+msgstr "欧盟"
+
+#: iptcorigin.cpp:345 xmporigin.cpp:336
+msgid "Space"
+msgstr "太空"
+
+#: iptcorigin.cpp:346 xmporigin.cpp:337
+msgid "At Sea"
+msgstr "海上"
+
+#: iptcorigin.cpp:347 xmporigin.cpp:338
+msgid "In Flight"
+msgstr "飞行中"
+
+#: iptcorigin.cpp:348 xmporigin.cpp:339
+msgid "England"
+msgstr "英格兰"
+
+#: iptcorigin.cpp:349 xmporigin.cpp:340
+msgid "Scotland"
+msgstr "苏格兰"
+
+#: iptcorigin.cpp:350 xmporigin.cpp:341
+msgid "Northern Ireland"
+msgstr "北爱尔兰"
+
+#: iptcorigin.cpp:351 xmporigin.cpp:342
+msgid "Wales"
+msgstr "威尔士"
+
+#: iptcorigin.cpp:352 xmporigin.cpp:343
+msgid "Palestine"
+msgstr "巴勒斯坦"
+
+#: iptcorigin.cpp:353 xmporigin.cpp:344
+msgid "Gaza"
+msgstr "格拉茨"
+
+#: iptcorigin.cpp:354 xmporigin.cpp:345
+msgid "Jericho"
+msgstr "耶利哥"
+
+#: iptcorigin.cpp:402 xmporigin.cpp:382
+msgid "Digitization date"
+msgstr "数字化日期"
+
+#: iptcorigin.cpp:403
+msgid "Digitization time"
+msgstr "数字化时间"
+
+#: iptcorigin.cpp:411 xmporigin.cpp:389
+msgid "Set here the creation date of digital representation."
+msgstr "在此设定数字化采样的创建日期。"
+
+#: iptcorigin.cpp:413
+msgid "Set here the creation time of digital representation."
+msgstr "在此设定数字化采样的创建时间。"
+
+#: iptcorigin.cpp:420 xmporigin.cpp:396
+msgid "Creation date"
+msgstr "创建日期"
+
+#: iptcorigin.cpp:421
+msgid "Creation time"
+msgstr "创建时间"
+
+#: iptcorigin.cpp:427 xmporigin.cpp:401
+msgid "Sync EXIF creation date"
+msgstr "同步 EXIF 创建日期"
+
+#: iptcorigin.cpp:433 xmporigin.cpp:407
+msgid "Set here the creation date of intellectual content."
+msgstr "在此设定智能内容的创建日期。"
+
+#: iptcorigin.cpp:435
+msgid "Set here the creation time of intellectual content."
+msgstr "在此设定智能内容的创建时间。"
+
+#: iptcorigin.cpp:442
+msgid "Location:"
+msgstr "位置："
+
+#: iptcorigin.cpp:443
+msgid "Set here the full country name referenced by the content."
+msgstr "在此设定内容参考的完整国家名。"
+
+#: iptcorigin.cpp:454 xmpcredits.cpp:152 xmporigin.cpp:414
+msgid "City:"
+msgstr "城市："
+
+#: iptcorigin.cpp:459
+msgid ""
+"Set here the city of content origin. This field is limited to 32 ASCII "
+"characters."
+msgstr "在此设定内容起初的城市。本字段限 32 个 ASCII 字符。"
+
+#: iptcorigin.cpp:464 xmporigin.cpp:421
+msgid "Sublocation:"
+msgstr "次位置："
+
+#: iptcorigin.cpp:469
+msgid ""
+"Set here the content location within city. This field is limited to 32 ASCII "
+"characters."
+msgstr "在此设定城市中的内容位置。本字段限 32 个 ASCII 字符。"
+
+#: iptcorigin.cpp:474 xmporigin.cpp:428
+msgid "State/Province:"
+msgstr "州/省："
+
+#: iptcorigin.cpp:479
+msgid ""
+"Set here the Province or State of content origin. This field is limited to "
+"32 ASCII characters."
+msgstr "在此设定内容的来源州省。本字段限 32 个 ASCII 字符。"
+
+#: iptcorigin.cpp:484 xmpcredits.cpp:157 xmporigin.cpp:435
+msgid "Country:"
+msgstr "国家："
+
+#: iptcorigin.cpp:492
+msgid "Select here country name of content origin."
+msgstr "在此选择内容的来源国家名称。"
+
+#: iptcproperties.cpp:134
+msgid "Release date"
+msgstr "发布日期"
+
+#: iptcproperties.cpp:135
+msgid "Release time"
+msgstr "发布时间"
+
+#: iptcproperties.cpp:141
+msgid "Set release date to today"
+msgstr "设定发布日期为今天"
+
+#: iptcproperties.cpp:143
+#, fuzzy
+#| msgid "<p>Set here the creation date of intellectual content."
+msgid "Set here the earliest intended usable date of intellectual content."
+msgstr "在此设定智能内容的创建日期。"
+
+#: iptcproperties.cpp:145
+#, fuzzy
+#| msgid "<p>Set here the creation time of intellectual content."
+msgid "Set here the earliest intended usable time of intellectual content."
+msgstr "在此设定智能内容的创建时间。"
+
+#: iptcproperties.cpp:151
+msgid "Expiration date"
+msgstr "过期日期"
+
+#: iptcproperties.cpp:152
+msgid "Expiration time"
+msgstr "过期时间"
+
+#: iptcproperties.cpp:158
+msgid "Set expiration date to today"
+msgstr "设定过期日期为今天"
+
+#: iptcproperties.cpp:160
+#, fuzzy
+#| msgid "<p>Set here the creation date of intellectual content."
+msgid "Set here the latest intended usable date of intellectual content."
+msgstr "在此设定智能内容的创建日期。"
+
+#: iptcproperties.cpp:162
+#, fuzzy
+#| msgid "<p>Set here the creation time of intellectual content."
+msgid "Set here the latest intended usable time of intellectual content."
+msgstr "在此设定智能内容的创建时间。"
+
+#: iptcproperties.cpp:181 xmpproperties.cpp:175
+msgid "Select here the language of content."
+msgstr "在此选择内容的语言。"
+
+#: iptcproperties.cpp:196 xmpproperties.cpp:197
+msgid "Select here the editorial urgency of content."
+msgstr "在此选择内容的编辑紧急程度。"
+
+#: iptcproperties.cpp:200
+msgid "Cycle:"
+msgstr "时间段："
+
+#: iptcproperties.cpp:202
+msgid "Morning"
+msgstr "上午"
+
+#: iptcproperties.cpp:203
+msgid "Afternoon"
+msgstr "中午"
+
+#: iptcproperties.cpp:204
+msgid "Evening"
+msgstr "晚上"
+
+#: iptcproperties.cpp:205
+msgid "Select here the editorial cycle of content."
+msgstr "在此选择内容的编辑时间段。"
+
+#: iptcproperties.cpp:209 xmpproperties.cpp:213
+msgid "Type:"
+msgstr "类型："
+
+#: iptcproperties.cpp:215 xmpproperties.cpp:117
+msgid "News"
+msgstr "新闻"
+
+#: iptcproperties.cpp:216 xmpproperties.cpp:113
+msgid "Data"
+msgstr "数据"
+
+#: iptcproperties.cpp:217 xmpproperties.cpp:110
+msgid "Advisory"
+msgstr "劝告"
+
+#: iptcproperties.cpp:218
+msgid "Select here the editorial type of content."
+msgstr "在此选择内容的编辑类型。"
+
+#: iptcproperties.cpp:219
+msgid ""
+"Set here the editorial type description of content. This field is limited to "
+"64 ASCII characters."
+msgstr "在此设定内容的编辑类型描述。本字段限 64 个 ASCII 字符。"
+
+#: iptcproperties.cpp:228 subjects.cpp:191 xmpproperties.cpp:257
+msgid "Reference:"
+msgstr "参考："
+
+#: iptcproperties.cpp:233
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the city of content origin. This field is limited to 32 ASCII "
+#| "characters."
+msgid ""
+"Set here the original content transmission reference. This field is limited "
+"to 32 ASCII characters."
+msgstr "在此设定原始内容起初的位置。本字段限 32 个 ASCII 字符。"
+
+#: iptcstatus.cpp:90 xmpstatus.cpp:87
+msgid "Title:"
+msgstr "标题："
+
+#: iptcstatus.cpp:95
+msgid ""
+"Set here the shorthand reference of content. This field is limited to 64 "
+"ASCII characters."
+msgstr "在此设定内容的参考速记。本字段限 64 个 ASCII 字符。"
+
+#: iptcstatus.cpp:100
+msgid "Edit Status:"
+msgstr "编辑状态："
+
+#: iptcstatus.cpp:105
+msgid ""
+"Set here the title of content status. This field is limited to 64 ASCII "
+"characters."
+msgstr "在此设定内容状态的标题。本字段限 64 个 ASCII 字符。"
+
+#: iptcstatus.cpp:110
+msgid "Job Identifier:"
+msgstr "作业标识符："
+
+#: iptcstatus.cpp:115
+msgid ""
+"Set here the string that identifies content that recurs. This field is "
+"limited to 32 ASCII characters."
+msgstr "在此设定用来检验重现内容的字符串。本字段限 32 个 ASCII 字符。"
+
+#: iptcstatus.cpp:120 xmpstatus.cpp:104
+msgid "Special Instructions:"
+msgstr "特殊指令："
+
+#: iptcstatus.cpp:124
+msgid ""
+"Enter the editorial usage instructions. This field is limited to 256 ASCII "
+"characters."
+msgstr "输入编辑用法规定。本字段限 256 个 ASCII 字符。"
+
+#: iptcsubjects.cpp:59
+msgid ""
+"Enter here the Informative Provider Reference. I.P.R is a name registered "
+"with the IPTC/NAA, identifying the provider that provides an indicator of "
+"the content. The default value for the I.P.R is \"IPTC\" if a standard "
+"Reference Code is used. This field is limited to 32 ASCII characters."
+msgstr ""
+
+#: iptcsubjects.cpp:67
+msgid ""
+"Enter here the Subject Reference Number. Provides a numeric code to indicate "
+"the Subject Name plus optional Subject Matter and Subject Detail Names in "
+"the language of the service. Subject Reference is a number from the range "
+"01000000 to 17999999 and represent a language independent international "
+"reference to a Subject. A Subject is identified by its Reference Number and "
+"corresponding Names taken from a standard lists given by IPTC/NAA. If a "
+"standard reference code is used, these lists are the English language "
+"reference versions. This field is limited to 8 ASCII digit code."
+msgstr ""
+
+#: iptcsubjects.cpp:82
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the shorthand reference of content. This field is limited to "
+#| "64 ASCII characters."
+msgid ""
+"Enter here the Subject Name. English language is used if you selected a "
+"standard IPTC/NAA reference code. This field is limited to 64 ASCII "
+"characters."
+msgstr "在此设定内容的参考速记。本字段限 64 个 ASCII 字符。"
+
+#: iptcsubjects.cpp:89
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the shorthand reference of content. This field is limited to "
+#| "64 ASCII characters."
+msgid ""
+"Enter here the Subject Matter Name. English language is used if you selected "
+"a standard IPTC/NAA reference code. This field is limited to 64 ASCII "
+"characters."
+msgstr "在此设定内容的参考速记。本字段限 64 个 ASCII 字符。"
+
+#: iptcsubjects.cpp:96
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the shorthand reference of content. This field is limited to "
+#| "64 ASCII characters."
+msgid ""
+"Enter here the Subject Detail Name. English language is used if you selected "
+"a standard IPTC/NAA reference code. This field is limited to 64 ASCII "
+"characters."
+msgstr "在此设定内容的参考速记。本字段限 64 个 ASCII 字符。"
+
+#: multistringsedit.cpp:111 objectattributesedit.cpp:156
+msgid " This field is limited to:"
+msgstr " 本字段限于："
+
+#: multistringsedit.cpp:117 objectattributesedit.cpp:162
+msgid "<p>Printable ASCII characters.</p>"
+msgstr "<p>可打印 ASCII 字符。</p>"
+
+#: multistringsedit.cpp:123 objectattributesedit.cpp:168
+#, kde-format
+msgid "<p>1 character.</p>"
+msgid_plural "<p>%1 characters.</p>"
+msgstr[0] "<p>%1 个字符。</p>"
+
+#: objectattributesedit.cpp:101 xmpproperties.cpp:225
+msgid "Attribute:"
+msgstr "属性："
+
+#: objectattributesedit.cpp:123
+msgid "Select here the editorial attribute of content."
+msgstr "在此选择内容的编辑属性。"
+
+#: objectattributesedit.cpp:124 xmpproperties.cpp:232
+msgid "Current"
+msgstr "当前"
+
+#: objectattributesedit.cpp:125 xmpproperties.cpp:233
+msgid "Analysis"
+msgstr "分析"
+
+#: objectattributesedit.cpp:126 xmpproperties.cpp:234
+msgid "Archive material"
+msgstr "存档素材"
+
+#: objectattributesedit.cpp:127 xmpproperties.cpp:235
+msgid "Background"
+msgstr "背景"
+
+#: objectattributesedit.cpp:128 xmpproperties.cpp:236
+msgid "Feature"
+msgstr "特性"
+
+#: objectattributesedit.cpp:129 xmpproperties.cpp:237
+msgid "Forecast"
+msgstr "预测"
+
+#: objectattributesedit.cpp:130 xmpproperties.cpp:238
+msgid "History"
+msgstr "历史"
+
+#: objectattributesedit.cpp:131 xmpproperties.cpp:239
+msgid "Obituary"
+msgstr "讣告"
+
+#: objectattributesedit.cpp:132 xmpproperties.cpp:240
+msgid "Opinion"
+msgstr "评价"
+
+#: objectattributesedit.cpp:133 xmpproperties.cpp:241
+msgid "Polls & Surveys"
+msgstr "投票和调查"
+
+#: objectattributesedit.cpp:134 xmpproperties.cpp:242
+#, fuzzy
+#| msgid "Profile"
+msgctxt "Content type"
+msgid "Profile"
+msgstr "传略"
+
+#: objectattributesedit.cpp:135 xmpproperties.cpp:243
+msgid "Results Listings & Table"
+msgstr "结果清单和表格"
+
+#: objectattributesedit.cpp:136 xmpproperties.cpp:244
+msgid "Side bar & Supporting information"
+msgstr "侧边栏和支持信息"
+
+#: objectattributesedit.cpp:137 xmpproperties.cpp:245
+msgid "Summary"
+msgstr "摘要"
+
+#: objectattributesedit.cpp:138 xmpproperties.cpp:246
+msgid "Transcript & Verbatim"
+msgstr "副本和摹印"
+
+#: objectattributesedit.cpp:139 xmpproperties.cpp:247
+msgid "Interview"
+msgstr "面谈"
+
+#: objectattributesedit.cpp:140 xmpproperties.cpp:248
+msgid "From the Scene"
+msgstr "现场"
+
+#: objectattributesedit.cpp:141 xmpproperties.cpp:249
+msgid "Retrospective"
+msgstr "怀旧"
+
+#: objectattributesedit.cpp:142 xmpproperties.cpp:250
+msgid "Statistics"
+msgstr "统计"
+
+#: objectattributesedit.cpp:143 xmpproperties.cpp:251
+msgid "Update"
+msgstr "更新"
+
+#: objectattributesedit.cpp:144 xmpproperties.cpp:252
+msgid "Wrap-up"
+msgstr "简讯"
+
+#: objectattributesedit.cpp:145 xmpproperties.cpp:253
+msgid "Press Release"
+msgstr "新闻稿"
+
+#: objectattributesedit.cpp:151
+msgid ""
+"Set here the editorial attribute description of content. This field is "
+"limited to 64 ASCII characters."
+msgstr "在此设定内容的编辑属性描述。本字段限 64 个 ASCII 字符。"
+
+#: plugin_metadataedit.cpp:80
+msgid "Metadata"
+msgstr "元数据"
+
+#: plugin_metadataedit.cpp:84
+msgid "Edit EXIF..."
+msgstr "编辑 EXIF..."
+
+#: plugin_metadataedit.cpp:90
+msgid "Remove EXIF..."
+msgstr "删除 EXIF..."
+
+#: plugin_metadataedit.cpp:96
+msgid "Import EXIF..."
+msgstr "导入 EXIF..."
+
+#: plugin_metadataedit.cpp:106
+msgid "Edit IPTC..."
+msgstr "编辑 IPTC..."
+
+#: plugin_metadataedit.cpp:112
+msgid "Remove IPTC..."
+msgstr "删除 IPTC..."
+
+#: plugin_metadataedit.cpp:118
+msgid "Import IPTC..."
+msgstr "导入 IPTC..."
+
+#: plugin_metadataedit.cpp:128
+msgid "Edit XMP..."
+msgstr "编辑 XMP..."
+
+#: plugin_metadataedit.cpp:134
+msgid "Remove XMP..."
+msgstr "删除 XMP..."
+
+#: plugin_metadataedit.cpp:140
+msgid "Import XMP..."
+msgstr "导入 XMP..."
+
+#: plugin_metadataedit.cpp:150
+msgid "Edit Captions..."
+msgstr "编辑说明..."
+
+#: plugin_metadataedit.cpp:156
+msgid "Remove Captions..."
+msgstr "删除说明..."
+
+#: plugin_metadataedit.cpp:201
+msgid ""
+"EXIF metadata will be permanently removed from all currently selected "
+"pictures.\n"
+"Do you want to continue?"
+msgstr ""
+"将要永久删除当前所有选中图片的 EXIF 元数据。\n"
+"您想要继续吗？"
+
+#: plugin_metadataedit.cpp:203 plugin_metadataedit.cpp:248
+msgid "Remove EXIF Metadata"
+msgstr "删除 EXIF 元数据"
+
+#: plugin_metadataedit.cpp:246
+msgid "Unable to remove EXIF metadata from:"
+msgstr "无法删除 EXIF 信息："
+
+#: plugin_metadataedit.cpp:266
+msgid "Select File to Import EXIF metadata"
+msgstr "选择要导入 EXIF 元数据的文件"
+
+#: plugin_metadataedit.cpp:276 plugin_metadataedit.cpp:443
+#: plugin_metadataedit.cpp:610
+#, kde-format
+msgid "Cannot load metadata from \"%1\""
+msgstr "无法从“%1”中装入元数据"
+
+#: plugin_metadataedit.cpp:277 plugin_metadataedit.cpp:286
+#: plugin_metadataedit.cpp:295 plugin_metadataedit.cpp:340
+msgid "Import EXIF Metadata"
+msgstr "导入 EXIF 元数据"
+
+#: plugin_metadataedit.cpp:285
+#, kde-format
+msgid "\"%1\" does not have EXIF metadata."
+msgstr "“%1”没有 EXIF 元数据。"
+
+#: plugin_metadataedit.cpp:292
+#, kde-format
+msgid ""
+"EXIF metadata from the currently selected pictures will be permanently "
+"replaced by the EXIF content of \"%1\".\n"
+"Do you want to continue?"
+msgstr ""
+"将要把当前所有选中图片的 EXIF 元数据替换为“%1”的 EXIF 内容。\n"
+"您想要继续吗？"
+
+#: plugin_metadataedit.cpp:338
+msgid "Unable to set EXIF metadata from:"
+msgstr "无法设定 EXIF 元数据："
+
+#: plugin_metadataedit.cpp:368
+msgid ""
+"IPTC metadata will be permanently removed from all currently selected "
+"pictures.\n"
+"Do you want to continue?"
+msgstr ""
+"将要永久删除当前所有选中图片的 IPTC 元数据。\n"
+"您想要继续吗？"
+
+#: plugin_metadataedit.cpp:370 plugin_metadataedit.cpp:415
+msgid "Remove IPTC Metadata"
+msgstr "删除 IPTC 元数据"
+
+#: plugin_metadataedit.cpp:413
+msgid "Unable to remove IPTC metadata from:"
+msgstr "无法删除 IPTC 元数据："
+
+#: plugin_metadataedit.cpp:433
+msgid "Select File to Import IPTC metadata"
+msgstr "选择要导入 IPTC 元数据的文件"
+
+#: plugin_metadataedit.cpp:444 plugin_metadataedit.cpp:453
+#: plugin_metadataedit.cpp:462 plugin_metadataedit.cpp:507
+msgid "Import IPTC Metadata"
+msgstr "导入 IPTC 元数据"
+
+#: plugin_metadataedit.cpp:452
+#, kde-format
+msgid "\"%1\" does not have IPTC metadata."
+msgstr "“%1”没有 IPTC 元数据。"
+
+#: plugin_metadataedit.cpp:459
+#, kde-format
+msgid ""
+"IPTC metadata from the currently selected pictures will be permanently "
+"replaced by the IPTC content of \"%1\".\n"
+"Do you want to continue?"
+msgstr ""
+"将要把当前所有选中图片的 IPTC 元数据替换为“%1”的 IPTC 内容。\n"
+"您想要继续吗？"
+
+#: plugin_metadataedit.cpp:505
+msgid "Unable to set IPTC metadata from:"
+msgstr "无法设定 IPTC 元数据："
+
+#: plugin_metadataedit.cpp:535
+msgid ""
+"XMP metadata will be permanently removed from all of the currently selected "
+"pictures.\n"
+"Do you want to continue?"
+msgstr ""
+"将要永久删除当前所有选中图片的 XMP 元数据。\n"
+"您想要继续吗？"
+
+#: plugin_metadataedit.cpp:537 plugin_metadataedit.cpp:582
+msgid "Remove XMP Metadata"
+msgstr "删除 XMP 元数据"
+
+#: plugin_metadataedit.cpp:580
+msgid "Unable to remove XMP metadata from:"
+msgstr "无法删除 XMP 元数据："
+
+#: plugin_metadataedit.cpp:600
+msgid "Select File to Import XMP metadata"
+msgstr "选择要导入 XMP 元数据的文件"
+
+#: plugin_metadataedit.cpp:611 plugin_metadataedit.cpp:620
+#: plugin_metadataedit.cpp:629 plugin_metadataedit.cpp:674
+msgid "Import XMP Metadata"
+msgstr "导入 IPTC 元数据"
+
+#: plugin_metadataedit.cpp:619
+#, kde-format
+msgid "\"%1\" does not have XMP metadata."
+msgstr "“%1”没有 XMP 元数据。"
+
+#: plugin_metadataedit.cpp:626
+#, kde-format
+msgid ""
+"XMP metadata from the currently selected pictures will be permanently "
+"replaced by the XMP content of \"%1\".\n"
+"Do you want to continue?"
+msgstr ""
+"将要把当前所有选中图片的 XMP 元数据替换为“%1”的 XMP 内容。\n"
+"您想要继续吗？"
+
+#: plugin_metadataedit.cpp:672
+msgid "Unable to set XMP metadata from:"
+msgstr "无法设定 XMP 元数据："
+
+#: plugin_metadataedit.cpp:761
+msgid "Unable to set captions as image metadata from:"
+msgstr "无法将说明设为图像元数据："
+
+#: plugin_metadataedit.cpp:842
+msgid "Unable to remove caption as image metadata from:"
+msgstr "无法将说明从图像元数据中删除："
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "KDE 中国,Ni Hui"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kde-china@kde.com,shuizhuyuanluo@126.com"
+
+#: subjects.cpp:134
+msgid "Use structured definition of the subject matter:"
+msgstr "使用主事件的结构定义："
+
+#: subjects.cpp:140
+msgid ""
+"Use standard <b><a href='http://www.iptc.org/NewsCodes'>reference code</a></"
+"b>"
+msgstr ""
+
+#: subjects.cpp:146
+msgid "Use custom definition"
+msgstr "使用自定义"
+
+#: subjects.cpp:190
+msgid "I.P.R:"
+msgstr "I.P.R："
+
+#: subjects.cpp:192
+msgid "Name:"
+msgstr "名称："
+
+#: subjects.cpp:193
+msgid "Matter:"
+msgstr "事项："
+
+#: subjects.cpp:194
+msgid "Detail:"
+msgstr "详情："
+
+#: xmpcategories.cpp:89
+msgid ""
+"Set here the category of content. This field is limited to 3 characters."
+msgstr "在此设定内容的分类。本字段限 3 个 ASCII 字符。"
+
+#: xmpcategories.cpp:96
+msgid "Enter here a new supplemental category of content."
+msgstr "在此输入一个新的内容增补分类。"
+
+#: xmpcontent.cpp:93
+msgid "Enter here the content synopsis."
+msgstr "在此输入内容概要。"
+
+#: xmpcontent.cpp:98
+msgid "Enter the content description."
+msgstr "输入内容描述。"
+
+#: xmpcontent.cpp:100
+msgid "Default Language Caption Options"
+msgstr "默认语言选项"
+
+#: xmpcontent.cpp:123
+msgid "Enter the necessary copyright notice."
+msgstr "输入必需的版权通知。"
+
+#: xmpcredits.cpp:124
+msgid "Contact"
+msgstr "联系"
+
+#: xmpcredits.cpp:127
+msgid "E-mail:"
+msgstr "电子邮件："
+
+#: xmpcredits.cpp:130
+msgid "Set here the contact e-mail."
+msgstr "在此设定用于联系的电子邮件。"
+
+#: xmpcredits.cpp:132
+msgid "URL:"
+msgstr "URL："
+
+#: xmpcredits.cpp:135
+msgid "Set here the contact URL."
+msgstr "在此设定用于联系的 URL。"
+
+#: xmpcredits.cpp:137
+msgid "Phone:"
+msgstr "电话："
+
+#: xmpcredits.cpp:140
+msgid "Set here the contact 'phone number."
+msgstr "在此设定用于联系的电话号码。"
+
+#: xmpcredits.cpp:142
+msgctxt "Street address"
+msgid "Address:"
+msgstr "地址："
+
+#: xmpcredits.cpp:145
+msgid "Set here the contact address."
+msgstr "在此设定用于联系的地址。"
+
+#: xmpcredits.cpp:147
+msgid "Postal code:"
+msgstr "邮政编码："
+
+#: xmpcredits.cpp:150
+msgid "Set here the contact postal code."
+msgstr "在此设定用于联系的邮政编码。"
+
+#: xmpcredits.cpp:155
+msgid "Set here the contact city."
+msgstr "在此设定用于联系的城市。"
+
+#: xmpcredits.cpp:160
+msgid "Set here the contact country."
+msgstr "在此设定用于联系的国家。"
+
+#: xmpcredits.cpp:185
+msgid "Set here the content provider."
+msgstr "在此设定内容提供者。"
+
+#: xmpcredits.cpp:192
+msgid "Set here the original owner of content."
+msgstr "在此设定内容的原拥有人。"
+
+#: xmpeditdialog.cpp:209
+msgid "(c) 2007-2009, Gilles Caulier"
+msgstr "(c) 2007-2009，Gilles Caulier"
+
+#: xmpeditdialog.cpp:363
+msgid "Edit XMP Metadata"
+msgstr "编辑 XMP 元数据"
+
+#: xmpkeywords.cpp:85
+msgid "Enter here a new keyword."
+msgstr "在此输入一个新密码。"
+
+#: xmporigin.cpp:417
+msgid "Set here the content's city of origin."
+msgstr "在此设定内容的来源城市。"
+
+#: xmporigin.cpp:424
+msgid "Set here the content's location within the city."
+msgstr "在此设定城市中图像内容发生的位置。"
+
+#: xmporigin.cpp:431
+msgid "Set here the content's Province or State of origin."
+msgstr "在此设定内容的来源州或省。"
+
+#: xmporigin.cpp:443
+msgid "Select here the content's country of origin."
+msgstr "在此设定内容的来源国家。"
+
+#: xmpproperties.cpp:85
+msgid "Headshot"
+msgstr "大头照"
+
+#: xmpproperties.cpp:86
+msgid "Half-length"
+msgstr "半身照"
+
+#: xmpproperties.cpp:87
+msgid "Full-length"
+msgstr "全身照"
+
+#: xmpproperties.cpp:88
+#, fuzzy
+#| msgid "Profile"
+msgctxt "Side view of a person"
+msgid "Profile"
+msgstr "传略"
+
+#: xmpproperties.cpp:89
+msgid "Rear view"
+msgstr "身后照"
+
+#: xmpproperties.cpp:90
+msgid "Single"
+msgstr "单人照"
+
+#: xmpproperties.cpp:91
+msgid "Couple"
+msgstr "双人照"
+
+#: xmpproperties.cpp:92
+msgid "Two"
+msgstr ""
+
+#: xmpproperties.cpp:93
+msgid "Group"
+msgstr "集体照"
+
+#: xmpproperties.cpp:94
+msgid "General view"
+msgstr "常规图"
+
+#: xmpproperties.cpp:95
+msgid "Panoramic view"
+msgstr "全景图"
+
+#: xmpproperties.cpp:96
+msgid "Aerial view"
+msgstr "空中鸟瞰图"
+
+#: xmpproperties.cpp:97
+msgid "Under-water"
+msgstr "水下图"
+
+#: xmpproperties.cpp:99
+msgid "Satellite"
+msgstr "卫星图"
+
+#: xmpproperties.cpp:100
+msgid "Exterior view"
+msgstr "外视图"
+
+#: xmpproperties.cpp:101
+msgid "Interior view"
+msgstr "内视图"
+
+#: xmpproperties.cpp:102
+msgid "Close-up"
+msgstr "特写"
+
+#: xmpproperties.cpp:103
+msgid "Action"
+msgstr "动作图"
+
+#: xmpproperties.cpp:104
+msgid "Performing"
+msgstr "表演"
+
+#: xmpproperties.cpp:105
+msgid "Posing"
+msgstr "造型"
+
+#: xmpproperties.cpp:106
+msgid "Symbolic"
+msgstr "象征图"
+
+#: xmpproperties.cpp:107
+msgid "Off-beat"
+msgstr ""
+
+#: xmpproperties.cpp:108
+msgid "Movie scene"
+msgstr "电影剪辑"
+
+#: xmpproperties.cpp:111
+msgid "Alert"
+msgstr "警告"
+
+#: xmpproperties.cpp:112
+msgid "Catalog"
+msgstr "目录"
+
+#: xmpproperties.cpp:114
+msgid "Document"
+msgstr "文档"
+
+#: xmpproperties.cpp:115
+msgid "DTD"
+msgstr "DTD"
+
+#: xmpproperties.cpp:116
+msgid "Maintenance"
+msgstr "维护"
+
+#: xmpproperties.cpp:118
+msgid "News Management Mode"
+msgstr "新闻管理模式"
+
+#: xmpproperties.cpp:119
+msgid "Package"
+msgstr "包"
+
+#: xmpproperties.cpp:120
+msgid "Schema"
+msgstr "方案"
+
+#: xmpproperties.cpp:121
+msgid "Topic"
+msgstr "主题"
+
+#: xmpproperties.cpp:122
+msgid "Topic Set"
+msgstr "主题设定"
+
+#: xmpproperties.cpp:201
+msgid "Scene:"
+msgstr "场景："
+
+#: xmpproperties.cpp:202
+msgid "Select here the scene type of the content."
+msgstr "在此设定内容的场景模式。"
+
+#: xmpproperties.cpp:214
+msgid "Select here the editorial type of the content."
+msgstr "在此选择内容的编辑类型。"
+
+#: xmpproperties.cpp:229
+msgid "Set here the editorial attribute description of the content."
+msgstr "在此设定内容的编辑属性描述。"
+
+#: xmpproperties.cpp:231
+msgid "Select here the editorial attribute of the content."
+msgstr "在此选择内容的编辑属性。"
+
+#: xmpproperties.cpp:260
+#, fuzzy
+#| msgid "<p>Set here the city of content origin."
+msgid "Set here the original content transmission reference."
+msgstr "在此设定内容的来源城市。"
+
+#: xmpstatus.cpp:88
+msgid "Set here a shorthand reference for the content."
+msgstr "在此设定内容的速记参考。"
+
+#: xmpstatus.cpp:92
+msgid "Nickname:"
+msgstr "昵称："
+
+#: xmpstatus.cpp:95
+msgid "A short informal name for the resource."
+msgstr "简短而有意义的资源名称。"
+
+#: xmpstatus.cpp:99
+msgid "Identifiers:"
+msgstr "标识符："
+
+#: xmpstatus.cpp:100
+msgid "Set here the strings that identify content that recurs."
+msgstr "在此设定标识内容重现的字符串。"
+
+#: xmpstatus.cpp:106
+msgid "Enter the editorial usage instructions."
+msgstr "输入编辑用法说明。"
+
+#: xmpsubjects.cpp:59
+msgid ""
+"Enter here the Informative Provider Reference. I.P.R is a name registered "
+"with the XMP/NAA, identifying the provider that provides an indicator of the "
+"content. The default value for the I.P.R is \"XMP\" if a standard Reference "
+"Code is used."
+msgstr ""
+
+#: xmpsubjects.cpp:65
+msgid ""
+"Enter here the Subject Reference Number. Provides a numeric code to indicate "
+"the Subject Name plus optional Subject Matter and Subject Detail Names in "
+"the language of the service. Subject Reference is a number from the range "
+"01000000 to 17999999 and represent a language independent international "
+"reference to a Subject. A Subject is identified by its Reference Number and "
+"corresponding Names taken from a standard lists given by XMP/NAA. If a "
+"standard reference code is used, these lists are the English language "
+"reference versions. This field is limited to 8 digit code."
+msgstr ""
+
+#: xmpsubjects.cpp:78
+msgid ""
+"Enter here the Subject Name. English language is used if you selected a "
+"standard XMP/NAA reference code."
+msgstr ""
+
+#: xmpsubjects.cpp:82
+msgid ""
+"Enter here the Subject Matter Name. English language is used if you selected "
+"a standard XMP/NAA reference code."
+msgstr ""
+
+#: xmpsubjects.cpp:86
+msgid ""
+"Enter here the Subject Detail Name. English language is used if you selected "
+"a standard XMP/NAA reference code."
+msgstr ""

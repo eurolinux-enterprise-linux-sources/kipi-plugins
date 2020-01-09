@@ -1,0 +1,342 @@
+# translation of kipiplugin_rawconverter.po to Khmer
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Khoem Sokhem <khoemsokhem@khmeros.info>, 2008.
+# Auk Piseth <piseth_dv@khmeros.info>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_rawconverter\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-24 06:20+0200\n"
+"PO-Revision-Date: 2008-12-19 09:02+0700\n"
+"Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
+"Language-Team: Khmer <support@khmeros.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"\n"
+
+#: actionthread.cpp:235
+#, fuzzy
+#| msgid "Cannot identify Raw image"
+msgid "Cannot identify RAW image"
+msgstr "មិន​អាច​កំណត់អត្តសញ្ញាណ​រូបភាព​ដើម"
+
+#: actionthread.cpp:242
+#, kde-format
+msgid "Make: %1\n"
+msgstr "បង្កើត ៖ %1\n"
+
+#: actionthread.cpp:243
+#, kde-format
+msgid "Model: %1\n"
+msgstr "ម៉ូដែល ៖ %1\n"
+
+#: actionthread.cpp:247
+#, kde-format
+msgid "Created: %1\n"
+msgstr "បានបង្កើត ៖ %1\n"
+
+#: actionthread.cpp:254
+#, kde-format
+msgid "Aperture: f/%1\n"
+msgstr "លំហ ៖ f/%1\n"
+
+#: actionthread.cpp:259
+#, kde-format
+msgid "Focal: %1 mm\n"
+msgstr "ប្រសព្វគ្នា ៖ %1 ម.ម.\n"
+
+#: actionthread.cpp:264
+#, kde-format
+msgid "Exposure: 1/%1 s\n"
+msgstr "ផ្សាយ ៖ 1/%1 s\n"
+
+#: actionthread.cpp:269
+#, kde-format
+msgid "Sensitivity: %1 ISO"
+msgstr "ដឹង ៖ %1 ISO"
+
+#: batchdialog.cpp:148 singledialog.cpp:213
+#, fuzzy
+#| msgid "Exit Raw Converter"
+msgid "Exit RAW Converter"
+msgstr "ចេញ​ពី​កម្មវិធី​បម្លែង​ដើម"
+
+#: batchdialog.cpp:149
+#, fuzzy
+#| msgid "Raw Images Batch Converter"
+msgid "RAW Image Batch Converter"
+msgstr "កម្មវិធី​បម្លែង​រូបភាព​ដើម"
+
+#: batchdialog.cpp:152
+msgid "&Add"
+msgstr "បន្ថែម"
+
+#: batchdialog.cpp:153
+#, fuzzy
+#| msgid "Add new Raw files to the list"
+msgid "Add new RAW files to the list"
+msgstr "បន្ថែម​ឯកសារ​ដើម​ទៅ​កាន់​បញ្ជី"
+
+#: batchdialog.cpp:155
+msgid "&Remove"
+msgstr "យក​ចេញ​"
+
+#: batchdialog.cpp:156
+#, fuzzy
+#| msgid "Remove selected Raw files from the list"
+msgid "Remove selected RAW files from the list"
+msgstr "យក​ឯកសារ​ដើម​ដែល​បាន​ជ្រើស​ពី​បញ្ជី"
+
+#: batchdialog.cpp:175
+msgid "Thumbnail"
+msgstr "រូបភាព​តូចៗ"
+
+#: batchdialog.cpp:176
+#, fuzzy
+#| msgid "Raw File"
+msgid "RAW File"
+msgstr "ឯកសារ​ដើម"
+
+#: batchdialog.cpp:177
+msgid "Target File"
+msgstr "ឯកសារ​គោលដៅ"
+
+#: batchdialog.cpp:178
+msgid "Camera"
+msgstr "ម៉ាស៊ីន​ថត​រូប"
+
+#: batchdialog.cpp:195 batchdialog.cpp:199 singledialog.cpp:158
+#: singledialog.cpp:161
+msgid "Save settings"
+msgstr "រក្សា​ទុក​ការ​កំណត់"
+
+#: batchdialog.cpp:220 singledialog.cpp:140 singledialog.cpp:176
+msgid "RAW Image Converter"
+msgstr "កម្មវិធី​បម្លែង​រូបភាព​ដើម"
+
+#: batchdialog.cpp:223
+#, fuzzy
+#| msgid "A Kipi plugin to batch convert Raw images"
+msgid "A Kipi plugin to batch convert RAW images"
+msgstr "កម្មវិធី​ជំនួយ Kipi ដើម្បី​បម្លែង​រូបភាព​ដើម"
+
+#: batchdialog.cpp:224 singledialog.cpp:180
+#, fuzzy
+#| msgid ""
+#| "(c) 2003-2005, Renchi Raju\n"
+#| "(c) 2006-2008, Gilles Caulier"
+msgid ""
+"(c) 2003-2005, Renchi Raju\n"
+"(c) 2006-2009, Gilles Caulier"
+msgstr ""
+"រក្សាសិទ្ធិ​ឆ្នាំ ២០០៣-២០០៥ ដោយ Renchi Raju\n"
+"រក្សាសិទ្ធិ​ឆ្នាំ ២០០៦-២០០៨ ដោយ Gilles Caulier"
+
+#: batchdialog.cpp:227 singledialog.cpp:183
+msgid "Renchi Raju"
+msgstr "Renchi Raju"
+
+#: batchdialog.cpp:228 singledialog.cpp:184
+msgid "Author"
+msgstr "អ្នក​និពន្ធ"
+
+#: batchdialog.cpp:231 singledialog.cpp:187
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: batchdialog.cpp:232 singledialog.cpp:188
+msgid "Developer and maintainer"
+msgstr "អ្នក​អភិវឌ្ឍន៍ និង​អ្នក​ថែទាំ"
+
+#: batchdialog.cpp:240 singledialog.cpp:196
+#, fuzzy
+#| msgid "Plugin Handbook"
+msgid "Handbook"
+msgstr "សៀវភៅ​ដៃ​កម្មវិធី​ជំនួយ"
+
+#: batchdialog.cpp:452
+#, fuzzy
+#| msgid "There is no Raw file to process in the list!"
+msgid "There is no RAW file in the list to process."
+msgstr "មិន​មាន​ឯកសារ​ដើម​ត្រូវ​ដំណើរការ​នៅ​ក្នុង​បញ្ជីទេ !"
+
+#: batchdialog.cpp:668 singledialog.cpp:139
+msgid "&Abort"
+msgstr "បោះបង់"
+
+#: batchdialog.cpp:669 singledialog.cpp:211
+#, fuzzy
+#| msgid "Abort the current Raw file conversion"
+msgid "Abort the current RAW file conversion"
+msgstr "បោះបង់​ការ​បម្លែង​ឯកសារ​ដើម​បច្ចុប្បន្ន"
+
+#: batchdialog.cpp:674 singledialog.cpp:138
+msgid "Con&vert"
+msgstr "បម្លែង"
+
+#: batchdialog.cpp:675
+#, fuzzy
+#| msgid "Start converting the Raw images from current settings"
+msgid "Start converting the RAW images using current settings."
+msgstr "ចាប់ផ្ដើម​បម្លែង​រូបភាព​ដើម​ពី​ការ​កំណត់​បច្ចុប្បន្ន"
+
+#: batchdialog.cpp:725 singledialog.cpp:580
+#, fuzzy, kde-format
+#| msgid "Save Raw Image converted from '%1' as"
+msgid "Save RAW image converted from '%1' as"
+msgstr "រក្សាទុក​រូបភាព​ដើម​ដែល​បាន​បម្លែង​ពី '%1' ជា"
+
+#: batchdialog.cpp:754 singledialog.cpp:607
+#, kde-format
+msgid "Failed to save image %1"
+msgstr "បាន​បរាជ័យ​ក្នុង​រក្សាទុក​រូបភាព %1"
+
+#: plugin_rawconverter.cpp:86
+#, fuzzy
+#| msgid "RAW Image Converter"
+msgid "RAW Image Converter..."
+msgstr "កម្មវិធី​បម្លែង​រូបភាព​ដើម"
+
+#: plugin_rawconverter.cpp:95
+#, fuzzy
+#| msgid "Batch Raw Converter..."
+msgid "Batch RAW Converter..."
+msgstr "កម្មវិធី​បម្លែង​ដើម..."
+
+#: plugin_rawconverter.cpp:169
+#, fuzzy, kde-format
+#| msgid "\"%1\" is not a Raw file."
+msgid "\"%1\" is not a RAW file."
+msgstr "\"%1\" មិន​មែន​ជា​ឯកសារ​ដើម ។"
+
+#: previewwidget.cpp:90
+msgid "Failed to load image after processing"
+msgstr "បាន​បរាជ័យ​ក្នុង​កា​រផ្ទុក​រូបភាព​បន្ទាប់​ពី​ដំណើរការ"
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ខឹម សុខែម, ​អេង វណ្ណៈ, អោក ពិសិដ្ឋ​"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "khoemsokhem@khmeros.info,​​evannak@khmeros.info,piseth_dv@khmeros.info"
+
+#: savesettingswidget.cpp:75
+msgid "Output file format:"
+msgstr "ទ្រង់ទ្រាយ​ឯកសារ​លទ្ធផល ៖"
+
+#: savesettingswidget.cpp:77
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the output file format to use:</p><p><b>JPEG</b>: output the "
+#| "processed image in JPEG Format. this format will give smaller-sized "
+#| "files. Minimum JPEG compression level will be used during Raw conversion."
+#| "</p><p><b>Warning!!! duing of destructive compression algorithm, JPEG is "
+#| "a lossy quality format.</b></p><p><b>TIFF</b>: output the processed image "
+#| "in TIFF Format. This generates larges, without losing quality. Adobe "
+#| "Deflate compression will be used during conversion.</p><p><b>PPM</b>: "
+#| "output the processed image in PPM Format. This generates the largest "
+#| "files, without losing quality.</p><p><b>PNG</b>: output the processed "
+#| "image in PNG Format. This generates larges, without losing quality. "
+#| "Maximum PNG compression will be used during conversion.</p>"
+msgid ""
+"<p>Set the output file format to use here:</p><p><b>JPEG</b>: output the "
+"processed image in JPEG format. This format will give smaller-sized files. "
+"Minimum JPEG compression level will be used during RAW conversion.</"
+"p><p><b>Warning: Due to the destructive compression algorithm, JPEG is a "
+"lossy quality format.</b></p><p><b>TIFF</b>: output the processed image in "
+"TIFF format. This generates large files, without losing quality. Adobe "
+"Deflate compression will be used during conversion.</p><p><b>PPM</b>: output "
+"the processed image in PPM format. This generates the largest files, without "
+"losing quality.</p><p><b>PNG</b>: output the processed image in PNG format. "
+"This generates large files, without losing quality. Maximum PNG compression "
+"will be used during conversion.</p>"
+msgstr ""
+"<p>នៅ​ទីនេះ​កំណត់​ទ្រង់ទ្រាយ​ឯកសារ​លទ្ធផល​ត្រូវ​ប្រើ ៖</p><p><b>JPEG</b> ៖ លទ្ធផល​បាន​ដំណើរការ​"
+"រូបភាព​នៅ​ក្នុងទ្រង់ទ្រាយ JPEG ។ ទ្រង់ទ្រាយ​នេះ​នឹង​ផ្ដល់​នូវ​ឯកសារ​ដែល​មាន​ទំហំតូច​ជាង ។ កម្រិង​បង្ហាប់ "
+"JPEG អប្បបរមា​នឹង​ត្រូវ​បានប្រើ​កំឡុង​ពេល​បម្លែង​ឯកសា​រដើម ។</p><p><b>ព្រមាន !!! នៅ​ក្នុង​លោការីត​"
+"បង្ហាប់​​ធ្វើ​ឲ្យ​វិនាស  JPEG គឺ​ជា​ទ្រង់ទ្រាយ​គុណភាព​មិនល្អ ។</b></p><p><b>TIFF</b> ៖ លទ្ធផល​បាន​"
+"ដំណើរការ​នៅ​ក្នុង​ទ្រង់ទ្រាយ TIFF  ។ វា​បង្កើត​គុណភាព​ធំ ដោយមិន​បាត់បង់​គុណភាព ។ ការ​បង្ហាប់ Adobe "
+"Deflate នឹង​ត្រូវ​បាន​ប្រើ​កំឡុង​ពេល​បម្លែង ។</p><p><b>PPM</b> ៖ លទ្ធផល​បាន​ដំណើរការ​រូបភាព​នៅ​ក្នុង​"
+"ទ្រង់ទ្រាយ PPM ។ វា​បង្កើត​ឯកសារ​ធំ​បំផុត ដោយ​មិនបាត់បង់​គុណភាព ។</p><p><b>PNG</b> ៖ លទ្ធផល​បាន​"
+"បង្កើត​រូបភាព​នៅ​ក្នុង​ទ្រង់ទ្រាយ PNG  ។ វា​បង្កើត​​រូបភាព​ធំ ដោយ​មិនបាត់បង់​គុណភាព ។ ការ​បង្ហាប់ PNG "
+"អតិបរមា​នឹង​ត្រូវ​បាន​ប្រើ​កំឡុង​ពេល​បម្លែង ។</p>"
+
+#: savesettingswidget.cpp:96
+msgid "If Target File Exists:"
+msgstr "ប្រសិនបើ​មាន​ឯកសារ​គោលដៅ ៖"
+
+#: savesettingswidget.cpp:100
+msgid "Overwrite automatically"
+msgstr "សេរសេរ​ជាន់​លើ​ដោយ​ស្វ័យ​ប្រវត្តិ"
+
+#: savesettingswidget.cpp:101
+msgid "Open rename-file dialog"
+msgstr "បើក​ប្រអប់​ប្ដូរ​ឈ្មោះ​ឯកសារ"
+
+#: singledialog.cpp:137
+msgid "&Preview"
+msgstr "មើល​ជា​មុន"
+
+#: singledialog.cpp:179
+#, fuzzy
+#| msgid "A Kipi plugin to convert a Raw image"
+msgid "A Kipi plugin to convert RAW images"
+msgstr "កម្មវិធី​ជំនួយ Kipi ដើម្បី​បម្លែង​រូបភាព​ដើម"
+
+#: singledialog.cpp:204
+#, fuzzy
+#| msgid ""
+#| "Generate a Preview from current settings. Uses a simple bilinear "
+#| "interpolation for quick results."
+msgid ""
+"Generate a preview using current settings. Uses a simple bilinear "
+"interpolation for quick results."
+msgstr ""
+"បង្កើត​ការ​មើល​ជា​មុន​ពី​ការ​កំណត់​បច្ចុប្បន្ន ។ ប្រើការ​កែខៃ​លីនេអ៊ែរ​ច្រើន​ធម្មតា​ដើម្បី​ឲ្យ​បាន​ល​ទ្ធផល​លឿន ។"
+
+#: singledialog.cpp:208
+#, fuzzy
+#| msgid ""
+#| "Convert the Raw Image from current settings. This uses a high-quality "
+#| "adaptive algorithm."
+msgid ""
+"Convert the RAW Image using current settings. This uses a high-quality "
+"adaptive algorithm."
+msgstr "បម្លែង​រូបភាព​ដើម​ពី​ការ​កំណត់​បច្ចុប្បន្ន ។ វា​ប្រើ​លោការីតដែល​អាច​ផ្លាស់ប្ដូរ​បាន​គុណភាព​ខ្ពស់ ។"
+
+#: singledialog.cpp:537
+msgid "Failed to generate preview"
+msgstr "បាន​បរាជ័យ​ក្នុងកា​របង្កើត​កា​រមើលជា​មុន"
+
+#: singledialog.cpp:624
+#, fuzzy
+#| msgid "Failed to convert Raw image"
+msgid "Failed to convert RAW image"
+msgstr "បាន​បរាជ័យ​ក្នុង​កា​របម្លែង​រូបភាព​ដើម"
+
+#: singledialog.cpp:629
+msgid "Generating Preview..."
+msgstr "កំពុង​បង្កើត​កា​រមើលជា​មុន..."
+
+#: singledialog.cpp:642
+#, fuzzy
+#| msgid "Converting Raw Image..."
+msgid "Converting RAW Image..."
+msgstr "កំពុង​បម្លែង​រូបភាព​ដើម..."
+
+#~ msgid "Abort the current Raw files conversion"
+#~ msgstr "បោះបង់​ការ​បម្លែង​ឯកសារ​ដើម​បច្ចុប្បន្ន"
+
+#~ msgid "Raw Image Converter..."
+#~ msgstr "កម្មវិធី​បម្លែង​រូបភាព​ដើម..."
+
+#~ msgid "Raw Image Converter"
+#~ msgstr "កម្មវិធី​បម្លែង​រូបភាព​ដើម"

@@ -1,0 +1,1937 @@
+# tradução do kipiplugin_batchprocessimages.po para Brazilian Portuguese
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# André Marcelo Alvarenga <andrealvarenga@gmx.net>, 2009.
+# Luiz Fernando Ranghetti <elchevive@opensuse.org>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_batchprocessimages\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-30 06:25+0100\n"
+"PO-Revision-Date: 2009-10-24 00:36-0200\n"
+"Last-Translator: André Marcelo Alvarenga <andrealvarenga@gmx.net>\n"
+"Language-Team: Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: batchprocessimagesdialog.cpp:100 batchprocessimagesdialog.cpp:868
+#: renameimagesdialog.cpp:57
+msgid "&Start"
+msgstr "&Iniciar"
+
+#: batchprocessimagesdialog.cpp:128
+msgid "You can choose here the options to use for the current process."
+msgstr "Você pode escolher aqui as opções para uso do processo atual."
+
+#: batchprocessimagesdialog.cpp:130
+msgid ""
+"If you enable this option, all preview effects will be calculated on a small "
+"zone of the image (300x300 pixels in the top left corner). Enable this "
+"option if you have a slow computer."
+msgstr ""
+"Se habilitar esta opção, todos os efeitos de visualização serão calculados "
+"em uma pequena área da imagem (300x300 pixels no canto superior esquerdo). "
+"Habilite esta opção se possuir um computador lento."
+
+#: batchprocessimagesdialog.cpp:135
+msgid ""
+"This button builds a process preview for the currently selected image on the "
+"list."
+msgstr ""
+"Este botão cria uma visualização da imagem atualmente selecionada na lista."
+
+#: batchprocessimagesdialog.cpp:138 batchprocessimagesdialog.cpp:881
+msgid "Ask"
+msgstr "Perguntar"
+
+#: batchprocessimagesdialog.cpp:139 batchprocessimagesdialog.cpp:890
+msgid "Always Overwrite"
+msgstr "Sobrescrever sempre"
+
+#: batchprocessimagesdialog.cpp:140 batchprocessimagesdialog.cpp:142
+#: batchprocessimagesdialog.cpp:884
+msgid "Rename"
+msgstr "Renomear"
+
+#: batchprocessimagesdialog.cpp:141 batchprocessimagesdialog.cpp:887
+msgid "Skip"
+msgstr "Ignorar"
+
+#: batchprocessimagesdialog.cpp:143
+msgid ""
+"Select here the overwrite mode used if your target's image files already "
+"exist."
+msgstr ""
+"Selecione aqui o modo de sobrescrita, se seus arquivos de imagem de destino "
+"já existirem."
+
+#: batchprocessimagesdialog.cpp:146
+msgid ""
+"If you enable this option, all original image files will be removed after "
+"processing."
+msgstr ""
+"Se você habilitar esta opção, todos os arquivos de imagem originais serão "
+"removidos após o processamento."
+
+#: batchprocessimagesdialog.cpp:164
+msgid "Here you can select the target folder which will used by the process."
+msgstr ""
+"Aqui você pode selecionar a pasta destino que será usada pelo processo."
+
+#: batchprocessimagesdialog.cpp:167
+msgid "Add images to the list."
+msgstr "Adicionar imagens à lista."
+
+#: batchprocessimagesdialog.cpp:168
+msgid "Remove selected image from the list."
+msgstr "Remove da lista as imagens selecionadas."
+
+#: batchprocessimagesdialog.cpp:169
+msgid "The preview of the selected image on the list."
+msgstr "A visualização da imagem selecionada na lista."
+
+#: batchprocessimagesdialog.cpp:321
+msgid ""
+"All original image files will be removed from the source Album.\n"
+"Do you want to continue?"
+msgstr ""
+"Todos os arquivos de imagens originais serão removidos do álbum de origem.\n"
+"Deseja continuar?"
+
+#: batchprocessimagesdialog.cpp:322
+msgid "Delete Original Image Files"
+msgstr "Excluir arquivos de imagens originais"
+
+#: batchprocessimagesdialog.cpp:333 batchprocessimagesdialog.cpp:700
+msgid "&Stop"
+msgstr "&Parar"
+
+#: batchprocessimagesdialog.cpp:360
+msgid "You must specify a writable path for your output file."
+msgstr ""
+"Você precisa especificar um caminho com permissão de gravação para seu "
+"arquivo de saída."
+
+#: batchprocessimagesdialog.cpp:398
+#, kde-format
+msgid ""
+"The destination file \"%1\" already exists;\n"
+"do you want overwrite it?"
+msgstr ""
+"Já existe o arquivo de destino \"%1\".\n"
+"Deseja sobrescrevê-lo?"
+
+#: batchprocessimagesdialog.cpp:400
+msgid "Overwrite Destination Image File"
+msgstr "Sobrescrever o arquivo de imagem de destino"
+
+#: batchprocessimagesdialog.cpp:404 batchprocessimagesdialog.cpp:469
+#: recompressimagesdialog.cpp:247 resizeimagesdialog.cpp:279
+msgid "Skipped."
+msgstr "Ignorado."
+
+#: batchprocessimagesdialog.cpp:405
+msgid "destination image file already exists (skipped by user)."
+msgstr "o arquivo de imagem de destino já existe (ignorado pelo usuário)."
+
+#: batchprocessimagesdialog.cpp:441 batchprocessimagesdialog.cpp:558
+#: batchprocessimagesdialog.cpp:615 batchprocessimagesdialog.cpp:650
+msgid "Failed."
+msgstr "Falhou."
+
+#: batchprocessimagesdialog.cpp:442
+msgid "destination image file already exists and cannot be renamed."
+msgstr "o arquivo de imagem de destino já existe e não pode ser renomeado."
+
+#: batchprocessimagesdialog.cpp:470
+msgid "destination image file already exists (skipped automatically)."
+msgstr "o arquivo de imagem de destino já existe (ignorar automaticamente)."
+
+#: batchprocessimagesdialog.cpp:517 batchprocessimagesdialog.cpp:723
+#: pixmapview.cpp:147
+msgid ""
+"Cannot start 'convert' program from 'ImageMagick' package;\n"
+"please check your installation."
+msgstr ""
+"Não foi possível iniciar o programa 'convert' do pacote 'ImageMagick'.\n"
+"Verifique sua instalação."
+
+#: batchprocessimagesdialog.cpp:549
+msgid ""
+"The 'convert' program from 'ImageMagick' package has been stopped abnormally"
+msgstr ""
+"O programa 'convert' do pacote 'ImageMagick' foi interrompido de forma "
+"anormal"
+
+#: batchprocessimagesdialog.cpp:550
+msgid "Error running 'convert'"
+msgstr "Erro na execução do 'convert'"
+
+#: batchprocessimagesdialog.cpp:559
+msgid ""
+"'convert' program from 'ImageMagick' package has been stopped abnormally."
+msgstr ""
+"O programa 'convert' do pacote 'ImageMagick' foi interrompido de forma "
+"anormal."
+
+#: batchprocessimagesdialog.cpp:580 renameimageswidget.cpp:602
+msgid "OK"
+msgstr "OK"
+
+#: batchprocessimagesdialog.cpp:581
+msgid "no processing error"
+msgstr "sem erro de processamento"
+
+#: batchprocessimagesdialog.cpp:604
+#, kde-format
+msgid ""
+"<qt>Error adding image to application; error message was: <b>%1</b></qt>"
+msgstr ""
+"<qt>Erro ao adicionar a imagem ao aplicativo. A mensagem de erro é: <b>%1</"
+"b></qt>"
+
+#: batchprocessimagesdialog.cpp:606
+msgid "Error Adding Image to Application"
+msgstr "Erro ao adicionar a imagem ao aplicativo"
+
+#: batchprocessimagesdialog.cpp:633
+msgid "Warning:"
+msgstr "Aviso:"
+
+#: batchprocessimagesdialog.cpp:634
+msgid "cannot remove original image file."
+msgstr "não foi possível remover o arquivo de imagem original."
+
+#: batchprocessimagesdialog.cpp:651
+msgid "cannot process original image file."
+msgstr "não foi possível processar o arquivo de imagem original."
+
+#: batchprocessimagesdialog.cpp:672
+msgid "Image processing error"
+msgstr "Erro de processamento de imagem"
+
+#: batchprocessimagesdialog.cpp:674
+#, kde-format
+msgid ""
+"Image \"%1\": %2\n"
+"\n"
+"The output messages are:\n"
+msgstr ""
+"Imagem \"%1\": %2\n"
+"\n"
+"As mensagens de saída são:\n"
+
+#: batchprocessimagesdialog.cpp:688
+msgid "You must select an item from the list to calculate the preview."
+msgstr ""
+"Você precisa selecionar um item da lista, para calcular a visualização."
+
+#: batchprocessimagesdialog.cpp:740
+msgid "Cannot run properly 'convert' program from 'ImageMagick' package."
+msgstr ""
+"Não foi possível executar apropriadamente o programa 'convert' do pacote "
+"'ImageMagick'."
+
+#: batchprocessimagesdialog.cpp:755
+msgid " - small preview"
+msgstr " - visualização pequena"
+
+#: batchprocessimagesdialog.cpp:769
+msgid "Preview processing error"
+msgstr "Erro de processamento da visualização"
+
+#: batchprocessimagesdialog.cpp:770
+#, kde-format
+msgid ""
+"Cannot process preview for image \"%1\".\n"
+"The output messages are:\n"
+msgstr ""
+"Não foi possível visualizar a imagem \"%1\".\n"
+"As mensagens de saída são:\n"
+
+#: batchprocessimagesdialog.cpp:903
+msgid "Aborted."
+msgstr "Abortado."
+
+#: batchprocessimagesdialog.cpp:904
+msgid "process aborted by user"
+msgstr "processo interrompido pelo usuário"
+
+#: batchprocessimagesdialog.cpp:924
+msgid "&Close"
+msgstr "Fe&char"
+
+#: batchprocessimageslist.cpp:48
+msgid "Source Album"
+msgstr "Álbum de origem"
+
+#: batchprocessimageslist.cpp:49
+msgid "Source Image"
+msgstr "Imagem de origem"
+
+#: batchprocessimageslist.cpp:50
+msgid "Target Image"
+msgstr "Imagem de destino"
+
+#: batchprocessimageslist.cpp:51
+msgid "Result"
+msgstr "Resultado"
+
+#: batchprocessimageslist.cpp:55
+msgid ""
+"<p>You can see here the operations' results during the process. Double-click "
+"on an item for more information once the process has ended.</p><p>You can "
+"use the \"Add\" button or drag-and-drop to add some new items to the list.</"
+"p><p>If the items are taken from different Albums the process' results will "
+"be merged to the target Album.</p>"
+msgstr ""
+"<p>Você pode ver aqui o resultado das operações durante o processo. Um "
+"clique duplo sobre um item fornece mais informações, após a finalização do "
+"processo.</p><p>Você pode usar o botão \"Adicionar\" ou arrastar e soltar, "
+"para adicionar novos itens à lista.</p><p>Se os itens foram retirados de "
+"diferentes álbuns, os resultados do processo serão mesclados ao álbum de "
+"destino.</p>"
+
+#: borderimagesdialog.cpp:62
+msgid "Batch-Bordering Images"
+msgstr "Adição em lote de bordas nas imagens"
+
+#: borderimagesdialog.cpp:66
+msgid "Batch Image-bordering"
+msgstr "Borda de imagens em lote"
+
+#: borderimagesdialog.cpp:69
+msgid ""
+"A Kipi plugin for batch bordering images\n"
+"This plugin use the \"convert\" program from \"ImageMagick\" package."
+msgstr ""
+"Um plug-in do Kipi para adição de bordas nas imagens\n"
+"Este plug-in usa o programa \"convert\" do pacote \"ImageMagick\"."
+
+#: borderimagesdialog.cpp:71 colorimagesdialog.cpp:70
+#: convertimagesdialog.cpp:78 effectimagesdialog.cpp:69
+#: filterimagesdialog.cpp:69 imagepreview.cpp:64 outputdialog.cpp:70
+#: recompressimagesdialog.cpp:69 renameimagesdialog.cpp:66
+#: resizeimagesdialog.cpp:167
+msgid ""
+"(c) 2003-2009, Gilles Caulier\n"
+"(c) 2007-2009, Aurélien Gateau"
+msgstr ""
+"(c) 2003-2009, Gilles Caulier\n"
+"(c) 2007-2009, Aurélien Gateau"
+
+#: borderimagesdialog.cpp:74 colorimagesdialog.cpp:73
+#: convertimagesdialog.cpp:81 effectimagesdialog.cpp:72
+#: filterimagesdialog.cpp:72 imagepreview.cpp:67 outputdialog.cpp:73
+#: recompressimagesdialog.cpp:72 renameimagesdialog.cpp:69
+#: resizeimagesdialog.cpp:170
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: borderimagesdialog.cpp:74 colorimagesdialog.cpp:73
+#: convertimagesdialog.cpp:81 effectimagesdialog.cpp:72
+#: filterimagesdialog.cpp:72 imagepreview.cpp:67 outputdialog.cpp:73
+#: recompressimagesdialog.cpp:72 renameimagesdialog.cpp:69
+#: resizeimagesdialog.cpp:170
+msgid "Author"
+msgstr "Autor"
+
+#: borderimagesdialog.cpp:77 colorimagesdialog.cpp:76
+#: convertimagesdialog.cpp:84 effectimagesdialog.cpp:75
+#: filterimagesdialog.cpp:75 imagepreview.cpp:70 outputdialog.cpp:76
+#: recompressimagesdialog.cpp:75 renameimagesdialog.cpp:72
+#: resizeimagesdialog.cpp:172
+msgid "Aurelien Gateau"
+msgstr "Aurelien Gateau"
+
+#: borderimagesdialog.cpp:77 colorimagesdialog.cpp:76
+#: convertimagesdialog.cpp:84 effectimagesdialog.cpp:75
+#: filterimagesdialog.cpp:75 imagepreview.cpp:70 outputdialog.cpp:76
+#: recompressimagesdialog.cpp:75 renameimagesdialog.cpp:72
+#: resizeimagesdialog.cpp:172 resizeimagesdialog.cpp:174
+msgid "Maintainer"
+msgstr "Mantenedor"
+
+#: borderimagesdialog.cpp:88
+msgid "Images Bordering Options"
+msgstr "Opções de borda de imagens"
+
+#: borderimagesdialog.cpp:90
+msgid "Border:"
+msgstr "Borda:"
+
+#: borderimagesdialog.cpp:92
+msgid "Solid"
+msgstr "Sólido"
+
+#: borderimagesdialog.cpp:97
+msgid "Raise"
+msgstr "Elevar"
+
+#: borderimagesdialog.cpp:98
+msgid "Frame"
+msgstr "Moldura"
+
+#: borderimagesdialog.cpp:101
+msgid ""
+"<p>Select here the border type for your images:</p><p><b>Solid</b>: just "
+"surround the images with a line.<br/><b>Niepce</b>: surround the images with "
+"a fine line and a large border (ideal for black and white pictures).<br/"
+"><b>Raise</b>: creating a 3D effect around the images.<br/><b>Frame</b>: "
+"surround the images with an ornamental border.</p>"
+msgstr ""
+"<p>Selecione aqui o tipo de borda para suas imagens:</p><p><b>Sólida</b>: "
+"apenas rodeia as imagens com uma linha.<br/><b>Niepce</b>: rodeia as imagens "
+"com uma linha fina e uma borda larga (ideal para figuras em preto e branco)."
+"<br/><b>Elevada</b>: cria um efeito 3D ao redor das imagens.<br/><b>Moldura</"
+"b>: rodeia as imagens com uma borda ornamental.</p>"
+
+#: borderoptionsdialog.cpp:49
+msgid "Border Options"
+msgstr "Opções de borda"
+
+#: borderoptionsdialog.cpp:62 borderoptionsdialog.cpp:97
+#: borderoptionsdialog.cpp:116 borderoptionsdialog.cpp:128
+msgid "Border width:"
+msgstr "Largura da borda:"
+
+#: borderoptionsdialog.cpp:67 borderoptionsdialog.cpp:102
+#: borderoptionsdialog.cpp:121 borderoptionsdialog.cpp:133
+msgid "Select here the border width in pixels."
+msgstr "Selecione aqui a largura da borda, em pixels."
+
+#: borderoptionsdialog.cpp:71 borderoptionsdialog.cpp:106
+#: borderoptionsdialog.cpp:147
+msgid "Border color:"
+msgstr "Cor da borda:"
+
+#: borderoptionsdialog.cpp:75 borderoptionsdialog.cpp:110
+#: borderoptionsdialog.cpp:151
+msgid "You can select here the border color."
+msgstr "Selecione aqui a cor da borda."
+
+#: borderoptionsdialog.cpp:81
+msgid "Line border width:"
+msgstr "Espessura da linha da borda:"
+
+#: borderoptionsdialog.cpp:86
+msgid "Select here the line border width in pixels."
+msgstr "Selecione aqui a espessura da borda, em pixels."
+
+#: borderoptionsdialog.cpp:90
+msgid "Line border color:"
+msgstr "Cor da linha da borda:"
+
+#: borderoptionsdialog.cpp:94
+msgid "You can select here the line border color."
+msgstr "Selecione aqui a cor da linha da borda."
+
+#: borderoptionsdialog.cpp:137
+msgid "Bevel width:"
+msgstr "Largura do relevo:"
+
+#: borderoptionsdialog.cpp:142
+msgid ""
+"Select here the bevel width in pixels. This value must be <= Border width / 2"
+msgstr ""
+"Selecione aqui a largura do relevo em pixels. Este valor deve ser menor ou "
+"igual a metade da largura da borda"
+
+#: colorimagesdialog.cpp:61
+msgid "Batch Image-Color Processing"
+msgstr "Processamento em lote de coloração de imagens"
+
+#: colorimagesdialog.cpp:65
+msgid "Batch image-color enhancement"
+msgstr "Melhoramento de cor das imagens"
+
+#: colorimagesdialog.cpp:68
+msgid ""
+"A Kipi plugin for batch image-color enhancement.\n"
+"This plugin use the \"convert\" program from the \"ImageMagick\" package."
+msgstr ""
+"Um plug-in do Kipi para o melhoramento das cores das imagens.\n"
+"Este plug-in usa o programa \"convert\" do pacote \"ImageMagick\"."
+
+#: colorimagesdialog.cpp:87
+msgid "Image Coloring Options"
+msgstr "Opções de cores de imagens"
+
+#: colorimagesdialog.cpp:89 filterimagesdialog.cpp:87
+#: resizeoptionsdialog.cpp:84
+msgid "Filter:"
+msgstr "Filtro:"
+
+#: colorimagesdialog.cpp:91
+msgid "Decrease Contrast"
+msgstr "Diminuir o contraste"
+
+#: colorimagesdialog.cpp:92
+msgid "Depth"
+msgstr "Profundidade"
+
+#: colorimagesdialog.cpp:93
+msgid "Equalize"
+msgstr "Equalizar"
+
+#: colorimagesdialog.cpp:94
+msgid "Fuzz"
+msgstr "Nebuloso"
+
+#: colorimagesdialog.cpp:95
+msgid "Gray Scales"
+msgstr "Escalas de cinza"
+
+#: colorimagesdialog.cpp:96
+msgid "Increase Contrast"
+msgstr "Aumentar o contraste"
+
+#: colorimagesdialog.cpp:97
+msgid "Monochrome"
+msgstr "Monocromático"
+
+#: colorimagesdialog.cpp:98
+msgid "Negate"
+msgstr "Negar"
+
+#: colorimagesdialog.cpp:99 colorimagesdialog.cpp:102
+msgid "Normalize"
+msgstr "Normalizar"
+
+#: colorimagesdialog.cpp:100
+msgid "Segment"
+msgstr "Segmento"
+
+#: colorimagesdialog.cpp:101
+msgid "Trim"
+msgstr "Aparar"
+
+#: colorimagesdialog.cpp:104
+msgid ""
+"<p>Select here the color enhancement type for your images:</p><p><b>Decrease "
+"contrast</b>: reduce the image contrast. The algorithm reduces the intensity "
+"difference between the lighter and darker elements of the image.<br/"
+"><b>Depth</b>: change the color depth of the image.<br/><b>Equalize</b>: "
+"perform histogram equalization to the image.<br/><b>Fuzz</b>: merging colors "
+"within a distance, i.e. consider them to be equal.<br/><b>Gray scales</b>: "
+"convert color images to grayscale images.<br/><b>Increase contrast</b>: "
+"enhance the image contrast. The algorithm enhances the intensity differences "
+"between the lighter and darker elements of the image.<br/><b>Monochrome</b>: "
+"transform the image to black and white.<br/><b>Negate</b>: replace every "
+"pixel with its complementary color. The red, green, and blue intensities of "
+"an image are negated. White becomes black, yellow becomes blue, etc.<br/"
+"><b>Normalize</b>: transform image to span the full range of color values. "
+"This is a contrast enhancement technique. The algorithm enhances the "
+"contrast of a colored image by adjusting the pixels color to span the entire "
+"range of colors available.<br/><b>Segment</b>: segment an image by analyzing "
+"the histograms of the color components and identifying units that are "
+"homogeneous with the fuzzy c-means technique.<br/><b>Trim</b>: trim an image "
+"(fuzz reverse technique). The algorithm remove edges that are the background "
+"color from the image.</p>"
+msgstr ""
+"<p>Selecione aqui o tipo de melhoramento na cor de suas imagens:</"
+"p><p><b>Diminuir contraste</b>: reduz o contraste da imagem. O algoritmo "
+"reduz as diferenças de intensidade entre elementos mais claros e mais "
+"escuros da imagem.<br/><b>Profundidade</b>: altera a profundidade da cor da "
+"imagem.<br/><b>Equalizar</b>: executa uma equalização do histograma para a "
+"imagem.<br/><b>Nebuloso</b>: mistura cores dentro de uma distância onde são "
+"consideradas iguais.<br/><b>Escalas de cinza</b>: converte as cores da "
+"imagem para escalas de cinza.<br/><b>Aumentar contraste</b>: melhora o "
+"contraste da imagem. O algoritmo melhora as diferenças de intensidade entre "
+"elementos mais claros e os mais escuros da imagem.<br/><b>Monocromático</b>: "
+"transforma a imagem em preto e branco.<br/><b>Negar</b>: substitui cada "
+"pixel por sua cor complementar. As intensidades de vermelho, verde e azul de "
+"uma imagem são negadas. O branco torna-se preto, o amarelo torna-se azul, "
+"etc.<br/><b>Normalizar</b>: transforma uma imagem, para expandir a todos os "
+"intervalos de valores de cores. Esta é a técnica de melhoramento do "
+"contraste. O algoritmo melhora o contraste de uma imagem colorida ajustando "
+"a cor dos pixels, para que possa cobrir o intervalo inteiro de cores "
+"disponível.<br/><b>Segmento</b>: segmenta uma imagem através da análise dos "
+"histogramas dos componentes da cor e identificação das unidades que estão em "
+"homogeneidade com técnicas de médias-c aproximadas.<br/><b>Aparar</b>: corta "
+"uma imagem (técnica reversa ao borrar). O algoritmo remove as bordas que "
+"ficam como cor de fundo da imagem.</p>"
+
+#: coloroptionsdialog.cpp:50
+msgid "Color Options"
+msgstr "Opções de cor"
+
+#: coloroptionsdialog.cpp:63
+msgid "Depth value:"
+msgstr "Valor da profundidade:"
+
+#: coloroptionsdialog.cpp:69
+msgid "Select here the image depth in bits."
+msgstr "Selecione aqui a profundidade da imagem, em bits."
+
+#: coloroptionsdialog.cpp:76
+msgid "Distance:"
+msgstr "Distância:"
+
+#: coloroptionsdialog.cpp:81
+msgid "Select here the fuzz distance in absolute intensity units."
+msgstr ""
+"Selecione aqui a distância aproximada, em unidades absolutas de intensidade."
+
+#: coloroptionsdialog.cpp:89
+msgid "Cluster threshold:"
+msgstr "Limite do cluster:"
+
+#: coloroptionsdialog.cpp:94
+msgid ""
+"Select here the value which represents the minimum number of pixels "
+"contained in a hexahedron before it can be considered valid."
+msgstr ""
+"Selecione aqui o valor que representa o número mínimo de pixels contidos em "
+"um hexaedro, antes dele ser considerado válido."
+
+#: coloroptionsdialog.cpp:100
+msgid "Smooth threshold:"
+msgstr "Limite leve:"
+
+#: coloroptionsdialog.cpp:105
+msgid ""
+"Select here the value which eliminates noise in the second derivative of the "
+"histogram. As the value is increased, you can expect a smoother second "
+"derivative."
+msgstr ""
+"Selecione aqui o valor que elimina o ruído na segunda derivada do "
+"histograma. Como o valor é aumentado, você pode esperar uma segunda derivada "
+"um pouco mais leve."
+
+#: convertimagesdialog.cpp:69
+msgid "Batch Convert Images"
+msgstr "Conversão de imagens em lote"
+
+#: convertimagesdialog.cpp:73
+msgid "Batch convert images"
+msgstr "Conversão de imagens em lote"
+
+#: convertimagesdialog.cpp:76
+msgid ""
+"A Kipi plugin for batch converting images.\n"
+"This plugin uses the \"convert\" program from the \"ImageMagick\" package."
+msgstr ""
+"Um plug-in do Kipi para conversão de imagens\n"
+"Este plug-in usa o programa \"convert\" do pacote \"ImageMagick\"."
+
+#: convertimagesdialog.cpp:90
+msgid "Image Conversion Options"
+msgstr "Opções de conversão de imagens"
+
+#: convertimagesdialog.cpp:92
+msgid "Format:"
+msgstr "Formato:"
+
+#: convertimagesdialog.cpp:102
+msgid "<p>Select here the target image file format.</p>"
+msgstr "<p>Selecione aqui o formato do arquivo de imagem de destino.</p>"
+
+#: convertimagesdialog.cpp:103
+msgid ""
+"<p><b>JPEG</b>: The Joint Photographic Experts Group's file format is a good "
+"Web file format but it uses lossy data compression.</p><p><b>PNG</b>: the "
+"Portable Network Graphics format is an extensible file format for the "
+"lossless, portable, well-compressed storage of raster images. PNG provides a "
+"patent-free replacement for GIF and can also replace many common uses of "
+"TIFF. PNG is designed to work well in online viewing applications, such as "
+"the World Wide Web, so it is fully streamable with a progressive display "
+"option. Also, PNG can store gamma and chromaticity data for improved color "
+"matching on heterogeneous platforms.</p>"
+msgstr ""
+"<p><b>JPEG</b>: O formato de arquivo Joint Photographic Experts Group (Grupo "
+"Avançado de Junções Fotográficas - JPEG) é um ótimo formato de imagens para "
+"web, mas usa uma compressão com perda de dados.</p><p><b>PNG</b>: o formato "
+"de arquivo de Gráficos de Rede Portáveis (Portable Network Graphics ou PNG) "
+"é um formato de arquivo extensível, para imagens sem perda de dados, "
+"portáveis e com ótima compressão de dados. O PNG é um opção livre para "
+"substituir o GIF e, em muitos casos, o TIFF. O formato PNG foi projetado "
+"para trabalhar bem em aplicativos de visualização on-line, tais como WWW, "
+"pois ele possui a capacidade de stream completa, com uma opção de exibição "
+"progressiva. O PNG também pode armazenar dados gama e cromáticos, para o "
+"melhoramento da cor em plataformas heterogêneas.</p>"
+
+#: convertimagesdialog.cpp:112
+msgid ""
+"<p><b>TIFF</b>: the Tag Image File Format is a rather old standard that is "
+"still very popular today. It is a highly flexible and platform-independent "
+"format which is supported by numerous image processing applications and "
+"virtually all prepress software on the market.</p>"
+msgstr ""
+"<p><b>TIFF</b>: este formato de arquivo é um padrão antigo e ainda bastante "
+"popular. Altamente flexível e independente de plataforma, ele é suportado "
+"por inúmeros aplicativos de processamento de imagens e virtualmente, por "
+"todos os softwares do mercado.</p>"
+
+#: convertimagesdialog.cpp:116
+msgid ""
+"<p><b>PPM</b>: the Portable Pixel Map file format is used as an intermediate "
+"format for storing color bitmap information. PPM files may be either binary "
+"or ASCII and store pixel values up to 24 bits in size. This format generates "
+"the largest-sized text files to encode images without losing quality.</p>"
+msgstr ""
+"<p><b>PPM</b>: O Mapa de Pixels Portável (PPM) é usado como um formato "
+"intermediário, para armazenamento de informações do bitmap de cor. Os "
+"arquivos PPM podem ser binários ou texto (ASCII), e armazenam valores de "
+"pixel acima de 24 bits de tamanho. Este formato gera arquivos texto "
+"gigantes, para codificar as imagens sem perder a qualidade.</p>"
+
+#: convertimagesdialog.cpp:121
+msgid ""
+"<p><b>BMP</b>: the BitMaP file format is a popular image format from Win32 "
+"environment. It efficiently stores mapped or unmapped RGB graphics data with "
+"pixels 1-, 4-, 8-, or 24-bits in size. Data may be stored raw or compressed "
+"using a 4-bit or 8-bit RLE data compression algorithm. BMP is an excellent "
+"choice for a simple bitmap format which supports a wide range of RGB image "
+"data.</p>"
+msgstr ""
+"<p><b>BMP</b>: O formato de arquivo BitMaP é um formato bastante popular do "
+"ambiente Win32. Ele armazena eficientemente gráficos RGB mapeados ou não-"
+"mapeados, com pixels de tamanho 1-, 4-, 8- ou 24-bits. Os dados podem ser "
+"armazenados de forma bruta ou comprimidos, usando o algoritmo de compressão "
+"de dados RLE de 4-bit ou 8-bit. O BMP é uma excelente escolha, para um "
+"formato bitmap simples, que suporta uma grande variedade de dados de imagem "
+"RGB.</p>"
+
+#: convertimagesdialog.cpp:127
+msgid ""
+"<p><b>TGA</b>: the TarGA image file format is one of the most widely used "
+"bitmap file formats for storage of 24 and 32 bits truecolor images.  TGA "
+"supports colormaps, alpha channel, gamma value, postage stamp image, textual "
+"information, and developer-definable data.</p>"
+msgstr ""
+"<p><b>TGA</b>: o formato de arquivo de imagens TarGA é um dos muitos "
+"formatos de arquivo bitmap amplamente usados, para armazenar de imagens com "
+"cores reais de 24 e 32 bits. O TGA suporta mapa de cores, canais alfa, "
+"valores gama, informações textuais e dados que podem ser definidos pelo "
+"desenvolvedor.</p>"
+
+#: convertimagesdialog.cpp:131
+msgid ""
+"<p><b>EPS</b>: the  Adobe Encapsulated PostScript image file format is a "
+"PostScript language program describing the appearance of a single page. "
+"Usually, the purpose of the EPS file is to be embedded inside another "
+"PostScript language page description.</p>"
+msgstr ""
+"<p><b>EPS</b>: o formato de arquivo de imagem 'Adobe Encapsulated "
+"PostScript' é um programa na linguagem PostScript que descreve a aparência "
+"de uma única página. Normalmente, a finalidade do arquivo EPS é ser embutido "
+"dentro de outra descrição de página PostScript.</p>"
+
+#: convertimagesdialog.cpp:224 convertimagesdialog.cpp:225
+#: convertimagesdialog.cpp:276 convertimagesdialog.cpp:290
+#: recompressimagesdialog.cpp:148 recompressimagesdialog.cpp:149
+#: recompressimagesdialog.cpp:202 recompressimagesdialog.cpp:216
+#: recompressoptionsdialog.cpp:126 recompressoptionsdialog.cpp:143
+msgid "None"
+msgstr "Nenhum"
+
+#: convertoptionsdialog.cpp:48
+msgid "Image File Format Options"
+msgstr "Opções de formato de arquivo de imagens"
+
+#: convertoptionsdialog.cpp:61 recompressoptionsdialog.cpp:62
+#: recompressoptionsdialog.cpp:96
+msgid "Image compression level:"
+msgstr "Nível de compressão de imagens:"
+
+#: convertoptionsdialog.cpp:66
+msgid "<p>The compression value for the target images:</p>"
+msgstr "<p>Os valores de compressão das imagens de destino:</p>"
+
+#: convertoptionsdialog.cpp:67 recompressoptionsdialog.cpp:67
+#: recompressoptionsdialog.cpp:101
+msgid ""
+"<p><b>1</b>: very high compression<br/><b>25</b>: high compression<br/"
+"><b>50</b>: medium compression<br/><b>75</b>: low compression (default value)"
+"<br/><b>100</b>: no compression</p>"
+msgstr ""
+"<p><b>1</b>: compressão muito alta<br/><b>25</b>: compressão alta<br/><b>50</"
+"b>: compressão média <br/><b>75</b>: compressão baixa (valor padrão) <br/"
+"><b>100</b>: sem compressão</p>"
+
+#: convertoptionsdialog.cpp:81 recompressoptionsdialog.cpp:78
+msgid "Use lossless compression"
+msgstr "Usar compressão sem perdas"
+
+#: convertoptionsdialog.cpp:82 recompressoptionsdialog.cpp:79
+msgid ""
+"If this option is enabled, all JPEG operations will use lossless compression."
+msgstr ""
+"Se esta opção estiver habilitada, todas as operações com JPEG usarão uma "
+"compressão sem perdas."
+
+#: convertoptionsdialog.cpp:93 convertoptionsdialog.cpp:106
+#: recompressoptionsdialog.cpp:122 recompressoptionsdialog.cpp:140
+msgid "Image compression algorithm:"
+msgstr "Algoritmo de compressão de imagens:"
+
+#: convertoptionsdialog.cpp:98
+msgctxt "No TIFF compression"
+msgid "None"
+msgstr "Nenhuma"
+
+#: convertoptionsdialog.cpp:99 convertoptionsdialog.cpp:111
+msgid "Select here the compression algorithm."
+msgstr "Selecione aqui o algoritmo de compressão."
+
+#: convertoptionsdialog.cpp:110
+msgctxt "No TGA compression"
+msgid "None"
+msgstr "Nenhuma"
+
+#: dialogutils.cpp:42
+msgid "Handbook"
+msgstr "Manual"
+
+#: effectimagesdialog.cpp:60
+msgid "Batch Image Effects"
+msgstr "Efeitos de imagens em lote"
+
+#: effectimagesdialog.cpp:64
+msgid "Batch image effects"
+msgstr "Efeitos de imagens em lote"
+
+#: effectimagesdialog.cpp:67
+msgid ""
+"A Kipi plugin for batch image-effect transformations.\n"
+"This plugin uses the \"convert\" program from the \"ImageMagick\" package."
+msgstr ""
+"Um plug-in do Kipi para aplicação de efeito de imagem em lote\n"
+"Este plug-in usa o programa \"convert\" do pacote \"ImageMagick\"."
+
+#: effectimagesdialog.cpp:85
+msgid "Image Effect Options"
+msgstr "Opções de efeito de imagem"
+
+#: effectimagesdialog.cpp:87
+msgid "Effect:"
+msgstr "Efeito:"
+
+#: effectimagesdialog.cpp:89
+msgid "Adaptive Threshold"
+msgstr "Limiar adaptativo"
+
+#: effectimagesdialog.cpp:90
+msgid "Charcoal"
+msgstr "Carvão"
+
+#: effectimagesdialog.cpp:91
+msgid "Detect Edges"
+msgstr "Detectar bordas"
+
+#: effectimagesdialog.cpp:92 effectimagesdialog.cpp:100
+msgid "Emboss"
+msgstr "Relevo"
+
+#: effectimagesdialog.cpp:93
+msgid "Implode"
+msgstr "Implodir"
+
+#: effectimagesdialog.cpp:94
+msgid "Paint"
+msgstr "Pintar"
+
+#: effectimagesdialog.cpp:95
+msgid "Shade Light"
+msgstr "Sombra leve"
+
+#: effectimagesdialog.cpp:96
+msgid "Solarize"
+msgstr "Solarizar"
+
+#: effectimagesdialog.cpp:97
+msgid "Spread"
+msgstr "Espalhar"
+
+#: effectimagesdialog.cpp:98
+msgid "Swirl"
+msgstr "Redemoinho"
+
+#: effectimagesdialog.cpp:99
+msgid "Wave"
+msgstr "Onda"
+
+#: effectimagesdialog.cpp:102
+msgid ""
+"<p>Select here the effect type for your images:</p><p><b>Adaptive threshold</"
+"b>: perform local adaptive thresholding. The algorithm selects an individual "
+"threshold for each pixel based on the range of intensity values in its local "
+"neighborhood. This allows for thresholding of an image whose global "
+"intensity histogram does not contain distinctive peaks.<br/><b>Charcoal</b>: "
+"simulate a charcoal drawing.<br/><b>Detect edges</b>: detect edges within an "
+"image.<br/><b>Emboss</b>: returns a grayscale image with a three-dimensional "
+"effect. The algorithm convolves the image with a Gaussian operator of the "
+"given radius and standard deviation.<br/><b>Implode</b>: implode image "
+"pixels about the center.<br/><b>Paint</b>: applies a special effect filter "
+"that simulates an oil painting.<br/><b>Shade light</b>: shines a distant "
+"light on an image to create a three-dimensional effect.<br/><b>Solarize</b>: "
+"negate all pixels above the threshold level. This algorithm produces a "
+"solarization effect seen when exposing a photographic film to light during "
+"the development process.<br/><b>Spread</b>: this is a special-effect method "
+"that randomly displaces each pixel in a block defined by the radius "
+"parameter.<br/><b>Swirl</b>: swirls the pixels about the center of the "
+"image. <br/><b>Wave</b>: creates a \"ripple\" effect in the image by "
+"shifting the pixels vertically along a sine wave.</p>"
+msgstr ""
+"<p>Selecione aqui o tipo do efeito para suas imagens:</p><p><b>Limiar "
+"adaptativo</b>: executa o limiar adaptativo local. O algoritmo seleciona um "
+"limite individual para cada pixel, baseado no intervalo de valores de "
+"intensidade de sua vizinhança. Isto permite limitar uma imagens, para os "
+"histogramas de intensidade global que não contenham picos distintos.<br/"
+"><b>Carvão</b>: simula um desenho com carvão.<br/><b>Detectar bordas</b>: "
+"detecta as bordas dentro de uma imagem.<br/><b>Relevo</b>: retorna uma "
+"imagem em escalas de cinza, com um efeito tridimensional. O algoritmo "
+"converte a imagem com um operador Gaussiano, com o raio fornecido e o desvio "
+"padrão.<br/><b>Implodir</b>: implode os pixels da imagem no centro.<br/"
+"><b>Pintar</b>: aplica um filtro de efeito especial, que simula uma pintura "
+"a óleo.<br/><b>Sombra leve</b>: faz brilhar uma luz distante em uma imagem, "
+"para criar um efeito tridimensional.<br/><b>Solarizar</b>: nega todos os "
+"pixels acima do nível de limite. Este algoritmo produz um efeito ensolarado, "
+"visto quando um filme é exposto a luz durante o processo de desenvolvimento."
+"<br/><b>Espalhar</b>: este é um método de efeitos especial, que exibe cada "
+"pixel em um bloco definido pelo parâmetro de raio.<br/><b>Redemoinho</b>: "
+"faz um redemoinho de pixels no centro da imagem. <br/><b>Ondas</b>: cria um "
+"efeito de \"ondas\" na imagem, através do deslocamento vertical de pixels, "
+"ao longo da onda.</p>"
+
+#: effectoptionsdialog.cpp:48
+msgid "Effect Options"
+msgstr "Opções de efeito"
+
+#: effectoptionsdialog.cpp:61
+msgid "Width:"
+msgstr "Largura:"
+
+#: effectoptionsdialog.cpp:66
+msgid ""
+"Select here the value which represents the width of the local neighborhood."
+msgstr "Selecione aqui o valor que representa a largura na vizinhança local."
+
+#: effectoptionsdialog.cpp:71
+msgid "Height:"
+msgstr "Altura:"
+
+#: effectoptionsdialog.cpp:76
+msgid ""
+"Select here the value which represents the height of the local neighborhood."
+msgstr "Selecione aqui o valor que representa a altura na vizinhança local."
+
+#: effectoptionsdialog.cpp:81
+msgid "Offset:"
+msgstr "Deslocamento:"
+
+#: effectoptionsdialog.cpp:86
+msgid "Select here the value which represents the mean offset."
+msgstr "Selecione aqui o valor que representa o deslocamento médio."
+
+#: effectoptionsdialog.cpp:93 effectoptionsdialog.cpp:116
+#: effectoptionsdialog.cpp:131 effectoptionsdialog.cpp:169
+#: effectoptionsdialog.cpp:222 filteroptionsdialog.cpp:92
+#: filteroptionsdialog.cpp:108 filteroptionsdialog.cpp:122
+#: filteroptionsdialog.cpp:134 filteroptionsdialog.cpp:153
+msgid "Radius:"
+msgstr "Raio:"
+
+#: effectoptionsdialog.cpp:98
+msgid ""
+"Select here the value which represents the radius of the pixel neighborhood."
+msgstr ""
+"Selecione aqui o valor, em pixels, que representa o raio da vizinhança."
+
+#: effectoptionsdialog.cpp:103 effectoptionsdialog.cpp:143
+#: filteroptionsdialog.cpp:97 filteroptionsdialog.cpp:140
+#: filteroptionsdialog.cpp:159
+msgid "Deviation:"
+msgstr "Desvio:"
+
+#: effectoptionsdialog.cpp:108 effectoptionsdialog.cpp:148
+msgid ""
+"Select here the value which represents the standard deviation of the "
+"Gaussian, in pixels."
+msgstr ""
+"Selecione aqui o valor que representa o desvio padrão Gaussiano, em pixels."
+
+#: effectoptionsdialog.cpp:121
+msgid ""
+"Select here the value which represents the radius of the pixel neighborhood. "
+"Radius defines the radius of the convolution filter. If you use a radius of "
+"0 the algorithm selects a suitable radius."
+msgstr ""
+"Selecione aqui o valor que representa o raio da vizinhança de pixels. Ele "
+"define o raio do filtro de convolução. Se você usar o raio de 0, o algoritmo "
+"selecionará o raio apropriado."
+
+#: effectoptionsdialog.cpp:136
+msgid ""
+"Select here the value which represents the radius of the pixel neighborhood. "
+"For reasonable results, radius should be larger than deviation. If you use a "
+"radius of 0 the algorithm selects a suitable radius."
+msgstr ""
+"Selecione aqui o valor que representa o raio da vizinhança de pixels. Por "
+"razões de resultado, o raio deve ser maior que o valor do desvio. Se você "
+"usar o raio de 0, o algoritmo selecionará o raio apropriado."
+
+#: effectoptionsdialog.cpp:156 effectoptionsdialog.cpp:209
+msgid "Factor:"
+msgstr "Fator:"
+
+#: effectoptionsdialog.cpp:161
+msgid "Select here the value which represents the extent of the implosion."
+msgstr "Selecione aqui o valor que representa a extensão da implosão."
+
+#: effectoptionsdialog.cpp:174
+msgid ""
+"Select here the value which represents the radius of the circular "
+"neighborhood. Each pixel is replaced by the most frequent color occurring in "
+"a circular region defined by the radius."
+msgstr ""
+"Selecione aqui o valor que representa o raio da vizinhança circular. Cada "
+"pixel é substituído pela cor mais frequente da região circular, definida "
+"pelo raio."
+
+#: effectoptionsdialog.cpp:184
+msgid "Azimuth:"
+msgstr "Azimute:"
+
+#: effectoptionsdialog.cpp:189
+msgid ""
+"Select here the value which represents the azimuth of the light source "
+"direction. The azimuth is measured in degrees above the x axis."
+msgstr ""
+"Selecione aqui o valor que representa o azimute da direção da fonte de luz. "
+"O azimute é medido em graus, acima do eixo x."
+
+#: effectoptionsdialog.cpp:195
+msgid "Elevation:"
+msgstr "Elevação:"
+
+#: effectoptionsdialog.cpp:200
+msgid ""
+"Select here the value which represents the elevation of the light source "
+"direction. The elevation is measured in pixels above the Z axis."
+msgstr ""
+"Selecione aqui o valor que representa a elevação da direção de fonte da luz. "
+"A elevação é medida em pixels, acima do eixo z."
+
+#: effectoptionsdialog.cpp:214
+msgid ""
+"Select here the value which represents the percent-threshold of the solarize "
+"intensity."
+msgstr ""
+"Selecione aqui o valor que representa a porcentagem do limite da intensidade "
+"de sol."
+
+#: effectoptionsdialog.cpp:227
+msgid ""
+"Select here the value which represents the random pixel in a neighborhood of "
+"this extent."
+msgstr ""
+"Selecione aqui o valor que representa o número aleatório de pixels contidos "
+"na vizinhança desta extensão."
+
+#: effectoptionsdialog.cpp:235
+msgid "Degrees:"
+msgstr "Graus:"
+
+#: effectoptionsdialog.cpp:240
+msgid ""
+"Select here the value which represents the tightness of the swirling effect. "
+"You get a more dramatic effect as the degrees move from 1 to 360."
+msgstr ""
+"Selecione aqui o valor que representa a força do efeito de redemoinho. Você "
+"pode obter um efeito mais dramático, movendo os graus de 1 a 360."
+
+#: effectoptionsdialog.cpp:249
+msgid "Amplitude:"
+msgstr "Amplitude:"
+
+#: effectoptionsdialog.cpp:254
+msgid "Select here the value which represents the amplitude of the sine wave."
+msgstr "Selecione aqui o valor que representa a amplitude da onda."
+
+#: effectoptionsdialog.cpp:259
+msgid "Length:"
+msgstr "Duração:"
+
+#: effectoptionsdialog.cpp:264
+msgid ""
+"Select here the value which represents the wave length of the sine wave."
+msgstr "Selecione aqui o valor que representa o comprimento da onda."
+
+#: filterimagesdialog.cpp:60
+msgid "Batch Image Filtering"
+msgstr "Filtragem de imagens em lote"
+
+#: filterimagesdialog.cpp:64
+msgid "Batch image filtering"
+msgstr "Filtragem de imagens em lote"
+
+#: filterimagesdialog.cpp:67
+msgid ""
+"A Kipi plugin to batch filter images.\n"
+"This plugin uses the \"convert\" program from the \"ImageMagick\" package."
+msgstr ""
+"Um plug-in do Kipi para filtrar imagens\n"
+"Este plug-in usa o programa \"convert\" do pacote \"ImageMagick\"."
+
+#: filterimagesdialog.cpp:85
+msgid "Image Filtering Options"
+msgstr "Opções de filtragem de imagens"
+
+#: filterimagesdialog.cpp:89
+msgid "Add Noise"
+msgstr "Adicionar ruído"
+
+#: filterimagesdialog.cpp:90
+msgid "Antialias"
+msgstr "Suavizar"
+
+#: filterimagesdialog.cpp:91
+msgid "Blur"
+msgstr "Borrar"
+
+#: filterimagesdialog.cpp:92
+msgid "Despeckle"
+msgstr "Supressão de manchas"
+
+#: filterimagesdialog.cpp:93
+msgid "Enhance"
+msgstr "Melhorar"
+
+#: filterimagesdialog.cpp:94
+msgid "Median"
+msgstr "Mediana"
+
+#: filterimagesdialog.cpp:95
+msgid "Noise Reduction"
+msgstr "Redução de ruído"
+
+#: filterimagesdialog.cpp:96 filterimagesdialog.cpp:98
+msgid "Sharpen"
+msgstr "Aumentar a nitidez"
+
+#: filterimagesdialog.cpp:97
+msgid "Unsharp"
+msgstr "Diminuir a nitidez"
+
+#: filterimagesdialog.cpp:100
+msgid ""
+"<p>Select here the filter type for your images:</p><p><b>Add noise</b>: add "
+"artificial noise to an image.<br/><b>Antialias</b>: remove pixel aliasing."
+"<br/><b>Blur</b>: blur the image with a Gaussian operator.<br/><b>Despeckle</"
+"b>: reduces the speckle noise in an image while preserving the edges of the "
+"original image.<br/><b>Enhance</b>: apply a digital filter to enhance a "
+"noisy image.<br/><b>Median</b>: apply a median filter to an image.<br/"
+"><b>Noise reduction</b>: reduce noise in an image. <br/><b>Sharpen</b>: "
+"sharpen the image with a Gaussian operator.<br/><b>Unsharp</b>: sharpen the "
+"image with an unsharp mask operator.</p>"
+msgstr ""
+"<p>Selecione aqui o tipo de filtro para suas imagens:</p><p><b>Adicionar "
+"ruído:</b> adiciona um ruído artificial numa imagem.<br/><b>Aplicar anti-"
+"alias</b>: remove o aliasing do pixel.<br/><b>Borrar</b>: borra a imagem com "
+"um operador Gaussiano.<br/><b>Supressão de manchas</b>: reduz o ruído "
+"pintado em uma imagem, enquanto preserva as bordas da imagem original.<br/"
+"><b>Destacar</b>: aplica um filtro digital, para melhorar o ruído na imagem."
+"<br/><b>Fazer mediana</b>: aplica um filtro de mediana para uma imagem.<br/"
+"><b>Redução de ruído</b>: reduz o ruído em uma imagem.<br/><b>Aumentar a "
+"nitidez</b>: aumenta a nitidez da imagem, com um operador Gaussiano.<br/"
+"><b>Diminuir a nitidez</b>: diminui a nitidez da imagem com um operador de "
+"máscara para diminuir o foco.</p>"
+
+#: filterimagesdialog.cpp:222 filterimagesdialog.cpp:275
+#: filteroptionsdialog.cpp:74
+msgid "Gaussian"
+msgstr "Gaussian"
+
+#: filterimagesdialog.cpp:274 filteroptionsdialog.cpp:73
+msgid "Uniform"
+msgstr "Uniforme"
+
+#: filterimagesdialog.cpp:276 filteroptionsdialog.cpp:75
+msgid "Multiplicative"
+msgstr "Multiplicativo"
+
+#: filterimagesdialog.cpp:277 filteroptionsdialog.cpp:76
+msgid "Impulse"
+msgstr "Impulso"
+
+#: filterimagesdialog.cpp:278 filteroptionsdialog.cpp:77
+msgid "Laplacian"
+msgstr "Laplaciano"
+
+#: filterimagesdialog.cpp:279 filteroptionsdialog.cpp:78
+msgid "Poisson"
+msgstr "Poisson"
+
+#: filteroptionsdialog.cpp:59
+msgid "Filter Options"
+msgstr "Opções de filtro"
+
+#: filteroptionsdialog.cpp:79
+msgid ""
+"Select here the algorithm method which will used to add random noise to the "
+"images."
+msgstr ""
+"Selecione aqui o algoritmo que será usado para adicionar o ruído aleatório "
+"nas imagens."
+
+#: filteroptionsdialog.cpp:81
+msgid "Noise algorithm:"
+msgstr "Algoritmo de ruído:"
+
+#: filteroptionsdialog.cpp:87 filteroptionsdialog.cpp:95
+#: filteroptionsdialog.cpp:103 filteroptionsdialog.cpp:115
+#: filteroptionsdialog.cpp:128 filteroptionsdialog.cpp:137
+#: filteroptionsdialog.cpp:146 filteroptionsdialog.cpp:156
+msgid "px"
+msgstr "px"
+
+#: filteroptionsdialog.cpp:88
+msgid ""
+"Select here the blur radius of the Gaussian, not counting the center pixel. "
+"For reasonable results, the radius should be larger than deviation. If you "
+"use a radius of 0 the blur operation selects a suitable radius."
+msgstr ""
+"Selecione aqui o raio Gaussiano para o botão, sem contar o pixel central. "
+"Por questões de resultado, o raio deve ser maior que o desvio. Se você usar "
+"um raio igual a zero, a operação de borrar selecionará um raio apropriado."
+
+#: filteroptionsdialog.cpp:96
+msgid "Select here the standard deviation of the blur Gaussian."
+msgstr "Selecione aqui o desvio padrão do borrão Gaussiano."
+
+#: filteroptionsdialog.cpp:104
+msgid ""
+"Select here the median radius of the pixel neighborhood. The algorithm "
+"applies a digital filter that improves the quality of noisy images. Each "
+"pixel is replaced by the median in a set of neighboring pixels as defined by "
+"the radius."
+msgstr ""
+"Selecione aqui o raio mediano da vizinhança do pixel. O algoritmo aplica um "
+"filtro digital, que melhora a qualidade de imagens com ruído. Cada pixel é "
+"substituído pela mediana, em um conjunto de pixels vizinhos, conforme "
+"definido pelo raio."
+
+#: filteroptionsdialog.cpp:116
+msgid ""
+"Select here the noise reduction radius value. The algorithm smooths the "
+"contours of an image while still preserving edge information. The algorithm "
+"works by replacing each pixel with its neighbor closest in value. A neighbor "
+"is defined by the radius. If you use a radius of 0 the algorithm selects a "
+"suitable radius."
+msgstr ""
+"Selecione aqui o valor do raio da redução de ruído. O algoritmo suaviza o "
+"contorno de uma imagem, enquanto preserva as informações sobre a borda. O "
+"algoritmo substitui cada pixel por seu vizinho mais próximo, relativo ao "
+"valor do raio. Se você usar um raio igual a zero, o algoritmo selecionará o "
+"raio adequado."
+
+#: filteroptionsdialog.cpp:129
+msgid ""
+"Select here the radius of the sharpen Gaussian, not counting the center "
+"pixel. For reasonable results, the radius should be larger than deviation. "
+"If you use a radius of 0 the sharpen operation selects a suitable radius."
+msgstr ""
+"Selecione aqui o raio do foco Gaussiano, sem contar o pixel central. Por "
+"questões de resultado, o raio deve ser maior que o desvio. Se você usar um "
+"raio igual a zero, as operações de foco selecionarão um raio apropriado."
+
+#: filteroptionsdialog.cpp:138
+msgid "Select here the sharpen deviation value of the Laplacian."
+msgstr "Selecione aqui o valor do desvio do foco Laplaciano."
+
+#: filteroptionsdialog.cpp:147
+msgid ""
+"Select here the radius of the unsharpen Gaussian, not counting the center "
+"pixel. The algorithm convolve the image with a Gaussian operator of the "
+"given radius and standard deviation. For reasonable results, radius should "
+"be larger than sigma. If you use a radius of 0 the algorithm selects a "
+"suitable radius."
+msgstr ""
+"Selecione aqui o raio para desfoque Gaussiano, sem contar o pixel central. O "
+"algoritmo usa a imagem com um operador Gaussiano, do raio fornecido e desvio "
+"padrão. Por questões de resultado, o raio deve ser maior que o sigma. Se "
+"você usar um raio igual a zero, as operações de foco selecionarão um raio "
+"apropriado."
+
+#: filteroptionsdialog.cpp:157
+msgid "Select here the unsharpen deviation value of the Gaussian."
+msgstr "Selecione aqui o valor do desvio de desfoque Gaussiano."
+
+#: filteroptionsdialog.cpp:162 filteroptionsdialog.cpp:168
+msgid "%"
+msgstr "%"
+
+#: filteroptionsdialog.cpp:163
+msgid ""
+"Select here the percentage difference between original and blurred image "
+"which should be added to original."
+msgstr ""
+"Selecione aqui o percentual da diferença entre a imagem original e desfocada "
+"que deve ser adicionada a original."
+
+#: filteroptionsdialog.cpp:165
+msgid "Amount:"
+msgstr "Quantidade:"
+
+#: filteroptionsdialog.cpp:169
+msgid ""
+"Select here the unsharpen threshold value, as a percentage of the maximum "
+"color component value, needed to apply the difference amount."
+msgstr ""
+"Selecione o valor do limiar de desfoque, como uma porcentagem do valor "
+"máximo do componente de cor, necessário para aplicar a quantidade de "
+"diferença."
+
+#: filteroptionsdialog.cpp:172
+msgid "Threshold:"
+msgstr "Limiar:"
+
+#: imagepreview.cpp:51
+#, kde-format
+msgid "Batch Process Preview (%1 - %2)"
+msgstr "Visualização do processo em lote (%1 - %2)"
+
+#: imagepreview.cpp:57
+msgid "Batch process images"
+msgstr "Processamento de imagens em lote"
+
+#: imagepreview.cpp:60
+msgid ""
+"An interface to preview the \"Batch Process Images\" Kipi plugin.\n"
+"This plugin uses the \"convert\" program from the \"ImageMagick\" package."
+msgstr ""
+"Uma interface visualização do plug-in do Kipi de \"Processamento de imagens "
+"em lote\".\n"
+"Este plug-in usa o programa \"convert\" do pacote \"ImageMagick\"."
+
+#: outputdialog.cpp:58
+msgid "Copy to Clip&board"
+msgstr "&Copiar para área de transferência"
+
+#: outputdialog.cpp:63
+msgid "Batch processes images"
+msgstr "Imagens de processos em lote"
+
+#: outputdialog.cpp:66
+msgid ""
+"An interface to show the output of the \"Batch Process Images\" Kipi "
+"plugin.\n"
+"This plugin uses the \"convert\" program from the \"ImageMagick\" package."
+msgstr ""
+"Uma interface para mostrar a saída do plug-in do Kipi de \"Processamento de "
+"imagens em lote\".\n"
+"Este plug-in usa o programa \"convert\" do pacote \"ImageMagick\"."
+
+#: pixmapview.cpp:118
+msgid ""
+"Preview\n"
+"image\n"
+"processing\n"
+"in\n"
+"progress..."
+msgstr ""
+"Processamento\n"
+"da visualização\n"
+"da imagem\n"
+"em\n"
+"andamento..."
+
+#: pixmapview.cpp:187
+msgid ""
+"Cannot\n"
+"process\n"
+"preview\n"
+"image."
+msgstr ""
+"Não foi possível\n"
+"processar a\n"
+"visualização\n"
+"da imagem."
+
+#: plugin_batchprocessimages.cpp:87
+msgid "Border Images..."
+msgstr "Colocar bordas nas imagens..."
+
+#: plugin_batchprocessimages.cpp:91
+msgid "Color Images..."
+msgstr "Colorir imagens..."
+
+#: plugin_batchprocessimages.cpp:95
+msgid "Convert Images..."
+msgstr "Converter imagens..."
+
+#: plugin_batchprocessimages.cpp:99
+msgid "Image Effects..."
+msgstr "Efeitos na imagem..."
+
+#: plugin_batchprocessimages.cpp:103
+msgid "Filter Images..."
+msgstr "Filtrar imagens..."
+
+#: plugin_batchprocessimages.cpp:107
+msgid "Rename Images..."
+msgstr "Renomear imagens..."
+
+#: plugin_batchprocessimages.cpp:111
+msgid "Recompress Images..."
+msgstr "Comprimir novamente as imagens..."
+
+#: plugin_batchprocessimages.cpp:115
+msgid "Resize Images..."
+msgstr "Redimensionar imagens..."
+
+#: plugin_batchprocessimages.cpp:199
+msgid "Please select an album or a selection of images."
+msgstr "Selecione um álbum ou uma seleção de imagens."
+
+#. i18n: file: batchprocessimagesdialog.ui:23
+#. i18n: ectx: property (title), widget (QGroupBox, m_optionGroupBox)
+#. i18n: file: batchprocessimagesdialog.ui:29
+#. i18n: ectx: property (text), widget (QLabel, m_optionComboBoxLabel)
+#. i18n: file: batchprocessimagesdialog.ui:23
+#. i18n: ectx: property (title), widget (QGroupBox, m_optionGroupBox)
+#. i18n: file: batchprocessimagesdialog.ui:29
+#. i18n: ectx: property (text), widget (QLabel, m_optionComboBoxLabel)
+#: rc.cpp:3 rc.cpp:6 rc.cpp:95 rc.cpp:98
+msgid "SET_AT_RUNTIME"
+msgstr "DEFINIR_NO_TEMPO_DE_EXECUÇÃO"
+
+#. i18n: file: batchprocessimagesdialog.ui:51
+#. i18n: ectx: property (text), widget (QPushButton, m_optionsButton)
+#: rc.cpp:9 rc.cpp:101
+msgid "Options..."
+msgstr "Opções..."
+
+#. i18n: file: batchprocessimagesdialog.ui:75
+#. i18n: ectx: property (text), widget (QPushButton, m_previewButton)
+#: rc.cpp:12 rc.cpp:104
+msgid "Preview"
+msgstr "Visualização"
+
+#. i18n: file: batchprocessimagesdialog.ui:82
+#. i18n: ectx: property (text), widget (QCheckBox, m_smallPreview)
+#: rc.cpp:15 rc.cpp:107
+msgid "Small preview"
+msgstr "Visualização pequena"
+
+#. i18n: file: batchprocessimagesdialog.ui:103
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: rc.cpp:18 rc.cpp:110
+msgid "Source"
+msgstr "Origem"
+
+#. i18n: file: batchprocessimagesdialog.ui:119
+#. i18n: ectx: property (text), widget (QPushButton, m_addImagesButton)
+#. i18n: file: renameimagesbase.ui:142
+#. i18n: ectx: property (text), widget (QPushButton, m_addButton)
+#. i18n: file: batchprocessimagesdialog.ui:119
+#. i18n: ectx: property (text), widget (QPushButton, m_addImagesButton)
+#. i18n: file: renameimagesbase.ui:142
+#. i18n: ectx: property (text), widget (QPushButton, m_addButton)
+#: rc.cpp:21 rc.cpp:75 rc.cpp:113 rc.cpp:152
+msgid "Add"
+msgstr "Adicionar"
+
+#. i18n: file: batchprocessimagesdialog.ui:126
+#. i18n: ectx: property (text), widget (QPushButton, m_remImagesButton)
+#. i18n: file: renameimagesbase.ui:152
+#. i18n: ectx: property (text), widget (QPushButton, m_removeButton)
+#. i18n: file: batchprocessimagesdialog.ui:126
+#. i18n: ectx: property (text), widget (QPushButton, m_remImagesButton)
+#. i18n: file: renameimagesbase.ui:152
+#. i18n: ectx: property (text), widget (QPushButton, m_removeButton)
+#: rc.cpp:24 rc.cpp:78 rc.cpp:116 rc.cpp:155
+msgid "Remove"
+msgstr "Remover"
+
+#. i18n: file: batchprocessimagesdialog.ui:183
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: rc.cpp:27 rc.cpp:119
+msgid "Destination"
+msgstr "Destino"
+
+#. i18n: file: batchprocessimagesdialog.ui:189
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: rc.cpp:30 rc.cpp:122
+msgid "Destination folder:"
+msgstr "Pasta de destino:"
+
+#. i18n: file: batchprocessimagesdialog.ui:209
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: rc.cpp:33 rc.cpp:125
+msgid "Overwrite mode:"
+msgstr "Modo de substituição:"
+
+#. i18n: file: batchprocessimagesdialog.ui:222
+#. i18n: ectx: property (text), widget (QCheckBox, m_removeOriginal)
+#: rc.cpp:36 rc.cpp:128
+msgid "Remove original"
+msgstr "Remover original"
+
+#. i18n: file: imagepreview.ui:19
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: rc.cpp:39 rc.cpp:170
+msgid "Zoom:"
+msgstr "Zoom:"
+
+#. i18n: file: imagepreview.ui:65
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: rc.cpp:42 rc.cpp:173
+msgid "Original Image"
+msgstr "Imagem original"
+
+#. i18n: file: imagepreview.ui:71
+#. i18n: ectx: property (whatsThis), widget (KIPIBatchProcessImagesPlugin::PixmapView, m_origView)
+#: rc.cpp:45 rc.cpp:176
+msgid ""
+"This is the original image preview. You can use the mouse wheel to change "
+"the zoom factor. Click in and use the mouse to move the image."
+msgstr ""
+"Esta é a visualização da imagem original. Você pode usar a roda do mouse "
+"para alterar o fator de zoom. Clique e use o mouse para mover a imagem."
+
+#. i18n: file: imagepreview.ui:93
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: rc.cpp:48 rc.cpp:179
+msgid "Destination Image"
+msgstr "Imagem de destino"
+
+#. i18n: file: imagepreview.ui:99
+#. i18n: ectx: property (whatsThis), widget (KIPIBatchProcessImagesPlugin::PixmapView, m_destView)
+#: rc.cpp:51 rc.cpp:182
+msgid ""
+"This is the destination image preview. You can use the mouse wheel to change "
+"the zoom factor. Click in and use the mouse to move the image."
+msgstr ""
+"Esta é a visualização da imagem de destino. Você pode usar a roda do mouse "
+"para alterar o fator de zoom. Clique e use o mouse para mover a imagem."
+
+#. i18n: file: renameimagesbase.ui:20
+#. i18n: ectx: property (title), widget (QGroupBox, m_templateGroupBox)
+#: rc.cpp:54 rc.cpp:131
+msgid "Template for renaming files"
+msgstr "Modelo usado para renomear imagens"
+
+#. i18n: file: renameimagesbase.ui:26
+#. i18n: ectx: property (text), widget (QLabel, m_seqLabel)
+#: rc.cpp:57 rc.cpp:134
+msgid "Sequence number start value:"
+msgstr "Valor sequencial numérico de início:"
+
+#. i18n: file: renameimagesbase.ui:39
+#. i18n: ectx: property (text), widget (QLabel, m_prefixLabel)
+#: rc.cpp:60 rc.cpp:137
+msgid "Prefix string:"
+msgstr "Sequência de prefixo:"
+
+#. i18n: file: renameimagesbase.ui:49
+#. i18n: ectx: property (text), widget (QCheckBox, m_addFileNameCheck)
+#: rc.cpp:63 rc.cpp:140
+msgid "Add original file name"
+msgstr "Adicionar nome do arquivo original"
+
+#. i18n: file: renameimagesbase.ui:56
+#. i18n: ectx: property (text), widget (QCheckBox, m_addFileDateCheck)
+#: rc.cpp:66 rc.cpp:143
+msgid "Add file date"
+msgstr "Adicionar data do arquivo"
+
+#. i18n: file: renameimagesbase.ui:63
+#. i18n: ectx: property (text), widget (QCheckBox, m_useExtraSymbolsCheck)
+#: rc.cpp:69 rc.cpp:146
+msgid "Use extra [X*] symbols in date format field"
+msgstr "Usar símbolos extra [X*] no campo do formato de data"
+
+#. i18n: file: renameimagesbase.ui:91
+#. i18n: ectx: property (text), widget (QCheckBox, m_formatDateCheck)
+#: rc.cpp:72 rc.cpp:149
+msgid "Date format:"
+msgstr "Formato da data:"
+
+#. i18n: file: renameimagesbase.ui:175
+#. i18n: ectx: property (text), widget (QPushButton, m_reverseList)
+#: rc.cpp:81 rc.cpp:158
+msgid "Reverse List"
+msgstr "Lista reversa"
+
+#. i18n: file: renameimagesbase.ui:198
+#. i18n: ectx: property (text), widget (QPushButton, m_sortButton)
+#: rc.cpp:84 rc.cpp:161
+msgid "Sort List"
+msgstr "Ordenar lista"
+
+#. i18n: file: renameimagesbase.ui:205
+#. i18n: ectx: property (text), widget (QPushButton, m_moveDown)
+#: rc.cpp:87 rc.cpp:164
+msgid "Move &Down"
+msgstr "Mover para &baixo"
+
+#. i18n: file: renameimagesbase.ui:212
+#. i18n: ectx: property (text), widget (QPushButton, m_moveUp)
+#: rc.cpp:90 rc.cpp:167
+msgid "Move &Up"
+msgstr "Mover para c&ima"
+
+#: rc.cpp:91
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Luiz Fernando Ranghetti, André Marcelo Alvarenga"
+
+#: rc.cpp:92
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "elchevive@opensuse.org, andrealvarenga@gmx.net"
+
+#: recompressimagesdialog.cpp:60
+msgid "Batch Recompress Images"
+msgstr "Comprimir novamente as imagens em lote"
+
+#: recompressimagesdialog.cpp:64
+msgid "Batch recompress images"
+msgstr "Comprimir novamente as imagens em lote"
+
+#: recompressimagesdialog.cpp:67
+msgid ""
+"A Kipi plugin to batch recompress images.\n"
+"This plugin uses the \"convert\" program from the \"ImageMagick\" package."
+msgstr ""
+"Um plug-in do Kipi para comprimir novamente as imagens.\n"
+"Este plug-in usa o programa \"convert\" do pacote \"ImageMagick\"."
+
+#: recompressimagesdialog.cpp:85
+msgid "Image Recompression Options"
+msgstr "Opções de comprimir novamente as imagens"
+
+#: recompressimagesdialog.cpp:248 resizeimagesdialog.cpp:280
+msgid "image file format unsupported."
+msgstr "formato de arquivo de imagem não suportado."
+
+#: recompressoptionsdialog.cpp:49
+msgid "Recompression Options"
+msgstr "Opções de compressão"
+
+#: recompressoptionsdialog.cpp:66
+msgid "<p>The compression value for JPEG target images:</p>"
+msgstr "<p>O valor de compressão de imagens de destino JPEG:</p>"
+
+#: recompressoptionsdialog.cpp:85
+msgid "JPEG File Format"
+msgstr "Formato de arquivo JPEG"
+
+#: recompressoptionsdialog.cpp:100
+msgid "<p>The compression value for PNG target images:</p>"
+msgstr "<p>O valor de compressão de imagens de destino PNG:</p>"
+
+#: recompressoptionsdialog.cpp:112
+msgid "PNG File Format"
+msgstr "Formato de arquivo PNG"
+
+#: recompressoptionsdialog.cpp:127
+msgid "Select here the TIFF compression algorithm."
+msgstr "Selecione aqui o algoritmo de compressão TIFF."
+
+#: recompressoptionsdialog.cpp:130
+msgid "TIFF File Format"
+msgstr "Formato de arquivo TIFF"
+
+#: recompressoptionsdialog.cpp:144
+msgid "Select here the TGA compression algorithm."
+msgstr "Selecione aqui o algoritmo de compressão TGA."
+
+#: recompressoptionsdialog.cpp:147
+msgid "TGA File Format"
+msgstr "Formato de arquivo TGA"
+
+#: renameimagesdialog.cpp:54
+msgid "Rename Images"
+msgstr "Renomear imagens"
+
+#: renameimagesdialog.cpp:62
+msgid "Batch-rename images"
+msgstr "Renomear imagens em lote"
+
+#: renameimagesdialog.cpp:65
+msgid "A Kipi plugin to batch-rename images"
+msgstr "Um plug-in para renomear imagens em lote"
+
+#: renameimageswidget.cpp:98
+msgid "Sort by Name"
+msgstr "Ordenar pelo nome"
+
+#: renameimageswidget.cpp:99
+msgid "Sort by Size"
+msgstr "Ordenar pelo tamanho"
+
+#: renameimageswidget.cpp:100
+msgid "Sort by Date"
+msgstr "Ordenar por data"
+
+#: renameimageswidget.cpp:542
+msgid "Rename File"
+msgstr "Renomear arquivo"
+
+#: renameimageswidget.cpp:590
+msgid "Skipped"
+msgstr "Ignorado"
+
+#: renameimageswidget.cpp:606
+msgid "Failed"
+msgstr "Falhou"
+
+#: resizeimagesdialog.cpp:149
+msgid "Batch Resize Images"
+msgstr "Redimensionamento de imagens em lote"
+
+#: resizeimagesdialog.cpp:156
+msgid "Proportional (1 dim.)"
+msgstr "Proporcional (1 dim.)"
+
+#: resizeimagesdialog.cpp:157
+msgid "Proportional (2 dim.)"
+msgstr "Proporcional (2 dim.)"
+
+#: resizeimagesdialog.cpp:158
+msgid "Non-Proportional"
+msgstr "Não proporcional"
+
+#: resizeimagesdialog.cpp:159
+msgid "Prepare to Print"
+msgstr "Preparar para imprimir"
+
+#: resizeimagesdialog.cpp:162
+msgid "Batch resize images"
+msgstr "Redimensionamento de imagens em lote"
+
+#: resizeimagesdialog.cpp:165
+msgid ""
+"A Kipi plugin to batch-resize images.\n"
+"This plugin uses the \"convert\" program from the \"ImageMagick\" package."
+msgstr ""
+"Um plug-in do Kipi para o redimensionamento de imagens em lote.\n"
+"Este plug-in usa o programa \"convert\" do pacote \"ImageMagick\"."
+
+#: resizeimagesdialog.cpp:174
+msgid "Johannes Wienke"
+msgstr "Johannes Wienke"
+
+#: resizeimagesdialog.cpp:185
+msgid "Image Resizing Options"
+msgstr "Opções para redimensionar imagens"
+
+#: resizeimagesdialog.cpp:188
+msgid "Type:"
+msgstr "Tipo:"
+
+#: resizeimagesdialog.cpp:195
+msgid "<p>Select here the image-resize type.</p>"
+msgstr "<p>Selecione aqui o tipo do redimensionamento da imagem.</p>"
+
+#: resizeoptionsdialog.cpp:54
+msgid "Image-Resize Options"
+msgstr "Opções para redimensionamento de imagens"
+
+#: resizeoptionsdialog.cpp:80
+msgid "Quality Settings"
+msgstr "Configurações da qualidade"
+
+#: resizeoptionsdialog.cpp:86
+msgctxt "Filter name"
+msgid "<default>"
+msgstr "<padrão>"
+
+#: resizeoptionsdialog.cpp:90
+msgid ""
+"Select here the filter name for the resize-image process. This filter will "
+"be used like a kernel convolution process during the increased image size "
+"rendering."
+msgstr ""
+"Selecione aqui o nome do filtro para o processo de redimensionamento das "
+"imagens. Ele será usado como o processo da convolução do kernel, durante a "
+"renderização do tamanho de uma imagem aumentada."
+
+#: resizeoptionsdialog.cpp:98
+msgid "Image quality (percent):"
+msgstr "Qualidade da imagem (porcentagem):"
+
+#: resizeoptionsdialog.cpp:99
+msgid "Quality for compressed images."
+msgstr "Qualidade das imagens comprimidas."
+
+#: resizeoptionsdialog.cpp:209 resizeoptionsdialog.cpp:294
+#: resizeoptionsdialog.cpp:394
+msgid "Size Settings"
+msgstr "Configurações de tamanho"
+
+#: resizeoptionsdialog.cpp:216
+msgid "New size (pixels):"
+msgstr "Novo tamanho (pixels):"
+
+#: resizeoptionsdialog.cpp:217
+msgid "The new images' size in pixels."
+msgstr "O novo tamanho das imagens, em pixels."
+
+#: resizeoptionsdialog.cpp:236
+msgid ""
+"<p><b>Proportional (1 dim.)</b>: standard auto-resizing using one dimension. "
+"The width or the height of the images will be automatically selected, "
+"depending on the images' orientations. The images' aspect ratios are "
+"preserved.</p>"
+msgstr ""
+"<p><b>Proporcional (1 dim.)</b>: é o redimensionamento automático padrão, "
+"usando uma dimensão. A largura ou a altura das imagens serão automaticamente "
+"selecionadas, dependendo da orientação das imagens. As proporções das "
+"imagens serão preservadas.</p>"
+
+#: resizeoptionsdialog.cpp:301 resizeoptionsdialog.cpp:401
+msgid "Width (pixels):"
+msgstr "Largura (pontos):"
+
+#: resizeoptionsdialog.cpp:302 resizeoptionsdialog.cpp:402
+msgid "The new images' width in pixels."
+msgstr "A nova largura das imagens, em pixels."
+
+#: resizeoptionsdialog.cpp:307 resizeoptionsdialog.cpp:407
+msgid "Height (pixels):"
+msgstr "Altura (pixels):"
+
+#: resizeoptionsdialog.cpp:308 resizeoptionsdialog.cpp:408
+msgid "The new images' height in pixels."
+msgstr "A nova altura das imagens, em pixels."
+
+#: resizeoptionsdialog.cpp:310
+msgid "Fill image to specified size"
+msgstr "Preencher a imagem para o tamanho especificado"
+
+#: resizeoptionsdialog.cpp:311
+msgid ""
+"If this box is set, the resulting image is filled up with the specified "
+"background color to the desired dimension, otherwise it is only as big as "
+"needed to fit the original image into the specified dimensions."
+msgstr ""
+"Se esta opção for selecionada, a imagem resultante será preenchida com a cor "
+"do plano de fundo indicada, de modo a ocupar a dimensão desejada. Caso "
+"contrário, será grande apenas o suficiente para caber a imagem original nas "
+"dimensões especificadas."
+
+#: resizeoptionsdialog.cpp:316
+msgid "Background color:"
+msgstr "Cor do plano de fundo:"
+
+#: resizeoptionsdialog.cpp:318
+msgid ""
+"You can select here the background color to be used when adapting the "
+"images' sizes."
+msgstr ""
+"Você pode selecionar aqui a cor de fundo, que será usada durante a adaptação "
+"do tamanho das imagens."
+
+#: resizeoptionsdialog.cpp:346
+msgid ""
+"<p><b>Proportional (2 dim.)</b>: auto-resizing using two dimensions. The "
+"images' aspect ratio are preserved. You can use this, for example, to adapt "
+"your images' sizes to your screen size.</p>"
+msgstr ""
+"<p><b>Proporcional (2 dim.)</b>: redimensionamento automático, usando duas "
+"dimensões. As proporções das imagens serão preservadas. Você pode usar isto, "
+"por exemplo, para adaptar o tamanho de suas imagens ao tamanho de sua tela.</"
+"p>"
+
+#: resizeoptionsdialog.cpp:429
+msgid ""
+"<p><b>Non proportional</b>: non-proportional resizing using two dimensions. "
+"The images' aspect ratios are not preserved.</p>"
+msgstr ""
+"<p><b>Não proporcional</b>: redimensionamento não proporcional, usando duas "
+"dimensões. As proporções das imagens não serão preservadas.</p>"
+
+#: resizeoptionsdialog.cpp:491
+msgid "Use custom settings"
+msgstr "Usar configurações personalizadas"
+
+#: resizeoptionsdialog.cpp:492
+msgid "If this option is enabled, all printing settings can be customized."
+msgstr ""
+"Se esta opção estiver habilitada, todas as configurações de impressão pode "
+"ser personalizadas."
+
+#: resizeoptionsdialog.cpp:499
+msgid "Printing Standard Settings"
+msgstr "Configurações padrão de impressão"
+
+#: resizeoptionsdialog.cpp:502
+msgid "Paper size (cm):"
+msgstr "Tamanho do papel (cm):"
+
+#: resizeoptionsdialog.cpp:515
+msgid "The standard photographic paper sizes in centimeters."
+msgstr "Os tamanhos padrão dos papéis fotográficos, em centímetros."
+
+#: resizeoptionsdialog.cpp:518 resizeoptionsdialog.cpp:566
+msgid "Print resolution (dpi):"
+msgstr "Resolução de impressão (dpi):"
+
+#: resizeoptionsdialog.cpp:527
+msgid "The standard print resolutions in dots per inch."
+msgstr "A resolução padrão de impressão em pontos por polegada."
+
+#: resizeoptionsdialog.cpp:530
+msgid "Stretch Image"
+msgstr "Esticar a imagem"
+
+#: resizeoptionsdialog.cpp:531
+msgid ""
+"If this is selected, the image will be stretched to fit the paper "
+"dimensions. Otherwise it will be centered on the canvas and the borders will "
+"get cropped to achieve the desired paper size."
+msgstr ""
+"Se isto for selecionado, a imagem será esticada para caber nas dimensões do "
+"papel. Caso contrário, ela será centralizada na área de desenho e as bordas "
+"ficarão recortadas para obter o tamanho do papel desejado."
+
+#: resizeoptionsdialog.cpp:547
+msgid "Printing Custom Settings"
+msgstr "Configurações personalizadas de impressão"
+
+#: resizeoptionsdialog.cpp:550
+msgid "Paper width (cm):"
+msgstr "Largura do papel (cm):"
+
+#: resizeoptionsdialog.cpp:554
+msgid "The customized width of the photographic paper size in centimeters."
+msgstr ""
+"A largura do tamanho de papel fotográfico personalizado, em centímetros."
+
+#: resizeoptionsdialog.cpp:558
+msgid "Paper height (cm):"
+msgstr "Altura do papel (cm):"
+
+#: resizeoptionsdialog.cpp:562
+msgid "The customized height of the photographic paper size in centimeters."
+msgstr ""
+"A altura do tamanho de papel fotográfico personalizado, em centímetros."
+
+#: resizeoptionsdialog.cpp:570
+msgid "The customized print resolution in dots per inch."
+msgstr "A resolução da impressão personalizada em pontos por polegada."
+
+#: resizeoptionsdialog.cpp:630
+msgid ""
+"<p><b>Prepare to print</b>: prepare the image for photographic printing. The "
+"user can set the print resolution and the photographic paper size. The "
+"target images will be adapted to the specified dimensions (included the "
+"background size, margin size, and background color).</p>"
+msgstr ""
+"<p><b>Preparar para imprimir</b>: preparar a imagem para a impressão "
+"fotográfica. O usuário pode ajustar a resolução da impressão e o tamanho do "
+"papel fotográfico. As imagens serão adaptadas para as dimensões "
+"especificadas (inclusive tamanho do fundo, as margens e a cor de plano de "
+"fundo).</p>"
+
+#~ msgid "Niepce"
+#~ msgstr "Niepce"

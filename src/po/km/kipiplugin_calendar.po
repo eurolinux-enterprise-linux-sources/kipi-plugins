@@ -1,0 +1,322 @@
+# translation of kipiplugin_calendar.po to Khmer
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Khoem Sokhem <khoemsokhem@khmeros.info>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_calendar\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-07-18 13:06+0200\n"
+"PO-Revision-Date: 2009-06-11 15:09+0700\n"
+"Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
+"Language-Team: Khmer <support@khmeros.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"\n"
+"\n"
+
+#. i18n: file: caltemplate.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, CalTemplate)
+#: calwizard.cpp:71 rc.cpp:52 rc.cpp:115
+msgid "Create Template for Calendar"
+msgstr "បង្កើត​ពុម្ព​សម្រាប់​ប្រតិទិន"
+
+#: calwizard.cpp:77
+msgid "Choose events to show on the Calendar"
+msgstr "ជ្រើស​ព្រឹត្តិការណ៍​ដើម្បី​បង្ហាញ​នៅ​លើ​ប្រតិទិន"
+
+#: calwizard.cpp:82
+msgid "Select Year & Images"
+msgstr "ជ្រើស​ឆ្នាំ និង​រូបភាព"
+
+#: calwizard.cpp:90
+msgid "Print"
+msgstr "បោះពុម្ព"
+
+#. i18n: file: calprogress.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, CalProgress)
+#: calwizard.cpp:96 rc.cpp:30 rc.cpp:93
+msgid "Printing"
+msgstr "កា​របោះពុម្ព"
+
+#: calwizard.cpp:102
+msgid "Calendar"
+msgstr "ប្រតិទិន"
+
+#: calwizard.cpp:105
+msgid "A Kipi plugin to create a calendar"
+msgstr "កម្មវិធី​ជំនួយ Kipi ត្រូវ​បង្កើត​ប្រតិទិន"
+
+#: calwizard.cpp:106
+msgid ""
+"(c) 2003-2005, Renchi Raju\n"
+"(c) 2006 Tom Albers\n"
+"(c) 2007-2008 Orgad Shaneh"
+msgstr ""
+"រក្សាសិទ្ធិ​ឆ្នាំ ២០០៣-២០០៥ ដោយ Renchi Raju\n"
+"រក្សាសិទ្ធិ​ឆ្នាំ ២០០៦ ដោយ Tom Albers\n"
+"រក្សាសិទ្ធិ​ឆ្នាំ ២០០៧-២០០៨ ដោយ Orgad Shaneh"
+
+#: calwizard.cpp:110
+msgid "Orgad Shaneh"
+msgstr "Orgad Shaneh"
+
+#: calwizard.cpp:110
+msgid "Author and maintainer"
+msgstr "អ្នក​និពន្ធ និង​អ្នក​ថែទាំ"
+
+#: calwizard.cpp:113
+msgid "Tom Albers"
+msgstr "Tom Albers"
+
+#: calwizard.cpp:113 calwizard.cpp:116
+msgid "Former author and maintainer"
+msgstr "អ្នកនិពន្ធ និង​អ្នកថែទាំ​មុន"
+
+#: calwizard.cpp:116
+msgid "Renchi Raju"
+msgstr "Renchi Raju"
+
+#: calwizard.cpp:124
+msgid "Handbook"
+msgstr "​សៀវភៅ​ដៃ"
+
+#. i18n: file: calselect.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, CalSelect)
+#: calwizard.cpp:138 rc.cpp:39 rc.cpp:102
+msgid "Create Calendar"
+msgstr "បង្កើត​ប្រតិទិន"
+
+#: calwizard.cpp:185
+msgid "No valid images selected for months<br/>Click Back to select images"
+msgstr "គ្មាន​រូបភាព​ត្រឹមត្រូវ​បាន​ជ្រើស​សម្រាប់​ខែ<br/>ចុច​ថយក្រោយ ដើម្បី​ជ្រើស​រូបភាព"
+
+#: calwizard.cpp:197
+msgid ""
+"Please note that you are making a calendar for<br/>the current year or a "
+"year in the past."
+msgstr "សូម​ចំណាំ​ថា អ្នក​កំពុង​សម្គាល់​ប្រតិទិន​សម្រាប់<br/>ឆ្នាំ​បច្ចុប្បន្ន​ ឬ​ឆ្នាំ​​មុន ។"
+
+#: calwizard.cpp:205
+#, kde-format
+msgid ""
+"Click Next to start Printing<br/><br/>Following months will be printed for "
+"year %1:<br/>"
+msgstr ""
+"ចុច​ បន្ទាប់​ដើម្បី​ចាប់ផ្ដើម​បោះពុម្ព<br/><br/>ខែ​ដូច​ខាង​ក្រោម​នឹង​ត្រូវ​បាន​បោះពុម្ព​សម្រាប់​ឆ្នាំ %1 ៖<br/"
+">"
+
+#: calwizard.cpp:257
+msgid "Printing Cancelled"
+msgstr "បានបោះបង់​ការ​បោះពុម្ព"
+
+#: calwizard.cpp:313
+#, kde-format
+msgid "Printing Calendar Page for %1 of %2"
+msgstr "បោះពុម្ព​ទំព័រ​ប្រតិទិន​សម្រាប់ %1 នៃ %2"
+
+#: calwizard.cpp:322
+msgid "Printing Complete"
+msgstr "បោះពុម្ព​បានបញ្ចប់"
+
+#: plugin_calendar.cpp:62
+msgid "Create Calendar..."
+msgstr "បង្កើត​ប្រតិទិន..."
+
+#. i18n: file: calevents.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, CalEvents)
+#: rc.cpp:3 rc.cpp:154
+msgid "Calendar events"
+msgstr "ព្រឹត្តិការណ៍​ប្រតិទិន"
+
+#. i18n: file: calevents.ui:25
+#. i18n: ectx: property (text), widget (QLabel, ohHeaderLabel)
+#: rc.cpp:6 rc.cpp:157
+msgid "Select an optional calendar file with the official holidays"
+msgstr "ជ្រើស​​ឯកសារ​ប្រតិទិន​ជា​ជម្រើស​ជា​មួយ​នឹង​ថ្ងៃ​ឈប់​សម្រាក​ជា​ផ្លូវការ"
+
+#. i18n: file: calevents.ui:32
+#. i18n: ectx: property (filter), widget (KUrlRequester, ohUrlRequester)
+#. i18n: file: calevents.ui:88
+#. i18n: ectx: property (filter), widget (KUrlRequester, fhUrlRequester)
+#. i18n: file: calevents.ui:32
+#. i18n: ectx: property (filter), widget (KUrlRequester, ohUrlRequester)
+#. i18n: file: calevents.ui:88
+#. i18n: ectx: property (filter), widget (KUrlRequester, fhUrlRequester)
+#: rc.cpp:9 rc.cpp:23 rc.cpp:160 rc.cpp:174
+msgid "*.ics"
+msgstr "*.ics"
+
+#. i18n: file: calevents.ui:49
+#. i18n: ectx: property (text), widget (QLabel, ohExplainLabel)
+#: rc.cpp:12 rc.cpp:163
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
+"weight:400; font-style:italic;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">You can download a "
+"calendar for your country from <a href=\"http://www.icalshare.com\"><span "
+"style=\" text-decoration: underline; color:#0057ae;\">http://www.icalshare."
+"com</span></a> or other sites.</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">This is fully optional. "
+"All the events from this calendar will be printed in red.</p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
+"weight:400; font-style:italic;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">អ្នក​អាច​ទាញយក​ប្រតិទិន​សម្រាប់​ប្រទេស​​"
+"របស់​អ្នក​ពី <a href=\"http://www.icalshare.com\"><span style=\" text-decoration: "
+"underline; color:#0057ae;\">http://www.icalshare.com</span></a> ឬ​តំបន់​បណ្ដាញ​"
+"ផ្សេង ។</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">នេះ​ជា​ជម្រើស​ពេញលេញ ។ ព្រឹត្តិការណ៍​"
+"ទាំងអស់​ពីប្រតិទិននេះ​នឹង​ត្រូ​វបានបោះពុម្ព​ជា​ពណ៌​ក្រហម ។</p></body></html>"
+
+#. i18n: file: calevents.ui:78
+#. i18n: ectx: property (text), widget (QLabel, fhHeaderLabel)
+#: rc.cpp:20 rc.cpp:171
+msgid "Select an optional calendar file with your \"family holidays\""
+msgstr "ជ្រើស​​ឯកសារ​ប្រតិទិន​ជា​ជម្រើស​ជា​មួយ​នឹង​ \"ថ្ងៃ​ឈប់សម្រាក​គ្រួសារ​\" របស់​អ្នក"
+
+#. i18n: file: calevents.ui:101
+#. i18n: ectx: property (text), widget (QLabel, fhExplainLabel)
+#: rc.cpp:26 rc.cpp:177
+msgid ""
+"You can create such a calendar using KOrganizer or any other calendar "
+"program.\n"
+"This is fully optional. All the events from this calendar will be printed in "
+"green."
+msgstr ""
+"អ្នក​អាច​បង្កើត​ប្រតិទិនប្រភេទ​នេះ ដោយ​ប្រើ KOrganizer ឬ​កម្មវិធី​ប្រតិទិន​ផ្សេងៗ​ទៀត ។\n"
+"នេះ​ជា​ជម្រើស​ពេញលេញ ។ ព្រឹត្តិការណ៍​ទាំង​អស់​ពី​ប្រតិទិន​នេះ​នឹង​ត្រូវ​បាន​បោះពុម្ព​ជា​ពណ៌​បៃតង ។"
+
+#. i18n: file: calprogress.ui:22
+#. i18n: ectx: property (text), widget (QLabel, currentLabel)
+#: rc.cpp:33 rc.cpp:96
+msgid "Current Page"
+msgstr "ទំព័រ​បច្ចុប្បន្ន"
+
+#. i18n: file: calprogress.ui:32
+#. i18n: ectx: property (text), widget (QLabel, totalLabel)
+#: rc.cpp:36 rc.cpp:99
+msgid "Total Pages"
+msgstr "ទំព័រ​សរុប"
+
+#. i18n: file: calselect.ui:19
+#. i18n: ectx: property (title), widget (QGroupBox, yearBox)
+#: rc.cpp:42 rc.cpp:105
+msgid "Select Year"
+msgstr "ជ្រើស​ឆ្នាំ"
+
+#. i18n: file: calselect.ui:44
+#. i18n: ectx: property (title), widget (QGroupBox, monthBox)
+#: rc.cpp:45 rc.cpp:108
+msgid "Select Images"
+msgstr "ជ្រើស​រូបភាព"
+
+#. i18n: file: calselect.ui:54
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: rc.cpp:48 rc.cpp:111
+msgid ""
+"Left click on Months to Select Images. Right click to Clear Month.\n"
+"You can also drag and drop images onto the Months"
+msgstr ""
+"ចុច​លើ​ខែ​ដើម្បីជ្រើស​រូបភាព ។ ចុច​កណ្ដុរ​ស្ដាំ​ដើម្បីជម្រះ​ខែ ។\n"
+"អ្នក​ក៏​អាច​អូស​និង​ទម្លាក់​រូបភាព​នៅ​ក្នុងខែ​បាន​ដែរ"
+
+#. i18n: file: caltemplate.ui:25
+#. i18n: ectx: property (title), widget (QGroupBox, previewGroupBox)
+#: rc.cpp:55 rc.cpp:118
+msgid "Preview"
+msgstr "មើលជា​មុន"
+
+#. i18n: file: caltemplate.ui:40
+#. i18n: ectx: property (title), widget (QGroupBox, settingsGroupBox)
+#: rc.cpp:58 rc.cpp:121
+msgid "Settings"
+msgstr "ការ​កំណត់"
+
+#. i18n: file: caltemplate.ui:54
+#. i18n: ectx: property (text), widget (QLabel, paperSizeLabel)
+#: rc.cpp:61 rc.cpp:124
+msgid "Paper Size:"
+msgstr "ទំហំ​ទំព័រ ៖"
+
+#. i18n: file: caltemplate.ui:62
+#. i18n: ectx: property (text), item, widget (KComboBox, paperSizeCombo)
+#: rc.cpp:64 rc.cpp:127
+msgid "A4"
+msgstr "A4"
+
+#. i18n: file: caltemplate.ui:67
+#. i18n: ectx: property (text), item, widget (KComboBox, paperSizeCombo)
+#: rc.cpp:67 rc.cpp:130
+msgid "US Letter"
+msgstr "US Letter"
+
+#. i18n: file: caltemplate.ui:77
+#. i18n: ectx: property (title), widget (KButtonGroup, imagePosButtonGroup)
+#: rc.cpp:70 rc.cpp:133
+msgid "Image Position"
+msgstr "ទីតាំង​រូបភាព"
+
+#. i18n: file: caltemplate.ui:86
+#. i18n: ectx: property (text), widget (QRadioButton, topRadio)
+#: rc.cpp:73 rc.cpp:136
+msgid "&Top"
+msgstr "កំពូល"
+
+#. i18n: file: caltemplate.ui:93
+#. i18n: ectx: property (text), widget (QRadioButton, leftRadio)
+#: rc.cpp:76 rc.cpp:139
+msgid "&Left"
+msgstr "ឆ្វេង"
+
+#. i18n: file: caltemplate.ui:100
+#. i18n: ectx: property (text), widget (QRadioButton, rightRadio)
+#: rc.cpp:79 rc.cpp:142
+msgid "&Right"
+msgstr "ស្ដាំ"
+
+#. i18n: file: caltemplate.ui:110
+#. i18n: ectx: property (text), widget (QCheckBox, drawLinesCheckBox)
+#: rc.cpp:82 rc.cpp:145
+msgid "Draw lines on calendar"
+msgstr "គូរ​បន្ទាត់​នៅ​ក្នុង​ប្រតិទិន"
+
+#. i18n: file: caltemplate.ui:122
+#. i18n: ectx: property (text), widget (QLabel, ratioLabel)
+#: rc.cpp:85 rc.cpp:148
+msgid "Image to text ratio:"
+msgstr "រូបភាព​ទៅកាំ​អត្ថបទ ៖"
+
+#. i18n: file: caltemplate.ui:152
+#. i18n: ectx: property (text), widget (QLabel, fontLabel)
+#: rc.cpp:88 rc.cpp:151
+msgid "Font:"
+msgstr "ពុម្ពអក្សរ ៖"
+
+#: rc.cpp:89
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ខឹម សុខែម,​អេង វណ្ណៈ, អោក ពិសិដ្ឋ​"
+
+#: rc.cpp:90
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "khoemsokhem@khmeros.info,vannak@khmeros.info,piseth_dv@khmeros.info"

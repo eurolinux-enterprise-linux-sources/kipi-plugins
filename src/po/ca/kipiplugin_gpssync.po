@@ -1,0 +1,851 @@
+# Translation of kipiplugin_gpssync.po to Catalan
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2007, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_gpssync\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-11 06:30+0200\n"
+"PO-Revision-Date: 2009-02-20 18:41+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: gpseditdialog.cpp:98
+#, kde-format
+msgid "%1 - Edit Geographical Coordinates"
+msgstr "%1 - Edició de coordenades geogràfiques"
+
+#: gpseditdialog.cpp:106
+#, fuzzy
+#| msgid ""
+#| "<p>Use the map on the right to select the location where the picture has "
+#| "been taken. Click with left mouse button or move the marker on the map to "
+#| "get the GPS coordinates.</p>"
+msgid ""
+"<p>Use the map on the right to select the location where the picture was "
+"taken. Click with left mouse button or move the marker on the map to get the "
+"GPS coordinates.</p>"
+msgstr ""
+"<p>Useu el mapa de la dreta per a seleccionar el lloc on s'ha pres la "
+"fotografia. Cliqueu amb el botó esquerre del ratolí o moveu el marcador en "
+"el mapa per a obtenir les coordenades del GPS.</p>"
+
+#: gpseditdialog.cpp:111
+msgid "Altitude:"
+msgstr "Altitud:"
+
+#: gpseditdialog.cpp:112
+msgid "Latitude:"
+msgstr "Latitud:"
+
+#: gpseditdialog.cpp:113
+msgid "Longitude:"
+msgstr "Longitud:"
+
+#: gpseditdialog.cpp:127
+#, fuzzy
+#| msgid "Goto Location"
+msgid "Go to Location"
+msgstr "Vés a la localització"
+
+#: gpseditdialog.cpp:152 gpslistviewcontextmenu.cpp:307
+#: gpslistviewcontextmenu.cpp:339 gpssyncdialog.cpp:267 gpssyncdialog.cpp:349
+#: gpssyncdialog.cpp:357 gpssyncdialog.cpp:486 gpssyncdialog.cpp:496
+#: gpssyncdialog.cpp:507 gpssyncdialog.cpp:536 gpstracklisteditdialog.cpp:127
+msgid "GPS Sync"
+msgstr "Sincronització GPS"
+
+#: gpseditdialog.cpp:155
+msgid "A Plugin to edit geographical coordinates"
+msgstr "Un connector per a editar coordenades geogràfiques"
+
+#: gpseditdialog.cpp:156 gpssyncdialog.cpp:271
+msgid "(c) 2006-2009, Gilles Caulier"
+msgstr "(c) 2006-2009, Gilles Caulier"
+
+#: gpseditdialog.cpp:158 gpssyncdialog.cpp:273 gpstracklisteditdialog.cpp:133
+#: kmlexportconfig.cpp:290
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: gpseditdialog.cpp:159 gpssyncdialog.cpp:274 gpstracklisteditdialog.cpp:134
+#: kmlexportconfig.cpp:287 kmlexportconfig.cpp:291
+msgid "Developer and maintainer"
+msgstr "Desenvolupador i mantenidor"
+
+#: gpseditdialog.cpp:167 gpssyncdialog.cpp:282 gpstracklisteditdialog.cpp:142
+#: kmlexportconfig.cpp:299
+msgid "Handbook"
+msgstr "Manual"
+
+#: gpseditdialog.cpp:319
+#, fuzzy
+#| msgid "Altitude value is not correct!"
+msgid "Altitude value is invalid."
+msgstr "El valor de l'altitud no és correcte!"
+
+#: gpseditdialog.cpp:320 gpseditdialog.cpp:328 gpseditdialog.cpp:336
+msgid "Edit Geographical Coordinates"
+msgstr "Edita les coordenades geogràfiques"
+
+#: gpseditdialog.cpp:327
+#, fuzzy
+#| msgid "Latitude value is not correct!"
+msgid "Latitude value is invalid."
+msgstr "El valor de la latitud no és correcte!"
+
+#: gpseditdialog.cpp:335
+#, fuzzy
+#| msgid "Longitude value is not correct!"
+msgid "Longitude value is invalid."
+msgstr "El valor de la longitud no és correcte!"
+
+#: gpslistviewcontextmenu.cpp:78
+#, fuzzy
+#| msgid "Remove Coordinates..."
+msgid "Copy coordinates"
+msgstr "Suprimeix coordenades..."
+
+#: gpslistviewcontextmenu.cpp:79
+#, fuzzy
+#| msgid "Edit Coordinates..."
+msgid "Paste coordinates"
+msgstr "Edita coordenades..."
+
+#: gpslistviewcontextmenu.cpp:306
+msgid ""
+"Found more than one point on the clipboard - can only assign one point at a "
+"time."
+msgstr ""
+
+#: gpslistviewcontextmenu.cpp:339
+msgid "Could not find any coordinates on the clipboard."
+msgstr ""
+
+#: gpslistviewitem.cpp:127
+msgid "Interpolated"
+msgstr "S'ha interpolat"
+
+#: gpslistviewitem.cpp:131
+msgid "Added"
+msgstr "S'ha afegit"
+
+#: gpslistviewitem.cpp:133
+msgid "Found"
+msgstr "S'ha trobat"
+
+#: gpslistviewitem.cpp:149
+#, fuzzy
+#| msgid "Deleted!"
+msgid "Deleted"
+msgstr "S'ha suprimit!"
+
+#: gpslistviewitem.cpp:161
+msgid "Not available"
+msgstr "No disponible"
+
+#: gpssyncdialog.cpp:118 plugin_gpssync.cpp:78
+msgid "Geolocation"
+msgstr "Geolocalització"
+
+#: gpssyncdialog.cpp:121
+msgid "Correlate"
+msgstr "Correlaciona"
+
+#: gpssyncdialog.cpp:122
+msgid "Edit..."
+msgstr "Edita..."
+
+#: gpssyncdialog.cpp:123
+msgid "Remove"
+msgstr "Elimina"
+
+#: gpssyncdialog.cpp:125
+msgid ""
+"Correlate in time and interpolate distance of data from GPX file with all "
+"images on the list."
+msgstr ""
+"Correlaciona en el temps i interpola la distància de les dades del fitxer "
+"GPX amb totes les imatges de la llista."
+
+#: gpssyncdialog.cpp:126
+msgid "Manually edit GPS coordinates of selected images from the list."
+msgstr ""
+"Edita manualments les coordenades GPS de les imatges seleccionades de la "
+"llista."
+
+#: gpssyncdialog.cpp:127
+msgid "Remove GPS coordinates of selected images from the list."
+msgstr ""
+"Suprimeix les coordenades GPS de les fotografies seleccionades de la llista."
+
+#: gpssyncdialog.cpp:144 gpstracklisteditdialog.cpp:101
+msgid "Date"
+msgstr "Data"
+
+#: gpssyncdialog.cpp:146 gpstracklisteditdialog.cpp:103
+msgid "Latitude"
+msgstr "Latitud"
+
+#: gpssyncdialog.cpp:148 gpstracklisteditdialog.cpp:105
+msgid "Longitude"
+msgstr "Longitud"
+
+#: gpssyncdialog.cpp:150 gpstracklisteditdialog.cpp:107
+msgid "Altitude"
+msgstr "Altitud"
+
+#: gpssyncdialog.cpp:152
+msgid "Status"
+msgstr "Estat"
+
+#: gpssyncdialog.cpp:163
+msgid "Settings"
+msgstr "Arranjament"
+
+#: gpssyncdialog.cpp:166
+msgid "Load GPX File..."
+msgstr "Carrega un fitxer GPX..."
+
+#: gpssyncdialog.cpp:168
+msgid "Current GPX file:"
+msgstr "Fitxer GPX actual:"
+
+#: gpssyncdialog.cpp:169
+msgid "No GPX file"
+msgstr "Cap fitxer GPX"
+
+#: gpssyncdialog.cpp:173
+msgid "Max. time gap (sec.):"
+msgstr "Interval màx. de temps (s):"
+
+#: gpssyncdialog.cpp:175
+msgid ""
+"Sets the maximum difference in seconds from a GPS track point to the image "
+"time to be matched. If the time difference exceeds this setting, no match "
+"will be attempted."
+msgstr ""
+"Indica la diferència màxima en segons entre un punt del trajecte del GPS i "
+"l'hora de la imatge per aparellar-los. Si la diferència de temps excedeix "
+"d'aquest valor, es considera que no són coincidents."
+
+#: gpssyncdialog.cpp:179
+msgid "Time zone:"
+msgstr "Zona horària:"
+
+#: gpssyncdialog.cpp:225
+msgid ""
+"<p>Sets the time zone the camera was set to during photo shooting, so that "
+"the time stamps of the images can be converted to GMT to match the GPS time "
+"reference.</p><p>Note: positive offsets count eastwards from zero longitude "
+"(GMT), they are 'ahead of time'.</p>"
+msgstr ""
+"<p>Indica la zona horària de la càmera durant la presa de la fotografia, de "
+"manera que la marca de temps de les imatges es pot convertir a GMT per "
+"aparellar amb la referència de temps del GPS.</p><p>Nota: els desplaçaments "
+"positius compten cap a l'est des de la longitud zero (GMT), són 'horaris de "
+"l'est'.</p>"
+
+#: gpssyncdialog.cpp:231
+msgid "Interpolate"
+msgstr "Interpola"
+
+#: gpssyncdialog.cpp:232
+msgid ""
+"Set this option to interpolate GPS track points which are not closely "
+"matched to the GPX data file."
+msgstr ""
+"Habiliteu aquesta opció per a interpolar els punts del trajecte del GPS que "
+"no coincideixin exactament amb el fitxer de dades GPX."
+
+#: gpssyncdialog.cpp:235
+msgid "Difference in min.:"
+msgstr "Diferència en min.:"
+
+#: gpssyncdialog.cpp:237
+msgid ""
+"Sets the maximum time difference in minutes (240 max.) to interpolate GPX "
+"file points to image time data."
+msgstr ""
+"Indica la diferència màxima de temps en minuts (240 màx.) per a interpolar "
+"els punts del fitxer GPX amb les dades horàries de la imatge."
+
+#: gpssyncdialog.cpp:270
+#, fuzzy
+#| msgid "A Plugin to synchronize pictures metadata with a GPS device"
+msgid "A Plugin to synchronize pictures' metadata with a GPS device"
+msgstr ""
+"Un connector per sincronitzar les metadades de fotografies amb un dispositiu "
+"GPS"
+
+#: gpssyncdialog.cpp:336 kmlexportconfig.cpp:174
+#, kde-format
+msgid "%1|GPS Exchange Format"
+msgstr "%1|Format d'intercanvi GPS"
+
+#: gpssyncdialog.cpp:337 kmlexportconfig.cpp:175
+msgid "Select GPX File to Load"
+msgstr "Seleccioneu el fitxer GPX a carregar"
+
+#: gpssyncdialog.cpp:348 kmlexport.cpp:374
+#, fuzzy, kde-format
+#| msgid "Cannot parse %1 GPX file!"
+msgid "Cannot parse %1 GPX file."
+msgstr "No s'ha pogut analitzar el fitxer GPX %1!"
+
+#: gpssyncdialog.cpp:356
+#, fuzzy, kde-format
+#| msgid "The %1 GPX file do not have a date-time track to use!"
+msgid "The %1 GPX file does not have a date-time track to use."
+msgstr "El fitxer GPX %1 no té una data-hora utilitzable del trajecte!"
+
+#: gpssyncdialog.cpp:363
+#, kde-format
+msgid "Points parsed: %1"
+msgstr "Punts analitzats: %1"
+
+#: gpssyncdialog.cpp:403
+#, kde-format
+msgid "1 image from the list is not updated."
+msgid_plural "%1 images from the list are not updated."
+msgstr[0] "No s'ha actualitzat 1 imatge de la llista."
+msgstr[1] "No s'han actualitzat %1 imatges de la llista."
+
+#: gpssyncdialog.cpp:407
+#, kde-format
+msgid ""
+"<p>%1\n"
+"Do you really want to close this window without applying changes?</p>"
+msgstr ""
+"<p>%1\n"
+"Esteu segur de voler tancar aquesta finestra sense aplicar els canvis?</p>"
+
+#: gpssyncdialog.cpp:485
+msgid "Cannot find pictures to correlate with GPX file data."
+msgstr ""
+"No s'ha pogut trobar cap fotografia per correlacionar amb el fitxer de dades "
+"GPX."
+
+#: gpssyncdialog.cpp:490
+#, fuzzy, kde-format
+#| msgid ""
+#| "GPS data of 1 image have been updated on the list using the GPX data file."
+#| msgid_plural ""
+#| "GPS data of %1 images have been updated on the list using the GPX data "
+#| "file."
+msgid "The GPS data of 1 image have been updated using the GPX data file."
+msgid_plural ""
+"The GPS data of %1 images have been updated using the GPX data file."
+msgstr[0] ""
+"S'han actualitzat les dades GPS d'1 imatge a la llista usant les dades del "
+"fitxer GPX."
+msgstr[1] ""
+"S'han actualitzat les dades GPS de %1 imatges s'han actualitzat a la llista "
+"usant les dades del fitxer GPX."
+
+#: gpssyncdialog.cpp:494
+#, fuzzy
+#| msgid "Press Apply button to update images metadata."
+msgid "Press the Apply button to update the image's metadata."
+msgid_plural "Press the Apply button to update the images' metadata."
+msgstr[0] "Premeu el botó Aplica per actualitzar les metadades de les imatges."
+msgstr[1] "Premeu el botó Aplica per actualitzar les metadades de les imatges."
+
+#: gpssyncdialog.cpp:506
+#, fuzzy
+#| msgid ""
+#| "Please, select at least one image from the list to edit GPS coordinates "
+#| "manually."
+msgid ""
+"Please select at least one image from the list to edit GPS coordinates "
+"manually."
+msgstr ""
+"Seleccioneu com a mínim una imatge de la llista per editar manualment les "
+"coordenades GPS."
+
+#: gpssyncdialog.cpp:535
+#, fuzzy
+#| msgid ""
+#| "Please, select at least one image from the list to remove GPS coordinates."
+msgid "Please select at least one image from which to remove GPS coordinates."
+msgstr ""
+"Seleccioneu com a mínim una imatge de la llista per suprimir les coordenades "
+"GPS."
+
+#: gpstracklisteditdialog.cpp:87
+msgid "Edit Track List Geographical Coordinates"
+msgstr "Edita les coordenades geogràfiques d'una llista de trajectes"
+
+#: gpstracklisteditdialog.cpp:99
+msgid "Id"
+msgstr "Id"
+
+#: gpstracklisteditdialog.cpp:109
+msgid "Changed"
+msgstr "S'ha canviat"
+
+#: gpstracklisteditdialog.cpp:130
+#, fuzzy
+#| msgid "A Plugin to edit GPS track list"
+msgid "A plugin to edit GPS track lists."
+msgstr "Un connector per a editar la llista de trajectes GPS"
+
+#: gpstracklisteditdialog.cpp:131
+msgid "(c) 2008-2009, Gilles Caulier"
+msgstr "(c) 2008-2009, Gilles Caulier"
+
+#: gpstracklistviewitem.cpp:76
+msgid "Yes"
+msgstr "Sí"
+
+#: gpstracklistviewitem.cpp:76
+msgid "No"
+msgstr "No"
+
+#: kmlexportconfig.cpp:70 kmlexportconfig.cpp:280
+msgid "KML Export"
+msgstr "Exportació KML"
+
+#: kmlexportconfig.cpp:79
+msgid "Target Preferences"
+msgstr "Preferències del destí"
+
+#: kmlexportconfig.cpp:83
+msgid "Target Type"
+msgstr "Tipus de destí"
+
+#: kmlexportconfig.cpp:86
+msgid "&Local or web target used by GoogleEarth"
+msgstr "&Local o destí web usat pel GoogleEarth"
+
+#: kmlexportconfig.cpp:89
+msgid "Web target used by GoogleMap"
+msgstr "Destí web usat pel GoogleMap"
+
+#: kmlexportconfig.cpp:90
+#, fuzzy
+#| msgid ""
+#| "When using GoogleMap, all image must have complete Url, icons are squared "
+#| "and when drawing a track, only linetrack is exported"
+msgid ""
+"When using GoogleMap, all images must have complete URLs, icons are squared, "
+"and when drawing a track, only line track is exported."
+msgstr ""
+"Quan s'usa el GoogleMap, totes les imatges han de tenir un URL complet, les "
+"icones són quadrades i en dibuixar un trajecte, només s'exporta la línia del "
+"trajecte"
+
+#: kmlexportconfig.cpp:102
+msgid "Picture Altitude:"
+msgstr "Altitud de la fotografia:"
+
+#: kmlexportconfig.cpp:104 kmlexportconfig.cpp:225
+msgid "clamp to ground"
+msgstr "fixa al terreny"
+
+#: kmlexportconfig.cpp:105 kmlexportconfig.cpp:226
+msgid "relative to ground"
+msgstr "relativa al terreny"
+
+#: kmlexportconfig.cpp:106 kmlexportconfig.cpp:227
+msgid "absolute"
+msgstr "absoluta"
+
+#: kmlexportconfig.cpp:107
+msgid ""
+"<p>Specifies how pictures are displayed<dl><dt>clamp to ground (default)</"
+"dt><dd>Indicates to ignore an altitude specification</dd><dt>relative to "
+"ground</dt><dd>Sets the altitude of the element relative to the actual "
+"ground elevation of a particular location.</dd><dt>absolute</dt><dd>Sets the "
+"altitude of the coordinate relative to sea level, regardless of the actual "
+"elevation of the terrain beneath the element.</dd></dl>"
+msgstr ""
+"<p>Indica com es visualitzen les fotografies<dl><dt>fixa al terreny (omissió)"
+"</dt><dd>Indica que s'ignora l'especificació d'altitud</dd><dt>relativa al "
+"terreny</dt><dd>Estableix l'altitud de l'element amb relació a l'elevació "
+"del terreny d'una ubicació particular.</dd><dt>absoluta</dt><dd>Estableix "
+"l'altitud de les coordenades relatives al nivell del mar, encara que "
+"l'elevació actual del terreny estigui per sobre de l'element.</dd></dl>"
+
+#: kmlexportconfig.cpp:117
+msgid "Destination Directory:"
+msgstr "Directori de destí:"
+
+#: kmlexportconfig.cpp:121
+#, fuzzy
+#| msgid "Select a directory to save the kml file and pictures"
+msgid "Select a directory in which to save the kml file and pictures"
+msgstr "Seleccioneu un directori per desar el fitxer kml i les fotografies"
+
+#: kmlexportconfig.cpp:124
+#, fuzzy
+#| msgid "Destination Url:"
+msgid "Destination URL:"
+msgstr "URL de destí:"
+
+#: kmlexportconfig.cpp:126
+#, fuzzy
+#| msgid "File Name:"
+msgid "Filename:"
+msgstr "Nom de fitxer:"
+
+#: kmlexportconfig.cpp:144
+msgid "Sizes"
+msgstr "Mides"
+
+#: kmlexportconfig.cpp:146
+msgid "Icon Size:"
+msgstr "Mida de la icona:"
+
+#: kmlexportconfig.cpp:150
+msgid "Image Size:"
+msgstr "Mida de la imatge:"
+
+#: kmlexportconfig.cpp:164
+msgid "GPX Tracks"
+msgstr "Trajectes del GPS"
+
+#: kmlexportconfig.cpp:168
+msgid "Draw GPX Track"
+msgstr "Dibuixa el trajecte GPX"
+
+#: kmlexportconfig.cpp:171
+msgid "GPX file:"
+msgstr "Fitxer GPX:"
+
+#: kmlexportconfig.cpp:177
+msgid "Time Zone:"
+msgstr "Zona horària:"
+
+#: kmlexportconfig.cpp:179
+msgid "GMT-12:00"
+msgstr "GMT-12:00"
+
+#: kmlexportconfig.cpp:180
+msgid "GMT-11:00"
+msgstr "GMT-11:00"
+
+#: kmlexportconfig.cpp:181
+msgid "GMT-10:00"
+msgstr "GMT-10:00"
+
+#: kmlexportconfig.cpp:182
+msgid "GMT-09:00"
+msgstr "GMT-09:00"
+
+#: kmlexportconfig.cpp:183
+msgid "GMT-08:00"
+msgstr "GMT-08:00"
+
+#: kmlexportconfig.cpp:184
+msgid "GMT-07:00"
+msgstr "GMT-07:00"
+
+#: kmlexportconfig.cpp:185
+msgid "GMT-06:00"
+msgstr "GMT-06:00"
+
+#: kmlexportconfig.cpp:186
+msgid "GMT-05:00"
+msgstr "GMT-05:00"
+
+#: kmlexportconfig.cpp:187
+msgid "GMT-04:00"
+msgstr "GMT-04:00"
+
+#: kmlexportconfig.cpp:188
+msgid "GMT-03:00"
+msgstr "GMT-03:00"
+
+#: kmlexportconfig.cpp:189
+msgid "GMT-02:00"
+msgstr "GMT-02:00"
+
+#: kmlexportconfig.cpp:190
+msgid "GMT-01:00"
+msgstr "GMT-01:00"
+
+#: kmlexportconfig.cpp:191
+msgid "GMT"
+msgstr "GMT"
+
+#: kmlexportconfig.cpp:192
+msgid "GMT+01:00"
+msgstr "GMT+01:00"
+
+#: kmlexportconfig.cpp:193
+msgid "GMT+02:00"
+msgstr "GMT+02:00"
+
+#: kmlexportconfig.cpp:194
+msgid "GMT+03:00"
+msgstr "GMT+03:00"
+
+#: kmlexportconfig.cpp:195
+msgid "GMT+04:00"
+msgstr "GMT+04:00"
+
+#: kmlexportconfig.cpp:196
+msgid "GMT+05:00"
+msgstr "GMT+05:00"
+
+#: kmlexportconfig.cpp:197
+msgid "GMT+06:00"
+msgstr "GMT+06:00"
+
+#: kmlexportconfig.cpp:198
+msgid "GMT+07:00"
+msgstr "GMT+07:00"
+
+#: kmlexportconfig.cpp:199
+msgid "GMT+08:00"
+msgstr "GMT+08:00"
+
+#: kmlexportconfig.cpp:200
+msgid "GMT+09:00"
+msgstr "GMT+09:00"
+
+#: kmlexportconfig.cpp:201
+msgid "GMT+10:00"
+msgstr "GMT+10:00"
+
+#: kmlexportconfig.cpp:202
+msgid "GMT+11:00"
+msgstr "GMT+11:00"
+
+#: kmlexportconfig.cpp:203
+msgid "GMT+12:00"
+msgstr "GMT+12:00"
+
+#: kmlexportconfig.cpp:204
+msgid "GMT+13:00"
+msgstr "GMT+13:00"
+
+#: kmlexportconfig.cpp:205
+msgid "GMT+14:00"
+msgstr "GMT+14:00"
+
+#: kmlexportconfig.cpp:206
+msgid ""
+"Sets the time zone of the camera during picture shooting, so that the time "
+"stamps of the GPS can be converted to match the local time"
+msgstr ""
+"Indica la zona horària de la càmera durant la presa de la fotografia, de "
+"manera que la marca de temps del GPS es pot convertir a l'hora local"
+
+#: kmlexportconfig.cpp:210
+msgid "Track Width:"
+msgstr "Amplada del trajecte:"
+
+#: kmlexportconfig.cpp:214
+msgid "Track Color:"
+msgstr "Color del trajecte:"
+
+#: kmlexportconfig.cpp:220
+msgid "Opacity:"
+msgstr "Opacitat:"
+
+#: kmlexportconfig.cpp:223
+msgid "Track Altitude:"
+msgstr "Altitud del trajecte:"
+
+#: kmlexportconfig.cpp:228
+msgid ""
+"<p>Specifies how the points are displayed<dl><dt>clamp to ground (default)</"
+"dt><dd>Indicates to ignore an altitude specification</dd><dt>relative to "
+"ground</dt><dd>Sets the altitude of the element relative to the actual "
+"ground elevation of a particular location.</dd><dt>absolute</dt><dd>Sets the "
+"altitude of the coordinate relative to sea level, regardless of the actual "
+"elevation of the terrain beneath the element.</dd></dl>"
+msgstr ""
+"<p>Especifica com es visualitzen els punts<dl><dt>fixa al terreny (omissió)</"
+"dt><dd>Indica que s'ignora l'especificació d'altitud</dd><dt>relativa al "
+"terreny</dt><dd>Estableix l'altitud de l'element amb relació a l'elevació "
+"del terreny d'una ubicació particular.</dd><dt>absoluta</dt><dd>Estableix "
+"l'altitud de les coordenades relatives al nivell del mar, encara que "
+"l'elevació actual del terreny estigui per sobre de l'element.</dd></dl>"
+
+#: kmlexportconfig.cpp:283
+msgid "A Kipi plugin for KML exporting"
+msgstr "Un connector del Kipi per exportar a KML"
+
+#: kmlexportconfig.cpp:284
+msgid "(c) 2006-2007, Stéphane Pontier"
+msgstr "(c) 2006-2007, Stéphane Pontier"
+
+#: kmlexportconfig.cpp:286
+msgid "Stéphane Pontier"
+msgstr "Stéphane Pontier"
+
+#: kmlexport.cpp:69
+msgid "Generating KML file..."
+msgstr "S'està generant el fitxer KML..."
+
+#: kmlexport.cpp:89
+#, kde-format
+msgid "Could not create '%1'"
+msgstr "No s'ha pogut crear '%1"
+
+#: kmlexport.cpp:173
+#, kde-format
+msgid "Could not read image '%1'"
+msgstr "No s'ha pogut llegir la imatge '%1'"
+
+#: kmlexport.cpp:181
+#, kde-format
+msgid "Format of image '%1' is unknown"
+msgstr "El format de la imatge '%1' és desconegut"
+
+#: kmlexport.cpp:191
+#, kde-format
+msgid "Error loading image '%1'"
+msgstr "Error en carregar la imatge '%1'"
+
+#: kmlexport.cpp:231
+#, kde-format
+msgid "Could not save image '%1' to '%2'"
+msgstr "No s'ha pogut desar la imatge '%1' a '%2'"
+
+#: kmlexport.cpp:328
+#, kde-format
+msgid "Creation of placemark '%1'"
+msgstr "S'ha creat la marca de lloc '%1'"
+
+#: kmlexport.cpp:335
+#, kde-format
+msgid "Could not save icon for image '%1' to '%2'"
+msgstr "No s'ha pogut desar la icona de la imatge '%1' a '%2'"
+
+#: kmlexport.cpp:365
+#, fuzzy
+#| msgid "No GPX file Chosen!"
+msgid "No GPX file chosen."
+msgstr "no s'ha triat cap fitxer GPX!"
+
+#: kmlexport.cpp:380
+#, fuzzy, kde-format
+#| msgid "The %1 GPX file do not have a date-time track to use!"
+msgid "The %1 GPX file do not have a date-time track to use."
+msgstr "El fitxer GPX %1 no té una data-hora utilitzable del trajecte!"
+
+#: kmlexport.cpp:387
+msgid "Tracks"
+msgstr "Trajectes"
+
+#: kmlexport.cpp:484
+#, kde-format
+msgid "No position data for '%1'"
+msgstr "No hi ha dades de posició per a '%1'"
+
+#: kmlexport.cpp:495
+#, kde-format
+msgid "No position data for 1 picture"
+msgid_plural "No position data for %1 pictures"
+msgstr[0] "No hi ha dades de posició per a 1 imatge"
+msgstr[1] "No hi ha dades de posició per a %1 imatges"
+
+#: kmlexport.cpp:510
+msgid "Move to final directory"
+msgstr "Mou al directori final"
+
+#: kmlgpsdataparser.cpp:65
+msgid "Track"
+msgstr "Trajecte"
+
+#: kmlgpsdataparser.cpp:94
+msgid "Points"
+msgstr "Punts"
+
+#: kmlgpsdataparser.cpp:104
+msgid "Point"
+msgstr "Punt"
+
+#: plugin_gpssync.cpp:81
+msgid "Correlator"
+msgstr "Correlacionador"
+
+#: plugin_gpssync.cpp:88
+msgid "Edit Coordinates..."
+msgstr "Edita coordenades..."
+
+#: plugin_gpssync.cpp:94
+msgid "Track List Editor..."
+msgstr "Editor de llista de tarjectes..."
+
+#: plugin_gpssync.cpp:100
+msgid "Remove Coordinates..."
+msgstr "Suprimeix coordenades..."
+
+#: plugin_gpssync.cpp:108
+#, fuzzy
+#| msgid "KML Export..."
+msgid "Export to KML..."
+msgstr "Exporta a KML..."
+
+#: plugin_gpssync.cpp:139
+#, kde-format
+msgid ""
+"<p>Unable to find the gpsbabel executable:<br/> This program is required by "
+"this plugin to support GPS data file decoding. Please install gpsbabel as a "
+"package from your distributor or <a href=\"%1\">download the source</a>.</"
+"p><p>Note: at least, gpsbabel version %2 is required by this plugin.</p>"
+msgstr ""
+"<p>No s'ha pogut trobar l'executable gpsbabel:<br/> aquest connector "
+"requereix aquest programa per a permetre la descodificació del fitxer de "
+"dades GPS. Instal·leu el gpsbabel com un paquet del vostre distribuïdor o <a "
+"href=\"%1\">descarregueu el codi font</a>.</p><p>Nota: aquest connector "
+"requereix com a mínim la versió %2 del gpsbabel.</p>"
+
+#: plugin_gpssync.cpp:156
+#, kde-format
+msgid ""
+"<p>gpsbabel executable is not up to date:<br/> The version %1 of gpsbabel "
+"have been found on your computer. This version is too old to run properly "
+"with this plugin. Please update gpsbabel as a package from your distributor "
+"or <a href=\"%2\">download the source</a>.</p><p>Note: at least, gpsbabel "
+"version %3 is required by this plugin</p>"
+msgstr ""
+"<p>L'executable gpsbabel no està actualitzat:<br/> s'ha trobat la versió %1 "
+"del gpsbabel en el vostre ordinador. Aquesta versió és massa antiga per "
+"executar-se correctament amb aquest connector. Actualitzeu el gpsbabel com "
+"un paquet del vostre distribuïdor o <a href=\"%2\">descarregueu el codi "
+"font</a>.</p><p>Nota: aquest connector requereix com a mínim la versió %3 "
+"del gpsbabel.</p>"
+
+#: plugin_gpssync.cpp:331
+#, fuzzy
+#| msgid "No GPS location have been found in your pictures."
+msgid "No GPS locations have been found in your pictures."
+msgstr "No s'ha trobat cap ubicació GPS en les fotografies."
+
+#: plugin_gpssync.cpp:392
+msgid ""
+"Geographical coordinates will be definitively removed from all selected "
+"images.\n"
+"Do you want to continue ?"
+msgstr ""
+"Les coordenades geogràfiques se suprimiran definitivament de totes les "
+"fotografies actualment seleccionades.\n"
+"Voleu continuar?"
+
+#: plugin_gpssync.cpp:394
+msgid "Remove Geographical Coordinates"
+msgstr "Supressió de les coordenades geogràfiques"
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Josep Ma. Ferrer"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "txemaq@gmail.com"
+
+#~ msgid "(c) 2006-2008, Gilles Caulier"
+#~ msgstr "(c) 2006-2008, Gilles Caulier"

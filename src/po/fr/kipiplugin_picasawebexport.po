@@ -1,0 +1,425 @@
+# translation of kipiplugin_picasawebexport.po to french
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Bieuzent Cyrille <bieuzent@gmail.com>, 2008.
+# Cyrille Bieuzent <bieuzent@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_picasawebexport\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-25 05:49+0100\n"
+"PO-Revision-Date: 2009-01-14 11:59+0100\n"
+"Last-Translator: Cyrille Bieuzent <bieuzent@gmail.com>\n"
+"Language-Team: fr <kde-i18n-doc@lists.kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Accelerator-Marker: &\n"
+
+#: picasaweblogin.cpp:69
+msgid "Google Login:"
+msgstr "Identifiant Google : "
+
+#: picasaweblogin.cpp:73
+msgid "Password:"
+msgstr "Mot de passe : "
+
+#: picasaweblogin.cpp:84
+msgid "&OK"
+msgstr "&Ok"
+
+#: picasaweblogin.cpp:87
+msgid "&Cancel"
+msgstr "&Annuler"
+
+#: picasawebtalker.cpp:138 picasawebwindow.cpp:279
+msgid "Login"
+msgstr "Identifiant "
+
+#: picasawebtalker.cpp:177
+msgid "Getting the token"
+msgstr "Obtention du jeton"
+
+#: picasawebtalker.cpp:230
+msgid "Checking if previous token is still valid"
+msgstr "Vérifier si le précédent jeton est toujours valable"
+
+#: picasawebtalker.cpp:579
+msgid "No photo specified"
+msgstr "Pas de photo spécifiée"
+
+#: picasawebtalker.cpp:581
+msgid "General upload failure"
+msgstr "Transfert général échoué"
+
+#: picasawebtalker.cpp:583
+#, fuzzy
+#| msgid "Filesize was zero"
+msgid "File-size was zero"
+msgstr "Taille du fichier à zéro"
+
+#: picasawebtalker.cpp:585
+#, fuzzy
+#| msgid "Filetype was not recognised"
+msgid "File-type was not recognized"
+msgstr "Type de fichier non reconnu"
+
+#: picasawebtalker.cpp:587
+msgid "User exceeded upload limit"
+msgstr "Limite de transfert de l'utilisateur a été atteinte"
+
+#: picasawebtalker.cpp:589
+msgid "Invalid signature"
+msgstr "Signature non valable"
+
+#: picasawebtalker.cpp:591
+msgid "Missing signature"
+msgstr "Signature manquante"
+
+#: picasawebtalker.cpp:593
+#, fuzzy
+#| msgid "Login Failed / Invalid auth token"
+msgid "Login failed / Invalid auth token"
+msgstr "Échec de l'identification / Clé d'authentification non valable"
+
+#: picasawebtalker.cpp:595
+msgid "Invalid API Key"
+msgstr "Clé API non valable"
+
+#: picasawebtalker.cpp:597
+msgid "Service currently unavailable"
+msgstr "Service actuellement indisponible"
+
+#: picasawebtalker.cpp:599
+msgid "Invalid Frob"
+msgstr "Frob non valable"
+
+#: picasawebtalker.cpp:601
+msgid "Format \"xxx\" not found"
+msgstr "Impossible de trouver le format « xxx »"
+
+#: picasawebtalker.cpp:603
+msgid "Method \"xxx\" not found"
+msgstr "Impossible de trouver la méthode « xxx »"
+
+#: picasawebtalker.cpp:605
+msgid "Invalid SOAP envelope"
+msgstr "Enveloppe SOAP non valable"
+
+#: picasawebtalker.cpp:607
+msgid "Invalid XML-RPC Method Call"
+msgstr "Méthode d'appel non valable XML-RPC"
+
+#: picasawebtalker.cpp:609
+#, fuzzy
+#| msgid "The POST method is now required for all setters"
+msgid "The POST method is now required for all setters."
+msgstr "La méthode POST est maintenant requise pour tout les procédures"
+
+#: picasawebtalker.cpp:611
+msgid "Unknown error"
+msgstr "Erreur inconnue"
+
+#: picasawebtalker.cpp:614
+#, fuzzy, kde-format
+#| msgid ""
+#| "Error Occured: %1\n"
+#| " We can not proceed further"
+msgid ""
+"Error occurred: %1\n"
+"Unable to proceed further."
+msgstr ""
+"Erreur rencontrée : %1\n"
+" Nous ne pouvons aller plus avant"
+
+#: picasawebtalker.cpp:800
+#, fuzzy
+#| msgid "Failed to fetch photoSets List"
+msgid "Failed to fetch photo-set list"
+msgstr "Impossible d'extraire la liste des photos"
+
+#: picasawebtalker.cpp:913
+msgid "Failed to upload photo"
+msgstr "Impossible de transférer la photo"
+
+#: picasawebtalker.cpp:971
+msgid "Failed to query photo information"
+msgstr "Impossible d'interroger les informations de l'image"
+
+#: picasawebwindow.cpp:76
+msgid "Export to Picasa Web Service"
+msgstr "Export vers le service en ligne Picasa"
+
+#: picasawebwindow.cpp:110
+#, fuzzy
+#| msgid "Picasaweb Export"
+msgid "PicasaWeb Export"
+msgstr "Export PicasaWeb"
+
+#: picasawebwindow.cpp:113
+#, fuzzy
+#| msgid "A Kipi plugin to export image collection to Picasaweb web service."
+msgid "A Kipi plugin to export image collections to PicasaWeb web service."
+msgstr ""
+"Un module externe KIPI pour exporter une collection d'images vers le service "
+"en ligne PicasaWeb."
+
+#: picasawebwindow.cpp:115
+#, fuzzy
+#| msgid ""
+#| "(c) 2007-2008, Vardhman Jain\n"
+#| "(c) 2008, Gilles Caulier"
+msgid ""
+"(c) 2007-2009, Vardhman Jain\n"
+"(c) 2008-2009, Gilles Caulier\n"
+"(c) 2009, Luka Renko"
+msgstr ""
+"(c) 2007-2008, Vardhman Jain\n"
+"(c) 2008, Gilles Caulier"
+
+#: picasawebwindow.cpp:119
+msgid "Vardhman Jain"
+msgstr "Vardhman Jain"
+
+#: picasawebwindow.cpp:119
+msgid "Author and maintainer"
+msgstr "Auteur et mainteneur"
+
+#: picasawebwindow.cpp:122
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: picasawebwindow.cpp:122 picasawebwindow.cpp:125
+msgid "Developer"
+msgstr "Développeur"
+
+#: picasawebwindow.cpp:125
+msgid "Luka Renko"
+msgstr ""
+
+#: picasawebwindow.cpp:130
+#, fuzzy
+#| msgid "Plugin Handbook"
+msgid "Handbook"
+msgstr "Manuel du module externe"
+
+#: picasawebwindow.cpp:429
+msgid "No album selected - please create and select album."
+msgstr ""
+
+#: picasawebwindow.cpp:443
+msgid "Nothing to upload - please select photos to upload."
+msgstr ""
+
+#: picasawebwindow.cpp:537
+#, kde-format
+msgid "Uploading file %1 "
+msgstr "Transfert du fichier %1"
+
+#: picasawebwindow.cpp:554
+#, fuzzy, kde-format
+#| msgid ""
+#| "Failed to upload photo into Picasaweb. %1\n"
+#| "Do you want to continue?"
+msgid ""
+"Failed to upload photo to PicasaWeb. %1\n"
+"Do you want to continue?"
+msgstr ""
+"Impossible de transférer les photos vers PicasaWeb. %1 <br /> Voulez-vous "
+"continuer ? "
+
+#: plugin_picasawebexport.cpp:73
+#, fuzzy
+#| msgid "Export to Picasaweb..."
+msgid "Export to &PicasaWeb..."
+msgstr "Exporter vers PicasaWeb..."
+
+#. i18n: file: picasawebnewalbumdialog.ui:13
+#. i18n: ectx: property (windowTitle), widget (QDialog, NewAlbumDialog)
+#: rc.cpp:3 rc.cpp:92
+msgid "New Album Dialog"
+msgstr "Boîte de dialogue nouvel album"
+
+#. i18n: file: picasawebnewalbumdialog.ui:19
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:6 rc.cpp:95
+msgid "Title"
+msgstr "Titre"
+
+#. i18n: file: picasawebnewalbumdialog.ui:32
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: rc.cpp:9 rc.cpp:98
+msgid "Description"
+msgstr "Description"
+
+#. i18n: file: picasawebnewalbumdialog.ui:45
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: rc.cpp:12 rc.cpp:101
+msgid "Place Taken"
+msgstr "Lieu"
+
+#. i18n: file: picasawebnewalbumdialog.ui:58
+#. i18n: ectx: property (title), widget (QGroupBox, m_accessRadioButton)
+#: rc.cpp:15 rc.cpp:104
+msgid "Access Level"
+msgstr "Niveau d'accès"
+
+#. i18n: file: picasawebnewalbumdialog.ui:64
+#. i18n: ectx: property (text), widget (QRadioButton, m_isPublicRadioButton)
+#: rc.cpp:18 rc.cpp:107
+msgid "Public"
+msgstr "Publique"
+
+#. i18n: file: picasawebnewalbumdialog.ui:71
+#. i18n: ectx: property (text), widget (QRadioButton, m_isUnlistedRadioButton)
+#: rc.cpp:21 rc.cpp:110
+msgid "Unlisted / Private"
+msgstr "Non répertorié / Privé"
+
+#. i18n: file: picasawebnewalbumdialog.ui:78
+#. i18n: ectx: property (text), widget (QRadioButton, m_isProtectedRadioButton)
+#: rc.cpp:24 rc.cpp:113
+msgid "Sign-In Required to View"
+msgstr ""
+
+#. i18n: file: picasawebnewalbumdialog.ui:88
+#. i18n: ectx: property (text), widget (QPushButton, m_createAlbumButton)
+#: rc.cpp:27 rc.cpp:116
+msgid "Create"
+msgstr "Créer"
+
+#. i18n: file: picasawebnewalbumdialog.ui:95
+#. i18n: ectx: property (text), widget (QPushButton, m_cancelButton)
+#: rc.cpp:30 rc.cpp:119
+msgid "Cancel"
+msgstr "Annuler"
+
+#. i18n: file: picasawebnewalbumdialog.ui:102
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: rc.cpp:33 rc.cpp:122
+msgid "Date"
+msgstr "Date"
+
+#. i18n: file: uploadwidget.ui:19
+#. i18n: ectx: property (windowTitle), widget (QWidget, UploadWidget)
+#: rc.cpp:36 rc.cpp:125
+msgid "PicasaWeb Exporter Upload"
+msgstr "Transfert de l'expert PicasaWeb"
+
+#. i18n: file: uploadwidget.ui:30
+#. i18n: ectx: property (text), widget (QLabel, m_WidgetLabel)
+#: rc.cpp:39 rc.cpp:128
+msgid "PicasaWeb Uploader"
+msgstr "Transfert vers PicasaWeb"
+
+#. i18n: file: uploadwidget.ui:43
+#. i18n: ectx: property (text), widget (QPushButton, m_startUploadButton)
+#: rc.cpp:42 rc.cpp:131
+msgid "Start Uploading"
+msgstr "Démarrage du transfert"
+
+#. i18n: file: uploadwidget.ui:58
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:45 rc.cpp:134
+msgid "Album:"
+msgstr "Album : "
+
+#. i18n: file: uploadwidget.ui:87
+#. i18n: ectx: property (text), widget (QPushButton, m_reloadAlbumsListButton)
+#: rc.cpp:48 rc.cpp:137
+msgid "Reload"
+msgstr "Rechargement"
+
+#. i18n: file: uploadwidget.ui:100
+#. i18n: ectx: property (text), widget (QPushButton, m_newAlbumButton)
+#: rc.cpp:51 rc.cpp:140
+msgid "New &Album"
+msgstr "Nouvel &Album"
+
+#. i18n: file: uploadwidget.ui:111
+#. i18n: ectx: property (text), widget (QLabel, tagsTxtLabel)
+#: rc.cpp:54 rc.cpp:143
+msgid "Tags:<p align=\"center\"></p>"
+msgstr "Étiquettes : <p align=\"center\"></p>"
+
+#. i18n: file: uploadwidget.ui:126
+#. i18n: ectx: property (text), widget (QRadioButton, m_exportApplicationTags)
+#: rc.cpp:57 rc.cpp:146
+msgid "E&xport Application Tags"
+msgstr "E&xport des étiquettes de l'application"
+
+#. i18n: file: uploadwidget.ui:139
+#. i18n: ectx: property (text), widget (QCheckBox, m_resizeCheckBox)
+#: rc.cpp:60 rc.cpp:149
+msgid "Resi&ze"
+msgstr "Redimensionner"
+
+#. i18n: file: uploadwidget.ui:148
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: rc.cpp:63 rc.cpp:152
+msgid "Size (pixels):"
+msgstr "Taille (en pixel) : "
+
+#. i18n: file: uploadwidget.ui:171
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:66 rc.cpp:155
+msgid "Compression:"
+msgstr "Compression : "
+
+#. i18n: file: uploadwidget.ui:208
+#. i18n: ectx: property (title), widget (QGroupBox, buttonGroup1)
+#: rc.cpp:69 rc.cpp:158
+msgid "Images to upload"
+msgstr "Images à transférer"
+
+#. i18n: file: uploadwidget.ui:214
+#. i18n: ectx: property (text), widget (QRadioButton, m_currentSelectionButton)
+#: rc.cpp:72 rc.cpp:161
+msgid "Currentl&y Selected Images"
+msgstr "Images actuellement sélectionnées"
+
+#. i18n: file: uploadwidget.ui:221
+#. i18n: ectx: property (text), widget (QRadioButton, m_selectImagesButton)
+#: rc.cpp:75 rc.cpp:164
+msgid "Select Images for Upload"
+msgstr "Sélectionner les images pour transfert"
+
+#. i18n: file: uploadwidget.ui:231
+#. i18n: ectx: property (text), widget (QPushButton, m_selectPhotosButton)
+#: rc.cpp:78 rc.cpp:167
+msgid "Select Photos"
+msgstr "Sélection des photos"
+
+#. i18n: file: uploadwidget.ui:241
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
+#: rc.cpp:81 rc.cpp:170
+msgid "Account Details"
+msgstr "Détails des comptes"
+
+#. i18n: file: uploadwidget.ui:247
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: rc.cpp:84 rc.cpp:173
+msgid "Username:"
+msgstr "Nom d'utilisateur : "
+
+#. i18n: file: uploadwidget.ui:270
+#. i18n: ectx: property (text), widget (QPushButton, m_changeUserButton)
+#: rc.cpp:87 rc.cpp:176
+msgid "Change User"
+msgstr "Changer d'utilisateur"
+
+#: rc.cpp:88
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Cyrille Bieuzent ©2008"
+
+#: rc.cpp:89
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "bieuzent@gmail.com"
+
+#~ msgid "Alt+X"
+#~ msgstr "Alt+X"

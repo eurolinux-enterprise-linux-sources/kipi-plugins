@@ -1,0 +1,465 @@
+# Translation of kipiplugin_facebook into Japanese.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_facebook\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-25 05:49+0100\n"
+"PO-Revision-Date: 2009-02-06 00:52+0900\n"
+"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
+"Language-Team: Japanese <Kdeveloper@kde.gr.jp>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: fbalbum.cpp:45
+msgid "Facebook New Album"
+msgstr "新しい Facebook アルバム"
+
+#: fbalbum.cpp:58
+msgid "Title of the album that will be created (required)."
+msgstr "作成するアルバムのタイトル (必須)"
+
+#: fbalbum.cpp:62
+msgid "Location of the album that will be created (optional)."
+msgstr "作成するアルバムの場所 (オプション)"
+
+#: fbalbum.cpp:66
+msgid "Description of the album that will be created (optional)."
+msgstr "作成するアルバムの説明 (オプション)"
+
+#: fbalbum.cpp:71
+msgid "Privacy setting of the album that will be created (required)."
+msgstr "作成するアルバムのプライバシーに関する設定 (必須)"
+
+#: fbalbum.cpp:73
+msgid "Only Friends"
+msgstr "友達だけ"
+
+#: fbalbum.cpp:75
+msgid "Friends of Friends"
+msgstr "友達の友達"
+
+#: fbalbum.cpp:77
+msgid "My Networks and Friends"
+msgstr "自分のネットワークと友達"
+
+#: fbalbum.cpp:79
+msgid "Everyone"
+msgstr "制限なし"
+
+#: fbalbum.cpp:82
+msgid "Title:"
+msgstr "タイトル:"
+
+#: fbalbum.cpp:83
+msgid "Location:"
+msgstr "場所:"
+
+#: fbalbum.cpp:84
+msgid "Description:"
+msgstr "説明:"
+
+#: fbalbum.cpp:85
+msgid "Privacy:"
+msgstr "プライバシー:"
+
+#: fbtalker.cpp:178
+msgid "Validate previous session..."
+msgstr "前回のセッションの有効性を確認..."
+
+#: fbtalker.cpp:198
+#, fuzzy
+#| msgid "Logging to Facebook service..."
+msgid "Logging in to Facebook service..."
+msgstr "Facebook サービスにログインします..."
+
+#: fbtalker.cpp:389
+msgid ""
+"Please follow the instructions in the browser window. Press \"OK\" when done."
+msgstr ""
+"ブラウザに表示されている指示に従ってください。完了したら<interface>OK</"
+"interface>を押してください。"
+
+#: fbtalker.cpp:391
+msgid "Facebook Application Authorization"
+msgstr "Facebook アプリケーションへの権限付与"
+
+#: fbtalker.cpp:706
+msgid "The service is not available at this time."
+msgstr "サービスは現在利用できません。"
+
+#: fbtalker.cpp:709
+#, fuzzy
+#| msgid "The application has reached maximum number of requests allowed."
+msgid "The application has reached the maximum number of requests allowed."
+msgstr "アプリケーションは許可されている要求の最大数に達しました。"
+
+#: fbtalker.cpp:712
+msgid "Invalid session key or session expired. Try to log in again."
+msgstr ""
+"セッションキーが無効か、セッションが期限切れになりました。ログインし直してく"
+"ださい。"
+
+#: fbtalker.cpp:715
+msgid "Invalid album ID."
+msgstr "アルバム ID が無効です。"
+
+#: fbtalker.cpp:718
+msgid "Album is full."
+msgstr "アルバムがいっぱいです。"
+
+#: fbtalker.cpp:721
+msgid "Missing or invalid file."
+msgstr "ファイルが不足しているか無効です。"
+
+#: fbtalker.cpp:724
+msgid "Too many unapproved photos pending."
+msgstr "承認待ちの写真が多すぎます。"
+
+#: fbtalker.cpp:884
+msgid ""
+"Please follow the instructions in the browser window. Press \"Yes\" if you "
+"have authenticated and \"No\" if you failed."
+msgstr ""
+"ブラウザに表示されている指示に従ってください。認証に成功したら<interface>はい"
+"</interface>を、失敗した場合は<interface>いいえ</interface>を押してください。"
+
+#: fbtalker.cpp:886
+msgid "Facebook Service Web Authorization"
+msgstr "Facebook サービスのウェブ認証"
+
+#: fbtalker.cpp:895
+msgid "Canceled by user."
+msgstr "ユーザによってキャンセルされました。"
+
+#: fbwidget.cpp:71
+#, fuzzy
+#| msgid "This is the list of images to upload on your Facebook account."
+msgid "This is the list of images to upload to your Facebook account."
+msgstr "あなたの Facebook アカウントにアップロードする画像の一覧です。"
+
+#: fbwidget.cpp:78
+#, fuzzy
+#| msgid "This is a clickable link to open Facebook home page in web browser."
+msgid ""
+"This is a clickable link to open the Facebook home page in a web browser."
+msgstr ""
+"このリンクをクリックすると Facebook のホームページがウェブブラウザに表示され"
+"ます。"
+
+#: fbwidget.cpp:84
+msgid "Account"
+msgstr "アカウント"
+
+#: fbwidget.cpp:86
+msgid "This is the Facebook account that is currently logged in."
+msgstr "現在ログインしている Facebook のアカウントです。"
+
+#: fbwidget.cpp:89
+msgid "Name:"
+msgstr "名前:"
+
+#: fbwidget.cpp:91
+msgid "Permission:"
+msgstr "許可:"
+
+#: fbwidget.cpp:93
+msgid ""
+"Permission of KIPI Plugin application to upload photos directly. If not, "
+"user will need to manually approve uploaded photos in Facebook."
+msgstr ""
+"Kipi プラグインのアプリケーションに写真を直接アップロードすることを許可しま"
+"す。許可しなければ Facebook にアップロードされた写真をユーザが手動で承認しな"
+"ければなりません。"
+
+#: fbwidget.cpp:96
+msgid "Change Account"
+msgstr "アカウントを変更"
+
+#: fbwidget.cpp:97
+msgid "Logout and change Facebook Account used for transfer"
+msgstr "ログアウトして転送に使う Facebook のアカウントを変更"
+
+#: fbwidget.cpp:100
+msgid "Change Permission"
+msgstr "許可を変更"
+
+#: fbwidget.cpp:101
+msgid "Change permission for KIPI application for photo upload"
+msgstr "Kipi アプリケーションに対する写真のアップロード許可を変更"
+
+#: fbwidget.cpp:118
+msgid "Download Selection"
+msgstr "ダウンロードの選択"
+
+#: fbwidget.cpp:120
+msgid "This is the selection of Facebook albums/photos to download."
+msgstr "ダウンロードする Facebook のアルバム/写真です。"
+
+#: fbwidget.cpp:124 fbwidget.cpp:177
+msgid "Destination"
+msgstr "行き先"
+
+#: fbwidget.cpp:126
+#, fuzzy
+#| msgid "This is the Facebook album where selected photos will be uploaded."
+msgid "This is the Facebook album to which selected photos will be uploaded."
+msgstr "選択した写真はこの Facebook アルバムにアップロードされます。"
+
+#: fbwidget.cpp:130
+msgid "My &Album"
+msgstr "自分のアルバム(&A)"
+
+#: fbwidget.cpp:132
+msgid "Download complete album of currently logged in user."
+msgstr "現在ログインしているユーザの完全なアルバムをダウンロードします。"
+
+#: fbwidget.cpp:133
+msgid "Album &of My Friend"
+msgstr "友達のアルバム(&O)"
+
+#: fbwidget.cpp:135
+msgid "Download complete album of selected friend."
+msgstr "選択した友達の完全なアルバムをダウンロードします。"
+
+#: fbwidget.cpp:136
+msgid "Photos of &Me"
+msgstr "自分の写真(&M)"
+
+#: fbwidget.cpp:138
+msgid "Download all photos of currently logged in user."
+msgstr "現在ログインしているユーザのすべての写真をダウンロードします。"
+
+#: fbwidget.cpp:139
+msgid "Photos of My &Friend"
+msgstr "友達の写真(&F)"
+
+#: fbwidget.cpp:141
+msgid "Download all photos of selected friend."
+msgstr "選択した友達のすべての写真をダウンロードします。"
+
+#: fbwidget.cpp:149
+msgid "Friend:"
+msgstr "友達:"
+
+#: fbwidget.cpp:153
+msgid "Album:"
+msgstr "アルバム:"
+
+#: fbwidget.cpp:158
+msgid "New Album"
+msgstr "新しいアルバム"
+
+#: fbwidget.cpp:159
+msgid "Create new Facebook album"
+msgstr "新しい Facebook アルバムを作成"
+
+#: fbwidget.cpp:161
+msgid "Reload"
+msgstr "再読み込み"
+
+#: fbwidget.cpp:162
+msgid "Reload album list"
+msgstr "アルバムのリストを再読み込み"
+
+#: fbwidget.cpp:179
+#, fuzzy
+#| msgid "This is the location where Facebook images will be downloaded to."
+msgid "This is the location to which Facebook images will be downloaded."
+msgstr "Facebook からダウンロードした画像の保存先です。"
+
+#: fbwidget.cpp:186
+msgid "Options"
+msgstr "オプション"
+
+#: fbwidget.cpp:188
+msgid "These are options that will be applied to photos before upload."
+msgstr "これらはアップロード前に写真に適用するオプションです。"
+
+#: fbwidget.cpp:192
+msgid "Resize photos before uploading"
+msgstr "アップロード前に写真のサイズを変更する"
+
+#: fbwidget.cpp:202
+msgid "Maximum dimension:"
+msgstr "最大寸法:"
+
+#: fbwidget.cpp:210
+msgid "JPEG quality:"
+msgstr "JPEG 画質:"
+
+#: fbwidget.cpp:315
+msgid "Direct upload"
+msgstr "直接アップロードする"
+
+#: fbwidget.cpp:317
+msgid "Uploaded photos will not need manual approval by user."
+msgstr "ユーザはアップロードされた写真を手動で承認する必要はありません。"
+
+#: fbwidget.cpp:321
+msgid "Manual upload approval"
+msgstr "アップロードされた写真を手動で承認する"
+
+#: fbwidget.cpp:323
+msgid ""
+"Uploaded photos will wait in pending state until manually approved by user."
+msgstr "アップロードされた写真はユーザが手動で承認するまで保留になります。"
+
+#: fbwindow.cpp:99
+msgid "Import from Facebook Web Service"
+msgstr "Facebook ウェブサービスからインポート"
+
+#: fbwindow.cpp:101
+msgid "Start Download"
+msgstr "ダウンロードを開始"
+
+#: fbwindow.cpp:102
+msgid "Start download from Facebook web service"
+msgstr "Facebook ウェブサービスからのダウンロードを開始"
+
+#: fbwindow.cpp:107
+msgid "Export to Facebook Web Service"
+msgstr "Facebook ウェブサービスにエクスポート"
+
+#: fbwindow.cpp:109
+msgid "Start Upload"
+msgstr "アップロードを開始"
+
+#: fbwindow.cpp:110
+msgid "Start upload to Facebook web service"
+msgstr "Facebook ウェブサービスへのアップロードを開始"
+
+#: fbwindow.cpp:139
+#, fuzzy
+#| msgid "Fb Import/Export"
+msgid "Facebook Import/Export"
+msgstr "Facebook インポート/エクスポート"
+
+#: fbwindow.cpp:141
+msgid ""
+"A Kipi plugin to import/export image collection to/from Facebook web service."
+msgstr ""
+"Facebook ウェブサービスに画像コレクションをエクスポート/からインポートする "
+"Kipi プラグイン"
+
+#: fbwindow.cpp:143
+#, fuzzy
+#| msgid ""
+#| "(c) 2005-2008, Vardhman Jain\n"
+#| "(c) 2008, Gilles Caulier\n"
+#| "(c) 2008-2009, Luka Renko"
+msgid ""
+"(c) 2005-2008, Vardhman Jain\n"
+"(c) 2008-2009, Gilles Caulier\n"
+"(c) 2008-2009, Luka Renko"
+msgstr ""
+"(c) 2005-2008, Vardhman Jain\n"
+"(c) 2008, Gilles Caulier\n"
+"(c) 2008-2009, Luka Renko"
+
+#: fbwindow.cpp:147
+msgid "Luka Renko"
+msgstr "Luka Renko"
+
+#: fbwindow.cpp:147
+msgid "Author and maintainer"
+msgstr "作者およびメンテナ"
+
+#: fbwindow.cpp:155
+msgid "Handbook"
+msgstr "ハンドブック"
+
+#: fbwindow.cpp:297
+msgid "Authentication"
+msgstr "認証"
+
+#: fbwindow.cpp:334 fbwindow.cpp:393
+msgid "<auto create>"
+msgstr "(自動作成)"
+
+#: fbwindow.cpp:349 fbwindow.cpp:362 fbwindow.cpp:379 fbwindow.cpp:427
+#: fbwindow.cpp:461
+#, kde-format
+msgid "Facebook Call Failed: %1\n"
+msgstr "Facebook の呼び出しに失敗しました: %1\n"
+
+#: fbwindow.cpp:388
+msgctxt "name of special Facebook album for profile pictures"
+msgid "Profile Pictures"
+msgstr "プロフィール写真"
+
+#: fbwindow.cpp:443 fbwindow.cpp:579
+msgid "Transfer Progress"
+msgstr "転送の進捗"
+
+#: fbwindow.cpp:448 fbwindow.cpp:584
+msgid "%v / %m"
+msgstr "%v / %m"
+
+#: fbwindow.cpp:714 fbwindow.cpp:733
+msgid "Cannot open file"
+msgstr "ファイルを開けません"
+
+#: fbwindow.cpp:737
+#, kde-format
+msgid "Uploading file %1"
+msgstr "ファイル <filename>%1</filename> をアップロード中"
+
+#: fbwindow.cpp:762
+#, kde-format
+msgid ""
+"Failed to upload photo into Facebook: %1\n"
+"Do you want to continue?"
+msgstr ""
+"写真を Facebook にアップロードできませんでした: %1\n"
+"続けますか？"
+
+#: fbwindow.cpp:790
+#, kde-format
+msgid "Downloading file %1"
+msgstr "ファイル <filename>%1</filename> をダウンロード中"
+
+#: fbwindow.cpp:824
+#, kde-format
+msgid ""
+"Failed to save photo: %1\n"
+"Do you want to continue?"
+msgstr ""
+"写真を保存できませんでした: %1\n"
+"続けますか？"
+
+#: fbwindow.cpp:838
+#, kde-format
+msgid ""
+"Failed to download photo: %1\n"
+"Do you want to continue?"
+msgstr ""
+"写真をダウンロードできませんでした: %1\n"
+"続けますか？"
+
+#: fbwindow.cpp:863
+#, kde-format
+msgid "Facebook Call Failed: %1"
+msgstr "Facebook の呼び出しに失敗しました: %1"
+
+#: plugin_facebook.cpp:75
+msgid "Export to &Facebook..."
+msgstr "Facebook にエクスポート(&F)..."
+
+#: plugin_facebook.cpp:85
+msgid "Import from &Facebook..."
+msgstr "Facebook からインポート(&F)..."
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Yukiko Bando"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ybando@k6.dion.ne.jp"

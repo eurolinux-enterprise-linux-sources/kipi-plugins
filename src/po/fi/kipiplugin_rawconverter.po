@@ -1,0 +1,277 @@
+# translation of kipiplugin_rawconverter.po to
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_rawconverter\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-24 06:20+0200\n"
+"PO-Revision-Date: 2009-06-24 23:59+0300\n"
+"Last-Translator: Mikael Lammentausta\n"
+"Language-Team:  <fi@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: actionthread.cpp:235
+msgid "Cannot identify RAW image"
+msgstr "Raw-kuvatiedostoa ei kyetty tunnistamaan"
+
+#: actionthread.cpp:242
+#, kde-format
+msgid "Make: %1\n"
+msgstr "Merkki: %1\n"
+
+#: actionthread.cpp:243
+#, kde-format
+msgid "Model: %1\n"
+msgstr "Malli: %1\n"
+
+#: actionthread.cpp:247
+#, kde-format
+msgid "Created: %1\n"
+msgstr "Luotu: %1\n"
+
+#: actionthread.cpp:254
+#, kde-format
+msgid "Aperture: f/%1\n"
+msgstr "Aukko: f/%1\n"
+
+#: actionthread.cpp:259
+#, kde-format
+msgid "Focal: %1 mm\n"
+msgstr "Polttoväli: %1 mm\n"
+
+#: actionthread.cpp:264
+#, kde-format
+msgid "Exposure: 1/%1 s\n"
+msgstr "Valotusaika: 1/%1 s\n"
+
+#: actionthread.cpp:269
+#, kde-format
+msgid "Sensitivity: %1 ISO"
+msgstr "Valotusherkkyys: %1 ISO"
+
+#: batchdialog.cpp:148 singledialog.cpp:213
+msgid "Exit RAW Converter"
+msgstr "Sulje raw-muunnin"
+
+#: batchdialog.cpp:149
+msgid "RAW Image Batch Converter"
+msgstr "Raw-kuvatiedostojen eräajomuunnin"
+
+#: batchdialog.cpp:152
+msgid "&Add"
+msgstr "&Lisää"
+
+#: batchdialog.cpp:153
+msgid "Add new RAW files to the list"
+msgstr "Lisää uusia raw-kuvatiedostoja listaan"
+
+#: batchdialog.cpp:155
+msgid "&Remove"
+msgstr "&Poista"
+
+#: batchdialog.cpp:156
+msgid "Remove selected RAW files from the list"
+msgstr "Poista valitut raw-kuvatiedostot listasta"
+
+#: batchdialog.cpp:175
+msgid "Thumbnail"
+msgstr "Pienoiskuva"
+
+#: batchdialog.cpp:176
+msgid "RAW File"
+msgstr "Raw-kuvatiedosto"
+
+#: batchdialog.cpp:177
+msgid "Target File"
+msgstr "Kohdetiedosto"
+
+#: batchdialog.cpp:178
+msgid "Camera"
+msgstr "Kamera"
+
+#: batchdialog.cpp:195 batchdialog.cpp:199 singledialog.cpp:158
+#: singledialog.cpp:161
+msgid "Save settings"
+msgstr "Tallenna asetukset"
+
+#: batchdialog.cpp:220 singledialog.cpp:140 singledialog.cpp:176
+msgid "RAW Image Converter"
+msgstr "Raw-kuvatiedostojen muunnin"
+
+#: batchdialog.cpp:223
+msgid "A Kipi plugin to batch convert RAW images"
+msgstr ""
+"Kipi-liitännäinen useiden raw-kuvatiedostojen peräkkäiseen muuntamiseen"
+
+#: batchdialog.cpp:224 singledialog.cpp:180
+msgid ""
+"(c) 2003-2005, Renchi Raju\n"
+"(c) 2006-2009, Gilles Caulier"
+msgstr ""
+"(c) 2003-2005, Renchi Raju\n"
+"(c) 2006-2009, Gilles Caulier"
+
+#: batchdialog.cpp:227 singledialog.cpp:183
+msgid "Renchi Raju"
+msgstr "Renchi Raju"
+
+#: batchdialog.cpp:228 singledialog.cpp:184
+msgid "Author"
+msgstr "Tekijä"
+
+#: batchdialog.cpp:231 singledialog.cpp:187
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: batchdialog.cpp:232 singledialog.cpp:188
+msgid "Developer and maintainer"
+msgstr "Kehittäjä ja ylläpitäjä"
+
+#: batchdialog.cpp:240 singledialog.cpp:196
+msgid "Handbook"
+msgstr "Käyttöopas"
+
+#: batchdialog.cpp:452
+msgid "There is no RAW file in the list to process."
+msgstr "Listassa ei ole käsiteltäviä tiedostoja."
+
+#: batchdialog.cpp:668 singledialog.cpp:139
+msgid "&Abort"
+msgstr "&Keskeytä"
+
+#: batchdialog.cpp:669 singledialog.cpp:211
+msgid "Abort the current RAW file conversion"
+msgstr "Peruuta meneillään oleva muunnos"
+
+#: batchdialog.cpp:674 singledialog.cpp:138
+msgid "Con&vert"
+msgstr "&Muunna"
+
+#: batchdialog.cpp:675
+msgid "Start converting the RAW images using current settings."
+msgstr "Aloita muunnos nykyisillä asetuksilla."
+
+#: batchdialog.cpp:725 singledialog.cpp:580
+#, kde-format
+msgid "Save RAW image converted from '%1' as"
+msgstr "Tallenna muodosta ”%1” muunnettu raw-kuvatiedosto nimellä"
+
+#: batchdialog.cpp:754 singledialog.cpp:607
+#, kde-format
+msgid "Failed to save image %1"
+msgstr "Kuvan ”%1” tallennus epäonnistui"
+
+#: plugin_rawconverter.cpp:86
+msgid "RAW Image Converter..."
+msgstr "Raw-kuvatiedostojen muunnin..."
+
+#: plugin_rawconverter.cpp:95
+msgid "Batch RAW Converter..."
+msgstr "Raw-kuvatiedostojen eräajomuunnin..."
+
+#: plugin_rawconverter.cpp:169
+#, kde-format
+msgid "\"%1\" is not a RAW file."
+msgstr "”%1” ei ole raw-kuvatiedosto."
+
+#: previewwidget.cpp:90
+msgid "Failed to load image after processing"
+msgstr "Kuvan lataus käsittelyn jälkeen epäonnistui"
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Mikael Lammentausta"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "mikael.lammentausta+kdetrans@gmail.com"
+
+#: savesettingswidget.cpp:75
+msgid "Output file format:"
+msgstr "Muunnetaan tiedostomuotoon:"
+
+#: savesettingswidget.cpp:77
+msgid ""
+"<p>Set the output file format to use here:</p><p><b>JPEG</b>: output the "
+"processed image in JPEG format. This format will give smaller-sized files. "
+"Minimum JPEG compression level will be used during RAW conversion.</"
+"p><p><b>Warning: Due to the destructive compression algorithm, JPEG is a "
+"lossy quality format.</b></p><p><b>TIFF</b>: output the processed image in "
+"TIFF format. This generates large files, without losing quality. Adobe "
+"Deflate compression will be used during conversion.</p><p><b>PPM</b>: output "
+"the processed image in PPM format. This generates the largest files, without "
+"losing quality.</p><p><b>PNG</b>: output the processed image in PNG format. "
+"This generates large files, without losing quality. Maximum PNG compression "
+"will be used during conversion.</p>"
+msgstr ""
+"<p>Määritä muoto, johon kuva muunnetaan:</p> <p><b>JPEG</b>: luo kuvan jpeg-"
+"muotoon. Tiedosto on pienempi kuin alkuperäinen, ja kuva pakataan "
+"pienimmällä mahdollisella pakkaustasolla.</p> <p><b>Huomaa: jpeg on "
+"häviöllinen tiedostomuoto.</b></p> <p><b>TIFF</b>: luo kuvan tiff-muotoon. "
+"Tiedosto on suuri, mutta korkealaatuinen. Kuva pakataan häviöttömällä "
+"<i>Adobe Deflate</i>-pakkausmenetelmällä.</p> <p><b>PPM</b>: luo kuvan ppm-"
+"muotoon. Tiedosto on kaikista vaihtoehdoista suurin, mutta korkealaatuinen. "
+"Pakkaus on häviötön.</p><p><b>PNG</b>: luo kuvan png-muotoon. Tiedosto on "
+"suuri, mutta korkealaatuinen. Kuva pakataan häviöttömästi, suurimmalla "
+"mahdollisella pakkausasteella.</p>"
+
+#: savesettingswidget.cpp:96
+msgid "If Target File Exists:"
+msgstr "Mikäli kohdetiedosto on jo olemassa:"
+
+#: savesettingswidget.cpp:100
+msgid "Overwrite automatically"
+msgstr "Poista olemassaoleva"
+
+#: savesettingswidget.cpp:101
+msgid "Open rename-file dialog"
+msgstr "Kysy uutta tiedostonimeä"
+
+#: singledialog.cpp:137
+msgid "&Preview"
+msgstr "&Esikatselu"
+
+#: singledialog.cpp:179
+msgid "A Kipi plugin to convert RAW images"
+msgstr "Kipi-liitännäinen raw-kuvatiedostojen muuntamiseen"
+
+#: singledialog.cpp:204
+msgid ""
+"Generate a preview using current settings. Uses a simple bilinear "
+"interpolation for quick results."
+msgstr ""
+"Luo esikatselukuva nykyisillä asetuksilla. Kuva luodaan nopeasti "
+"bilineaarisella interpolaatiolla."
+
+#: singledialog.cpp:208
+msgid ""
+"Convert the RAW Image using current settings. This uses a high-quality "
+"adaptive algorithm."
+msgstr ""
+"Muunna raw-kuvatiedosto nykyisillä asetuksilla. Kuva luodaan käyttäen "
+"korkealaatuista adaptiivista algoritmia."
+
+#: singledialog.cpp:537
+msgid "Failed to generate preview"
+msgstr "Esikatselukuvan luonti epäonnistui"
+
+#: singledialog.cpp:624
+msgid "Failed to convert RAW image"
+msgstr "Kuvan muunnos epäonnistui"
+
+#: singledialog.cpp:629
+msgid "Generating Preview..."
+msgstr "Luodaan esikatselukuvaa..."
+
+#: singledialog.cpp:642
+msgid "Converting RAW Image..."
+msgstr "Muunnetaan raw-kuvatiedostoa..."

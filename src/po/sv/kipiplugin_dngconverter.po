@@ -1,0 +1,210 @@
+# translation of kipiplugin_dngconverter.po to Swedish
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Stefan Asserhäll <stefan.asserhall@comhem.se>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_dngconverter\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-27 07:11+0100\n"
+"PO-Revision-Date: 2009-10-03 09:09+0200\n"
+"Last-Translator: Stefan Asserhäll <stefan.asserhall@comhem.se>\n"
+"Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: aboutdata.h:47
+msgid "DNG Image Converter"
+msgstr "DNG-bildkonvertering"
+
+#: aboutdata.h:49
+msgid "A tool to batch convert RAW camera images to DNG"
+msgstr ""
+"Ett verktyg för att konvertera obehandlade kamerabilder till DNG i bakgrunden"
+
+#: aboutdata.h:50
+msgid "(c) 2008-2009, Gilles Caulier"
+msgstr "© 2008-2009, Gilles Caulier"
+
+#: aboutdata.h:52
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: aboutdata.h:53
+msgid "Author"
+msgstr "Upphovsman"
+
+#: actionthread.cpp:229
+msgid "Cannot identify Raw image"
+msgstr "Kan inte identifiera obehandlad bild"
+
+#: actionthread.cpp:236
+#, kde-format
+msgid "Make: %1\n"
+msgstr "Märke: %1\n"
+
+#: actionthread.cpp:237
+#, kde-format
+msgid "Model: %1\n"
+msgstr "Modell: %1\n"
+
+#: actionthread.cpp:241
+#, kde-format
+msgid "Created: %1\n"
+msgstr "Skapad: %1\n"
+
+#: actionthread.cpp:248
+#, kde-format
+msgid "Aperture: f/%1\n"
+msgstr "Bländare: f/%1\n"
+
+#: actionthread.cpp:253
+#, kde-format
+msgid "Focal: %1 mm\n"
+msgstr "Fokallängd: %1 mm\n"
+
+#: actionthread.cpp:258
+#, kde-format
+msgid "Exposure: 1/%1 s\n"
+msgstr "Exponeringstid: 1/%1 s\n"
+
+#: actionthread.cpp:263
+#, kde-format
+msgid "Sensitivity: %1 ISO"
+msgstr "Känslighet: %1 ISO"
+
+#: batchdialog.cpp:129
+msgid "Exit DNG Converter"
+msgstr "Avsluta DNG-konvertering"
+
+#: batchdialog.cpp:130
+msgid "Batch convert RAW camera images to DNG"
+msgstr "Konvertera obehandlade kamerabilder till DNG i bakgrunden"
+
+#: batchdialog.cpp:133
+msgid "&Add"
+msgstr "&Lägg till"
+
+#: batchdialog.cpp:134
+msgid "Add new Raw files to the list"
+msgstr "Lägg till nya obehandlade filer i listan"
+
+#: batchdialog.cpp:136
+msgid "&Remove"
+msgstr "Ta &bort"
+
+#: batchdialog.cpp:137
+msgid "Remove selected Raw files from the list"
+msgstr "Ta bort markerade obehandlade filer från listan"
+
+#: batchdialog.cpp:156
+msgid "Thumbnail"
+msgstr "Miniatyrbild"
+
+#: batchdialog.cpp:157
+msgid "Raw File"
+msgstr "Obehandlad fil"
+
+#: batchdialog.cpp:158
+msgid "Target File"
+msgstr "Resultatfil"
+
+#: batchdialog.cpp:159
+msgid "Camera"
+msgstr "Kamera"
+
+#: batchdialog.cpp:190
+msgid "Handbook"
+msgstr "Handbok"
+
+#: batchdialog.cpp:331
+msgid "The list does not contain any Raw files to process."
+msgstr "Listan innehåller inte några obehandlade filer att behandla."
+
+#: batchdialog.cpp:472
+msgid "&Abort"
+msgstr "&Avbryt"
+
+#: batchdialog.cpp:473
+msgid "Abort the conversion of Raw files."
+msgstr "Avbryt konvertering av obehandlade filer."
+
+#: batchdialog.cpp:478
+msgid "Con&vert"
+msgstr "Kon&vertera"
+
+#: batchdialog.cpp:479
+msgid "Start converting the Raw images using the current settings."
+msgstr "Börja konvertera obehandlade bilder med nuvarande inställningar."
+
+#: batchdialog.cpp:528
+#, kde-format
+msgid "Save Raw Image converted from '%1' as"
+msgstr "Spara obehandlad bild konverterad från '%1' som"
+
+#: batchdialog.cpp:557
+#, kde-format
+msgid "Failed to save image %1"
+msgstr "Misslyckades med att spara bilden %1"
+
+#: dngconverter.cpp:54
+msgid "File(s) to convert"
+msgstr "Fil(er) att konvertera"
+
+#: plugin_dngconverter.cpp:66
+msgid "DNG Converter..."
+msgstr "DNG-konvertering..."
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Stefan Asserhäll"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "stefan.asserhall@comhem.se"
+
+#: settingswidget.cpp:106
+msgid "Embed Original File"
+msgstr "Inbädda originalfilen"
+
+#: settingswidget.cpp:108
+msgid "Lossless Compression"
+msgstr "Förlustfri komprimering"
+
+#: settingswidget.cpp:110
+msgid "Update File Modification Date"
+msgstr "Uppdatera filens ändringsdatum"
+
+#: settingswidget.cpp:114
+msgid "JPEG Preview:"
+msgstr "JPEG-förhandsgranskning:"
+
+#: settingswidget.cpp:116
+msgid "None"
+msgstr "Ingen"
+
+#: settingswidget.cpp:117
+msgid "Medium"
+msgstr "Normal"
+
+#: settingswidget.cpp:118
+msgid "Full size"
+msgstr "Full storlek"
+
+#: settingswidget.cpp:124
+msgid "If Target File Exists:"
+msgstr "Om målfilen finns:"
+
+#: settingswidget.cpp:128
+msgid "Overwrite automatically"
+msgstr "Skriv över automatiskt"
+
+#: settingswidget.cpp:129
+msgid "Open rename-file dialog"
+msgstr "Öppna fildialogruta för att byta namn"

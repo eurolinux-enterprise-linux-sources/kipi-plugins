@@ -1,0 +1,417 @@
+# translation of kipiplugin_smug.po to Dutch
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Freek de Kruijf <f.de.kruijf@hetnet.nl>, 2008, 2009.
+# Freek de Kruijf <freek@opensuse.org>, 2009.
+# Freek de Kruijf <f.de.kruijf@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_smug\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-25 05:49+0100\n"
+"PO-Revision-Date: 2009-10-13 00:42+0200\n"
+"Last-Translator: Freek de Kruijf <f.de.kruijf@gmail.com>\n"
+"Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: plugin_smug.cpp:75
+msgid "Export to &SmugMug..."
+msgstr "Naar &SmugMug exporteren..."
+
+#: plugin_smug.cpp:85
+msgid "Import from &SmugMug..."
+msgstr "Uit &SmugMug importeren..."
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Rinse de Vries, Freek de Kruijf"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "rinsedevries@kde.nl,f.de.kruijf@hetnet.nl"
+
+#: smugalbum.cpp:50
+msgid "SmugMug New Album"
+msgstr "Nieuw SmugMug-album"
+
+#: smugalbum.cpp:61 smugwidget.cpp:118
+msgid "Album"
+msgstr "Album"
+
+#: smugalbum.cpp:63
+msgid "These are basic settings for the new SmugMug album."
+msgstr "Dit zijn de basisinstellingen voor het nieuw SmugMug-album."
+
+#: smugalbum.cpp:67
+msgid "Title of the album that will be created (required)."
+msgstr "Titel van het album dat zal worden aangemaakt (vereist)."
+
+#: smugalbum.cpp:72
+msgid "Category of the album that will be created (required)."
+msgstr "Categorie van het album dat zal worden aangemaakt (vereist)."
+
+#: smugalbum.cpp:77
+msgid "Subcategory of the album that will be created (optional)."
+msgstr "Subcategorie van het album dat zal worden aangemaakt (optioneel)."
+
+#: smugalbum.cpp:81
+msgid "Description of the album that will be created (optional)."
+msgstr "Beschrijving van het album dat zal worden aangemaakt (optioneel)."
+
+#: smugalbum.cpp:86
+msgid "Album template for the new album (optional)."
+msgstr "Albumsjabloon voor een nieuw album (optioneel)."
+
+#: smugalbum.cpp:89
+msgid "Title:"
+msgstr "Titel:"
+
+#: smugalbum.cpp:90
+msgid "Category:"
+msgstr "Categorie:"
+
+#: smugalbum.cpp:91
+msgid "Subcategory:"
+msgstr "Subcategorie:"
+
+#: smugalbum.cpp:92
+msgid "Description:"
+msgstr "Beschrijving:"
+
+#: smugalbum.cpp:93
+msgid "Template:"
+msgstr "Sjabloon:"
+
+#: smugalbum.cpp:101
+msgid "Security && Privacy"
+msgstr "Beveiliging && privacy"
+
+#: smugalbum.cpp:103
+msgid "These are security and privacy settings for the new SmugMug album."
+msgstr ""
+"Dit zijn de beveiliging- en privacy-instellingen voor het nieuwe SmugMug-"
+"album."
+
+#: smugalbum.cpp:105
+msgid "Public"
+msgstr "Publiek"
+
+#: smugalbum.cpp:108
+msgid "Public album is listed on your public SmugMug page."
+msgstr "Een publiek album staat in de lijst op uw publieke SmugMug-pagina."
+
+#: smugalbum.cpp:109
+msgid "Unlisted"
+msgstr "Uit de lijst gehaald"
+
+#: smugalbum.cpp:111
+msgid "Unlisted album is only accessible via URL."
+msgstr "Een uit de lijst gehaald album is alleen toegankelijk via de URL."
+
+#: smugalbum.cpp:119
+msgid "Require password to access the album (optional)."
+msgstr "Wachtwoord vereist voor toegang tot het album (optioneel)."
+
+#: smugalbum.cpp:123
+msgid "Password hint to present to users in the password prompt (optional)."
+msgstr ""
+"Wachtwoord hint die aan de gebruikers getoond wordt bij de prompt om het "
+"wachtwoord (optioneel)."
+
+#: smugalbum.cpp:126
+msgid "Privacy:"
+msgstr "Privacy:"
+
+#: smugalbum.cpp:127
+msgid "Password:"
+msgstr "Wachtwoord:"
+
+#: smugalbum.cpp:128
+msgid "Password Hint:"
+msgstr "Wachtwoord hint:"
+
+#: smugtalker.cpp:101
+msgid "Logging in to SmugMug service..."
+msgstr "Aanmelden bij de SmugMug-service..."
+
+#: smugtalker.cpp:472
+msgid "Login failed"
+msgstr "Aanmelden mislukt"
+
+#: smugtalker.cpp:475
+msgid "Invalid user/nick/password"
+msgstr "Ongeldige gebruiker/bijnaam/wachtwoord"
+
+#: smugtalker.cpp:478
+msgid "Invalid API key"
+msgstr "Ongeldige API-sleutel"
+
+#: smugwidget.cpp:72
+msgid "This is the list of images to upload to your SmugMug account."
+msgstr "Dit is de lijst met te uploaden afbeeldingen naar uw SmugMug-account."
+
+#: smugwidget.cpp:79
+msgid ""
+"This is a clickable link to open the SmugMug home page in a web browser."
+msgstr ""
+"Dit is een aanklikbare koppeling om de SmugMug-homepagina te openen in uw "
+"webbrowser."
+
+#: smugwidget.cpp:85
+msgid "Account"
+msgstr "Account"
+
+#: smugwidget.cpp:87
+msgid "This is the SmugMug account that will be used to authenticate."
+msgstr "Dit is het SmugMug-account dat zal worden gebruikt voor authenticatie."
+
+#: smugwidget.cpp:90
+msgid "Anonymous"
+msgstr "Anoniem"
+
+#: smugwidget.cpp:92
+msgid "Login as anonymous to SmugMug web service."
+msgstr "Loggen anoniem in naar de SmugMug-wewbservice."
+
+#: smugwidget.cpp:94
+msgid "SmugMug Account"
+msgstr "SmugMug-account"
+
+#: smugwidget.cpp:96
+msgid "Login to SmugMug web service using email and password."
+msgstr "Aanmelden bij de SmugMug-webservice met e-mailadres en wachtwoord."
+
+#: smugwidget.cpp:98
+msgid "Name:"
+msgstr "Naam: "
+
+#: smugwidget.cpp:100
+msgid "Email:"
+msgstr "E-mailadres: "
+
+#: smugwidget.cpp:103
+msgid "Change Account"
+msgstr "Wijzig account"
+
+#: smugwidget.cpp:104
+msgid "Change SmugMug Account used to authenticate"
+msgstr ""
+"Wijzig het SmugMug-account dat zal worden gebruikt voor de authenticatie"
+
+#: smugwidget.cpp:120
+msgid "This is the SmugMug album that will be used for transfer."
+msgstr "Dit is het SmugMug-album dat zal worden gebruikt voor het overdragen."
+
+#: smugwidget.cpp:125
+msgid "Nickname:"
+msgstr "Bijnaam:"
+
+#: smugwidget.cpp:128
+msgid "Nickname of SmugMug user to list albums."
+msgstr "Bijnaam van de SmugMug-gebruiker voor het laten zien van albums."
+
+#: smugwidget.cpp:129
+msgid "Site Password:"
+msgstr "Wachtwoord van de site:"
+
+#: smugwidget.cpp:132
+msgid "Site-wide password for specified SmugMug nick/user."
+msgstr ""
+"Site-breed wachtwoord voor de gespecificeerde SmugMug bijnaam/gebruiker."
+
+#: smugwidget.cpp:133
+msgid "Album Password:"
+msgstr "Wachtwoord van album:"
+
+#: smugwidget.cpp:136
+msgid "Password for SmugMug album."
+msgstr "Wachtwoord van SmugMug-album."
+
+#: smugwidget.cpp:139
+msgid "New Album"
+msgstr "Nieuw album"
+
+#: smugwidget.cpp:140
+msgid "Create new SmugMug album"
+msgstr "Maak een nieuw SmugMug-album aan"
+
+#: smugwidget.cpp:142
+msgid "Reload"
+msgstr "Herladen"
+
+#: smugwidget.cpp:143
+msgid "Reload album list"
+msgstr "Laad de albumlijst opnieuw"
+
+#: smugwidget.cpp:157
+msgid "Destination"
+msgstr "Bestemming"
+
+#: smugwidget.cpp:159
+msgid "This is the location where SmugMug images will be downloaded."
+msgstr ""
+"Dit is de locatie waar SmugMug afbeeldingen naar gedownload zullen worden."
+
+#: smugwidget.cpp:166
+msgid "Options"
+msgstr "Opties"
+
+#: smugwidget.cpp:168
+msgid "These are options that will be applied to images before upload."
+msgstr "Deze opties zullen worden toegepast op de foto's vóór het uploaden."
+
+#: smugwidget.cpp:172
+msgid "Resize photos before uploading"
+msgstr "Grootte van foto's wijzigen vóór het uploaden"
+
+#: smugwidget.cpp:182
+msgid "Maximum dimension:"
+msgstr "Maximale afmeting:"
+
+#: smugwidget.cpp:190
+msgid "JPEG quality:"
+msgstr "JPEG-kwaliteit:"
+
+#: smugwindow.cpp:103
+msgid "Import from SmugMug Web Service"
+msgstr "Importeren van de SmugMug-webservice"
+
+#: smugwindow.cpp:105
+msgid "Start Download"
+msgstr "Downloaden starten"
+
+#: smugwindow.cpp:106
+msgid "Start download from SmugMug web service"
+msgstr "Start het downloaden vanaf de SmugMug-webservice"
+
+#: smugwindow.cpp:111
+msgid "Export to SmugMug Web Service"
+msgstr "Exporteren naar de SmugMug-webservice"
+
+#: smugwindow.cpp:113
+msgid "Start Upload"
+msgstr "Uploaden starten"
+
+#: smugwindow.cpp:114
+msgid "Start upload to SmugMug web service"
+msgstr "Start het uploaden naar de SmugMug-webservice"
+
+#: smugwindow.cpp:139
+msgid "Smug Import/Export"
+msgstr "Smug import/export"
+
+#: smugwindow.cpp:141
+msgid ""
+"A Kipi plugin to import/export image collections from/to the SmugMug web "
+"service."
+msgstr ""
+"Een kipi-plugin voor het im/exporteren van een afbeeldingenverzameling van/"
+"naar de SmugMug-webservice."
+
+#: smugwindow.cpp:143
+msgid ""
+"(c) 2005-2008, Vardhman Jain\n"
+"(c) 2008-2009, Gilles Caulier\n"
+"(c) 2008-2009, Luka Renko"
+msgstr ""
+"(c) 2005-2008, Vardhman Jain\n"
+"(c) 2008-2009, Gilles Caulier\n"
+"(c) 2008-2009, Luka Renko"
+
+#: smugwindow.cpp:147
+msgid "Luka Renko"
+msgstr "Luka Renko"
+
+#: smugwindow.cpp:147
+msgid "Author and maintainer"
+msgstr "Auteur en onderhouder"
+
+#: smugwindow.cpp:155
+msgid "Handbook"
+msgstr "Handboek"
+
+#: smugwindow.cpp:164
+msgid ""
+"<qt>Enter the <b>email address</b> and <b>password</b> for your <a href="
+"\"http://www.smugmug.com\">SmugMug</a> account</qt>"
+msgstr ""
+"<qt>Voer een <b>e-mailadres</b> en <b>wachtwoord</b> in van uw <a href="
+"\"http://www.smugmug.com\">SmugMug</a>-account</qt>"
+
+#: smugwindow.cpp:278
+msgid "Authentication"
+msgstr "Authenticatie"
+
+#: smugwindow.cpp:393 smugwindow.cpp:402 smugwindow.cpp:429 smugwindow.cpp:468
+#: smugwindow.cpp:499 smugwindow.cpp:528 smugwindow.cpp:905
+#, kde-format
+msgid "SmugMug Call Failed: %1\n"
+msgstr "SmugMug-call is mislukt: %1\n"
+
+#: smugwindow.cpp:445 smugwindow.cpp:674
+msgid "Transfer Progress"
+msgstr "Voortgangsindicatie"
+
+#: smugwindow.cpp:450 smugwindow.cpp:679
+msgid "%v / %m"
+msgstr "%v / %m"
+
+#: smugwindow.cpp:464 smugwindow.cpp:524
+msgid "<none>"
+msgstr "<niets>"
+
+#: smugwindow.cpp:762 smugwindow.cpp:775
+msgid "Cannot open file"
+msgstr "Kan bestand niet openen "
+
+#: smugwindow.cpp:779
+#, kde-format
+msgid "Uploading file %1"
+msgstr "Uploaden van bestand %1"
+
+#: smugwindow.cpp:804
+#, kde-format
+msgid ""
+"Failed to upload photo into SmugMug: %1\n"
+"Do you want to continue?"
+msgstr ""
+"Het uploaden van een foto naar SmugMug is mislukt: %1\n"
+"Wilt u doorgaan?"
+
+#: smugwindow.cpp:832
+#, kde-format
+msgid "Downloading file %1"
+msgstr "Downloaden van bestand %1"
+
+#: smugwindow.cpp:865
+#, kde-format
+msgid ""
+"Failed to save photo: %1\n"
+"Do you want to continue?"
+msgstr ""
+"Het opslaan van een foto is mislukt: %1\n"
+"Wilt u doorgaan?"
+
+#: smugwindow.cpp:879
+#, kde-format
+msgid ""
+"Failed to download photo: %1\n"
+"Do you want to continue?"
+msgstr ""
+"Het downloaden van een foto is mislukt: %1\n"
+"Wilt u doorgaan?"
+
+#~ msgid "Login with e-mail and password to SmugMug web service."
+#~ msgstr "Login met e-mailadres en wachtwoord in op de SmugMug-webservice."
+
+#~ msgid "This is the SmugMug album where selected photos will be uploaded."
+#~ msgstr ""
+#~ "Dit is het SmugMug-album waarnaar de geselecteerde foto's zullen worden "
+#~ "geupload."

@@ -1,0 +1,209 @@
+# translation of kipiplugin_dngconverter.po to 简体中文
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Ni Hui <shuizhuyuanluo@126.com>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_dngconverter\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-27 07:11+0100\n"
+"PO-Revision-Date: 2009-05-28 10:02+0000\n"
+"Last-Translator: Ni Hui <shuizhuyuanluo@126.com>\n"
+"Language-Team: 简体中文 <kde-china@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: aboutdata.h:47
+msgid "DNG Image Converter"
+msgstr "DNG 图像转换器"
+
+#: aboutdata.h:49
+msgid "A tool to batch convert RAW camera images to DNG"
+msgstr "一个批量转换 RAW 相机图像为 DNG 的工具"
+
+#: aboutdata.h:50
+msgid "(c) 2008-2009, Gilles Caulier"
+msgstr "(c) 2008-2009，Gilles Caulier"
+
+#: aboutdata.h:52
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: aboutdata.h:53
+msgid "Author"
+msgstr "作者"
+
+#: actionthread.cpp:229
+msgid "Cannot identify Raw image"
+msgstr "无法验证 Raw 图像"
+
+#: actionthread.cpp:236
+#, kde-format
+msgid "Make: %1\n"
+msgstr "制造商：%1\n"
+
+#: actionthread.cpp:237
+#, kde-format
+msgid "Model: %1\n"
+msgstr "型号：%1\n"
+
+#: actionthread.cpp:241
+#, kde-format
+msgid "Created: %1\n"
+msgstr "创建时间：%1\n"
+
+#: actionthread.cpp:248
+#, kde-format
+msgid "Aperture: f/%1\n"
+msgstr "孔径：f/%1\n"
+
+#: actionthread.cpp:253
+#, kde-format
+msgid "Focal: %1 mm\n"
+msgstr "焦距：%1 毫米\n"
+
+#: actionthread.cpp:258
+#, kde-format
+msgid "Exposure: 1/%1 s\n"
+msgstr "曝光量：1/%1 秒\n"
+
+#: actionthread.cpp:263
+#, kde-format
+msgid "Sensitivity: %1 ISO"
+msgstr "感光度：%1 ISO"
+
+#: batchdialog.cpp:129
+msgid "Exit DNG Converter"
+msgstr "退出 DNG 转换器"
+
+#: batchdialog.cpp:130
+msgid "Batch convert RAW camera images to DNG"
+msgstr "批量转换 RAW 相机图像为 DNG"
+
+#: batchdialog.cpp:133
+msgid "&Add"
+msgstr "添加(&A)"
+
+#: batchdialog.cpp:134
+msgid "Add new Raw files to the list"
+msgstr "向列表添加新 Raw 文件"
+
+#: batchdialog.cpp:136
+msgid "&Remove"
+msgstr "删除(&R)"
+
+#: batchdialog.cpp:137
+msgid "Remove selected Raw files from the list"
+msgstr "从列表删除所选 Raw 文件"
+
+#: batchdialog.cpp:156
+msgid "Thumbnail"
+msgstr "缩略图"
+
+#: batchdialog.cpp:157
+msgid "Raw File"
+msgstr "Raw 文件"
+
+#: batchdialog.cpp:158
+msgid "Target File"
+msgstr "目标文件"
+
+#: batchdialog.cpp:159
+msgid "Camera"
+msgstr "相机"
+
+#: batchdialog.cpp:190
+msgid "Handbook"
+msgstr "手册"
+
+#: batchdialog.cpp:331
+msgid "The list does not contain any Raw files to process."
+msgstr "列表中不包含任何要处理的 Raw 文件。"
+
+#: batchdialog.cpp:472
+msgid "&Abort"
+msgstr "中止(&A)"
+
+#: batchdialog.cpp:473
+msgid "Abort the conversion of Raw files."
+msgstr "中止 Raw 文件转换。"
+
+#: batchdialog.cpp:478
+msgid "Con&vert"
+msgstr "转换(&V)"
+
+#: batchdialog.cpp:479
+msgid "Start converting the Raw images using the current settings."
+msgstr "使用当前设置开始转换 Raw 图像。"
+
+#: batchdialog.cpp:528
+#, kde-format
+msgid "Save Raw Image converted from '%1' as"
+msgstr "从“%1”转换的 Raw 图像另存为"
+
+#: batchdialog.cpp:557
+#, kde-format
+msgid "Failed to save image %1"
+msgstr "保存图像 %1 失败"
+
+#: dngconverter.cpp:54
+msgid "File(s) to convert"
+msgstr "要转换的文件"
+
+#: plugin_dngconverter.cpp:66
+msgid "DNG Converter..."
+msgstr "DNG 转换器..."
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Ni Hui"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "shuizhuyuanluo@126.com"
+
+#: settingswidget.cpp:106
+msgid "Embed Original File"
+msgstr "内嵌原始文件"
+
+#: settingswidget.cpp:108
+msgid "Lossless Compression"
+msgstr "无损压缩"
+
+#: settingswidget.cpp:110
+msgid "Update File Modification Date"
+msgstr ""
+
+#: settingswidget.cpp:114
+msgid "JPEG Preview:"
+msgstr "JPEG 预览："
+
+#: settingswidget.cpp:116
+msgid "None"
+msgstr "无"
+
+#: settingswidget.cpp:117
+msgid "Medium"
+msgstr "中"
+
+#: settingswidget.cpp:118
+msgid "Full size"
+msgstr "完整大小"
+
+#: settingswidget.cpp:124
+msgid "If Target File Exists:"
+msgstr "如果目标文件存在："
+
+#: settingswidget.cpp:128
+msgid "Overwrite automatically"
+msgstr "自动覆盖"
+
+#: settingswidget.cpp:129
+msgid "Open rename-file dialog"
+msgstr "打开重命名文件对话框"

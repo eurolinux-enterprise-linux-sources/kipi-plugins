@@ -1,0 +1,4363 @@
+# translation of kipiplugin_metadataedit.po to Thai
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_metadataedit\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-09-24 06:24+0200\n"
+"PO-Revision-Date: 2009-01-25 18:09+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: altlangstringedit.cpp:75
+msgid "Default Language"
+msgstr "ภาษาปริยาย"
+
+#: altlangstringedit.cpp:79
+msgid "Afrikaans (South Africa)"
+msgstr ""
+
+#: altlangstringedit.cpp:80
+msgid "Amharic (Ethiopia)"
+msgstr ""
+
+#: altlangstringedit.cpp:81
+msgid "Arabic (UAE)"
+msgstr ""
+
+#: altlangstringedit.cpp:82
+msgid "Arabic (Bahrain)"
+msgstr ""
+
+#: altlangstringedit.cpp:83
+msgid "Arabic (Algeria)"
+msgstr ""
+
+#: altlangstringedit.cpp:84
+msgid "Arabic (Egypt)"
+msgstr ""
+
+#: altlangstringedit.cpp:85
+msgid "Arabic (Iraq)"
+msgstr ""
+
+#: altlangstringedit.cpp:86
+msgid "Arabic (Jordan)"
+msgstr ""
+
+#: altlangstringedit.cpp:87
+msgid "Arabic (Kuwait)"
+msgstr ""
+
+#: altlangstringedit.cpp:88
+msgid "Arabic (Lebanon)"
+msgstr ""
+
+#: altlangstringedit.cpp:89
+msgid "Arabic (Libya)"
+msgstr ""
+
+#: altlangstringedit.cpp:90
+msgid "Arabic (Morocco)"
+msgstr ""
+
+#: altlangstringedit.cpp:91
+msgid "Arabic (Oman)"
+msgstr ""
+
+#: altlangstringedit.cpp:92
+msgid "Arabic (Qatar)"
+msgstr ""
+
+#: altlangstringedit.cpp:93
+msgid "Arabic (Saudi Arabia)"
+msgstr ""
+
+#: altlangstringedit.cpp:94
+msgid "Arabic (Syria)"
+msgstr ""
+
+#: altlangstringedit.cpp:95
+msgid "Arabic (Tunisia)"
+msgstr ""
+
+#: altlangstringedit.cpp:96
+msgid "Arabic (Yemen)"
+msgstr ""
+
+#: altlangstringedit.cpp:97
+msgid "Assamese (India)"
+msgstr ""
+
+#: altlangstringedit.cpp:98
+msgid "Bashkir (Russia)"
+msgstr ""
+
+#: altlangstringedit.cpp:99
+msgid "Belarusian (Belarus)"
+msgstr ""
+
+#: altlangstringedit.cpp:100
+msgid "Bulgarian (Bulgaria)"
+msgstr ""
+
+#: altlangstringedit.cpp:101
+msgid "Bengali (India)"
+msgstr ""
+
+#: altlangstringedit.cpp:102
+msgid "Tibetan (Bhutan)"
+msgstr ""
+
+#: altlangstringedit.cpp:103
+msgid "Tibetan (PRC)"
+msgstr ""
+
+#: altlangstringedit.cpp:104
+msgid "Breton (France)"
+msgstr ""
+
+#: altlangstringedit.cpp:105
+msgid "Catalan (Andorra)"
+msgstr ""
+
+#: altlangstringedit.cpp:106
+msgid "Catalan (Spain)"
+msgstr ""
+
+#: altlangstringedit.cpp:107
+msgid "Catalan (France)"
+msgstr ""
+
+#: altlangstringedit.cpp:108
+msgid "Corsican (France)"
+msgstr ""
+
+#: altlangstringedit.cpp:109
+msgid "Czech (Czech Republic)"
+msgstr ""
+
+#: altlangstringedit.cpp:110
+msgid "Welsh (United Kingdom)"
+msgstr ""
+
+#: altlangstringedit.cpp:111
+msgid "Danish (Denmark)"
+msgstr ""
+
+#: altlangstringedit.cpp:112
+msgid "German (Austria)"
+msgstr ""
+
+#: altlangstringedit.cpp:113
+msgid "German (Switzerland)"
+msgstr ""
+
+#: altlangstringedit.cpp:114
+msgid "German (Germany)"
+msgstr ""
+
+#: altlangstringedit.cpp:115
+msgid "German (Liechtenstein)"
+msgstr ""
+
+#: altlangstringedit.cpp:116
+msgid "German (Luxembourg)"
+msgstr ""
+
+#: altlangstringedit.cpp:117
+msgid "Greek (Greece)"
+msgstr ""
+
+#: altlangstringedit.cpp:118
+msgid "English (Australia)"
+msgstr ""
+
+#: altlangstringedit.cpp:119
+msgid "English (Belize)"
+msgstr ""
+
+#: altlangstringedit.cpp:120
+msgid "English (Canada)"
+msgstr ""
+
+#: altlangstringedit.cpp:121
+msgid "English (Caribbean)"
+msgstr ""
+
+#: altlangstringedit.cpp:122
+msgid "English (United Kingdom)"
+msgstr ""
+
+#: altlangstringedit.cpp:123
+msgid "English (Ireland)"
+msgstr ""
+
+#: altlangstringedit.cpp:124
+msgid "English (India)"
+msgstr ""
+
+#: altlangstringedit.cpp:125
+msgid "English (Jamaica)"
+msgstr ""
+
+#: altlangstringedit.cpp:126
+msgid "English (Malaysia)"
+msgstr ""
+
+#: altlangstringedit.cpp:127
+msgid "English (New Zealand)"
+msgstr ""
+
+#: altlangstringedit.cpp:128
+msgid "English (Philippines)"
+msgstr ""
+
+#: altlangstringedit.cpp:129
+msgid "English (Singapore)"
+msgstr ""
+
+#: altlangstringedit.cpp:130
+msgid "English (Trinidad)"
+msgstr ""
+
+#: altlangstringedit.cpp:131
+msgid "English (United States)"
+msgstr ""
+
+#: altlangstringedit.cpp:132
+msgid "English (South Africa)"
+msgstr ""
+
+#: altlangstringedit.cpp:133
+msgid "English (Zimbabwe)"
+msgstr ""
+
+#: altlangstringedit.cpp:134
+msgid "Spanish (Argentina)"
+msgstr ""
+
+#: altlangstringedit.cpp:135
+msgid "Spanish (Bolivia)"
+msgstr ""
+
+#: altlangstringedit.cpp:136
+msgid "Spanish (Chile)"
+msgstr ""
+
+#: altlangstringedit.cpp:137
+msgid "Spanish (Colombia)"
+msgstr ""
+
+#: altlangstringedit.cpp:138
+msgid "Spanish (Costa Rica)"
+msgstr ""
+
+#: altlangstringedit.cpp:139
+msgid "Spanish (Dominican Republic)"
+msgstr ""
+
+#: altlangstringedit.cpp:140
+msgid "Spanish (Ecuador)"
+msgstr ""
+
+#: altlangstringedit.cpp:141
+msgid "Spanish (Spain)"
+msgstr ""
+
+#: altlangstringedit.cpp:142
+msgid "Spanish (Guatemala)"
+msgstr ""
+
+#: altlangstringedit.cpp:143
+msgid "Spanish (Honduras)"
+msgstr ""
+
+#: altlangstringedit.cpp:144
+msgid "Spanish (Mexico)"
+msgstr ""
+
+#: altlangstringedit.cpp:145
+msgid "Spanish (Nicaragua)"
+msgstr ""
+
+#: altlangstringedit.cpp:146
+msgid "Spanish (Panama)"
+msgstr ""
+
+#: altlangstringedit.cpp:147
+msgid "Spanish (Peru)"
+msgstr ""
+
+#: altlangstringedit.cpp:148
+msgid "Spanish (Puerto Rico)"
+msgstr ""
+
+#: altlangstringedit.cpp:149
+msgid "Spanish (Paraguay)"
+msgstr ""
+
+#: altlangstringedit.cpp:150
+msgid "Spanish (El Salvador)"
+msgstr ""
+
+#: altlangstringedit.cpp:151
+msgid "Spanish (Uruguay)"
+msgstr ""
+
+#: altlangstringedit.cpp:152
+msgid "Spanish (United States)"
+msgstr ""
+
+#: altlangstringedit.cpp:153
+msgid "Spanish (Venezuela)"
+msgstr ""
+
+#: altlangstringedit.cpp:154
+msgid "Estonian (Estonia)"
+msgstr ""
+
+#: altlangstringedit.cpp:155
+msgid "Basque (Basque Country)"
+msgstr ""
+
+#: altlangstringedit.cpp:156
+msgid "Persian (Iran)"
+msgstr ""
+
+#: altlangstringedit.cpp:157
+msgid "Finnish (Finland)"
+msgstr ""
+
+#: altlangstringedit.cpp:158
+msgid "Faeroese (Faero Islands)"
+msgstr ""
+
+#: altlangstringedit.cpp:159
+msgid "French (Belgium)"
+msgstr ""
+
+#: altlangstringedit.cpp:160
+msgid "French (Canada)"
+msgstr ""
+
+#: altlangstringedit.cpp:161
+msgid "French (Switzerland)"
+msgstr ""
+
+#: altlangstringedit.cpp:162
+msgid "French (France)"
+msgstr ""
+
+#: altlangstringedit.cpp:163
+msgid "French (Luxembourg)"
+msgstr ""
+
+#: altlangstringedit.cpp:164
+msgid "French (Monaco)"
+msgstr ""
+
+#: altlangstringedit.cpp:165
+msgid "Frisian (Netherlands)"
+msgstr ""
+
+#: altlangstringedit.cpp:166
+msgid "Irish (Ireland)"
+msgstr ""
+
+#: altlangstringedit.cpp:167
+msgid "Galician (Galicia)"
+msgstr ""
+
+#: altlangstringedit.cpp:168
+msgid "Gujarati (India)"
+msgstr ""
+
+#: altlangstringedit.cpp:169
+msgid "Hebrew (Israel)"
+msgstr ""
+
+#: altlangstringedit.cpp:170
+msgid "Hindi (India)"
+msgstr ""
+
+#: altlangstringedit.cpp:171
+msgid "Croatian (Bosnia and Herzegovina, Latin)"
+msgstr ""
+
+#: altlangstringedit.cpp:172
+msgid "Croatian (Croatia)"
+msgstr ""
+
+#: altlangstringedit.cpp:173
+msgid "Hungarian (Hungary)"
+msgstr ""
+
+#: altlangstringedit.cpp:174
+msgid "Armenian (Armenia)"
+msgstr ""
+
+#: altlangstringedit.cpp:175
+msgid "(Indonesian)"
+msgstr ""
+
+#: altlangstringedit.cpp:176
+msgid "Yi (PRC)"
+msgstr ""
+
+#: altlangstringedit.cpp:177
+msgid "Icelandic (Iceland)"
+msgstr ""
+
+#: altlangstringedit.cpp:178
+msgid "Italian (Switzerland)"
+msgstr ""
+
+#: altlangstringedit.cpp:179
+msgid "Italian (Italy)"
+msgstr ""
+
+#: altlangstringedit.cpp:180
+msgid "Japanese (Japan)"
+msgstr ""
+
+#: altlangstringedit.cpp:181
+msgid "Georgian (Georgia)"
+msgstr ""
+
+#: altlangstringedit.cpp:182
+msgid "Kazakh (Kazakhstan)"
+msgstr ""
+
+#: altlangstringedit.cpp:183
+msgid "Greenlandic (Greenland)"
+msgstr ""
+
+#: altlangstringedit.cpp:184
+msgid "Khmer (Cambodia)"
+msgstr ""
+
+#: altlangstringedit.cpp:185
+msgid "Kannada (India)"
+msgstr ""
+
+#: altlangstringedit.cpp:186
+msgid "Korean (Korea)"
+msgstr ""
+
+#: altlangstringedit.cpp:187
+msgid "Kyrgyz (Kyrgyzstan)"
+msgstr ""
+
+#: altlangstringedit.cpp:188
+msgid "Luxembourgish (Luxembourg)"
+msgstr ""
+
+#: altlangstringedit.cpp:189
+msgid "Lao (Lao PDR)"
+msgstr ""
+
+#: altlangstringedit.cpp:190
+msgid "Lithuanian (Lithuania)"
+msgstr ""
+
+#: altlangstringedit.cpp:191
+msgid "Latvian (Latvia)"
+msgstr ""
+
+#: altlangstringedit.cpp:192
+msgid "Maori (New Zealand)"
+msgstr ""
+
+#: altlangstringedit.cpp:193
+msgid "Macedonian (Macedonia)"
+msgstr ""
+
+#: altlangstringedit.cpp:194
+msgid "Malayalam (India)"
+msgstr ""
+
+#: altlangstringedit.cpp:195
+msgid "Mongolian (PRC)"
+msgstr ""
+
+#: altlangstringedit.cpp:196
+msgid "Mongolian (Mongolia)"
+msgstr ""
+
+#: altlangstringedit.cpp:197
+msgid "Marathi (India)"
+msgstr ""
+
+#: altlangstringedit.cpp:198
+msgid "Malay (Brunei Darussalam)"
+msgstr ""
+
+#: altlangstringedit.cpp:199
+msgid "Malay (Malaysia)"
+msgstr ""
+
+#: altlangstringedit.cpp:200
+msgid "Maltese (Malta)"
+msgstr ""
+
+#: altlangstringedit.cpp:201
+msgid "Norwegian Bokmål (Norway)"
+msgstr ""
+
+#: altlangstringedit.cpp:202
+msgid "Nepali (Nepal)"
+msgstr ""
+
+#: altlangstringedit.cpp:203
+msgid "Dutch (Belgium)"
+msgstr ""
+
+#: altlangstringedit.cpp:204
+msgid "Dutch (Netherlands)"
+msgstr ""
+
+#: altlangstringedit.cpp:205
+msgid "Norwegian Nynorsk (Norway)"
+msgstr ""
+
+#: altlangstringedit.cpp:206
+msgid "Sesotho sa Leboa (South Africa)"
+msgstr ""
+
+#: altlangstringedit.cpp:207
+msgid "Occitan (France)"
+msgstr ""
+
+#: altlangstringedit.cpp:208
+msgid "Oriya (India)"
+msgstr ""
+
+#: altlangstringedit.cpp:209
+msgid "Punjabi (India)"
+msgstr ""
+
+#: altlangstringedit.cpp:210
+msgid "Polish (Poland)"
+msgstr ""
+
+#: altlangstringedit.cpp:211
+msgid "Pashto (Afghanistan)"
+msgstr ""
+
+#: altlangstringedit.cpp:212
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: altlangstringedit.cpp:213
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+#: altlangstringedit.cpp:214
+msgid "Romansh (Switzerland)"
+msgstr ""
+
+#: altlangstringedit.cpp:215
+msgid "Romanian (Romania)"
+msgstr ""
+
+#: altlangstringedit.cpp:216
+msgid "Russian (Russia)"
+msgstr ""
+
+#: altlangstringedit.cpp:217
+msgid "Kinyarwanda (Rwanda)"
+msgstr ""
+
+#: altlangstringedit.cpp:218
+msgid "Sanskrit (India)"
+msgstr ""
+
+#: altlangstringedit.cpp:219
+msgid "Sami (Northern, Finland)"
+msgstr ""
+
+#: altlangstringedit.cpp:220
+msgid "Sami (Northern, Norway)"
+msgstr ""
+
+#: altlangstringedit.cpp:221
+msgid "Sami (Northern, Sweden)"
+msgstr ""
+
+#: altlangstringedit.cpp:222
+msgid "Sinhala (Sri Lanka)"
+msgstr ""
+
+#: altlangstringedit.cpp:223
+msgid "Slovak (Slovakia)"
+msgstr ""
+
+#: altlangstringedit.cpp:224
+msgid "Slovenian (Slovenia)"
+msgstr ""
+
+#: altlangstringedit.cpp:225
+msgid "Albanian (Albania)"
+msgstr ""
+
+#: altlangstringedit.cpp:226
+msgid "Swedish (Finland)"
+msgstr ""
+
+#: altlangstringedit.cpp:227
+msgid "Swedish (Sweden)"
+msgstr ""
+
+#: altlangstringedit.cpp:228
+msgid "Swahili (Kenya)"
+msgstr ""
+
+#: altlangstringedit.cpp:229
+msgid "Tamil (India)"
+msgstr ""
+
+#: altlangstringedit.cpp:230
+msgid "Telugu (India)"
+msgstr ""
+
+#: altlangstringedit.cpp:231
+msgid "Thai (Thailand)"
+msgstr ""
+
+#: altlangstringedit.cpp:232
+msgid "Turkmen (Turkmenistan)"
+msgstr ""
+
+#: altlangstringedit.cpp:233
+msgid "Setswana Tswana (South Africa)"
+msgstr ""
+
+#: altlangstringedit.cpp:234
+msgid "Urdu (India)"
+msgstr ""
+
+#: altlangstringedit.cpp:235
+msgid "Turkish (Turkey)"
+msgstr ""
+
+#: altlangstringedit.cpp:236
+msgid "Tatar (Russia)"
+msgstr ""
+
+#: altlangstringedit.cpp:237
+msgid "Uighur (PRC)"
+msgstr ""
+
+#: altlangstringedit.cpp:238
+msgid "Ukrainian (Ukraine)"
+msgstr ""
+
+#: altlangstringedit.cpp:239
+msgid "Urdu (Pakistan)"
+msgstr ""
+
+#: altlangstringedit.cpp:240
+msgid "Vietnamese (Vietnam)"
+msgstr ""
+
+#: altlangstringedit.cpp:241
+msgid "Wolof (Senegal)"
+msgstr ""
+
+#: altlangstringedit.cpp:242
+msgid "isiXhosa Xhosa (South Africa)"
+msgstr ""
+
+#: altlangstringedit.cpp:243
+msgid "Yoruba (Nigeria)"
+msgstr ""
+
+#: altlangstringedit.cpp:244
+msgid "Chinese (PRC)"
+msgstr ""
+
+#: altlangstringedit.cpp:245
+msgid "Chinese (Hong Kong SAR, PRC)"
+msgstr ""
+
+#: altlangstringedit.cpp:246
+msgid "Chinese (Macao SAR)"
+msgstr ""
+
+#: altlangstringedit.cpp:247
+msgid "Chinese (Singapore)"
+msgstr ""
+
+#: altlangstringedit.cpp:248
+msgid "Chinese (Taiwan)"
+msgstr ""
+
+#: altlangstringedit.cpp:249
+msgid "isiZulu Zulu (South Africa)"
+msgstr ""
+
+#: altlangstringedit.cpp:286 multistringsedit.cpp:95 multivaluesedit.cpp:99
+#: objectattributesedit.cpp:109
+msgid "Add a new value to the list"
+msgstr "เพิ่มค่าใหม่ไปยังรายการ"
+
+#: altlangstringedit.cpp:287 multistringsedit.cpp:96 multivaluesedit.cpp:100
+#: objectattributesedit.cpp:110
+msgid "Remove the current selected value from the list"
+msgstr "ลบค่าที่เลือกไว้ออกจากรายการ"
+
+#: altlangstringedit.cpp:288 multistringsedit.cpp:97 multivaluesedit.cpp:101
+#: objectattributesedit.cpp:111
+msgid "Replace the current selected value from the list"
+msgstr "แทนที่ค่าที่เลือกไว้จากรายการ"
+
+#: altlangstringedit.cpp:299
+msgid "Select here language code."
+msgstr "เลือกรหัสภาษาได้ที่นี่"
+
+#: altlangstringedit.cpp:313 iptcproperties.cpp:169 xmpproperties.cpp:174
+msgid "Language:"
+msgstr "ภาษา:"
+
+#: commenteditdialog.cpp:89 plugin_metadataedit.cpp:763
+msgid "Edit Image Caption"
+msgstr "แก้ไขคำบรรยายภาพ"
+
+#: commenteditdialog.cpp:95 commentremovedialog.cpp:93 exifeditdialog.cpp:181
+#: iptceditdialog.cpp:215 xmpeditdialog.cpp:205
+msgid "Edit Metadata"
+msgstr "แก้ไขข้อมูลกำกับภาพ"
+
+#: commenteditdialog.cpp:98 commentremovedialog.cpp:96 exifeditdialog.cpp:184
+#: iptceditdialog.cpp:218 xmpeditdialog.cpp:208
+#, fuzzy
+#| msgid "A Plugin to edit pictures metadata"
+msgid "A Plugin to edit pictures' metadata."
+msgstr "ส่วนเสริมสำหรับแก้ไขข้อมูลกำกับภาพ"
+
+#: commenteditdialog.cpp:99 commentremovedialog.cpp:97 exifeditdialog.cpp:185
+#: iptceditdialog.cpp:219
+#, fuzzy
+#| msgid "(c) 2006-2008, Gilles Caulier"
+msgid "(c) 2006-2009, Gilles Caulier"
+msgstr "(c) 2006-2008, Gilles Caulier"
+
+#: commenteditdialog.cpp:101 commentremovedialog.cpp:99 exifeditdialog.cpp:187
+#: iptceditdialog.cpp:221 xmpeditdialog.cpp:211
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: commenteditdialog.cpp:101 commentremovedialog.cpp:99 exifeditdialog.cpp:187
+#: iptceditdialog.cpp:221 xmpeditdialog.cpp:211
+msgid "Author and Maintainer"
+msgstr "ผู้เขียนและผู้ดูแล"
+
+#: commenteditdialog.cpp:109 commentremovedialog.cpp:107
+#: exifeditdialog.cpp:195 iptceditdialog.cpp:229 xmpeditdialog.cpp:219
+#, fuzzy
+#| msgid "Plugin Handbook"
+msgid "Handbook"
+msgstr "คู่มือของส่วนเสริม"
+
+#: commenteditdialog.cpp:120
+#, kde-format
+msgid ""
+"Enter the image caption entered through <b>%1</b>. This field is not limited "
+"(excepted with IPTC). UTF-8 encoding will be used to save text."
+msgstr ""
+"ป้อนคำบรรยายภาพที่ป้อนมาผ่านทาง <b>%1</b> โดยช่องข้อมูลนี้ไม่มีข้อจำกัดใด ๆ "
+"(ยกเว้นกับข้อมูลแบบ IPTC) และจะใช้รหัสภาษายูนิโค้ดแบบ UTF-8 เพื่อจัดเก็บข้อความ"
+
+#: commenteditdialog.cpp:130 exifcaption.cpp:150 iptccontent.cpp:107
+#: xmpcontent.cpp:103
+msgid "Sync JFIF Comment section"
+msgstr "ปรับเทียบกับส่วนคำอธิบายภาพของ JFIF"
+
+#: commenteditdialog.cpp:131 iptccontent.cpp:111 xmpcontent.cpp:107
+msgid "Sync EXIF Comment"
+msgstr "ปรับเทียบกับข้อมูลคำอธิบายภาพของ EXIF"
+
+#: commenteditdialog.cpp:132
+msgid "Sync XMP Caption"
+msgstr "ปรับเทียบกับข้อมูลคำบรรยายภาพของ XMP"
+
+#: commenteditdialog.cpp:133 exifcaption.cpp:152
+#, fuzzy
+#| msgid ""
+#| "Sync IPTC caption (warning: limited to 2000 printable Ascii characters "
+#| "set)"
+msgid "Sync IPTC caption (warning: limited to 2000 printable Ascii characters)"
+msgstr ""
+"ปรับเทียบกับข้อมูลคำบรรยายภาพของ IPTC (คำเตือน: รองรับรหัสแอสกีที่พิมพ์ออกได้สูงสุด 2000 "
+"ตัวอักษร)"
+
+#: commenteditdialog.cpp:139
+msgid ""
+"<b>Note: captions from currently selected images will be permanently "
+"replaced.</b>"
+msgstr "<b>ข้อควรจำ: คำบรรยายของภาพที่ถูกเลือกไว้ในปัจจุบัน จะถูกแทนที่อย่างถาวร</b>"
+
+#: commentremovedialog.cpp:87 plugin_metadataedit.cpp:844
+msgid "Remove Image Caption"
+msgstr "ลบคำบรรยายภาพ"
+
+#: commentremovedialog.cpp:118
+#, kde-format
+msgid "Remove caption hosted by %1"
+msgstr "ลบคำบรรยายภาพที่เก็บไว้โดย %1"
+
+#: commentremovedialog.cpp:121
+msgid "Remove JFIF Comment section"
+msgstr "ลบส่วนคำอธิบายภาพของ JFIF"
+
+#: commentremovedialog.cpp:122
+msgid "Remove EXIF Comment"
+msgstr "ลบคำอธิบายภาพของข้อมูล EXIF"
+
+#: commentremovedialog.cpp:123
+msgid "Remove XMP Caption"
+msgstr "ลบคำบรรยายภาพของข้อมูล XMP"
+
+#: commentremovedialog.cpp:124
+msgid "Remove IPTC Caption"
+msgstr "ลบคำบรรยายภาพของข้อมูล IPTC"
+
+#: commentremovedialog.cpp:129
+msgid ""
+"<b>Note: Captions from currently selected images will be permanently removed."
+"</b>"
+msgstr "<b>ข้อควรทราบ: คำบรรยายของภาพที่ถูกเลือกไว้ในปัจจุบัน จะถูกลบออกไปอย่างถาวร</b>"
+
+#: exifadjust.cpp:96
+msgid "Brightness (APEX):"
+msgstr "ความสว่าง (หน่วย APEX):"
+
+#: exifadjust.cpp:101
+msgid ""
+"Set here the brightness adjustment value in APEX unit used by camera to take "
+"the picture."
+msgstr "ตั้งค่าการปรับความสว่างในหน่วย APEX ที่ถูกใช้โดยกล้องดิจิทัลเพื่อใช้ถ่ายภาพ"
+
+#: exifadjust.cpp:106
+msgid "Gain Control:"
+msgstr "ควบคุม Gain:"
+
+#: exifadjust.cpp:108
+msgid "None"
+msgstr "ไม่ใช้"
+
+#: exifadjust.cpp:109
+msgid "Low gain up"
+msgstr ""
+
+#: exifadjust.cpp:110
+msgid "High gain up"
+msgstr ""
+
+#: exifadjust.cpp:111
+msgid "Low gain down"
+msgstr ""
+
+#: exifadjust.cpp:112
+msgid "High gain down"
+msgstr ""
+
+#: exifadjust.cpp:113
+msgid ""
+"Set here the degree of overall image gain adjustment used by camera to take "
+"the picture."
+msgstr ""
+
+#: exifadjust.cpp:118
+msgid "Contrast:"
+msgstr "ความเปรียบต่าง:"
+
+#: exifadjust.cpp:120 exifadjust.cpp:130 exifadjust.cpp:140
+msgid "Normal"
+msgstr "ปกติ"
+
+#: exifadjust.cpp:121 exifadjust.cpp:141
+msgid "Soft"
+msgstr "นุ่มนวล"
+
+#: exifadjust.cpp:122 exifadjust.cpp:142
+msgid "Hard"
+msgstr "สูง"
+
+#: exifadjust.cpp:123
+msgid ""
+"Set here the direction of contrast processing applied by the camera to take "
+"the picture."
+msgstr "ตั้งค่าการประมวลผลความเปรียบต่างที่ถูกใช้โดยกล้องดิจิทัลเมื่อใช้ถ่ายภาพได้ที่นี่"
+
+#: exifadjust.cpp:128
+msgid "Saturation:"
+msgstr "ความอิ่มตัวของสี:"
+
+#: exifadjust.cpp:131
+msgid "Low"
+msgstr "ต่ำ"
+
+#: exifadjust.cpp:132
+msgid "High"
+msgstr "สูง"
+
+#: exifadjust.cpp:133
+msgid ""
+"Set here the direction of saturation processing applied by the camera to "
+"take the picture."
+msgstr "ตั้งค่าการประมวลผลความอิ่มตัวของสีที่ถูกใช้โดยกล้องดิจิทัลเมื่อใช้ถ่ายภาพได้ที่นี่"
+
+#: exifadjust.cpp:138
+msgid "Sharpness:"
+msgstr "ความคมชัด:"
+
+#: exifadjust.cpp:143
+msgid ""
+"Set here the direction of sharpness processing applied by the camera to take "
+"the picture."
+msgstr "ตั้งค่าการประมวลผลความคมชัดที่ถูกใช้โดยกล้องดิจิทัลเมื่อใช้ถ่ายภาพได้ที่นี่"
+
+#: exifadjust.cpp:148
+msgid "Custom rendered:"
+msgstr "ตั้งค่าการแสดงผลเอง:"
+
+#: exifadjust.cpp:150
+msgid "Normal process"
+msgstr "ประมวลผลปกติ"
+
+#: exifadjust.cpp:151
+msgid "Custom process"
+msgstr "กำหนดการประมวลผลเอง"
+
+#: exifadjust.cpp:152
+msgid ""
+"Set here the use of special processing on image data, such as rendering "
+"geared to output."
+msgstr "ตั้งค่าการประมวลผลพิเศษกับข้อมูลภาพได้ที่นี่ เช่น การเร่งการแสดงผลเพื่อส่งออกภาพ"
+
+#: exifcaption.cpp:104
+msgid "Name (*):"
+msgstr "ชื่อ (*):"
+
+#: exifcaption.cpp:108
+msgid ""
+"Enter the name of the document from which this image was been scanned. This "
+"field is limited to ASCII characters."
+msgstr ""
+"ตั้งค่าชื่อของเอกสารจากที่ภาพถูกสแกนมาได้ที่นี่ โดยมีความยาวตัวอักษรแอสกีสูงสุดที่ 32 ตัวอักษร"
+
+#: exifcaption.cpp:114
+msgid "Title (*):"
+msgstr "ชื่อเรื่อง (*):"
+
+#: exifcaption.cpp:118
+msgid "Enter the image title. This field is limited to ASCII characters."
+msgstr "ป้อนชื่อเรื่องของภาพ โดยต้องป้อนเป็นตัวอักษรรหัสแอสกี"
+
+#: exifcaption.cpp:123
+msgid "Artist (*):"
+msgstr "ศิลปิน (*):"
+
+#: exifcaption.cpp:127
+msgid ""
+"Enter the image author's name. This field is limited to ASCII characters."
+msgstr "ป้อนชื่อของผู้สร้างภาพ โดยต้องป้อนเป็นตัวอักษรรหัสแอสกี"
+
+#: exifcaption.cpp:132
+msgid "Copyright (*):"
+msgstr "สงวนลิขสิทธิ์ (*):"
+
+#: exifcaption.cpp:136
+msgid ""
+"Enter the copyright owner of the image. This field is limited to ASCII "
+"characters."
+msgstr "ตั้งค่าการสงวนลิขสิทธิ์ของเจ้าของภาพได้ที่นี่ โดยต้องป้อนเป็นตัวอักษรรหัสแอสกีเท่านั้น"
+
+#: exifcaption.cpp:141 iptccontent.cpp:105 xmpcontent.cpp:97
+msgid "Caption:"
+msgstr "คำบรรยายภาพ:"
+
+#: exifcaption.cpp:143
+msgid ""
+"Enter the image's caption. This field is not limited. UTF8 encoding will be "
+"used to save the text."
+msgstr ""
+"ป้อนคำบรรยายภาพของภาพ โดยช่องข้อมูลนี้ไม่มีข้อจำกัดใด ๆ และจะใช้รหัสภาษายูนิโค้ดแบบ UTF8 "
+"เพื่อจัดเก็บข้อความ"
+
+#: exifcaption.cpp:147
+#, kde-format
+msgid "Sync captions entered through %1"
+msgstr "ปรับเทียบคำบรรยายภาพที่ป้อนมาผ่านทาง %1"
+
+#: exifcaption.cpp:151
+msgid "Sync XMP caption"
+msgstr "ปรับเทียบกับคำบรรยายภาพของข้อมูล XMP"
+
+#: exifcaption.cpp:160 exifdevice.cpp:314
+#, fuzzy
+#| msgid ""
+#| "<b>Note: <b><a href='http://en.wikipedia.org/wiki/EXIF'>EXIF</a></b> text "
+#| "tags marked by (*) only support printable <b><a href='http://en.wikipedia."
+#| "org/wiki/Ascii'>ASCII</a></b> characters set.</b>"
+msgid ""
+"<b>Note: <b><a href='http://en.wikipedia.org/wiki/EXIF'>EXIF</a></b> text "
+"tags marked by (*) only support printable <b><a href='http://en.wikipedia."
+"org/wiki/Ascii'>ASCII</a></b> characters.</b>"
+msgstr ""
+"<b>ควรทราบ: <b><a href='http://en.wikipedia.org/wiki/EXIF'>ข้อมูล EXIF</a></b> "
+"ป้ายกำกับที่มีเครื่องหมาย (*) รองรับรหัสอักขระแบบ<b><a href='http://en.wikipedia.org/"
+"wiki/Ascii'>แอสกี</a></b>ที่พิมพ์ออกได้เท่านั้น</b>"
+
+#: exifdatetime.cpp:109
+msgid "Creation date and time"
+msgstr "วันและเวลาที่สร้างภาพ"
+
+#: exifdatetime.cpp:110
+msgid "Creation sub-second"
+msgstr "เศษส่วนวินาทีที่สร้าง"
+
+#: exifdatetime.cpp:113 iptcorigin.cpp:424 xmporigin.cpp:398
+#, kde-format
+msgid "Sync creation date hosted by %1"
+msgstr "ปรับเทียบวันที่จากข้อมูลของ %1"
+
+#: exifdatetime.cpp:116
+msgid "Sync XMP creation date"
+msgstr "ปรับเทียบข้อมูลวันที่สร้างกับข้อมูล XMP"
+
+#: exifdatetime.cpp:117
+msgid "Sync IPTC creation date"
+msgstr "ปรับเทียบข้อมูลวันที่สร้างกับข้อมูล IPTC"
+
+#: exifdatetime.cpp:121 iptcorigin.cpp:431 xmporigin.cpp:405
+msgid "Set creation date to today"
+msgstr "ตั้งค่าวันที่สร้างภาพเป็นวันนี้"
+
+#: exifdatetime.cpp:126
+msgid ""
+"Set here the date and time of image creation. In this standard it is the "
+"date and time the file was changed."
+msgstr ""
+"ตั้งค่าวันที่และเวลาที่สร้างภาพได้ที่นี่ สำหรับมาตรฐานนี้ "
+"ค่านี้จะหมายถึงวันและเวลาที่แฟ้มมีการเปลี่ยนแปลง"
+
+#: exifdatetime.cpp:128
+msgid ""
+"Set here the fractions of seconds for the date and time of image creation."
+msgstr "ตั้งค่าเศษส่วนของวินาทีของวันและเวลาที่ภาพถูกสร้าง"
+
+#: exifdatetime.cpp:135
+msgid "Original date and time"
+msgstr "วันและเวลาดั้งเดิม"
+
+#: exifdatetime.cpp:136
+msgid "Original sub-second"
+msgstr "เศษส่วนวินาทีดั้งเดิม"
+
+#: exifdatetime.cpp:142
+msgid "Set original date to today"
+msgstr "ตั้งวันดั้งเดิมเป็นวันนี้"
+
+#: exifdatetime.cpp:144
+msgid ""
+"Set here the date and time when the original image data was generated. For a "
+"digital still camera the date and time the picture was taken are recorded."
+msgstr ""
+"ตั้งค่าวันและเวลาที่ภาพดั้งเดิมถูกสร้างขึ้นได้ที่นี่ สำหรับกล้องดิจิทัล "
+"ค่านี้จะหมายถึงวันและเวลาที่ภาพถูกถ่ายบันทึกมา"
+
+#: exifdatetime.cpp:147
+msgid ""
+"Set here the fractions of seconds for the date and time when the original "
+"image data was generated."
+msgstr "ตั้งค่าเศษส่วนของวินาทีของวันและเวลาที่ภาพดั้งเดิมถูกสร้างขึ้น"
+
+#: exifdatetime.cpp:154
+msgid "Digitization date and time"
+msgstr "วันและเวลาที่แปลงเป็นดิจิทัล"
+
+#: exifdatetime.cpp:155
+msgid "Digitization sub-second"
+msgstr "เศษส่วนวินาทีที่แปลงเป็นดิจิทัล"
+
+#: exifdatetime.cpp:161 iptcorigin.cpp:409 xmporigin.cpp:387
+msgid "Set digitization date to today"
+msgstr "ตั้งวันที่แปลงเป็นดิจิทัลเป็นวันนี้"
+
+#: exifdatetime.cpp:163
+msgid ""
+"Set here the date and time when the image was stored as digital data. If, "
+"for example, an image was captured by a digital still camera and at the same "
+"time the file was recorded, then Original and Digitization date and time "
+"will have the same contents."
+msgstr ""
+"ตั้งค่าวันและเวลาที่ภาพถูกเก็บในรูปแบบข้อมูลดิจิทัลได้ที่นี่ ตัวอย่างเช่น ภาพที่ถูกถ่ายมาจากกล้องดิจิทัล "
+"ค่านี้จะหมายถึงวันและเวลาที่ถ่ายภาพมา ดังนั้น "
+"ค่าวันและเวลาดั้งเดิมและวันและเวลาแปลงเป็นดิจิทัลจะเป็นค่าเดียวกัน"
+
+#: exifdatetime.cpp:168
+msgid ""
+"Set here the fractions of seconds for the date and time when the image was "
+"stored as digital data."
+msgstr "ตั้งค่าเศษส่วนของวินาทีของวันและเวลาที่ภาพถูกจัดเก็บในรูปแบบข้อมูลดิจิทัลได้ที่นี่"
+
+#: exifdevice.cpp:131
+msgid "Device manufacturer (*):"
+msgstr "ผู้ผลิตอุปกรณ์ (*):"
+
+#: exifdevice.cpp:135
+msgid ""
+"Set here the manufacturer of image input equipment used to take the picture. "
+"This field is limited to ASCII characters."
+msgstr "ตั้งค่าชื่อของผู้ผลิตอุปกรณ์ที่ใช้สร้างภาพได้ที่นี่ โดยต้องป้อนเป็นตัวอักษรรหัสแอสกีเท่านั้น"
+
+#: exifdevice.cpp:140
+msgid "Device model (*):"
+msgstr "รุ่นของอุปกรณ์ (*):"
+
+#: exifdevice.cpp:144
+msgid ""
+"Set here the model of image input equipment used to take the picture. This "
+"field is limited to ASCII characters."
+msgstr "ตั้งค่ารุ่นของอุปกรณ์ที่ใช้สร้างภาพได้ที่นี่ โดยต้องป้อนเป็นตัวอักษรรหัสแอสกีเท่านั้น"
+
+#: exifdevice.cpp:149
+msgid "Device type:"
+msgstr "ประเภทของอุปกรณ์:"
+
+#: exifdevice.cpp:151
+msgid "Film scanner"
+msgstr "เครื่องสแกนฟิล์ม"
+
+#: exifdevice.cpp:152
+msgid "Reflection print scanner"
+msgstr "เครื่องสแกนภาพพิมพ์สะท้อนแสง"
+
+#: exifdevice.cpp:153
+msgid "Digital still camera"
+msgstr "กล้องถ่ายภาพนิ่งดิจิทัล"
+
+#: exifdevice.cpp:154
+msgid "Select here the image input equipment type used to take the picture."
+msgstr "เลือกประเภทของอุปกรณืที่ใช้ในการสร้างภาพได้ที่นี่"
+
+#: exifdevice.cpp:157
+msgid ""
+"<b>Warning: EXIF <b><a href='http://en.wikipedia.org/wiki/"
+"Exchangeable_image_file_format#MakerNote_data'>Makernotes</a></b> can be "
+"unreadable if you set wrong device manufacturer/model description.</b>"
+msgstr ""
+"<b>คำเตือน: ส่วนของข้อมูล <b><a href='http://en.wikipedia.org/wiki/"
+"Exchangeable_image_file_format#MakerNote_data'>บันทึกย่อของผู้สร้าง (Makernotes)</"
+"a></b> ของข้อมูล EXIF จะไม่สามารถอ่านข้อมูลได้ หากคุณตั้งค่าของผู้ผลิตหรือรุ่นของอุปกรณ์ผิด</b>"
+
+#: exifdevice.cpp:169
+msgid "Exposure time (seconds):"
+msgstr "เวลาเปิดรับแสง (วินาที):"
+
+#: exifdevice.cpp:174
+msgid ""
+"Set on this option to set the exposure time of picture, given in seconds."
+msgstr "ตั้งค่าของตัวเลือกนี้ เพื่อตั้งเวลาที่ใช้ในการเปิดรับแสงของภาพ โดยมีหน่วยเป็นวินาที"
+
+#: exifdevice.cpp:179
+msgid "Exposure program:"
+msgstr "โปรแกรมปรับค่าแสง:"
+
+#: exifdevice.cpp:181 exifdevice.cpp:280
+msgid "Not defined"
+msgstr "ไม่ระบุ"
+
+#: exifdevice.cpp:182 exifdevice.cpp:198 exiflight.cpp:193
+msgid "Manual"
+msgstr "แมนนวล (M)"
+
+#: exifdevice.cpp:183 exifdevice.cpp:197 exiflight.cpp:192
+msgid "Auto"
+msgstr "อัตโนมัติ (Auto)"
+
+#: exifdevice.cpp:184
+msgid "Aperture priority"
+msgstr "ปรับความเร็วชัตเตอร์อัตโนมัติ (A/Av)"
+
+#: exifdevice.cpp:185
+msgid "Shutter priority"
+msgstr "ปรับรูรับแสงอัตโนมัติ (S/Tv)"
+
+#: exifdevice.cpp:186
+msgid "Creative program"
+msgstr "สัญลักษณ์ภาพ/โปรแกรมสำเร็จรูป"
+
+#: exifdevice.cpp:187
+msgid "Action program"
+msgstr "โหมดถ่ายภาพเคลื่อนไหว"
+
+#: exifdevice.cpp:188
+msgid "Portrait mode"
+msgstr "โหมดถ่ายภาพบุคคล"
+
+#: exifdevice.cpp:189
+msgid "Landscape mode"
+msgstr "โหมดถ่ายภาพทิวทัศน์"
+
+#: exifdevice.cpp:190
+#, fuzzy
+#| msgid ""
+#| "Select here the program used by the camera to set exposure when the "
+#| "picture have been taken."
+msgid ""
+"Select here the program used by the camera to set exposure when the picture "
+"was taken."
+msgstr "เลือกโปรแกรมสำเร็จรูปที่ถูกใช้บนกล้องเพื่อปรับค่าแสงเมื่อใช้ในการถ่ายภาพได้ที่นี่"
+
+#: exifdevice.cpp:195
+msgid "Exposure mode:"
+msgstr "โหมดค่าแสง:"
+
+#: exifdevice.cpp:199
+msgid "Auto bracket"
+msgstr "ถ่ายคร่อมค่าแสงอัตโนมัติ"
+
+#: exifdevice.cpp:200
+#, fuzzy
+#| msgid ""
+#| "Select here the mode used by the camera to set exposure when the picture "
+#| "have been shot. In auto-bracketing mode, the camera shoots a series of "
+#| "frames of the same scene at different exposure settings."
+msgid ""
+"Select here the mode used by the camera to set exposure when the picture was "
+"taken. In auto-bracketing mode, the camera shoots a series of frames of the "
+"same scene at different exposure settings."
+msgstr ""
+"เลือกโหมดที่ใช้บนกล้องในการปรับค่าแสงเมื่อใช้ในการถ่ายภาพได้ที่นี่ ในโหมด "
+"ถ่ายคร่อมค่าแสงอัตโนมัตินั้น ตัวกล้องจะมีการถ่ายภาพเดียวกันไว้หลายครั้ง "
+"โดยมีการใช้ค่าแสงที่แตกต่างกันออกไปหลายค่า"
+
+#: exifdevice.cpp:208
+msgid "Exposure bias (APEX):"
+msgstr "ค่าชดเชยแสง (หน่วย APEX):"
+
+#: exifdevice.cpp:213
+#, fuzzy
+#| msgid ""
+#| "Set here the exposure bias value in APEX unit used by camera to take the "
+#| "picture."
+msgid ""
+"Set here the exposure bias value (in APEX units) used by camera to take the "
+"picture."
+msgstr "ตั้งค่าชดเชยแสง มีหน่วยเป็น APEX ที่ใช้บนกล้องเมื่อใช้ถ่ายภาพได้ที่นี่"
+
+#: exifdevice.cpp:220
+msgid "Metering mode:"
+msgstr "โหมดการวัดแสง:"
+
+#: exifdevice.cpp:222 exifdevice.cpp:305 exiflight.cpp:138
+msgid "Unknown"
+msgstr "ไม่ทราบ"
+
+#: exifdevice.cpp:223
+msgid "Average"
+msgstr "เฉลี่ยทั้งภาพ"
+
+#: exifdevice.cpp:224
+msgid "Center weighted average"
+msgstr "เฉลี่ยเน้นกลางภาพ"
+
+#: exifdevice.cpp:225
+msgid "Spot"
+msgstr "เฉพาะจุด"
+
+#: exifdevice.cpp:226
+msgid "Multi-spot"
+msgstr "เฉลี่ยหลายจุด"
+
+#: exifdevice.cpp:227
+msgid "Multi-segment"
+msgstr "เฉลี่ยหลายส่วน"
+
+#: exifdevice.cpp:228
+msgid "Partial"
+msgstr "เน้นเฉพาะส่วน (Partial)"
+
+#: exifdevice.cpp:229
+msgid "Other"
+msgstr "อื่น ๆ"
+
+#: exifdevice.cpp:230
+#, fuzzy
+#| msgid ""
+#| "Select here the metering mode used by the camera to set exposure when the "
+#| "picture have been shot."
+msgid ""
+"Select here the metering mode used by the camera to set exposure when the "
+"picture was taken."
+msgstr "เลือกโหมดการวัดค่าแสงที่ใช้บนกล้องเพื่อตั้งค่าแสงเมื่อใช้ในการถ่ายภาพได้ที่นี่"
+
+#: exifdevice.cpp:235
+msgid "Sensitivity (ISO):"
+msgstr "ความไวแสง (ISO):"
+
+#: exifdevice.cpp:273
+#, fuzzy
+#| msgid ""
+#| "Select here the ISO Speed of the camera witch have taken the picture."
+msgid "Select here the ISO Speed of the camera which took the picture."
+msgstr "เลือกค่าความไวแสงแบบ ISO ของกล้องเมื่อใช้ถ่ายภาพได้ที่นี่"
+
+#: exifdevice.cpp:278
+msgid "Sensing method:"
+msgstr "วิธีการของเซ็นเซอร์:"
+
+#: exifdevice.cpp:281
+msgid "One-chip color area"
+msgstr "พื้นที่ของชิปสีหนึ่งตัว"
+
+#: exifdevice.cpp:282
+msgid "Two-chip color area"
+msgstr "พื้นที่ของชิปสีสองตัว"
+
+#: exifdevice.cpp:283
+msgid "Three-chip color area"
+msgstr "พื้นที่ของชิปสีสามตัว"
+
+#: exifdevice.cpp:284
+msgid "Color sequential area"
+msgstr ""
+
+#: exifdevice.cpp:285
+msgid "Trilinear sensor"
+msgstr "เซ็นเซอร์แบบไตรลิเนียร์"
+
+#: exifdevice.cpp:286
+msgid "Color sequential linear"
+msgstr ""
+
+#: exifdevice.cpp:287
+msgid ""
+"Select here the image sensor type used by the camera to take the picture."
+msgstr "เลือกประเภทของเซ็นเซอร์รับภาพที่ใช้บนกล้องเมื่อภาพถูกถ่ายได้ที่นี่"
+
+#: exifdevice.cpp:292
+msgid "Scene capture type:"
+msgstr "ลักษณะการถ่ายภาพ:"
+
+#: exifdevice.cpp:294
+msgid "Standard"
+msgstr "มาตรฐาน"
+
+#: exifdevice.cpp:295
+msgid "Landscape"
+msgstr "ภาพทิวทัศน์"
+
+#: exifdevice.cpp:296
+msgid "Portrait"
+msgstr "ภาพบุคคล"
+
+#: exifdevice.cpp:297 xmpproperties.cpp:98
+msgid "Night scene"
+msgstr "ภ่ายภาพกลางคืน"
+
+#: exifdevice.cpp:298
+msgid "Select here the type of scene used by the camera to take the picture."
+msgstr "เลือกลักษณะการถ่ายภาพที่ใช้บนกล้องเมื่อภาพถูกถ่ายได้ที่นี่"
+
+#: exifdevice.cpp:303
+msgid "Subject distance type:"
+msgstr "ระยะห่างจากวัตถุ:"
+
+#: exifdevice.cpp:306
+msgid "Macro"
+msgstr "มาโคร"
+
+#: exifdevice.cpp:307
+msgid "Close view"
+msgstr "ระยะใกล้"
+
+#: exifdevice.cpp:308
+msgid "Distant view"
+msgstr "ระยะไกล"
+
+#: exifdevice.cpp:309
+msgid ""
+"Select here the type of distance between the subject and the image input "
+"equipment."
+msgstr "เลือกประเภทของระยะห่างระหว่างวัตถุกับอุปกรณ์ถ่ายภาพได้ที่นี่"
+
+#: exifeditdialog.cpp:141 iptceditdialog.cpp:151 xmpeditdialog.cpp:147
+msgid "Next"
+msgstr "ถัดไป"
+
+#: exifeditdialog.cpp:142 iptceditdialog.cpp:152 xmpeditdialog.cpp:148
+msgid "Previous"
+msgstr "ก่อนหน้า"
+
+#: exifeditdialog.cpp:149
+msgid "Caption"
+msgstr "คำบรรยายภาพ"
+
+#: exifeditdialog.cpp:150
+msgid "Caption Information"
+msgstr "ข้อมูลคำบรรยายภาพ"
+
+#: exifeditdialog.cpp:154
+msgid "Date & Time"
+msgstr "วันที่และเวลา"
+
+#: exifeditdialog.cpp:155
+msgid "Date and Time Information"
+msgstr "ข้อมูลวันที่และเวลา"
+
+#: exifeditdialog.cpp:159
+msgid "Lens"
+msgstr "เลนส์"
+
+#: exifeditdialog.cpp:160
+msgid "Lens Settings"
+msgstr "การตั้งค่าเลนส์"
+
+#: exifeditdialog.cpp:164
+msgid "Device"
+msgstr "อุปกรณ์"
+
+#: exifeditdialog.cpp:165
+msgid "Capture Device Settings"
+msgstr "การตั้งค่าอุปกรณ์จับภาพ"
+
+#: exifeditdialog.cpp:169
+msgid "Light"
+msgstr "แหล่งแสง"
+
+#: exifeditdialog.cpp:170
+msgid "Light Source Information"
+msgstr "ข้อมูลแหล่งกำเนิดแสง"
+
+#: exifeditdialog.cpp:174
+msgctxt "Picture adjustments"
+msgid "Adjustments"
+msgstr "การปรับค่า"
+
+#: exifeditdialog.cpp:175
+msgid "Pictures Adjustments"
+msgstr "การปรับค่าภาพ"
+
+#: exifeditdialog.cpp:326
+msgid "Edit EXIF Metadata"
+msgstr "แก้ไขข้อมูลกำกับภาพแบบ EXIF"
+
+#: exifeditdialog.cpp:327 iptceditdialog.cpp:373 xmpeditdialog.cpp:364
+msgid "(read only)"
+msgstr "(อ่านได้อย่างเดียว)"
+
+#: exiflens.cpp:154
+msgid "Focal length (mm):"
+msgstr "ทางยาวโฟกัส (ม.ม.):"
+
+#: exiflens.cpp:160
+msgid ""
+"Set here the lens focal length in millimeters used by camera to take the "
+"picture."
+msgstr "ตั้งค่าทางยาวโฟกัสของเลนส์ (หน่วยเป็น ม.ม.) ที่ถูกใช้เมื่อภาพถูกถ่าย"
+
+#: exiflens.cpp:165
+msgid "Focal length in 35mm film (mm):"
+msgstr "ทางยาวโฟกัสเทียบกับระบบฟิล์ม 35 ม.ม. (ม.ม.):"
+
+#: exiflens.cpp:167
+msgid ""
+"Set here equivalent focal length assuming a 35mm film camera, in mm. A value "
+"of 0 means the focal length is unknown."
+msgstr ""
+"ตั้งค่าทางยาวโฟกัสเทียบกับระบบฟิล์ม 35 ม.ม. มีหน่วยเป็นมิลลิเมตรได้ที่นี่ ค่า 0 "
+"หมายถึงไม่ทราบค่าทางยาวโฟกัส"
+
+#: exiflens.cpp:173
+msgid "Digital zoom ratio:"
+msgstr "อัตราส่วนตัวคูณทางดิจิทัล:"
+
+#: exiflens.cpp:179
+msgid "Set here the digital zoom ratio used by camera to take the picture."
+msgstr "ตั้งค่าอัตราส่วนตัวคูณทางดิจิทัลที่ถูกใช้กับกล้องเมื่อภาพถูกถ่ายได้ที่นี่"
+
+#: exiflens.cpp:184
+msgid "Lens aperture (f-number):"
+msgstr "ค่ารูรับแสงเลนส์ (f-number):"
+
+#: exiflens.cpp:187
+msgid "Select here the lens aperture used by camera to take the picture."
+msgstr "ตั้งค่าความกว้างรูรับแสงของเลนส์ที่ใช้กับกล้องเมื่อภาพถูกถ่ายได้ที่นี่"
+
+#: exiflens.cpp:192
+msgid "Max. lens aperture (f-number):"
+msgstr "ค่ารูรับแสงสูงสุดของเลนส์ (f-number):"
+
+#: exiflens.cpp:195
+msgid ""
+"Select here the smallest aperture of the lens used by camera to take the "
+"picture."
+msgstr "ตั้งค่าความกว้างรูรับแสงแคบสุดของเลนส์ที่ใช้กับกล้องเมื่อใช้ในการถ่ายภาพได้ที่นี่"
+
+#: exiflight.cpp:86
+msgid "No flash"
+msgstr "ไม่ใช้แฟลช"
+
+#: exiflight.cpp:87
+msgid "Fired"
+msgstr "ใช้แฟลช"
+
+#: exiflight.cpp:88
+msgid "Fired, no strobe return light"
+msgstr "ใช้แฟลช และไม่มีการยิงแฟลชตรวจสอบ"
+
+#: exiflight.cpp:89
+msgid "Fired, strobe return light"
+msgstr "ใช้แฟลช และมีการยิงแฟลชตรวจสอบ"
+
+#: exiflight.cpp:90
+msgid "Yes, compulsory"
+msgstr "บังคับใช้แฟลช"
+
+#: exiflight.cpp:91
+msgid "Yes, compulsory, no return light"
+msgstr "บังคับใช้แฟลช และไม่มีการยิงแฟลชตรวจสอบ"
+
+#: exiflight.cpp:92
+msgid "Yes, compulsory, return light"
+msgstr "บังคับใช้แฟลช และมีการยิงแฟลชตรวจสอบ"
+
+#: exiflight.cpp:93
+msgid "No, compulsory"
+msgstr "บังคับไม่ใช้แฟลช"
+
+#: exiflight.cpp:94
+msgid "No, auto"
+msgstr "ไม่ใช้แฟลช (โหมดอัตโนมัติ)"
+
+#: exiflight.cpp:95
+msgid "Yes, auto"
+msgstr "ใช้แฟลช (โหมดอัตโนมัติ)"
+
+#: exiflight.cpp:96
+msgid "Yes, auto, no return light"
+msgstr "ใช้แฟลชอัตโนมัติ และไม่มีการยิงแฟลชตรวจสอบ"
+
+#: exiflight.cpp:97
+msgid "Yes, auto, return light"
+msgstr "ใช้แฟลชอัตโนมัติ และมีการยิงแฟลชตรวจสอบ"
+
+#: exiflight.cpp:98
+msgid "No flash function"
+msgstr "ไม่มีความสามารถในการใช้แฟลช"
+
+#: exiflight.cpp:99
+msgid "Yes, red-eye"
+msgstr "ใช้แฟลช และปรับลดตาแดง"
+
+#: exiflight.cpp:100
+msgid "Yes, red-eye, no return light"
+msgstr "ใช้แฟลช ปรับลดตาแดง และไม่มีการยิงแฟลชตรวจสอบ"
+
+#: exiflight.cpp:101
+msgid "Yes, red-eye, return light"
+msgstr "ใช้แฟลช ปรับลดตาแดง และมีการยิงแฟลชตรวจสอบ"
+
+#: exiflight.cpp:102
+msgid "Yes, compulsory, red-eye"
+msgstr "บังคับใช้แฟลช และปรับลดตาแดง"
+
+#: exiflight.cpp:103
+msgid "Yes, compulsory, red-eye, no return light"
+msgstr "บังคับใช้แฟลช ปรับลดตาแดง และไม่มีการยิงแฟลชตรวจสอบ"
+
+#: exiflight.cpp:104
+msgid "Yes, compulsory, red-eye, return light"
+msgstr "บังคับใช้แฟลช ปรับลดตาแดง และมีการยิงแฟลชตรวจสอบ"
+
+#: exiflight.cpp:105
+msgid "Yes, auto, red-eye"
+msgstr "ใช้แฟลชอัตโนมัติ ปรับลดตาแดง"
+
+#: exiflight.cpp:106
+msgid "Yes, auto, red-eye, no return light"
+msgstr "ใช้แฟลชอัตโนมัติ ปรับลดตาแดง และไม่มีการยิงแฟลชตรวจสอบ"
+
+#: exiflight.cpp:107
+msgid "Yes, auto, red-eye, return light"
+msgstr "ใช้แฟลชอัตโนมัติ ปรับลดตาแดง และมีการยิงแฟลชตรวจสอบ"
+
+#: exiflight.cpp:136
+msgid "Light source:"
+msgstr "แหล่งกำเนิดแสง:"
+
+#: exiflight.cpp:139
+msgid "Daylight"
+msgstr "แสงกลางวัน"
+
+#: exiflight.cpp:140
+msgid "Fluorescent"
+msgstr "หลอดฟลูออเรสเซนต์"
+
+#: exiflight.cpp:141
+msgid "Tungsten (incandescent light)"
+msgstr "หลอดทังสเตน (incandescent light)"
+
+#: exiflight.cpp:142
+msgid "Flash"
+msgstr "แสงแฟลช"
+
+#: exiflight.cpp:143
+msgid "Fine weather"
+msgstr "อากาศปลอดโปร่ง"
+
+#: exiflight.cpp:144
+msgid "Cloudy weather"
+msgstr "เมฆครึ้ม"
+
+#: exiflight.cpp:145
+msgid "Shade"
+msgstr "ในร่ม"
+
+#: exiflight.cpp:146
+msgid "Daylight fluorescent (D 5700 - 7100K)"
+msgstr "หลอดฟลูออเรสเซนต์แสงกลางวัน (D 5700 - 7100K)"
+
+#: exiflight.cpp:147
+msgid "Day white fluorescent (N 4600 - 5400K)"
+msgstr "หลอดฟลูออเรสเซนต์แสงของวัน (N 4600 - 5400K)"
+
+#: exiflight.cpp:148
+msgid "Cool white fluorescent (W 3900 - 4500K)"
+msgstr "หลอดฟลูออเรสเซนต์แสงขาวนวล (W 3900 - 4500K)"
+
+#: exiflight.cpp:149
+msgid "White fluorescent (WW 3200 - 3700K)"
+msgstr "หลอดฟลูออเรสเซนต์ขาว (WW 3200 - 3700K)"
+
+#: exiflight.cpp:150
+msgid "Standard light A"
+msgstr "แสงมาตรฐาน A"
+
+#: exiflight.cpp:151
+msgid "Standard light B"
+msgstr "แสงมาตรฐาน B"
+
+#: exiflight.cpp:152
+msgid "Standard light C"
+msgstr "แสงมาตรฐาน C"
+
+#: exiflight.cpp:153
+msgid "D55"
+msgstr "D55"
+
+#: exiflight.cpp:154
+msgid "D65"
+msgstr "D65"
+
+#: exiflight.cpp:155
+msgid "D75"
+msgstr "D75"
+
+#: exiflight.cpp:156
+msgid "D50"
+msgstr "D50"
+
+#: exiflight.cpp:157
+msgid "ISO studio tungsten"
+msgstr "หลอดทังสเตนสตูดิโอมาตรฐาน ISO"
+
+#: exiflight.cpp:158
+msgid "Other light source"
+msgstr "แหล่งกำเนิดแสงอื่น ๆ"
+
+#: exiflight.cpp:159
+msgid "Select here the kind of light source used to take the picture."
+msgstr "เลือกชนิดของแหล่งกำเนิดแสงที่ใช้ในการถ่ายภาพได้ที่นี่"
+
+#: exiflight.cpp:164
+msgid "Flash mode:"
+msgstr "การใช้แฟลช:"
+
+#: exiflight.cpp:171
+#, fuzzy
+#| msgid ""
+#| "Select here the flash program mode used by camera to take the picture."
+msgid ""
+"Select here the flash program mode used by the camera to take the picture."
+msgstr "เลือกโหมดการใช้แฟลชที่ถูกใช้ในการถ่ายภาพได้ที่นี่"
+
+#: exiflight.cpp:176
+msgid "Flash energy (BCPS):"
+msgstr "กำลังของแฟลช (หน่วย BCPS):"
+
+#: exiflight.cpp:182
+msgid ""
+"Set here the flash energy used to take the picture in BCPS units.  Beam "
+"Candle Power Seconds is the measure of effective intensity of a light source "
+"when it is focused into a beam by a reflector or lens. This value is the "
+"effective intensity for a period of one second."
+msgstr ""
+
+#: exiflight.cpp:190
+msgid "White balance:"
+msgstr "สมดุลสีขาว:"
+
+#: exiflight.cpp:194
+#, fuzzy
+#| msgid ""
+#| "Select here the white balance mode set by camera when the picture have "
+#| "been shot."
+msgid ""
+"Select here the white balance mode set by the camera when the picture was "
+"taken."
+msgstr "เลือกโหมดสมดุลสีขาวที่ตั้งไว้บนกล้องเมื่อภาพถูกถ่ายได้ที่นี่"
+
+#: iptccategories.cpp:91 xmpcategories.cpp:85
+msgid "Identify subject of content (3 chars max):"
+msgstr ""
+
+#: iptccategories.cpp:96
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the city of content origin. This field is limited to 32 ASCII "
+#| "characters."
+msgid ""
+"Set here the category of content. This field is limited to 3 ASCII "
+"characters."
+msgstr ""
+"<p>ตั้งค่าชื่อเมืองเพื่อใช้อ้างอิงถึงเนื้อหาได้ที่นี่ โดยมีความยาวตัวอักษรแอสกีสูงสุดที่ 32 ตัวอักษร"
+
+#: iptccategories.cpp:99 xmpcategories.cpp:92
+msgid "Supplemental categories:"
+msgstr ""
+
+#: iptccategories.cpp:105
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the original owner of content. This field is limited to 32 "
+#| "ASCII characters."
+msgid ""
+"Enter here a new supplemental category of content. This field is limited to "
+"32 ASCII characters."
+msgstr "<p>ตั้งค่าเจ้าของดั้งเดิมได้ที่นี่ โดยมีการจำกัดความยาวตัวอักษรแอสกีที่ 32 ตัวอักษร"
+
+#: iptccategories.cpp:111 iptckeywords.cpp:99 subjects.cpp:201
+#: xmpcategories.cpp:101 xmpkeywords.cpp:90
+msgid "&Add"
+msgstr "เ&พิ่ม"
+
+#: iptccategories.cpp:112 iptckeywords.cpp:100 subjects.cpp:202
+#: xmpcategories.cpp:102 xmpkeywords.cpp:91
+msgid "&Delete"
+msgstr "&ลบ"
+
+#: iptccategories.cpp:113 iptckeywords.cpp:101 subjects.cpp:203
+#: xmpcategories.cpp:103 xmpkeywords.cpp:92
+msgid "&Replace"
+msgstr "แ&ทนที่"
+
+#: iptccategories.cpp:122 iptccontent.cpp:126 iptccredits.cpp:146
+#: iptcenvelope.cpp:269 iptckeywords.cpp:110 iptcorigin.cpp:496
+#: iptcproperties.cpp:238 iptcstatus.cpp:129 iptcsubjects.cpp:100
+#, fuzzy
+#| msgid ""
+#| "<b>Note: <b><a href='http://en.wikipedia.org/wiki/EXIF'>EXIF</a></b> text "
+#| "tags marked by (*) only support printable <b><a href='http://en.wikipedia."
+#| "org/wiki/Ascii'>ASCII</a></b> characters set.</b>"
+msgid ""
+"<b>Note: <b><a href='http://en.wikipedia.org/wiki/IPTC'>IPTC</a></b> text "
+"tags only support the printable <b><a href='http://en.wikipedia.org/wiki/"
+"Ascii'>ASCII</a></b> characters and limit string sizes. Use contextual help "
+"for details.</b>"
+msgstr ""
+"<b>ควรทราบ: <b><a href='http://en.wikipedia.org/wiki/EXIF'>ข้อมูล EXIF</a></b> "
+"ป้ายกำกับที่มีเครื่องหมาย (*) รองรับรหัสอักขระแบบ<b><a href='http://en.wikipedia.org/"
+"wiki/Ascii'>แอสกี</a></b>ที่พิมพ์ออกได้เท่านั้น</b>"
+
+#: iptccontent.cpp:95 xmpcontent.cpp:90
+msgid "Headline:"
+msgstr "บรรทัดสรุป:"
+
+#: iptccontent.cpp:100
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the content provider. This field is limited to 32 ASCII "
+#| "characters."
+msgid ""
+"Enter here the content synopsis. This field is limited to 256 ASCII "
+"characters."
+msgstr "<p>ตั้งค่าผู้เผยแพร่เนื้อหาได้ที่นี่ โดยมีการจำกัดความยาวตัวอักษรแอสกีที่ 32 ตัวอักษร"
+
+#: iptccontent.cpp:108 xmpcontent.cpp:104
+#, kde-format
+msgid "Sync caption entered through %1"
+msgstr ""
+
+#: iptccontent.cpp:115
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the content provider. This field is limited to 32 ASCII "
+#| "characters."
+msgid ""
+"Enter the content description. This field is limited to 2000 ASCII "
+"characters."
+msgstr "<p>ตั้งค่าผู้เผยแพร่เนื้อหาได้ที่นี่ โดยมีการจำกัดความยาวตัวอักษรแอสกีที่ 32 ตัวอักษร"
+
+#: iptccontent.cpp:120 xmpcontent.cpp:117
+msgid "Caption Writer:"
+msgstr "ผู้เขียนบรรยาย:"
+
+#: iptccontent.cpp:121 xmpcontent.cpp:120
+#, fuzzy
+#| msgid "<p>Enter the name of the caption author."
+msgid "Enter the name of the caption author."
+msgstr "<p>ป้อนชื่อของผู้เขียนคำบรรยายภาพ"
+
+#: iptccredits.cpp:98 xmpcontent.cpp:122
+msgid "Copyright:"
+msgstr "สงวนลิขสิทธิ์:"
+
+#: iptccredits.cpp:103
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the necessary copyright notice. This field is limited to 128 "
+#| "ASCII characters."
+msgid ""
+"Set here the necessary copyright notice. This field is limited to 128 ASCII "
+"characters."
+msgstr "<p>ตั้งค่าการแจ้งการสงวนลิขสิทธิ์ได้ที่นี่ โดยมีการจำกัดความยาวตัวอักษรแอสกีที่ 128 ตัวอักษร"
+
+#: iptccredits.cpp:108 xmpcredits.cpp:112
+msgid "Byline:"
+msgstr ""
+
+#: iptccredits.cpp:109 xmpcredits.cpp:113
+#, fuzzy
+#| msgid "<p>Select here country name of content origin."
+msgid "Set here the name of content creator."
+msgstr "<p>เลือกชื่อประเทศต้นกำเนิดของเนื้อหาได้ที่นี่"
+
+#: iptccredits.cpp:114 xmpcredits.cpp:117
+msgid "Byline Title:"
+msgstr ""
+
+#: iptccredits.cpp:115 xmpcredits.cpp:120
+#, fuzzy
+#| msgid "<p>Select here the editorial type of content."
+msgid "Set here the title of content creator."
+msgstr "<p>เลือกชนิดของเนื้อหาได้ที่นี่"
+
+#: iptccredits.cpp:120 xmpcredits.cpp:182
+msgid "Credit:"
+msgstr "เครดิต:"
+
+#: iptccredits.cpp:125
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the content provider. This field is limited to 32 ASCII "
+#| "characters."
+msgid ""
+"Set here the content provider. This field is limited to 32 ASCII characters."
+msgstr "<p>ตั้งค่าผู้เผยแพร่เนื้อหาได้ที่นี่ โดยมีการจำกัดความยาวตัวอักษรแอสกีที่ 32 ตัวอักษร"
+
+#: iptccredits.cpp:130 xmpcredits.cpp:189
+msgid "Source:"
+msgstr "ต้นฉบับ:"
+
+#: iptccredits.cpp:135
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the original owner of content. This field is limited to 32 "
+#| "ASCII characters."
+msgid ""
+"Set here the original owner of content. This field is limited to 32 ASCII "
+"characters."
+msgstr "<p>ตั้งค่าเจ้าของดั้งเดิมได้ที่นี่ โดยมีการจำกัดความยาวตัวอักษรแอสกีที่ 32 ตัวอักษร"
+
+#: iptccredits.cpp:140
+msgid "Contact:"
+msgstr "ติดต่อ:"
+
+#: iptccredits.cpp:141
+#, fuzzy
+#| msgid "<p>Set here the person or organisation to contact."
+msgid "Set here the person or organisation to contact."
+msgstr "<p>ตั้งค่าบุคคลหรือองค์กรสำหรับใช้ติดต่อได้ที่นี่"
+
+#: iptceditdialog.cpp:159 xmpeditdialog.cpp:155
+msgid "Content"
+msgstr "เนื้อหา"
+
+#: iptceditdialog.cpp:160 xmpeditdialog.cpp:156
+msgid ""
+"<qt>Content Information<br/><i>Use this panel to describe the visual content "
+"of the image</i></qt>"
+msgstr ""
+
+#: iptceditdialog.cpp:165 xmpeditdialog.cpp:161
+msgid "Origin"
+msgstr "ต้นกำเนิด"
+
+#: iptceditdialog.cpp:166 xmpeditdialog.cpp:162
+msgid ""
+"<qt>Origin Information<br/><i>Use this panel for formal descriptive "
+"information about the image</i></qt>"
+msgstr ""
+
+#: iptceditdialog.cpp:171 xmpeditdialog.cpp:167
+msgid "Credits"
+msgstr "เครดิต"
+
+#: iptceditdialog.cpp:172 xmpeditdialog.cpp:168
+msgid ""
+"<qt>Credit Information<br/><i>Use this panel to record copyright information "
+"about the image</i></qt>"
+msgstr ""
+
+#: iptceditdialog.cpp:177 xmpeditdialog.cpp:173
+msgid "Subjects"
+msgstr "หัวข้อ"
+
+#: iptceditdialog.cpp:178 xmpeditdialog.cpp:174
+msgid ""
+"<qt>Subject Information<br/><i>Use this panel to record subject information "
+"about the image</i></qt>"
+msgstr ""
+
+#: iptceditdialog.cpp:183 xmpeditdialog.cpp:179
+msgid "Keywords"
+msgstr "คำสำคัญ"
+
+#: iptceditdialog.cpp:184 xmpeditdialog.cpp:180
+msgid ""
+"<qt>Keyword Information<br/><i>Use this panel to record keywords relevant to "
+"the image</i></qt>"
+msgstr ""
+
+#: iptceditdialog.cpp:189 xmpeditdialog.cpp:185
+msgid "Categories"
+msgstr "หมวดหมู่"
+
+#: iptceditdialog.cpp:190 xmpeditdialog.cpp:186
+msgid ""
+"<qt>Category Information<br/><i>Use this panel to record categories relevant "
+"to the image</i></qt>"
+msgstr ""
+
+#: iptceditdialog.cpp:195 xmpeditdialog.cpp:191
+msgid "Status"
+msgstr "สถานะ"
+
+#: iptceditdialog.cpp:196 xmpeditdialog.cpp:192
+msgid ""
+"<qt>Status Information<br/><i>Use this panel to record workflow information</"
+"i></qt>"
+msgstr ""
+
+#: iptceditdialog.cpp:201 xmpeditdialog.cpp:197
+msgid "Properties"
+msgstr "คุณสมบัติ"
+
+#: iptceditdialog.cpp:202 xmpeditdialog.cpp:198
+msgid ""
+"<qt>Status Properties<br/><i>Use this panel to record workflow properties</"
+"i></qt>"
+msgstr ""
+
+#: iptceditdialog.cpp:207
+msgid "Envelope"
+msgstr ""
+
+#: iptceditdialog.cpp:208
+msgid ""
+"<qt>Envelope Information<br/><i>Use this panel to record editorial details</"
+"i></qt>"
+msgstr ""
+
+#: iptceditdialog.cpp:372
+msgid "Edit IPTC Metadata"
+msgstr "แก้ไขข้อมูลกำกับภาพแบบ IPTC"
+
+#: iptcenvelope.cpp:91
+msgid "No ObjectData"
+msgstr ""
+
+#: iptcenvelope.cpp:92
+msgid "IPTC-NAA Digital Newsphoto Parameter Record (version 1)"
+msgstr ""
+
+#: iptcenvelope.cpp:93
+msgid "IPTC-NAA Digital Newsphoto Parameter Record (version 2)"
+msgstr ""
+
+#: iptcenvelope.cpp:94
+msgid "IPTC-NAA Digital Newsphoto Parameter Record (version 3)"
+msgstr ""
+
+#: iptcenvelope.cpp:95
+msgid "IPTC-NAA Digital Newsphoto Parameter Record (version 4)"
+msgstr ""
+
+#: iptcenvelope.cpp:96
+msgid "IPTC7901 Recommended Message Format"
+msgstr ""
+
+#: iptcenvelope.cpp:97
+msgid "Tagged Image File Format (version 5.0)"
+msgstr ""
+
+#: iptcenvelope.cpp:98
+msgid "Tagged Image File Format (version 6.0)"
+msgstr ""
+
+#: iptcenvelope.cpp:99
+msgid "Illustrator"
+msgstr ""
+
+#: iptcenvelope.cpp:100
+msgid "AppleSingle"
+msgstr ""
+
+#: iptcenvelope.cpp:101
+msgid "NAA 89-3 (ANPA 1312)"
+msgstr ""
+
+#: iptcenvelope.cpp:102
+msgid "MacBinary II"
+msgstr ""
+
+#: iptcenvelope.cpp:103
+msgid "IPTC Unstructured Character Oriented File Format"
+msgstr ""
+
+#: iptcenvelope.cpp:104
+msgid "United Press International ANPA 1312 variant"
+msgstr ""
+
+#: iptcenvelope.cpp:105
+msgid "United Press International Down-Load Message"
+msgstr ""
+
+#: iptcenvelope.cpp:106
+msgid "JPEG File Interchange"
+msgstr ""
+
+#: iptcenvelope.cpp:107
+msgid "Photo-CD Image-Pac"
+msgstr ""
+
+#: iptcenvelope.cpp:108
+msgid "Microsoft Bit Mapped Graphics File [*.BMP]"
+msgstr ""
+
+#: iptcenvelope.cpp:109
+msgid "Digital Audio File [*.WAV]"
+msgstr ""
+
+#: iptcenvelope.cpp:110
+msgid "Audio plus Moving Video [*.AVI]"
+msgstr ""
+
+#: iptcenvelope.cpp:111
+msgid "PC DOS/Windows Executable Files [*.COM][*.EXE]"
+msgstr ""
+
+#: iptcenvelope.cpp:112
+msgid "Compressed Binary File [*.ZIP]"
+msgstr ""
+
+#: iptcenvelope.cpp:113
+msgid "Audio Interchange File Format AIFF"
+msgstr ""
+
+#: iptcenvelope.cpp:114
+msgid "RIFF Wave (Microsoft Corporation)"
+msgstr ""
+
+#: iptcenvelope.cpp:115
+msgid "Freehand (version 3.1)"
+msgstr ""
+
+#: iptcenvelope.cpp:116
+msgid "Freehand (version 4.0)"
+msgstr ""
+
+#: iptcenvelope.cpp:117
+msgid "Freehand (version 5.0)"
+msgstr ""
+
+#: iptcenvelope.cpp:118
+msgid "Freehand (version 5.5)"
+msgstr ""
+
+#: iptcenvelope.cpp:119
+msgid "Hypertext Markup Language \"HTML\""
+msgstr ""
+
+#: iptcenvelope.cpp:120
+msgid "MPEG 2 Audio Layer 2 (Musicom), ISO/IEC"
+msgstr ""
+
+#: iptcenvelope.cpp:121
+msgid "MPEG 2 Audio Layer 3, ISO/IEC"
+msgstr ""
+
+#: iptcenvelope.cpp:122
+msgid "Portable Document File [*.PDF] Adobe"
+msgstr ""
+
+#: iptcenvelope.cpp:123
+msgid "News Industry Text Format"
+msgstr ""
+
+#: iptcenvelope.cpp:124
+msgid "Tape Archive [*.TAR]"
+msgstr ""
+
+#: iptcenvelope.cpp:125
+msgid "Tidningarnas Telegrambyra NITF version (TTNITF DTD)"
+msgstr ""
+
+#: iptcenvelope.cpp:126
+msgid "Ritzaus Bureau NITF version (RBNITF DTD)"
+msgstr ""
+
+#: iptcenvelope.cpp:127
+msgid "Corel Draw [*.CDR]"
+msgstr ""
+
+#: iptcenvelope.cpp:174
+msgid "Destination:"
+msgstr ""
+
+#: iptcenvelope.cpp:178
+#, fuzzy
+#| msgid ""
+#| "<p>Enter here a new keyword. This field is limited to 64 ASCII characters."
+msgid ""
+"Enter the envelope destination. This field is limited to 1024 ASCII "
+"characters."
+msgstr "<p>ใส่คำค้นใหม่ที่นี่ โดยจำกัดความยาวเป็นตัวอักษรแอสกี 64 ตัวอักษร"
+
+#: iptcenvelope.cpp:183
+msgid "U.N.O ID:"
+msgstr ""
+
+#: iptcenvelope.cpp:188
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the city of content origin. This field is limited to 32 ASCII "
+#| "characters."
+msgid ""
+"Set here the Unique Name of Object identifier. This field is limited to 80 "
+"ASCII characters."
+msgstr ""
+"<p>ตั้งค่าชื่อเมืองเพื่อใช้อ้างอิงถึงเนื้อหาได้ที่นี่ โดยมีความยาวตัวอักษรแอสกีสูงสุดที่ 32 ตัวอักษร"
+
+#: iptcenvelope.cpp:193
+msgid "Product ID:"
+msgstr "หมายเลขผลิตภัณฑ์:"
+
+#: iptcenvelope.cpp:198
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the content provider. This field is limited to 32 ASCII "
+#| "characters."
+msgid ""
+"Set here the product identifier. This field is limited to 32 ASCII "
+"characters."
+msgstr "<p>ตั้งค่าผู้เผยแพร่เนื้อหาได้ที่นี่ โดยมีการจำกัดความยาวตัวอักษรแอสกีที่ 32 ตัวอักษร"
+
+#: iptcenvelope.cpp:203
+msgid "Service ID:"
+msgstr "หมายเลขบริการ:"
+
+#: iptcenvelope.cpp:208
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the content provider. This field is limited to 32 ASCII "
+#| "characters."
+msgid ""
+"Set here the service identifier. This field is limited to 10 ASCII "
+"characters."
+msgstr "<p>ตั้งค่าผู้เผยแพร่เนื้อหาได้ที่นี่ โดยมีการจำกัดความยาวตัวอักษรแอสกีที่ 32 ตัวอักษร"
+
+#: iptcenvelope.cpp:213
+msgid "Envelope ID:"
+msgstr ""
+
+#: iptcenvelope.cpp:218
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the content provider. This field is limited to 32 ASCII "
+#| "characters."
+msgid ""
+"Set here the envelope identifier. This field is limited to 8 ASCII "
+"characters."
+msgstr "<p>ตั้งค่าผู้เผยแพร่เนื้อหาได้ที่นี่ โดยมีการจำกัดความยาวตัวอักษรแอสกีที่ 32 ตัวอักษร"
+
+#: iptcenvelope.cpp:223 iptcproperties.cpp:185 xmpproperties.cpp:186
+msgid "Priority:"
+msgstr "ความสำคัญ:"
+
+#: iptcenvelope.cpp:225 iptcproperties.cpp:187 xmpproperties.cpp:188
+msgid "0: None"
+msgstr "0: ไม่สำคัญ"
+
+#: iptcenvelope.cpp:226 iptcproperties.cpp:188 xmpproperties.cpp:189
+msgid "1: High"
+msgstr "1: สูง"
+
+#: iptcenvelope.cpp:230 iptcproperties.cpp:192 xmpproperties.cpp:193
+msgid "5: Normal"
+msgstr "5: ปกติ"
+
+#: iptcenvelope.cpp:233 iptcproperties.cpp:195 xmpproperties.cpp:196
+msgid "8: Low"
+msgstr "8: ต่ำ"
+
+#: iptcenvelope.cpp:234
+#, fuzzy
+#| msgid "<p>Select here the editorial type of content."
+msgid "Select here the envelope priority."
+msgstr "<p>เลือกชนิดของเนื้อหาได้ที่นี่"
+
+#: iptcenvelope.cpp:238
+msgid "Format:"
+msgstr ""
+
+#: iptcenvelope.cpp:250
+msgid "Select here envelope file format."
+msgstr ""
+
+#: iptcenvelope.cpp:254
+msgid "Sent date:"
+msgstr "วันที่ส่ง:"
+
+#: iptcenvelope.cpp:255
+msgid "Sent time:"
+msgstr "เวลาที่ส่ง:"
+
+#: iptcenvelope.cpp:261
+msgid "Set envelope sent date to today"
+msgstr ""
+
+#: iptcenvelope.cpp:263
+msgid "Set here the date when the service sent the material."
+msgstr ""
+
+#: iptcenvelope.cpp:264
+msgid "Set here the time when the service sent the material."
+msgstr ""
+
+#: iptckeywords.cpp:87 xmpkeywords.cpp:81
+msgid "Use information retrieval words:"
+msgstr ""
+
+#: iptckeywords.cpp:93
+#, fuzzy
+#| msgid ""
+#| "<p>Enter here a new keyword. This field is limited to 64 ASCII characters."
+msgid "Enter here a new keyword. This field is limited to 64 ASCII characters."
+msgstr "<p>ใส่คำค้นใหม่ที่นี่ โดยจำกัดความยาวเป็นตัวอักษรแอสกี 64 ตัวอักษร"
+
+#: iptcorigin.cpp:100 xmporigin.cpp:91
+msgid "Afghanistan"
+msgstr "อาฟกานิสถาน"
+
+#: iptcorigin.cpp:101 xmporigin.cpp:92
+msgid "Albania"
+msgstr "อัลเบเนีย"
+
+#: iptcorigin.cpp:102 xmporigin.cpp:93
+msgid "Algeria"
+msgstr "อัลจีเรีย"
+
+#: iptcorigin.cpp:103 xmporigin.cpp:94
+msgid "American Samoa"
+msgstr "อเมริกัน ซามัว"
+
+#: iptcorigin.cpp:104 xmporigin.cpp:95
+msgid "Andorra"
+msgstr "แอนโดรา"
+
+#: iptcorigin.cpp:105 iptcorigin.cpp:107 xmporigin.cpp:96 xmporigin.cpp:98
+msgid "Angola"
+msgstr "แองโกลา"
+
+#: iptcorigin.cpp:106 xmporigin.cpp:97
+msgid "Anguilla"
+msgstr "แองกีลา"
+
+#: iptcorigin.cpp:108 xmporigin.cpp:99
+msgid "Antarctica"
+msgstr "แอนตาร์กติกา"
+
+#: iptcorigin.cpp:109 xmporigin.cpp:100
+msgid "Antigua and Barbuda"
+msgstr "อันทิกัว และ บาร์บูดา"
+
+#: iptcorigin.cpp:110 xmporigin.cpp:101
+msgid "Argentina"
+msgstr "อาร์เจนตินา"
+
+#: iptcorigin.cpp:111 xmporigin.cpp:102
+msgid "Armenia"
+msgstr "อาร์เมเนีย"
+
+#: iptcorigin.cpp:112 xmporigin.cpp:103
+msgid "Aruba"
+msgstr "อรูบา"
+
+#: iptcorigin.cpp:113 xmporigin.cpp:104
+msgid "Australia"
+msgstr "ออสเตรเลีย"
+
+#: iptcorigin.cpp:114 xmporigin.cpp:105
+msgid "Austria"
+msgstr "ออสเตรีย"
+
+#: iptcorigin.cpp:115 xmporigin.cpp:106
+msgid "Azerbaijan"
+msgstr "อาร์เซอร์ไบจัน"
+
+#: iptcorigin.cpp:116 xmporigin.cpp:107
+msgid "Bahamas"
+msgstr "บาฮามา"
+
+#: iptcorigin.cpp:117 xmporigin.cpp:108
+msgid "Bahrain"
+msgstr "บาห์เรียน"
+
+#: iptcorigin.cpp:118 xmporigin.cpp:109
+msgid "Bangladesh"
+msgstr "บังคลาเทศ"
+
+#: iptcorigin.cpp:119 xmporigin.cpp:110
+msgid "Barbados"
+msgstr "บาร์บาดอส"
+
+#: iptcorigin.cpp:120 xmporigin.cpp:111
+msgid "Belarus"
+msgstr "เบลารุส"
+
+#: iptcorigin.cpp:121 xmporigin.cpp:112
+msgid "Belgium"
+msgstr "เบลเยียม"
+
+#: iptcorigin.cpp:122 xmporigin.cpp:113
+msgid "Belize"
+msgstr "เบลไลซ์"
+
+#: iptcorigin.cpp:123 xmporigin.cpp:114
+msgid "Benin"
+msgstr "เบนิน"
+
+#: iptcorigin.cpp:124 xmporigin.cpp:115
+msgid "Bermuda"
+msgstr "เบอร์มิวดา"
+
+#: iptcorigin.cpp:125 xmporigin.cpp:116
+msgid "Bhutan"
+msgstr "ภูฏาน"
+
+#: iptcorigin.cpp:126 xmporigin.cpp:117
+msgid "Bolivia"
+msgstr "โบลิเวีย"
+
+#: iptcorigin.cpp:127 xmporigin.cpp:118
+msgid "Bosnia and Herzegovina"
+msgstr "บอสเนียและเฮอร์เซโกวินา"
+
+#: iptcorigin.cpp:128 xmporigin.cpp:119
+msgid "Botswana"
+msgstr "บอทสวานา"
+
+#: iptcorigin.cpp:129 xmporigin.cpp:120
+msgid "Bouvet Island"
+msgstr "เกาะบูเวท์"
+
+#: iptcorigin.cpp:130 xmporigin.cpp:121
+msgid "Brazil"
+msgstr "บราซิล"
+
+#: iptcorigin.cpp:131 xmporigin.cpp:122
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: iptcorigin.cpp:132 xmporigin.cpp:123
+msgid "British Virgin Islands"
+msgstr "หมู่เกาะบริติชเวอร์จิน"
+
+#: iptcorigin.cpp:133 xmporigin.cpp:124
+msgid "Brunei Darussalam"
+msgstr "บรูไนดูรัสซาลาม"
+
+#: iptcorigin.cpp:134 xmporigin.cpp:125
+msgid "Bulgaria"
+msgstr "บัลแกเรีย"
+
+#: iptcorigin.cpp:135 xmporigin.cpp:126
+msgid "Burkina Faso"
+msgstr "เบอร์กินาฟาโซ"
+
+#: iptcorigin.cpp:136 xmporigin.cpp:127
+msgid "Burundi"
+msgstr "บูรันดิ"
+
+#: iptcorigin.cpp:137 xmporigin.cpp:128
+msgid "Cambodia"
+msgstr "กัมพูชา"
+
+#: iptcorigin.cpp:138 xmporigin.cpp:129
+msgid "Cameroon"
+msgstr "คาเมรูน"
+
+#: iptcorigin.cpp:139 xmporigin.cpp:130
+msgid "Canada"
+msgstr "แคนาดา"
+
+#: iptcorigin.cpp:140 xmporigin.cpp:131
+msgid "Cape Verde"
+msgstr "แหลมเวอร์ดี"
+
+#: iptcorigin.cpp:141 xmporigin.cpp:132
+msgid "Cayman Islands"
+msgstr "หมู่เกาะเคย์แมน"
+
+#: iptcorigin.cpp:142 xmporigin.cpp:133
+msgid "Central African Republic"
+msgstr "สาธารณรัฐอัฟริกากลาง"
+
+#: iptcorigin.cpp:143 xmporigin.cpp:134
+msgid "Chad"
+msgstr "ชาด"
+
+#: iptcorigin.cpp:144 xmporigin.cpp:135
+msgid "Chile"
+msgstr "ชิลี"
+
+#: iptcorigin.cpp:145 xmporigin.cpp:136
+msgid "China"
+msgstr "จีน"
+
+#: iptcorigin.cpp:146 xmporigin.cpp:137
+msgid "Christmas Island "
+msgstr "เกาะคริสต์มาส"
+
+#: iptcorigin.cpp:147 xmporigin.cpp:138
+msgid "Cocos Islands"
+msgstr "หมู่เกาะโคคอส"
+
+#: iptcorigin.cpp:148 xmporigin.cpp:139
+msgid "Colombia"
+msgstr "โคลัมเบีย"
+
+#: iptcorigin.cpp:149 xmporigin.cpp:140
+msgid "Comoros"
+msgstr "โคโมรอส"
+
+#: iptcorigin.cpp:150 xmporigin.cpp:141
+msgid "Zaire"
+msgstr "ซาเอียร์"
+
+#: iptcorigin.cpp:151 xmporigin.cpp:142
+msgid "Congo"
+msgstr "คองโก"
+
+#: iptcorigin.cpp:152 xmporigin.cpp:143
+msgid "Cook Islands"
+msgstr "หมู่เกาะคุ้ก"
+
+#: iptcorigin.cpp:153 xmporigin.cpp:144
+msgid "Costa Rica"
+msgstr "คอสตาริกา"
+
+#: iptcorigin.cpp:154 xmporigin.cpp:145
+msgid "Ivory Coast"
+msgstr "ชายฝั่งไอวอรี่"
+
+#: iptcorigin.cpp:155 xmporigin.cpp:146
+msgid "Cuba"
+msgstr "คิวบา"
+
+#: iptcorigin.cpp:156 xmporigin.cpp:147
+msgid "Cyprus"
+msgstr "ไซปรัส"
+
+#: iptcorigin.cpp:157 xmporigin.cpp:148
+msgid "Czech Republic"
+msgstr "สาธารณรัฐเชค"
+
+#: iptcorigin.cpp:158 xmporigin.cpp:149
+msgid "Denmark"
+msgstr "เดนมาร์ก"
+
+#: iptcorigin.cpp:159 xmporigin.cpp:150
+msgid "Djibouti"
+msgstr "จิบูติ"
+
+#: iptcorigin.cpp:160 xmporigin.cpp:151
+msgid "Dominica"
+msgstr "โดมินากัน"
+
+#: iptcorigin.cpp:161 xmporigin.cpp:152
+msgid "Dominican Republic"
+msgstr "สาธารณรัฐโดมินิกัน"
+
+#: iptcorigin.cpp:162 xmporigin.cpp:153
+msgid "Ecuador"
+msgstr "เอกวาดอร์"
+
+#: iptcorigin.cpp:163 xmporigin.cpp:154
+msgid "Egypt"
+msgstr "อียิปต์"
+
+#: iptcorigin.cpp:164 xmporigin.cpp:155
+msgid "El Salvador"
+msgstr "เอลซัลวาดอร์"
+
+#: iptcorigin.cpp:165 xmporigin.cpp:156
+msgid "Equatorial Guinea"
+msgstr "กินี ตรงเส้นศูนย์สูตร"
+
+#: iptcorigin.cpp:166 xmporigin.cpp:157
+msgid "Eritrea"
+msgstr "เอริเทรีย"
+
+#: iptcorigin.cpp:167 xmporigin.cpp:158
+msgid "Estonia"
+msgstr "เอสโทเนีย"
+
+#: iptcorigin.cpp:168 xmporigin.cpp:159
+msgid "Ethiopia"
+msgstr "เอธิโอเปีย"
+
+#: iptcorigin.cpp:169 xmporigin.cpp:160
+msgid "Faeroe Islands"
+msgstr "หมู่เกาะฟาห์โร"
+
+#: iptcorigin.cpp:170 xmporigin.cpp:161
+msgid "Falkland Islands"
+msgstr "หมู่เกาะฟอล์คแลนด์"
+
+#: iptcorigin.cpp:171 xmporigin.cpp:162
+msgid "Fiji Islands"
+msgstr "หมู่เกาะฟิจิ"
+
+#: iptcorigin.cpp:172 xmporigin.cpp:163
+msgid "Finland"
+msgstr "ฟินแลนด์"
+
+#: iptcorigin.cpp:173 xmporigin.cpp:164
+msgid "France"
+msgstr "ฝรั่งเศส"
+
+#: iptcorigin.cpp:174 xmporigin.cpp:165
+msgid "French Guiana"
+msgstr ""
+
+#: iptcorigin.cpp:175 xmporigin.cpp:166
+msgid "French Polynesia"
+msgstr "ฝรั่งเศสโพลีนีเซีย"
+
+#: iptcorigin.cpp:176 xmporigin.cpp:167
+msgid "French Southern Territories"
+msgstr ""
+
+#: iptcorigin.cpp:177 xmporigin.cpp:168
+msgid "Gabon"
+msgstr "กาบอน"
+
+#: iptcorigin.cpp:178 xmporigin.cpp:169
+msgid "Gambia"
+msgstr "แกมเบีย"
+
+#: iptcorigin.cpp:179 xmporigin.cpp:170
+msgid "Georgia"
+msgstr "จอร์เจีย"
+
+#: iptcorigin.cpp:180 xmporigin.cpp:171
+msgid "Germany"
+msgstr "เยอรมันนี"
+
+#: iptcorigin.cpp:181 xmporigin.cpp:172
+msgid "Ghana"
+msgstr "กานา"
+
+#: iptcorigin.cpp:182 xmporigin.cpp:173
+msgid "Gibraltar"
+msgstr "ยิบรอลตา"
+
+#: iptcorigin.cpp:183 xmporigin.cpp:174
+msgid "Greece"
+msgstr "กรีซ"
+
+#: iptcorigin.cpp:184 xmporigin.cpp:175
+msgid "Greenland"
+msgstr "กรีนแลนด์"
+
+#: iptcorigin.cpp:185 xmporigin.cpp:176
+msgid "Grenada"
+msgstr "เกรนาดา"
+
+#: iptcorigin.cpp:186 xmporigin.cpp:177
+msgid "Guadaloupe"
+msgstr ""
+
+#: iptcorigin.cpp:187 xmporigin.cpp:178
+msgid "Guam"
+msgstr "กวม"
+
+#: iptcorigin.cpp:188 xmporigin.cpp:179
+msgid "Guatemala"
+msgstr "กัวเตมาลา"
+
+#: iptcorigin.cpp:189 xmporigin.cpp:180
+msgid "Guinea"
+msgstr "กินี"
+
+#: iptcorigin.cpp:190 xmporigin.cpp:181
+msgid "Guinea-Bissau"
+msgstr "กินี - บิสซอ"
+
+#: iptcorigin.cpp:191 xmporigin.cpp:182
+msgid "Guyana"
+msgstr "กูยาน่า"
+
+#: iptcorigin.cpp:192 xmporigin.cpp:183
+msgid "Haiti"
+msgstr "ไฮติ"
+
+#: iptcorigin.cpp:193 xmporigin.cpp:184
+msgid "Heard and McDonald Islands"
+msgstr ""
+
+#: iptcorigin.cpp:194 xmporigin.cpp:185
+msgid "Vatican"
+msgstr "วาติกัน"
+
+#: iptcorigin.cpp:195 xmporigin.cpp:186
+msgid "Honduras"
+msgstr "ฮอนดูรัส"
+
+#: iptcorigin.cpp:196 xmporigin.cpp:187
+msgid "Hong Kong"
+msgstr "ฮ่องกง"
+
+#: iptcorigin.cpp:197 xmporigin.cpp:188
+msgid "Croatia"
+msgstr "โครเอเธีย"
+
+#: iptcorigin.cpp:198 xmporigin.cpp:189
+msgid "Hungary"
+msgstr "ฮังการี"
+
+#: iptcorigin.cpp:199 xmporigin.cpp:190
+msgid "Iceland"
+msgstr "ไอซ์แลนด์"
+
+#: iptcorigin.cpp:200 xmporigin.cpp:191
+msgid "India"
+msgstr "อินเดีย"
+
+#: iptcorigin.cpp:201 xmporigin.cpp:192
+msgid "Indonesia"
+msgstr "อินโดนีเซีย"
+
+#: iptcorigin.cpp:202 xmporigin.cpp:193
+msgid "Iran"
+msgstr "อิหร่าน"
+
+#: iptcorigin.cpp:203 xmporigin.cpp:194
+msgid "Iraq"
+msgstr "อิรัก"
+
+#: iptcorigin.cpp:204 xmporigin.cpp:195
+msgid "Ireland"
+msgstr "ไอร์แลนด์"
+
+#: iptcorigin.cpp:205 xmporigin.cpp:196
+msgid "Israel"
+msgstr "อิสราเอล"
+
+#: iptcorigin.cpp:206 xmporigin.cpp:197
+msgid "Italy"
+msgstr "อิตาลี"
+
+#: iptcorigin.cpp:207 xmporigin.cpp:198
+msgid "Jamaica"
+msgstr "จาไมก้า"
+
+#: iptcorigin.cpp:208 xmporigin.cpp:199
+msgid "Japan"
+msgstr "ญี่ปุ่น"
+
+#: iptcorigin.cpp:209 xmporigin.cpp:200
+msgid "Jordan"
+msgstr "จอร์แดน"
+
+#: iptcorigin.cpp:210 xmporigin.cpp:201
+msgid "Kazakhstan"
+msgstr "คาซัคสถาน"
+
+#: iptcorigin.cpp:211 xmporigin.cpp:202
+msgid "Kenya"
+msgstr "เคนยา"
+
+#: iptcorigin.cpp:212 xmporigin.cpp:203
+msgid "Kiribati"
+msgstr "คิริบาติ"
+
+#: iptcorigin.cpp:213 iptcorigin.cpp:214 xmporigin.cpp:204 xmporigin.cpp:205
+msgid "Korea"
+msgstr "เกาหลี"
+
+#: iptcorigin.cpp:215 xmporigin.cpp:206
+msgid "Kuwait"
+msgstr "คูเวต"
+
+#: iptcorigin.cpp:216 xmporigin.cpp:207
+msgid "Kyrgyz Republic"
+msgstr ""
+
+#: iptcorigin.cpp:217 xmporigin.cpp:208
+msgid "Lao"
+msgstr "ลาว"
+
+#: iptcorigin.cpp:218 xmporigin.cpp:209
+msgid "Latvia"
+msgstr "ลัธเวีย"
+
+#: iptcorigin.cpp:219 xmporigin.cpp:210
+msgid "Lebanon"
+msgstr "เลบานอน"
+
+#: iptcorigin.cpp:220 xmporigin.cpp:211
+msgid "Lesotho"
+msgstr "เลโซโต"
+
+#: iptcorigin.cpp:221 xmporigin.cpp:212
+msgid "Liberia"
+msgstr "ไลบีเรีย"
+
+#: iptcorigin.cpp:222 xmporigin.cpp:213
+msgid "Libyan Arab Jamahiriya"
+msgstr ""
+
+#: iptcorigin.cpp:223 xmporigin.cpp:214
+msgid "Liechtenstein"
+msgstr "ลิชเทนสไตน์"
+
+#: iptcorigin.cpp:224 xmporigin.cpp:215
+msgid "Lithuania"
+msgstr "ลิธัวเนีย"
+
+#: iptcorigin.cpp:225 xmporigin.cpp:216
+msgid "Luxembourg"
+msgstr "ลักเซมเบอร์ก"
+
+#: iptcorigin.cpp:226 xmporigin.cpp:217
+msgid "Macao"
+msgstr "มาเก๊า"
+
+#: iptcorigin.cpp:227 xmporigin.cpp:218
+msgid "Macedonia"
+msgstr "มาเซโดเนีย"
+
+#: iptcorigin.cpp:228 xmporigin.cpp:219
+msgid "Madagascar"
+msgstr "มาดากัสกา"
+
+#: iptcorigin.cpp:229 xmporigin.cpp:220
+msgid "Malawi"
+msgstr "มาลาวี"
+
+#: iptcorigin.cpp:230 xmporigin.cpp:221
+msgid "Malaysia"
+msgstr "มาเลเซีย"
+
+#: iptcorigin.cpp:231 xmporigin.cpp:222
+msgid "Maldives"
+msgstr "มัลดิฟ"
+
+#: iptcorigin.cpp:232 xmporigin.cpp:223
+msgid "Mali"
+msgstr "มาลี"
+
+#: iptcorigin.cpp:233 xmporigin.cpp:224
+msgid "Malta"
+msgstr "มอลตา"
+
+#: iptcorigin.cpp:234 xmporigin.cpp:225
+msgid "Marshall Islands"
+msgstr "หมู่เกาะมาแชล"
+
+#: iptcorigin.cpp:235 xmporigin.cpp:226
+msgid "Martinique"
+msgstr "มาทินิค"
+
+#: iptcorigin.cpp:236 xmporigin.cpp:227
+msgid "Mauritania"
+msgstr "มอริทาเนีย"
+
+#: iptcorigin.cpp:237 xmporigin.cpp:228
+msgid "Mauritius"
+msgstr "มอริเชียส"
+
+#: iptcorigin.cpp:238 xmporigin.cpp:229
+msgid "Mayotte"
+msgstr "มายอต"
+
+#: iptcorigin.cpp:239 xmporigin.cpp:230
+msgid "Mexico"
+msgstr "เม็กซิโก"
+
+#: iptcorigin.cpp:240 xmporigin.cpp:231
+msgid "Micronesia"
+msgstr "ไมโครนีเซีย"
+
+#: iptcorigin.cpp:241 xmporigin.cpp:232
+msgid "Moldova"
+msgstr "มอลโดวา"
+
+#: iptcorigin.cpp:242 xmporigin.cpp:233
+msgid "Monaco"
+msgstr "โมนาโค"
+
+#: iptcorigin.cpp:243 xmporigin.cpp:234
+msgid "Mongolia"
+msgstr "มองโกเลีย"
+
+#: iptcorigin.cpp:244 xmporigin.cpp:235
+msgid "Montserrat"
+msgstr "มอนต์เซอร์รัท"
+
+#: iptcorigin.cpp:245 xmporigin.cpp:236
+msgid "Morocco"
+msgstr "โมร็อคโค"
+
+#: iptcorigin.cpp:246 xmporigin.cpp:237
+msgid "Mozambique"
+msgstr "โมแซมบิก"
+
+#: iptcorigin.cpp:247 xmporigin.cpp:238
+msgid "Myanmar"
+msgstr "พม่า"
+
+#: iptcorigin.cpp:248 xmporigin.cpp:239
+msgid "Namibia"
+msgstr "นามิเบีย"
+
+#: iptcorigin.cpp:249 xmporigin.cpp:240
+msgid "Nauru"
+msgstr "นาวรู"
+
+#: iptcorigin.cpp:250 xmporigin.cpp:241
+msgid "Nepal"
+msgstr "เนปาล"
+
+#: iptcorigin.cpp:251 xmporigin.cpp:242
+msgid "Netherlands Antilles"
+msgstr "เนเธอร์แลนด์ แอนทิลีส"
+
+#: iptcorigin.cpp:252 xmporigin.cpp:243
+msgid "Netherlands"
+msgstr "เนเธอร์แลนด์"
+
+#: iptcorigin.cpp:253 xmporigin.cpp:244
+msgid "New Caledonia"
+msgstr "นิวคาเลโดเนีย"
+
+#: iptcorigin.cpp:254 xmporigin.cpp:245
+msgid "New Zealand"
+msgstr "นิวซีแลนด์"
+
+#: iptcorigin.cpp:255 xmporigin.cpp:246
+msgid "Nicaragua"
+msgstr "นิคารากัว"
+
+#: iptcorigin.cpp:256 xmporigin.cpp:247
+msgid "Niger"
+msgstr "ไนเจอร์"
+
+#: iptcorigin.cpp:257 xmporigin.cpp:248
+msgid "Nigeria"
+msgstr "ไนจีเรีย"
+
+#: iptcorigin.cpp:258 xmporigin.cpp:249
+msgid "Niue"
+msgstr "นิอุเอ"
+
+#: iptcorigin.cpp:259 xmporigin.cpp:250
+msgid "Norfolk Island"
+msgstr "เกาะนอร์ฟอล์ค"
+
+#: iptcorigin.cpp:260 xmporigin.cpp:251
+msgid "Northern Mariana Islands"
+msgstr "หมู่เกาะมาเรียนเหนือ"
+
+#: iptcorigin.cpp:261 xmporigin.cpp:252
+msgid "Norway"
+msgstr "นอร์เวย์"
+
+#: iptcorigin.cpp:262 xmporigin.cpp:253
+msgid "Oman"
+msgstr "โอมาน"
+
+#: iptcorigin.cpp:263 xmporigin.cpp:254
+msgid "Pakistan"
+msgstr "ปากีสถาน"
+
+#: iptcorigin.cpp:264 xmporigin.cpp:255
+msgid "Palau"
+msgstr "เกาะพาเลา"
+
+#: iptcorigin.cpp:265 xmporigin.cpp:256
+msgid "Palestinian Territory"
+msgstr "เขตปกครองปาเลสไตน์"
+
+#: iptcorigin.cpp:266 xmporigin.cpp:257
+msgid "Panama"
+msgstr "ปานามา"
+
+#: iptcorigin.cpp:267 xmporigin.cpp:258
+msgid "Papua New Guinea"
+msgstr "ปาปัวนิวกินี"
+
+#: iptcorigin.cpp:268 xmporigin.cpp:259
+msgid "Paraguay"
+msgstr "ปารากวัย"
+
+#: iptcorigin.cpp:269 xmporigin.cpp:260
+msgid "Peru"
+msgstr "เปรู"
+
+#: iptcorigin.cpp:270 xmporigin.cpp:261
+msgid "Philippines"
+msgstr "ฟิลิปปินส์"
+
+#: iptcorigin.cpp:271 xmporigin.cpp:262
+msgid "Pitcairn Island"
+msgstr "เกาะพิตแคร์น"
+
+#: iptcorigin.cpp:272 xmporigin.cpp:263
+msgid "Poland"
+msgstr "โปแลนด์"
+
+#: iptcorigin.cpp:273 xmporigin.cpp:264
+msgid "Portugal"
+msgstr "โปรตุเกส"
+
+#: iptcorigin.cpp:274 xmporigin.cpp:265
+msgid "Puerto Rico"
+msgstr "เปอร์โตริโก"
+
+#: iptcorigin.cpp:275 xmporigin.cpp:266
+msgid "Qatar"
+msgstr "กาตาร์"
+
+#: iptcorigin.cpp:276 xmporigin.cpp:267
+msgid "Reunion"
+msgstr "รียูเนียน"
+
+#: iptcorigin.cpp:277 xmporigin.cpp:268
+msgid "Romania"
+msgstr "โรมาเนีย"
+
+#: iptcorigin.cpp:278 xmporigin.cpp:269
+msgid "Russian Federation"
+msgstr "สมาพันธรัฐรัสเซีย"
+
+#: iptcorigin.cpp:279 xmporigin.cpp:270
+msgid "Rwanda"
+msgstr "รวันด้า"
+
+#: iptcorigin.cpp:280 xmporigin.cpp:271
+msgid "St. Helena"
+msgstr "เซนต์เฮเลนา"
+
+#: iptcorigin.cpp:281 xmporigin.cpp:272
+msgid "St. Kitts and Nevis"
+msgstr "เซนต์กิตส์และเนวิส"
+
+#: iptcorigin.cpp:282 xmporigin.cpp:273
+msgid "St. Lucia"
+msgstr "เซนต์ลูเซีย"
+
+#: iptcorigin.cpp:283 xmporigin.cpp:274
+msgid "St. Pierre and Miquelon"
+msgstr "เซนต์ปิแอร์และมีเกอลง"
+
+#: iptcorigin.cpp:284 xmporigin.cpp:275
+msgid "St. Vincent and the Grenadines"
+msgstr "เกาะเซนต์วินเซนต์และเกรนาดีน"
+
+#: iptcorigin.cpp:285 xmporigin.cpp:276
+msgid "Samoa"
+msgstr "ซามัว"
+
+#: iptcorigin.cpp:286 xmporigin.cpp:277
+msgid "San Marino"
+msgstr "ซานมาริโน"
+
+#: iptcorigin.cpp:287 xmporigin.cpp:278
+msgid "Sao Tome and Principe"
+msgstr "ซาวโทม และ พรินซิป"
+
+#: iptcorigin.cpp:288 xmporigin.cpp:279
+msgid "Saudi Arabia"
+msgstr "ซาอุดิอาระเบีย"
+
+#: iptcorigin.cpp:289 xmporigin.cpp:280
+msgid "Senegal"
+msgstr "เซนีกัล"
+
+#: iptcorigin.cpp:290 xmporigin.cpp:281
+msgid "Serbia and Montenegro"
+msgstr "เซอร์เบีย และมอนติเนโกร"
+
+#: iptcorigin.cpp:291 xmporigin.cpp:282
+msgid "Seychelles"
+msgstr "ซีเชลล์"
+
+#: iptcorigin.cpp:292 xmporigin.cpp:283
+msgid "Sierra Leone"
+msgstr "เซียราลีโอน"
+
+#: iptcorigin.cpp:293 xmporigin.cpp:284
+msgid "Singapore"
+msgstr "สิงคโปร์"
+
+#: iptcorigin.cpp:294 xmporigin.cpp:285
+msgid "Slovakia"
+msgstr "สโลวาเกีย"
+
+#: iptcorigin.cpp:295 xmporigin.cpp:286
+msgid "Slovenia"
+msgstr "สโลเวเนีย"
+
+#: iptcorigin.cpp:296 xmporigin.cpp:287
+msgid "Solomon Islands"
+msgstr "หมู่เกาะโซโลมอน"
+
+#: iptcorigin.cpp:297 xmporigin.cpp:288
+msgid "Somalia"
+msgstr "โซมาเลีย"
+
+#: iptcorigin.cpp:298 xmporigin.cpp:289
+msgid "South Africa"
+msgstr "แอฟริกาใต้"
+
+#: iptcorigin.cpp:299 xmporigin.cpp:290
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+#: iptcorigin.cpp:300 xmporigin.cpp:291
+msgid "Spain"
+msgstr "สเปน"
+
+#: iptcorigin.cpp:301 xmporigin.cpp:292
+msgid "Sri Lanka"
+msgstr "ศรีลังกา"
+
+#: iptcorigin.cpp:302 xmporigin.cpp:293
+msgid "Sudan"
+msgstr "ซูดาน"
+
+#: iptcorigin.cpp:303 xmporigin.cpp:294
+msgid "Suriname"
+msgstr "ซูรีนามิ"
+
+#: iptcorigin.cpp:304 xmporigin.cpp:295
+msgid "Svalbard & Jan Mayen Islands"
+msgstr ""
+
+#: iptcorigin.cpp:305 xmporigin.cpp:296
+msgid "Swaziland"
+msgstr "สวาซิแลนด์"
+
+#: iptcorigin.cpp:306 xmporigin.cpp:297
+msgid "Sweden"
+msgstr "สวีเดน"
+
+#: iptcorigin.cpp:307 xmporigin.cpp:298
+msgid "Switzerland"
+msgstr "สวิสเซอร์แลนด์"
+
+#: iptcorigin.cpp:308 xmporigin.cpp:299
+msgid "Syrian Arab Republic"
+msgstr "สาธารณรัฐอาหรับซีเรีย"
+
+#: iptcorigin.cpp:309 xmporigin.cpp:300
+msgid "Taiwan"
+msgstr "ไต้หวัน"
+
+#: iptcorigin.cpp:310 xmporigin.cpp:301
+msgid "Tajikistan"
+msgstr "ธาจีกิสถาน"
+
+#: iptcorigin.cpp:311 xmporigin.cpp:302
+msgid "Tanzania"
+msgstr "แทนซาเนีย"
+
+#: iptcorigin.cpp:312 xmporigin.cpp:303
+msgid "Thailand"
+msgstr "ราชอาณาจักรไทย"
+
+#: iptcorigin.cpp:313 xmporigin.cpp:304
+msgid "Timor-Leste"
+msgstr "ติมอร์ตะวันออก"
+
+#: iptcorigin.cpp:314 xmporigin.cpp:305
+msgid "Togo"
+msgstr "โตโก"
+
+#: iptcorigin.cpp:315 xmporigin.cpp:306
+msgid "Tokelau Islands"
+msgstr ""
+
+#: iptcorigin.cpp:316 xmporigin.cpp:307
+msgid "Tonga"
+msgstr "ตองก้า"
+
+#: iptcorigin.cpp:317 xmporigin.cpp:308
+msgid "Trinidad and Tobago"
+msgstr "ตรีนิแดดและโทบาโก"
+
+#: iptcorigin.cpp:318 xmporigin.cpp:309
+msgid "Tunisia"
+msgstr "ตูนีเซีย"
+
+#: iptcorigin.cpp:319 xmporigin.cpp:310
+msgid "Turkey"
+msgstr "ตุรกี"
+
+#: iptcorigin.cpp:320 xmporigin.cpp:311
+msgid "Turkmenistan"
+msgstr "เตอร์กเมนิสถาน"
+
+#: iptcorigin.cpp:321 xmporigin.cpp:312
+msgid "Turks and Caicos Islands"
+msgstr "เกาะดติร์กและเคคอส"
+
+#: iptcorigin.cpp:322 xmporigin.cpp:313
+msgid "Tuvalu"
+msgstr "ตูวาลู"
+
+#: iptcorigin.cpp:323 xmporigin.cpp:314
+msgid "US Virgin Islands"
+msgstr "หมู่เกาะยูเอสเวอร์จิ้น"
+
+#: iptcorigin.cpp:324 xmporigin.cpp:315
+msgid "Uganda"
+msgstr "ยูกันดา"
+
+#: iptcorigin.cpp:325 xmporigin.cpp:316
+msgid "Ukraine"
+msgstr "ยูเครน"
+
+#: iptcorigin.cpp:326 xmporigin.cpp:317
+msgid "United Arab Emirates"
+msgstr "สหรัฐอาหรับอีมิเรตส์"
+
+#: iptcorigin.cpp:327 xmporigin.cpp:318
+msgid "United Kingdom"
+msgstr "สหราชอาณาจักร"
+
+#: iptcorigin.cpp:328 xmporigin.cpp:319
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+#: iptcorigin.cpp:329 xmporigin.cpp:320
+msgid "United States of America"
+msgstr "สหรัฐอเมริกา"
+
+#: iptcorigin.cpp:330 xmporigin.cpp:321
+msgid "Uruguay, Eastern Republic of"
+msgstr ""
+
+#: iptcorigin.cpp:331 xmporigin.cpp:322
+msgid "Uzbekistan"
+msgstr "อุซเบกิสถาน"
+
+#: iptcorigin.cpp:332 xmporigin.cpp:323
+msgid "Vanuatu"
+msgstr "แวนัวตู"
+
+#: iptcorigin.cpp:333 xmporigin.cpp:324
+msgid "Venezuela"
+msgstr "เวเนซุเอลา"
+
+#: iptcorigin.cpp:334 xmporigin.cpp:325
+msgid "Viet Nam"
+msgstr "เวียตนาม"
+
+#: iptcorigin.cpp:335 xmporigin.cpp:326
+msgid "Wallis and Futuna Islands "
+msgstr ""
+
+#: iptcorigin.cpp:336 xmporigin.cpp:327
+msgid "Western Sahara"
+msgstr "ซาฮาร่าตะวันตก"
+
+#: iptcorigin.cpp:337 xmporigin.cpp:328
+msgid "Yemen"
+msgstr "เยเมน"
+
+#: iptcorigin.cpp:338 xmporigin.cpp:329
+msgid "Zambia"
+msgstr "แซมเบีย"
+
+#: iptcorigin.cpp:339 xmporigin.cpp:330
+msgid "Zimbabwe"
+msgstr "ซิมบับเว"
+
+#: iptcorigin.cpp:343 xmporigin.cpp:334
+msgid "United Nations"
+msgstr "สหประชาชาติ"
+
+#: iptcorigin.cpp:344 xmporigin.cpp:335
+msgid "European Union"
+msgstr "สหภาพยุโรป"
+
+#: iptcorigin.cpp:345 xmporigin.cpp:336
+msgid "Space"
+msgstr "อวกาศ"
+
+#: iptcorigin.cpp:346 xmporigin.cpp:337
+msgid "At Sea"
+msgstr "ทะเล"
+
+#: iptcorigin.cpp:347 xmporigin.cpp:338
+msgid "In Flight"
+msgstr "บนเครื่องบิน"
+
+#: iptcorigin.cpp:348 xmporigin.cpp:339
+msgid "England"
+msgstr "อังกฤษ"
+
+#: iptcorigin.cpp:349 xmporigin.cpp:340
+msgid "Scotland"
+msgstr "สก็อตแลนด์"
+
+#: iptcorigin.cpp:350 xmporigin.cpp:341
+msgid "Northern Ireland"
+msgstr "ไอร์แลนด์เหนือ"
+
+#: iptcorigin.cpp:351 xmporigin.cpp:342
+msgid "Wales"
+msgstr "เวลส์"
+
+#: iptcorigin.cpp:352 xmporigin.cpp:343
+msgid "Palestine"
+msgstr "ปาเลสไตน์"
+
+#: iptcorigin.cpp:353 xmporigin.cpp:344
+msgid "Gaza"
+msgstr "กาซ่า"
+
+#: iptcorigin.cpp:354 xmporigin.cpp:345
+msgid "Jericho"
+msgstr "เจอริโก"
+
+#: iptcorigin.cpp:402 xmporigin.cpp:382
+msgid "Digitization date"
+msgstr "วันที่แปลงเป็นดิจิทัล"
+
+#: iptcorigin.cpp:403
+msgid "Digitization time"
+msgstr "เวลาแปลงเป็นดิจิทัล"
+
+#: iptcorigin.cpp:411 xmporigin.cpp:389
+msgid "Set here the creation date of digital representation."
+msgstr "ตั้งค่าวันที่แปลงเป็นข้อมูลดิจิทัลได้ที่นี่"
+
+#: iptcorigin.cpp:413
+msgid "Set here the creation time of digital representation."
+msgstr "ตั้งค่าเวลาที่แปลงเป็นข้อมูลดิจิทัลได้ที่นี่"
+
+#: iptcorigin.cpp:420 xmporigin.cpp:396
+msgid "Creation date"
+msgstr "วันที่สร้าง"
+
+#: iptcorigin.cpp:421
+msgid "Creation time"
+msgstr "เวลาที่สร้าง"
+
+#: iptcorigin.cpp:427 xmporigin.cpp:401
+msgid "Sync EXIF creation date"
+msgstr "ปรับเทียบข้อมูลวันที่สร้างกับข้อมูล EXIF"
+
+#: iptcorigin.cpp:433 xmporigin.cpp:407
+msgid "Set here the creation date of intellectual content."
+msgstr "ตั้งค่าวันที่ที่สร้างเนื้อหาเพื่อให้มีผลกับลิขสิทธิ์ทางปัญญา"
+
+#: iptcorigin.cpp:435
+msgid "Set here the creation time of intellectual content."
+msgstr "ตั้งค่าเวลาที่สร้างเนื้อหาเพื่อให้มีผลกับลิขสิทธิ์ทางปัญญา"
+
+#: iptcorigin.cpp:442
+msgid "Location:"
+msgstr "สถานที่:"
+
+#: iptcorigin.cpp:443
+msgid "Set here the full country name referenced by the content."
+msgstr "เลือกชื่อเต็มของประเทศที่ถูกอ้างอิงโดยเนื้อหาได้ที่นี่"
+
+#: iptcorigin.cpp:454 xmpcredits.cpp:152 xmporigin.cpp:414
+msgid "City:"
+msgstr "เมือง:"
+
+#: iptcorigin.cpp:459
+msgid ""
+"Set here the city of content origin. This field is limited to 32 ASCII "
+"characters."
+msgstr "ตั้งค่าชื่อเมืองที่เป็นต้นกำเนิดภาพได้ที่นี่ โดยมีความยาวตัวอักษรแอสกีสูงสุดที่ 32 ตัวอักษร"
+
+#: iptcorigin.cpp:464 xmporigin.cpp:421
+msgid "Sublocation:"
+msgstr "สถานที่ย่อย:"
+
+#: iptcorigin.cpp:469
+msgid ""
+"Set here the content location within city. This field is limited to 32 ASCII "
+"characters."
+msgstr "ตั้งค่าสถานที่ย่อยของเมืองได้ที่นี่ โดยมีความยาวตัวอักษรแอสกีสูงสุดที่ 32 ตัวอักษร"
+
+#: iptcorigin.cpp:474 xmporigin.cpp:428
+msgid "State/Province:"
+msgstr "รัฐ/จังหวัด:"
+
+#: iptcorigin.cpp:479
+msgid ""
+"Set here the Province or State of content origin. This field is limited to "
+"32 ASCII characters."
+msgstr ""
+"ตั้งค่าชื่อจังหวัดหรือรัฐที่เป็นต้นกำเนิดของเนื้อหาได้ที่นี่ โดยมีความยาวตัวอักษรแอสกีสูงสุดที่ 32 ตัวอักษร"
+
+#: iptcorigin.cpp:484 xmpcredits.cpp:157 xmporigin.cpp:435
+msgid "Country:"
+msgstr "ประเทศ:"
+
+#: iptcorigin.cpp:492
+msgid "Select here country name of content origin."
+msgstr "เลือกชื่อประเทศต้นกำเนิดของเนื้อหาได้ที่นี่"
+
+#: iptcproperties.cpp:134
+msgid "Release date"
+msgstr "วันที่เริ่มเผยแพร่"
+
+#: iptcproperties.cpp:135
+msgid "Release time"
+msgstr "เวลาที่เริ่มเผยแพร่"
+
+#: iptcproperties.cpp:141
+msgid "Set release date to today"
+msgstr "ตั้งเวลาที่เริ่มเผยแพร่เป็นวันนี้"
+
+#: iptcproperties.cpp:143
+msgid "Set here the earliest intended usable date of intellectual content."
+msgstr "ตั้งค่าวันที่ที่ต้องการแจ้งการมีผลด้านทรัพย์สินทางปัญญาได้ที่นี่"
+
+#: iptcproperties.cpp:145
+msgid "Set here the earliest intended usable time of intellectual content."
+msgstr "ตั้งค่าเวลาที่ต้องการแจ้งการมีผลด้านทรัพย์สินทางปัญญาได้ที่นี่"
+
+#: iptcproperties.cpp:151
+msgid "Expiration date"
+msgstr "วันที่หมดอายุ"
+
+#: iptcproperties.cpp:152
+msgid "Expiration time"
+msgstr "เวลาที่หมดอายุ"
+
+#: iptcproperties.cpp:158
+msgid "Set expiration date to today"
+msgstr "เวลาที่หมดอายุเป็นวันนี้"
+
+#: iptcproperties.cpp:160
+msgid "Set here the latest intended usable date of intellectual content."
+msgstr "ตั้งค่าวันที่ที่ต้องการแจ้งการของสิ้นสุดทรัพย์สินทางปัญญาได้ที่นี่"
+
+#: iptcproperties.cpp:162
+msgid "Set here the latest intended usable time of intellectual content."
+msgstr "ตั้งค่าเวลาที่ต้องการแจ้งการของสิ้นสุดทรัพย์สินทางปัญญาได้ที่นี่"
+
+#: iptcproperties.cpp:181 xmpproperties.cpp:175
+msgid "Select here the language of content."
+msgstr "เลือกรหัสภาษาของเนื้อหาได้ที่นี่"
+
+#: iptcproperties.cpp:196 xmpproperties.cpp:197
+msgid "Select here the editorial urgency of content."
+msgstr "ตั้งค่าระดับความสำคัญหรือความเร่งด่วนของเนื้อหาได้ที่นี่"
+
+#: iptcproperties.cpp:200
+msgid "Cycle:"
+msgstr "ช่วง:"
+
+#: iptcproperties.cpp:202
+msgid "Morning"
+msgstr "ตอนเช้า"
+
+#: iptcproperties.cpp:203
+msgid "Afternoon"
+msgstr "ตอนบ่าย"
+
+#: iptcproperties.cpp:204
+msgid "Evening"
+msgstr "ตอนเย็น"
+
+#: iptcproperties.cpp:205
+#, fuzzy
+#| msgid "<p>Select here the editorial type of content."
+msgid "Select here the editorial cycle of content."
+msgstr "<p>เลือกชนิดของเนื้อหาได้ที่นี่"
+
+#: iptcproperties.cpp:209 xmpproperties.cpp:213
+msgid "Type:"
+msgstr "ประเภท:"
+
+#: iptcproperties.cpp:215 xmpproperties.cpp:117
+msgid "News"
+msgstr "ข่าว"
+
+#: iptcproperties.cpp:216 xmpproperties.cpp:113
+msgid "Data"
+msgstr "ข้อมูล"
+
+#: iptcproperties.cpp:217 xmpproperties.cpp:110
+msgid "Advisory"
+msgstr "รายงาน"
+
+#: iptcproperties.cpp:218
+msgid "Select here the editorial type of content."
+msgstr "เลือกชนิดของเนื้อหาได้ที่นี่"
+
+#: iptcproperties.cpp:219
+msgid ""
+"Set here the editorial type description of content. This field is limited to "
+"64 ASCII characters."
+msgstr "เลือกชนิดที่ใช้อธิบายถึงเนื้อหาได้ที่นี่ โดยมีความยาวตัวอักษรแอสกีสูงสุดที่ 64 ตัวอักษร"
+
+#: iptcproperties.cpp:228 subjects.cpp:191 xmpproperties.cpp:257
+msgid "Reference:"
+msgstr "อ้างอิง:"
+
+#: iptcproperties.cpp:233
+#, fuzzy
+#| msgid ""
+#| "Set here the location of original content transmission reference. This "
+#| "field is limited to 32 ASCII characters."
+msgid ""
+"Set here the original content transmission reference. This field is limited "
+"to 32 ASCII characters."
+msgstr "ตั้งค่าชื่อเมืองเพื่อใช้อ้างอิงถึงเนื้อหาได้ที่นี่ โดยมีความยาวตัวอักษรแอสกีสูงสุดที่ 32 ตัวอักษร"
+
+#: iptcstatus.cpp:90 xmpstatus.cpp:87
+msgid "Title:"
+msgstr "เรื่อง:"
+
+#: iptcstatus.cpp:95
+msgid ""
+"Set here the shorthand reference of content. This field is limited to 64 "
+"ASCII characters."
+msgstr "ตั้งค่าอ้างอิงเนื้อหาได้ที่นี่ โดยมีความยาวตัวอักษรแอสกีสูงสุดที่ 64 ตัวอักษร"
+
+#: iptcstatus.cpp:100
+msgid "Edit Status:"
+msgstr "แก้ไขสถานะ:"
+
+#: iptcstatus.cpp:105
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the city of content origin. This field is limited to 32 ASCII "
+#| "characters."
+msgid ""
+"Set here the title of content status. This field is limited to 64 ASCII "
+"characters."
+msgstr ""
+"<p>ตั้งค่าชื่อเมืองเพื่อใช้อ้างอิงถึงเนื้อหาได้ที่นี่ โดยมีความยาวตัวอักษรแอสกีสูงสุดที่ 32 ตัวอักษร"
+
+#: iptcstatus.cpp:110
+msgid "Job Identifier:"
+msgstr ""
+
+#: iptcstatus.cpp:115
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the string that identifies content that recurs. This field is "
+#| "limited to 32 ASCII characters."
+msgid ""
+"Set here the string that identifies content that recurs. This field is "
+"limited to 32 ASCII characters."
+msgstr ""
+"<p>ตั้งค่าข้อความอ้างอิงถึงงาน เช่น หมายเลขงาน ที่ใช้เนื้อหา ได้ที่นี่ "
+"โดยมีความยาวตัวอักษรแอสกีสูงสุดที่ 32 ตัวอักษร"
+
+#: iptcstatus.cpp:120 xmpstatus.cpp:104
+msgid "Special Instructions:"
+msgstr "แนะการใช้งานแบบพิเศษ:"
+
+#: iptcstatus.cpp:124
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the editorial type description of content. This field is "
+#| "limited to 64 ASCII characters."
+msgid ""
+"Enter the editorial usage instructions. This field is limited to 256 ASCII "
+"characters."
+msgstr "<p>เลือกชนิดที่ใช้อธิบายถึงเนื้อหาได้ที่นี่ โดยมีความยาวตัวอักษรแอสกีสูงสุดที่ 64 ตัวอักษร"
+
+#: iptcsubjects.cpp:59
+msgid ""
+"Enter here the Informative Provider Reference. I.P.R is a name registered "
+"with the IPTC/NAA, identifying the provider that provides an indicator of "
+"the content. The default value for the I.P.R is \"IPTC\" if a standard "
+"Reference Code is used. This field is limited to 32 ASCII characters."
+msgstr ""
+
+#: iptcsubjects.cpp:67
+msgid ""
+"Enter here the Subject Reference Number. Provides a numeric code to indicate "
+"the Subject Name plus optional Subject Matter and Subject Detail Names in "
+"the language of the service. Subject Reference is a number from the range "
+"01000000 to 17999999 and represent a language independent international "
+"reference to a Subject. A Subject is identified by its Reference Number and "
+"corresponding Names taken from a standard lists given by IPTC/NAA. If a "
+"standard reference code is used, these lists are the English language "
+"reference versions. This field is limited to 8 ASCII digit code."
+msgstr ""
+
+#: iptcsubjects.cpp:82
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the shorthand reference of content. This field is limited to "
+#| "64 ASCII characters."
+msgid ""
+"Enter here the Subject Name. English language is used if you selected a "
+"standard IPTC/NAA reference code. This field is limited to 64 ASCII "
+"characters."
+msgstr "<p>ตั้งค่าอ้างอิงเนื้อหาได้ที่นี่ ืโดยมีความยาวตัวอักษรแอสกีสูงสุดที่ 64 ตัวอักษร"
+
+#: iptcsubjects.cpp:89
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the shorthand reference of content. This field is limited to "
+#| "64 ASCII characters."
+msgid ""
+"Enter here the Subject Matter Name. English language is used if you selected "
+"a standard IPTC/NAA reference code. This field is limited to 64 ASCII "
+"characters."
+msgstr "<p>ตั้งค่าอ้างอิงเนื้อหาได้ที่นี่ ืโดยมีความยาวตัวอักษรแอสกีสูงสุดที่ 64 ตัวอักษร"
+
+#: iptcsubjects.cpp:96
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the shorthand reference of content. This field is limited to "
+#| "64 ASCII characters."
+msgid ""
+"Enter here the Subject Detail Name. English language is used if you selected "
+"a standard IPTC/NAA reference code. This field is limited to 64 ASCII "
+"characters."
+msgstr "<p>ตั้งค่าอ้างอิงเนื้อหาได้ที่นี่ ืโดยมีความยาวตัวอักษรแอสกีสูงสุดที่ 64 ตัวอักษร"
+
+#: multistringsedit.cpp:111 objectattributesedit.cpp:156
+msgid " This field is limited to:"
+msgstr ""
+
+#: multistringsedit.cpp:117 objectattributesedit.cpp:162
+msgid "<p>Printable ASCII characters.</p>"
+msgstr ""
+
+#: multistringsedit.cpp:123 objectattributesedit.cpp:168
+#, kde-format
+msgid "<p>1 character.</p>"
+msgid_plural "<p>%1 characters.</p>"
+msgstr[0] ""
+
+#: objectattributesedit.cpp:101 xmpproperties.cpp:225
+msgid "Attribute:"
+msgstr ""
+
+#: objectattributesedit.cpp:123
+#, fuzzy
+#| msgid "<p>Select here the editorial attribute of content."
+msgid "Select here the editorial attribute of content."
+msgstr "<p>ตั้งคุณสมบัติแสดงถึงเนื้อหาได้ที่นี่"
+
+#: objectattributesedit.cpp:124 xmpproperties.cpp:232
+msgid "Current"
+msgstr "เอกสารทางการเงิน"
+
+#: objectattributesedit.cpp:125 xmpproperties.cpp:233
+msgid "Analysis"
+msgstr "การวิเคราะห์"
+
+#: objectattributesedit.cpp:126 xmpproperties.cpp:234
+msgid "Archive material"
+msgstr ""
+
+#: objectattributesedit.cpp:127 xmpproperties.cpp:235
+msgid "Background"
+msgstr ""
+
+#: objectattributesedit.cpp:128 xmpproperties.cpp:236
+msgid "Feature"
+msgstr ""
+
+#: objectattributesedit.cpp:129 xmpproperties.cpp:237
+msgid "Forecast"
+msgstr "การพยากรณ์"
+
+#: objectattributesedit.cpp:130 xmpproperties.cpp:238
+msgid "History"
+msgstr "ประวัติศาสตร์"
+
+#: objectattributesedit.cpp:131 xmpproperties.cpp:239
+msgid "Obituary"
+msgstr ""
+
+#: objectattributesedit.cpp:132 xmpproperties.cpp:240
+msgid "Opinion"
+msgstr "ความคิดเห็น"
+
+#: objectattributesedit.cpp:133 xmpproperties.cpp:241
+msgid "Polls & Surveys"
+msgstr "โพลล์และการสำรวจความคิดเห็น"
+
+#: objectattributesedit.cpp:134 xmpproperties.cpp:242
+#, fuzzy
+#| msgid "Profile"
+msgctxt "Content type"
+msgid "Profile"
+msgstr "โพรไฟล์"
+
+#: objectattributesedit.cpp:135 xmpproperties.cpp:243
+msgid "Results Listings & Table"
+msgstr ""
+
+#: objectattributesedit.cpp:136 xmpproperties.cpp:244
+msgid "Side bar & Supporting information"
+msgstr ""
+
+#: objectattributesedit.cpp:137 xmpproperties.cpp:245
+msgid "Summary"
+msgstr "รายงานสรุป"
+
+#: objectattributesedit.cpp:138 xmpproperties.cpp:246
+msgid "Transcript & Verbatim"
+msgstr ""
+
+#: objectattributesedit.cpp:139 xmpproperties.cpp:247
+msgid "Interview"
+msgstr "บทสัมภาษณ์"
+
+#: objectattributesedit.cpp:140 xmpproperties.cpp:248
+msgid "From the Scene"
+msgstr "จากฉากในภาพยนตร์"
+
+#: objectattributesedit.cpp:141 xmpproperties.cpp:249
+msgid "Retrospective"
+msgstr ""
+
+#: objectattributesedit.cpp:142 xmpproperties.cpp:250
+msgid "Statistics"
+msgstr "สถิติ"
+
+#: objectattributesedit.cpp:143 xmpproperties.cpp:251
+msgid "Update"
+msgstr ""
+
+#: objectattributesedit.cpp:144 xmpproperties.cpp:252
+msgid "Wrap-up"
+msgstr ""
+
+#: objectattributesedit.cpp:145 xmpproperties.cpp:253
+msgid "Press Release"
+msgstr "สื่อสิ่งพิมพ์"
+
+#: objectattributesedit.cpp:151
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the editorial attribute description of content. This field is "
+#| "limited to 64 ASCII characters."
+msgid ""
+"Set here the editorial attribute description of content. This field is "
+"limited to 64 ASCII characters."
+msgstr "<p>ตั้งค่าคุณสมบัติที่แสดงถึงเนื้อหาได้ที่นี่ โดยมีความยาวตัวอักษรแอสกีสูงสุดที่ 64 ตัวอักษร"
+
+#: plugin_metadataedit.cpp:80
+msgid "Metadata"
+msgstr "ข้อมูลกำกับภาพ"
+
+#: plugin_metadataedit.cpp:84
+msgid "Edit EXIF..."
+msgstr "แก้ไขข้อมูล EXIF..."
+
+#: plugin_metadataedit.cpp:90
+msgid "Remove EXIF..."
+msgstr "ลบข้อมูล EXIF..."
+
+#: plugin_metadataedit.cpp:96
+msgid "Import EXIF..."
+msgstr "นำเข้าข้อมูล EXIF..."
+
+#: plugin_metadataedit.cpp:106
+msgid "Edit IPTC..."
+msgstr "แก้ไขข้อมูล IPTC..."
+
+#: plugin_metadataedit.cpp:112
+msgid "Remove IPTC..."
+msgstr "ลบข้อมูล IPTC..."
+
+#: plugin_metadataedit.cpp:118
+msgid "Import IPTC..."
+msgstr "นำเข้าข้อมูล IPTC..."
+
+#: plugin_metadataedit.cpp:128
+msgid "Edit XMP..."
+msgstr "แก้ไขข้อมูล XMP..."
+
+#: plugin_metadataedit.cpp:134
+msgid "Remove XMP..."
+msgstr "ลบข้อมูล XMP..."
+
+#: plugin_metadataedit.cpp:140
+msgid "Import XMP..."
+msgstr "นำเข้าข้อมูล XMP..."
+
+#: plugin_metadataedit.cpp:150
+msgid "Edit Captions..."
+msgstr "แก้ไขคำบรรยายภาพ..."
+
+#: plugin_metadataedit.cpp:156
+msgid "Remove Captions..."
+msgstr "ลบคำบรรยายภาพ..."
+
+#: plugin_metadataedit.cpp:201
+#, fuzzy
+#| msgid ""
+#| "EXIF metadata will be permanently removed from all current selected "
+#| "pictures.\n"
+#| "Do you want to continue ?"
+msgid ""
+"EXIF metadata will be permanently removed from all currently selected "
+"pictures.\n"
+"Do you want to continue?"
+msgstr ""
+"ข้อมูลกำกับภาพแบบ EXIF จะถูกลบออกไปอย่างถาวรจากภาพทั้งหมดที่เลือกไว้\n"
+"คุณต้องการจะทำต่อไปหรือไม่ ?"
+
+#: plugin_metadataedit.cpp:203 plugin_metadataedit.cpp:248
+msgid "Remove EXIF Metadata"
+msgstr "ลบข้อมูลกำกับภาพแบบ EXIF"
+
+#: plugin_metadataedit.cpp:246
+msgid "Unable to remove EXIF metadata from:"
+msgstr "ไม่สามารถลบข้อมูลกำกับภาพแบบ EXIF จาก:"
+
+#: plugin_metadataedit.cpp:266
+msgid "Select File to Import EXIF metadata"
+msgstr "เลือกแฟ้มที่จะใช้นำเข้าข้อมูลกำกับภาพแบบ EXIF"
+
+#: plugin_metadataedit.cpp:276 plugin_metadataedit.cpp:443
+#: plugin_metadataedit.cpp:610
+#, kde-format
+msgid "Cannot load metadata from \"%1\""
+msgstr "ไม่สามารถดึงข้อมูลกำกับภาพจาก \"%1\" ได้"
+
+#: plugin_metadataedit.cpp:277 plugin_metadataedit.cpp:286
+#: plugin_metadataedit.cpp:295 plugin_metadataedit.cpp:340
+msgid "Import EXIF Metadata"
+msgstr "นำเข้าข้อมูลกำกับภาพแบบ EXIF"
+
+#: plugin_metadataedit.cpp:285
+#, fuzzy, kde-format
+#| msgid "\"%1\" do not have EXIF metadata"
+msgid "\"%1\" does not have EXIF metadata."
+msgstr "\"%1\" ไม่มีส่วนข้อมูลกำกับภาพแบบ EXIF"
+
+#: plugin_metadataedit.cpp:292
+#, fuzzy, kde-format
+#| msgid ""
+#| "EXIF metadata from current selected pictures will be permanently replaced "
+#| "by the EXIF content of \"%1\".\n"
+#| "Do you want to continue ?"
+msgid ""
+"EXIF metadata from the currently selected pictures will be permanently "
+"replaced by the EXIF content of \"%1\".\n"
+"Do you want to continue?"
+msgstr ""
+"ข้อมูลกำกับภาพแบบ EXIF ที่อยู่ในภาพถ่ายที่เลือกไว้ในปัจจุบัน "
+"จะถูกแทนที่อย่างถาวรด้วยข้อมูลกำกับภาพแบบ EXIF จาก \"%1\"\n"
+"คุณต้องการทำต่อไปหรือไม่ ?"
+
+#: plugin_metadataedit.cpp:338
+msgid "Unable to set EXIF metadata from:"
+msgstr "ไม่สามารถตั้งค่าข้อมูลกำกับภาพแบบ EXIF จาก:"
+
+#: plugin_metadataedit.cpp:368
+#, fuzzy
+#| msgid ""
+#| "IPTC metadata will be permanently removed from all current selected "
+#| "pictures.\n"
+#| "Do you want to continue ?"
+msgid ""
+"IPTC metadata will be permanently removed from all currently selected "
+"pictures.\n"
+"Do you want to continue?"
+msgstr ""
+"ข้อมูลกำกับภาพแบบ IPTC จะถูกลบออกไปอย่างถาวรจากภาพถ่ายทั้งหมดที่เลือกไว้ในปัจจุบัน\n"
+"คุณต้องการทำต่อไปหรือไม่ ?"
+
+#: plugin_metadataedit.cpp:370 plugin_metadataedit.cpp:415
+msgid "Remove IPTC Metadata"
+msgstr "ลบข้อมูลกำกับภาพแบบ IPTC"
+
+#: plugin_metadataedit.cpp:413
+msgid "Unable to remove IPTC metadata from:"
+msgstr "ไม่สามารถลบข้อมูลกำกับภาพแบบ IPTC จาก:"
+
+#: plugin_metadataedit.cpp:433
+msgid "Select File to Import IPTC metadata"
+msgstr "เลือกแฟ้มที่จะใช้นำเข้าข้อมูลกำกับภาพแบบ IPTC"
+
+#: plugin_metadataedit.cpp:444 plugin_metadataedit.cpp:453
+#: plugin_metadataedit.cpp:462 plugin_metadataedit.cpp:507
+msgid "Import IPTC Metadata"
+msgstr "นำเข้าข้อมูลกำกับภาพแบบ IPTC"
+
+#: plugin_metadataedit.cpp:452
+#, fuzzy, kde-format
+#| msgid "\"%1\" do not have IPTC metadata"
+msgid "\"%1\" does not have IPTC metadata."
+msgstr "\"%1\" ไม่มีส่วนข้อมูลกำกับภาพแบบ IPTC"
+
+#: plugin_metadataedit.cpp:459
+#, fuzzy, kde-format
+#| msgid ""
+#| "IPTC metadata from current selected pictures will be permanently replaced "
+#| "by the IPTC content of \"%1\".\n"
+#| "Do you want to continue ?"
+msgid ""
+"IPTC metadata from the currently selected pictures will be permanently "
+"replaced by the IPTC content of \"%1\".\n"
+"Do you want to continue?"
+msgstr ""
+"ข้อมูลกำกับภาพแบบ IPTC จากภาพถ่ายที่เลือกไว้ในปัจจุบัน "
+"จะถูกแทนที่อย่างถาวรด้วยข้อมูลกำกับภาพแบบ IPTC จาก \"%1\"\n"
+"คุณต้องการจะทำต่อไปหรือไม่ ?"
+
+#: plugin_metadataedit.cpp:505
+msgid "Unable to set IPTC metadata from:"
+msgstr "ไม่สามารถตั้งค่าข้อมูลกำกับภาพแบบ IPTC จาก:"
+
+#: plugin_metadataedit.cpp:535
+#, fuzzy
+#| msgid ""
+#| "XMP metadata will be permanently removed from all current selected "
+#| "pictures.\n"
+#| "Do you want to continue ?"
+msgid ""
+"XMP metadata will be permanently removed from all of the currently selected "
+"pictures.\n"
+"Do you want to continue?"
+msgstr ""
+"ข้อมูลกำกับภาพแบบ XMP จากภาพถ่ายที่เลือกไว้ จะถูกลบออกอย่างถาวร\n"
+"คุณต้องการจะทำต่อไปหรือไม่ ?"
+
+#: plugin_metadataedit.cpp:537 plugin_metadataedit.cpp:582
+msgid "Remove XMP Metadata"
+msgstr "ลบข้อมูลกำกับภาพแบบ XMP"
+
+#: plugin_metadataedit.cpp:580
+msgid "Unable to remove XMP metadata from:"
+msgstr "ไม่สามารถลบข้อมูลกำกับภาพแบบ XMP จาก:"
+
+#: plugin_metadataedit.cpp:600
+msgid "Select File to Import XMP metadata"
+msgstr "เลือกแฟ้มที่จะใช้นำเข้าข้อมูลกำกับภาพแบบ XMP"
+
+#: plugin_metadataedit.cpp:611 plugin_metadataedit.cpp:620
+#: plugin_metadataedit.cpp:629 plugin_metadataedit.cpp:674
+msgid "Import XMP Metadata"
+msgstr "นำเข้าข้อมูลกำกับภาพแบบ XMP"
+
+#: plugin_metadataedit.cpp:619
+#, fuzzy, kde-format
+#| msgid "\"%1\" do not have XMP metadata"
+msgid "\"%1\" does not have XMP metadata."
+msgstr "\"%1\" ไม่มีส่วนข้อมูลกำกับภาพแบบ XMP"
+
+#: plugin_metadataedit.cpp:626
+#, fuzzy, kde-format
+#| msgid ""
+#| "XMP metadata from current selected pictures will be permanently replaced "
+#| "by the XMP content of \"%1\".\n"
+#| "Do you want to continue ?"
+msgid ""
+"XMP metadata from the currently selected pictures will be permanently "
+"replaced by the XMP content of \"%1\".\n"
+"Do you want to continue?"
+msgstr ""
+"ข้อมูลกำกับภาพแบบ XMP จากภาพถ่ายที่เลือกไว้ในปัจจุบัน จะถูกแทนที่อย่างถาวรด้วยข้อมูลกำกับภาพแบบ "
+"XMP จาก \"%1\"\n"
+"คุณต้องการจะทำต่อไปหรือไม่ ?"
+
+#: plugin_metadataedit.cpp:672
+msgid "Unable to set XMP metadata from:"
+msgstr "ไม่สามารถตั้งค่าข้อมูลกำกับภาพแบบ XMP จาก:"
+
+#: plugin_metadataedit.cpp:761
+msgid "Unable to set captions as image metadata from:"
+msgstr "ไม่สามารถตั้งคำบรรยายภาพที่เป็นข้อมูลกำกับภาพจาก:"
+
+#: plugin_metadataedit.cpp:842
+msgid "Unable to remove caption as image metadata from:"
+msgstr "ไม่สามารถลบคำบรรยายภาพที่เป็นข้อมูลกำกับภาพจาก:"
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ถนอมทรัพย์ นพบูรณ์"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "donga.nb@gmail.com"
+
+#: subjects.cpp:134
+msgid "Use structured definition of the subject matter:"
+msgstr "ปรับใช้โครงสร้างที่กำหนดไว้ในส่วนหัวข้อ:"
+
+#: subjects.cpp:140
+msgid ""
+"Use standard <b><a href='http://www.iptc.org/NewsCodes'>reference code</a></"
+"b>"
+msgstr ""
+
+#: subjects.cpp:146
+msgid "Use custom definition"
+msgstr "ใช้ค่าที่กำหนดเอง"
+
+#: subjects.cpp:190
+msgid "I.P.R:"
+msgstr ""
+
+#: subjects.cpp:192
+msgid "Name:"
+msgstr "ชื่อ:"
+
+#: subjects.cpp:193
+msgid "Matter:"
+msgstr ""
+
+#: subjects.cpp:194
+msgid "Detail:"
+msgstr "รายละเอียด:"
+
+#: xmpcategories.cpp:89
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the city of content origin. This field is limited to 32 ASCII "
+#| "characters."
+msgid ""
+"Set here the category of content. This field is limited to 3 characters."
+msgstr ""
+"<p>ตั้งค่าชื่อเมืองเพื่อใช้อ้างอิงถึงเนื้อหาได้ที่นี่ โดยมีความยาวตัวอักษรแอสกีสูงสุดที่ 32 ตัวอักษร"
+
+#: xmpcategories.cpp:96
+msgid "Enter here a new supplemental category of content."
+msgstr ""
+
+#: xmpcontent.cpp:93
+#, fuzzy
+#| msgid "<p>Set here the contact address."
+msgid "Enter here the content synopsis."
+msgstr "<p>ตั้งค่าที่อยู่สำหรับติดต่อได้ที่นี่"
+
+#: xmpcontent.cpp:98
+#, fuzzy
+#| msgid "<p>Set here the contact city."
+msgid "Enter the content description."
+msgstr "<p>ตั้งค่าเมืองสำหรับติดต่อได้ที่นี่"
+
+#: xmpcontent.cpp:100
+msgid "Default Language Caption Options"
+msgstr ""
+
+#: xmpcontent.cpp:123
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the necessary copyright notice. This field is limited to 128 "
+#| "ASCII characters."
+msgid "Enter the necessary copyright notice."
+msgstr "<p>ตั้งค่าการแจ้งการสงวนลิขสิทธิ์ได้ที่นี่ โดยมีการจำกัดความยาวตัวอักษรแอสกีที่ 128 ตัวอักษร"
+
+#: xmpcredits.cpp:124
+msgid "Contact"
+msgstr "การติดต่อ"
+
+#: xmpcredits.cpp:127
+msgid "E-mail:"
+msgstr "อีเมล:"
+
+#: xmpcredits.cpp:130
+msgid "Set here the contact e-mail."
+msgstr "ตั้งค่าอีเมลสำหรับติดต่อได้ที่นี่"
+
+#: xmpcredits.cpp:132
+msgid "URL:"
+msgstr "ที่อยู่ URL:"
+
+#: xmpcredits.cpp:135
+msgid "Set here the contact URL."
+msgstr "ตั้งค่าที่อยู่ URL สำหรับติดต่อได้ที่นี่"
+
+#: xmpcredits.cpp:137
+msgid "Phone:"
+msgstr "หมายเลขโทรศัพท์:"
+
+#: xmpcredits.cpp:140
+#, fuzzy
+#| msgid "Set here the contact phone."
+msgid "Set here the contact 'phone number."
+msgstr "ตั้งค่าหมายเลขโทรศัพท์สำหรับติดต่อได้ที่นี่"
+
+#: xmpcredits.cpp:142
+msgctxt "Street address"
+msgid "Address:"
+msgstr "ที่อยู่:"
+
+#: xmpcredits.cpp:145
+msgid "Set here the contact address."
+msgstr "ตั้งค่าที่อยู่สำหรับติดต่อได้ที่นี่"
+
+#: xmpcredits.cpp:147
+msgid "Postal code:"
+msgstr "รหัสไปรษณีย์:"
+
+#: xmpcredits.cpp:150
+msgid "Set here the contact postal code."
+msgstr "ตั้งค่ารหัสไปรษณีย์สำหรับติดต่อได้ที่นี่"
+
+#: xmpcredits.cpp:155
+msgid "Set here the contact city."
+msgstr "ตั้งค่าเมืองสำหรับติดต่อได้ที่นี่"
+
+#: xmpcredits.cpp:160
+msgid "Set here the contact country."
+msgstr "ตั้งค่าประเทศสำหรับติดต่อได้ที่นี่"
+
+#: xmpcredits.cpp:185
+#, fuzzy
+#| msgid "<p>Set here the contact phone."
+msgid "Set here the content provider."
+msgstr "<p>ตั้งค่าหมายเลขโทรศัพท์สำหรับติดต่อได้ที่นี่"
+
+#: xmpcredits.cpp:192
+#, fuzzy
+#| msgid "<p>Select here the editorial type of content."
+msgid "Set here the original owner of content."
+msgstr "<p>เลือกชนิดของเนื้อหาได้ที่นี่"
+
+#: xmpeditdialog.cpp:209
+#, fuzzy
+#| msgid "(c) 2007-2008, Gilles Caulier"
+msgid "(c) 2007-2009, Gilles Caulier"
+msgstr "(c) 2007-2008, Gilles Caulier"
+
+#: xmpeditdialog.cpp:363
+msgid "Edit XMP Metadata"
+msgstr "แก้ไขข้อมูลกำกับภาพแบบ XMP"
+
+#: xmpkeywords.cpp:85
+msgid "Enter here a new keyword."
+msgstr ""
+
+#: xmporigin.cpp:417
+#, fuzzy
+#| msgid "Set here the city of content origin."
+msgid "Set here the content's city of origin."
+msgstr "เลือกชื่อประเทศต้นกำเนิดของเนื้อหาได้ที่นี่"
+
+#: xmporigin.cpp:424
+#, fuzzy
+#| msgid "Set here the contact city."
+msgid "Set here the content's location within the city."
+msgstr "ตั้งค่าเมืองสำหรับติดต่อได้ที่นี่"
+
+#: xmporigin.cpp:431
+#, fuzzy
+#| msgid "<p>Select here country name of content origin."
+msgid "Set here the content's Province or State of origin."
+msgstr "<p>เลือกชื่อประเทศต้นกำเนิดของเนื้อหาได้ที่นี่"
+
+#: xmporigin.cpp:443
+#, fuzzy
+#| msgid "Set here the contact country."
+msgid "Select here the content's country of origin."
+msgstr "ตั้งค่าประเทศสำหรับติดต่อได้ที่นี่"
+
+#: xmpproperties.cpp:85
+msgid "Headshot"
+msgstr ""
+
+#: xmpproperties.cpp:86
+msgid "Half-length"
+msgstr ""
+
+#: xmpproperties.cpp:87
+msgid "Full-length"
+msgstr ""
+
+#: xmpproperties.cpp:88
+msgctxt "Side view of a person"
+msgid "Profile"
+msgstr "โพรไฟล์"
+
+#: xmpproperties.cpp:89
+msgid "Rear view"
+msgstr ""
+
+#: xmpproperties.cpp:90
+msgid "Single"
+msgstr ""
+
+#: xmpproperties.cpp:91
+msgid "Couple"
+msgstr ""
+
+#: xmpproperties.cpp:92
+msgid "Two"
+msgstr ""
+
+#: xmpproperties.cpp:93
+msgid "Group"
+msgstr ""
+
+#: xmpproperties.cpp:94
+msgid "General view"
+msgstr ""
+
+#: xmpproperties.cpp:95
+msgid "Panoramic view"
+msgstr ""
+
+#: xmpproperties.cpp:96
+msgid "Aerial view"
+msgstr ""
+
+#: xmpproperties.cpp:97
+msgid "Under-water"
+msgstr ""
+
+#: xmpproperties.cpp:99
+msgid "Satellite"
+msgstr ""
+
+#: xmpproperties.cpp:100
+msgid "Exterior view"
+msgstr ""
+
+#: xmpproperties.cpp:101
+msgid "Interior view"
+msgstr ""
+
+#: xmpproperties.cpp:102
+msgid "Close-up"
+msgstr ""
+
+#: xmpproperties.cpp:103
+msgid "Action"
+msgstr ""
+
+#: xmpproperties.cpp:104
+msgid "Performing"
+msgstr ""
+
+#: xmpproperties.cpp:105
+msgid "Posing"
+msgstr ""
+
+#: xmpproperties.cpp:106
+msgid "Symbolic"
+msgstr ""
+
+#: xmpproperties.cpp:107
+msgid "Off-beat"
+msgstr ""
+
+#: xmpproperties.cpp:108
+msgid "Movie scene"
+msgstr ""
+
+#: xmpproperties.cpp:111
+msgid "Alert"
+msgstr ""
+
+#: xmpproperties.cpp:112
+msgid "Catalog"
+msgstr ""
+
+#: xmpproperties.cpp:114
+msgid "Document"
+msgstr ""
+
+#: xmpproperties.cpp:115
+msgid "DTD"
+msgstr ""
+
+#: xmpproperties.cpp:116
+msgid "Maintenance"
+msgstr ""
+
+#: xmpproperties.cpp:118
+msgid "News Management Mode"
+msgstr ""
+
+#: xmpproperties.cpp:119
+msgid "Package"
+msgstr ""
+
+#: xmpproperties.cpp:120
+msgid "Schema"
+msgstr ""
+
+#: xmpproperties.cpp:121
+msgid "Topic"
+msgstr ""
+
+#: xmpproperties.cpp:122
+msgid "Topic Set"
+msgstr ""
+
+#: xmpproperties.cpp:201
+msgid "Scene:"
+msgstr ""
+
+#: xmpproperties.cpp:202
+#, fuzzy
+#| msgid "<p>Select here the editorial type of content."
+msgid "Select here the scene type of the content."
+msgstr "<p>เลือกชนิดของเนื้อหาได้ที่นี่"
+
+#: xmpproperties.cpp:214
+#, fuzzy
+#| msgid "Select here the editorial type of content."
+msgid "Select here the editorial type of the content."
+msgstr "เลือกชนิดของเนื้อหาได้ที่นี่"
+
+#: xmpproperties.cpp:229
+#, fuzzy
+#| msgid "<p>Select here the editorial attribute of content."
+msgid "Set here the editorial attribute description of the content."
+msgstr "<p>ตั้งคุณสมบัติแสดงถึงเนื้อหาได้ที่นี่"
+
+#: xmpproperties.cpp:231
+#, fuzzy
+#| msgid "<p>Select here the editorial attribute of content."
+msgid "Select here the editorial attribute of the content."
+msgstr "<p>ตั้งคุณสมบัติแสดงถึงเนื้อหาได้ที่นี่"
+
+#: xmpproperties.cpp:260
+#, fuzzy
+#| msgid "<p>Set here the creation date of digital representation."
+msgid "Set here the original content transmission reference."
+msgstr "<p>ตั้งค่าวันที่แปลงเป็นข้อมูลดิจิตัลได้ที่นี่"
+
+#: xmpstatus.cpp:88
+#, fuzzy
+#| msgid "<p>Select here the editorial urgency of content."
+msgid "Set here a shorthand reference for the content."
+msgstr "<p>ตั้งค่าระดับความสำคัญหรือความเร่งด่วนของเนื้อหาได้ที่นี่"
+
+#: xmpstatus.cpp:92
+msgid "Nickname:"
+msgstr ""
+
+#: xmpstatus.cpp:95
+msgid "A short informal name for the resource."
+msgstr ""
+
+#: xmpstatus.cpp:99
+msgid "Identifiers:"
+msgstr ""
+
+#: xmpstatus.cpp:100
+#, fuzzy
+#| msgid ""
+#| "<p>Set here the string that identifies content that recurs. This field is "
+#| "limited to 32 ASCII characters."
+msgid "Set here the strings that identify content that recurs."
+msgstr ""
+"<p>ตั้งค่าข้อความอ้างอิงถึงงาน เช่น หมายเลขงาน ที่ใช้เนื้อหา ได้ที่นี่ "
+"โดยมีความยาวตัวอักษรแอสกีสูงสุดที่ 32 ตัวอักษร"
+
+#: xmpstatus.cpp:106
+msgid "Enter the editorial usage instructions."
+msgstr ""
+
+#: xmpsubjects.cpp:59
+msgid ""
+"Enter here the Informative Provider Reference. I.P.R is a name registered "
+"with the XMP/NAA, identifying the provider that provides an indicator of the "
+"content. The default value for the I.P.R is \"XMP\" if a standard Reference "
+"Code is used."
+msgstr ""
+
+#: xmpsubjects.cpp:65
+msgid ""
+"Enter here the Subject Reference Number. Provides a numeric code to indicate "
+"the Subject Name plus optional Subject Matter and Subject Detail Names in "
+"the language of the service. Subject Reference is a number from the range "
+"01000000 to 17999999 and represent a language independent international "
+"reference to a Subject. A Subject is identified by its Reference Number and "
+"corresponding Names taken from a standard lists given by XMP/NAA. If a "
+"standard reference code is used, these lists are the English language "
+"reference versions. This field is limited to 8 digit code."
+msgstr ""
+
+#: xmpsubjects.cpp:78
+msgid ""
+"Enter here the Subject Name. English language is used if you selected a "
+"standard XMP/NAA reference code."
+msgstr ""
+
+#: xmpsubjects.cpp:82
+msgid ""
+"Enter here the Subject Matter Name. English language is used if you selected "
+"a standard XMP/NAA reference code."
+msgstr ""
+
+#: xmpsubjects.cpp:86
+msgid ""
+"Enter here the Subject Detail Name. English language is used if you selected "
+"a standard XMP/NAA reference code."
+msgstr ""
+
+#~ msgid "Unknow"
+#~ msgstr "ไม่ทราบ"
+
+#~ msgid "Use standard"
+#~ msgstr "ใช้ค่ามาตรฐาน"
+
+#, fuzzy
+#~| msgid "Reference:"
+#~ msgid "reference code"
+#~ msgstr "อ้างอิง:"
+
+#, fuzzy
+#~| msgid "Use standard"
+#~ msgid "Use standard "
+#~ msgstr "ใช้ค่ามาตรฐาน"

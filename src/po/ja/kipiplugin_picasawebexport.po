@@ -1,0 +1,415 @@
+# Translation of kipiplugin_picasawebexport into Japanese.
+# This file is distributed under the same license as the kipi-plugins package.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2007, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_picasawebexport\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-25 05:49+0100\n"
+"PO-Revision-Date: 2008-12-25 23:03+0900\n"
+"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
+"Language-Team: Japanese <Kdeveloper@kde.gr.jp>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: picasaweblogin.cpp:69
+msgid "Google Login:"
+msgstr "Google ログイン:"
+
+#: picasaweblogin.cpp:73
+msgid "Password:"
+msgstr "パスワード:"
+
+#: picasaweblogin.cpp:84
+msgid "&OK"
+msgstr "&OK"
+
+#: picasaweblogin.cpp:87
+msgid "&Cancel"
+msgstr "キャンセル(&C)"
+
+#: picasawebtalker.cpp:138 picasawebwindow.cpp:279
+msgid "Login"
+msgstr "ログイン"
+
+#: picasawebtalker.cpp:177
+msgid "Getting the token"
+msgstr "トークンを取得"
+
+#: picasawebtalker.cpp:230
+msgid "Checking if previous token is still valid"
+msgstr "前回のトークンがまだ有効かどうかを確認"
+
+#: picasawebtalker.cpp:579
+msgid "No photo specified"
+msgstr "写真が指定されていません"
+
+#: picasawebtalker.cpp:581
+msgid "General upload failure"
+msgstr "アップロード失敗"
+
+#: picasawebtalker.cpp:583
+#, fuzzy
+#| msgid "Filesize was zero"
+msgid "File-size was zero"
+msgstr "ファイルサイズがゼロでした"
+
+#: picasawebtalker.cpp:585
+#, fuzzy
+#| msgid "Filetype was not recognised"
+msgid "File-type was not recognized"
+msgstr "ファイルの種類が認識されませんでした"
+
+#: picasawebtalker.cpp:587
+msgid "User exceeded upload limit"
+msgstr "ユーザのアップロード制限を超えました"
+
+#: picasawebtalker.cpp:589
+msgid "Invalid signature"
+msgstr "無効な署名"
+
+#: picasawebtalker.cpp:591
+msgid "Missing signature"
+msgstr "署名がありません"
+
+#: picasawebtalker.cpp:593
+#, fuzzy
+#| msgid "Login Failed / Invalid auth token"
+msgid "Login failed / Invalid auth token"
+msgstr "ログイン失敗 / 無効な認証トークン"
+
+#: picasawebtalker.cpp:595
+msgid "Invalid API Key"
+msgstr "無効な API キー"
+
+#: picasawebtalker.cpp:597
+msgid "Service currently unavailable"
+msgstr "サービスは現在利用できません"
+
+#: picasawebtalker.cpp:599
+msgid "Invalid Frob"
+msgstr "無効な Frob"
+
+#: picasawebtalker.cpp:601
+msgid "Format \"xxx\" not found"
+msgstr "フォーマット “xxx” が見つかりません"
+
+#: picasawebtalker.cpp:603
+msgid "Method \"xxx\" not found"
+msgstr "方法 “xxx” が見つかりません"
+
+#: picasawebtalker.cpp:605
+msgid "Invalid SOAP envelope"
+msgstr "無効な SOAP エンベロープ"
+
+#: picasawebtalker.cpp:607
+msgid "Invalid XML-RPC Method Call"
+msgstr "無効な XML-RPC メソッドコール"
+
+#: picasawebtalker.cpp:609
+msgid "The POST method is now required for all setters."
+msgstr ""
+
+#: picasawebtalker.cpp:611
+msgid "Unknown error"
+msgstr "未知のエラー"
+
+#: picasawebtalker.cpp:614
+#, fuzzy, kde-format
+#| msgid ""
+#| "Error Occured: %1\n"
+#| " We can not proceed further"
+msgid ""
+"Error occurred: %1\n"
+"Unable to proceed further."
+msgstr ""
+"エラーが発生しました: %1\n"
+"  これより先へ進めません。"
+
+#: picasawebtalker.cpp:800
+#, fuzzy
+#| msgid "Failed to fetch photoSets List"
+msgid "Failed to fetch photo-set list"
+msgstr "フォトセットリストの取得に失敗"
+
+#: picasawebtalker.cpp:913
+msgid "Failed to upload photo"
+msgstr "写真のアップロードに失敗"
+
+#: picasawebtalker.cpp:971
+msgid "Failed to query photo information"
+msgstr "写真情報のクエリに失敗"
+
+#: picasawebwindow.cpp:76
+msgid "Export to Picasa Web Service"
+msgstr "Picasa ウェブサービスにエクスポート"
+
+#: picasawebwindow.cpp:110
+#, fuzzy
+#| msgid "Picasaweb Export"
+msgid "PicasaWeb Export"
+msgstr "Picasaweb エクスポート"
+
+#: picasawebwindow.cpp:113
+#, fuzzy
+#| msgid "A Kipi plugin to export image collection to Picasaweb web service."
+msgid "A Kipi plugin to export image collections to PicasaWeb web service."
+msgstr ""
+"Picasa ウェブサービスに画像コレクションをエクスポートする Kipi プラグイン"
+
+#: picasawebwindow.cpp:115
+#, fuzzy
+#| msgid ""
+#| "(c) 2007-2009, Vardhman Jain\n"
+#| "(c) 2008-2009, Gilles Caulier"
+msgid ""
+"(c) 2007-2009, Vardhman Jain\n"
+"(c) 2008-2009, Gilles Caulier\n"
+"(c) 2009, Luka Renko"
+msgstr ""
+"(c) 2007-2009, Vardhman Jain\n"
+"(c) 2008-2009, Gilles Caulier"
+
+#: picasawebwindow.cpp:119
+msgid "Vardhman Jain"
+msgstr "Vardhman Jain"
+
+#: picasawebwindow.cpp:119
+msgid "Author and maintainer"
+msgstr "作者およびメンテナ"
+
+#: picasawebwindow.cpp:122
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: picasawebwindow.cpp:122 picasawebwindow.cpp:125
+msgid "Developer"
+msgstr "開発者"
+
+#: picasawebwindow.cpp:125
+msgid "Luka Renko"
+msgstr ""
+
+#: picasawebwindow.cpp:130
+msgid "Handbook"
+msgstr "ハンドブック"
+
+#: picasawebwindow.cpp:429
+msgid "No album selected - please create and select album."
+msgstr ""
+
+#: picasawebwindow.cpp:443
+msgid "Nothing to upload - please select photos to upload."
+msgstr ""
+
+#: picasawebwindow.cpp:537
+#, kde-format
+msgid "Uploading file %1 "
+msgstr "ファイル <filename>%1</filename> をアップロード"
+
+#: picasawebwindow.cpp:554
+#, fuzzy, kde-format
+#| msgid ""
+#| "Failed to upload photo into Picasaweb. %1\n"
+#| "Do you want to continue?"
+msgid ""
+"Failed to upload photo to PicasaWeb. %1\n"
+"Do you want to continue?"
+msgstr ""
+"Picasaweb に写真をアップロードできませんでした。%1\n"
+"続けますか？"
+
+#: plugin_picasawebexport.cpp:73
+#, fuzzy
+#| msgid "Export to &Picasaweb..."
+msgid "Export to &PicasaWeb..."
+msgstr "Picasaweb にエクスポート(&P)..."
+
+#. i18n: file: picasawebnewalbumdialog.ui:13
+#. i18n: ectx: property (windowTitle), widget (QDialog, NewAlbumDialog)
+#: rc.cpp:3 rc.cpp:92
+msgid "New Album Dialog"
+msgstr "新しいアルバム"
+
+#. i18n: file: picasawebnewalbumdialog.ui:19
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:6 rc.cpp:95
+msgid "Title"
+msgstr "タイトル"
+
+#. i18n: file: picasawebnewalbumdialog.ui:32
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: rc.cpp:9 rc.cpp:98
+msgid "Description"
+msgstr "説明"
+
+#. i18n: file: picasawebnewalbumdialog.ui:45
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: rc.cpp:12 rc.cpp:101
+msgid "Place Taken"
+msgstr "撮影された場所"
+
+#. i18n: file: picasawebnewalbumdialog.ui:58
+#. i18n: ectx: property (title), widget (QGroupBox, m_accessRadioButton)
+#: rc.cpp:15 rc.cpp:104
+msgid "Access Level"
+msgstr "アクセスレベル"
+
+#. i18n: file: picasawebnewalbumdialog.ui:64
+#. i18n: ectx: property (text), widget (QRadioButton, m_isPublicRadioButton)
+#: rc.cpp:18 rc.cpp:107
+msgid "Public"
+msgstr "公開"
+
+#. i18n: file: picasawebnewalbumdialog.ui:71
+#. i18n: ectx: property (text), widget (QRadioButton, m_isUnlistedRadioButton)
+#: rc.cpp:21 rc.cpp:110
+msgid "Unlisted / Private"
+msgstr "非表示 / 非公開"
+
+#. i18n: file: picasawebnewalbumdialog.ui:78
+#. i18n: ectx: property (text), widget (QRadioButton, m_isProtectedRadioButton)
+#: rc.cpp:24 rc.cpp:113
+msgid "Sign-In Required to View"
+msgstr ""
+
+#. i18n: file: picasawebnewalbumdialog.ui:88
+#. i18n: ectx: property (text), widget (QPushButton, m_createAlbumButton)
+#: rc.cpp:27 rc.cpp:116
+msgid "Create"
+msgstr "作成"
+
+#. i18n: file: picasawebnewalbumdialog.ui:95
+#. i18n: ectx: property (text), widget (QPushButton, m_cancelButton)
+#: rc.cpp:30 rc.cpp:119
+msgid "Cancel"
+msgstr "キャンセル"
+
+#. i18n: file: picasawebnewalbumdialog.ui:102
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: rc.cpp:33 rc.cpp:122
+msgid "Date"
+msgstr "日付"
+
+#. i18n: file: uploadwidget.ui:19
+#. i18n: ectx: property (windowTitle), widget (QWidget, UploadWidget)
+#: rc.cpp:36 rc.cpp:125
+msgid "PicasaWeb Exporter Upload"
+msgstr "PicasaWeb Exporter アップロード"
+
+#. i18n: file: uploadwidget.ui:30
+#. i18n: ectx: property (text), widget (QLabel, m_WidgetLabel)
+#: rc.cpp:39 rc.cpp:128
+msgid "PicasaWeb Uploader"
+msgstr "PicasaWeb アップローダー"
+
+#. i18n: file: uploadwidget.ui:43
+#. i18n: ectx: property (text), widget (QPushButton, m_startUploadButton)
+#: rc.cpp:42 rc.cpp:131
+msgid "Start Uploading"
+msgstr "アップロード開始"
+
+#. i18n: file: uploadwidget.ui:58
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:45 rc.cpp:134
+msgid "Album:"
+msgstr "アルバム:"
+
+#. i18n: file: uploadwidget.ui:87
+#. i18n: ectx: property (text), widget (QPushButton, m_reloadAlbumsListButton)
+#: rc.cpp:48 rc.cpp:137
+msgid "Reload"
+msgstr "再読み込み"
+
+#. i18n: file: uploadwidget.ui:100
+#. i18n: ectx: property (text), widget (QPushButton, m_newAlbumButton)
+#: rc.cpp:51 rc.cpp:140
+msgid "New &Album"
+msgstr "新しいアルバム(&A)"
+
+#. i18n: file: uploadwidget.ui:111
+#. i18n: ectx: property (text), widget (QLabel, tagsTxtLabel)
+#: rc.cpp:54 rc.cpp:143
+msgid "Tags:<p align=\"center\"></p>"
+msgstr "タグ:<p align=\"center\"></p>"
+
+#. i18n: file: uploadwidget.ui:126
+#. i18n: ectx: property (text), widget (QRadioButton, m_exportApplicationTags)
+#: rc.cpp:57 rc.cpp:146
+msgid "E&xport Application Tags"
+msgstr "アプリケーションのタグをエクスポート(&X)"
+
+#. i18n: file: uploadwidget.ui:139
+#. i18n: ectx: property (text), widget (QCheckBox, m_resizeCheckBox)
+#: rc.cpp:60 rc.cpp:149
+msgid "Resi&ze"
+msgstr "サイズ変更(&Z)"
+
+#. i18n: file: uploadwidget.ui:148
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: rc.cpp:63 rc.cpp:152
+msgid "Size (pixels):"
+msgstr "サイズ (ピクセル):"
+
+#. i18n: file: uploadwidget.ui:171
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:66 rc.cpp:155
+msgid "Compression:"
+msgstr "圧縮:"
+
+#. i18n: file: uploadwidget.ui:208
+#. i18n: ectx: property (title), widget (QGroupBox, buttonGroup1)
+#: rc.cpp:69 rc.cpp:158
+msgid "Images to upload"
+msgstr "アップロードする画像"
+
+#. i18n: file: uploadwidget.ui:214
+#. i18n: ectx: property (text), widget (QRadioButton, m_currentSelectionButton)
+#: rc.cpp:72 rc.cpp:161
+msgid "Currentl&y Selected Images"
+msgstr "現在選択されている画像(&Y)"
+
+#. i18n: file: uploadwidget.ui:221
+#. i18n: ectx: property (text), widget (QRadioButton, m_selectImagesButton)
+#: rc.cpp:75 rc.cpp:164
+msgid "Select Images for Upload"
+msgstr "アップロードする画像を選択"
+
+#. i18n: file: uploadwidget.ui:231
+#. i18n: ectx: property (text), widget (QPushButton, m_selectPhotosButton)
+#: rc.cpp:78 rc.cpp:167
+msgid "Select Photos"
+msgstr "写真を選択"
+
+#. i18n: file: uploadwidget.ui:241
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
+#: rc.cpp:81 rc.cpp:170
+msgid "Account Details"
+msgstr "アカウントの詳細"
+
+#. i18n: file: uploadwidget.ui:247
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: rc.cpp:84 rc.cpp:173
+msgid "Username:"
+msgstr "ユーザ名:"
+
+#. i18n: file: uploadwidget.ui:270
+#. i18n: ectx: property (text), widget (QPushButton, m_changeUserButton)
+#: rc.cpp:87 rc.cpp:176
+msgid "Change User"
+msgstr "ユーザを変更"
+
+#: rc.cpp:88
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Yukiko Bando"
+
+#: rc.cpp:89
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ybando@k6.dion.ne.jp"

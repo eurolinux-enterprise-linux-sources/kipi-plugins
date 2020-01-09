@@ -1,0 +1,125 @@
+# translation of kipiplugin_acquireimages.po to Hindi
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Ravishankar Shrivastava <raviratlami@yahoo.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_acquireimages\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-19 06:53+0200\n"
+"PO-Revision-Date: 2008-03-30 12:00+0530\n"
+"Last-Translator: Ravishankar Shrivastava <aviratlami@aol.in>\n"
+"Language-Team: Hindi <indlinux-hindi@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: plugin_acquireimages.cpp:76
+msgid "Import from Scanner..."
+msgstr ""
+
+#: plugin_acquireimages.cpp:110 scangui.cpp:76
+msgid "Cannot open scanner device."
+msgstr "स्कैनर उपकरन  खोले नइ जा सके."
+
+#: rc.cpp:1
+#, fuzzy
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "रविसंकर सिरीवास्तव, जी. करूनाकर"
+
+#: rc.cpp:2
+#, fuzzy
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "raviratlami@aol.in"
+
+#: scandialog.cpp:98
+msgid "Scan Image"
+msgstr "फोटू स्कैन करव"
+
+#: scandialog.cpp:107
+#, fuzzy
+msgid "Handbook"
+msgstr "प्लगइन हेंड-बुक"
+
+#: scandialog.cpp:195
+msgid "New Image File Name"
+msgstr "नवा फोटू फाइल नाम"
+
+#: scandialog.cpp:228
+#, kde-format
+msgid "The target image file format \"%1\" is unsupported."
+msgstr "लक्छ्य फोटू फाइल फारमेट \"%1\" असमर्थित हे."
+
+#: scandialog.cpp:236
+#, kde-format
+msgid ""
+"Failed to save file\n"
+"\"%1\" to\n"
+"\"%2\"."
+msgstr ""
+"फाइल को\n"
+"\"%1\" \n"
+"\"%2\" मं सहेजे मं फेल."
+
+#: scandialog.cpp:247
+#, kde-format
+msgid ""
+"A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr ""
+"फाइल नाम \"%1\"  पहिली से ही अस्तित्व मं हे. का आप मन एखर ऊपर ही मेटाय के लिखना चाहू?"
+
+#: scandialog.cpp:251
+msgid "Overwrite File?"
+msgstr "फाइल ल मेटाय के लिखव?"
+
+#: scandialog.cpp:277
+#, kde-format
+msgid "Cannot save \"%1\" file"
+msgstr ""
+
+#~ msgid "Scan Images..."
+#~ msgstr "फोटू स्कैन करव..."
+
+#~ msgid "Acquire images"
+#~ msgstr "फोटू प्राप्त करव"
+
+#, fuzzy
+#~ msgid "A Kipi plugin to acquire images using a flat scanner"
+#~ msgstr "फ्लेटबेड स्केनर के साथ फोटू प्राप्त करे बर एक केआईपीआई प्लगइन"
+
+#, fuzzy
+#~ msgid ""
+#~ "(c) 2003-2009, Gilles Caulier\n"
+#~ "(c) 2007-2009, Kare Sars"
+#~ msgstr "(c) 2003-2008, गिल्स काउलिएर"
+
+#~ msgid "Gilles Caulier"
+#~ msgstr "गिल्स काउलिएर"
+
+#~ msgid "Author"
+#~ msgstr "लेखक"
+
+#~ msgid "Kare Sars"
+#~ msgstr "केर सार्स"
+
+#~ msgid "Developer"
+#~ msgstr "डेवलपर"
+
+#~ msgid "Angelo Naselli"
+#~ msgstr "वजेलो नासेल्ली"
+
+#, fuzzy
+#~ msgid "(c) 2008-2009, Gilles Caulier"
+#~ msgstr "(c) 2003-2008, गिल्स काउलिएर"
+
+#, fuzzy
+#~ msgid "Cannot acquire image..."
+#~ msgstr "फोटू प्राप्त करव"
+
+#~ msgid "A Kipi plugin to acquire images using a flat bed scanner"
+#~ msgstr "फ्लेटबेड स्केनर के साथ फोटू प्राप्त करे बर एक केआईपीआई प्लगइन"

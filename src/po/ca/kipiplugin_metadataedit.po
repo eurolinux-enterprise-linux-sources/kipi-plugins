@@ -1,0 +1,4453 @@
+# Translation of kipiplugin_metadataedit.po to Catalan
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2007, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_metadataedit\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-09-24 06:24+0200\n"
+"PO-Revision-Date: 2009-04-05 13:02+0200\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: altlangstringedit.cpp:75
+msgid "Default Language"
+msgstr "Idioma per omissió"
+
+#: altlangstringedit.cpp:79
+msgid "Afrikaans (South Africa)"
+msgstr "Afrikaans (Sud-àfrica)"
+
+#: altlangstringedit.cpp:80
+msgid "Amharic (Ethiopia)"
+msgstr "Amhàric (Etiòpia)"
+
+#: altlangstringedit.cpp:81
+msgid "Arabic (UAE)"
+msgstr "Àrab (UAE)"
+
+#: altlangstringedit.cpp:82
+msgid "Arabic (Bahrain)"
+msgstr "Àrab (Bahrain)"
+
+#: altlangstringedit.cpp:83
+msgid "Arabic (Algeria)"
+msgstr "Àrab (Algèria)"
+
+#: altlangstringedit.cpp:84
+msgid "Arabic (Egypt)"
+msgstr "Àrab (Egipte)"
+
+#: altlangstringedit.cpp:85
+msgid "Arabic (Iraq)"
+msgstr "Àrab (Iraq)"
+
+#: altlangstringedit.cpp:86
+msgid "Arabic (Jordan)"
+msgstr "Àrab (Jordània)"
+
+#: altlangstringedit.cpp:87
+msgid "Arabic (Kuwait)"
+msgstr "Àrab (Kuwait)"
+
+#: altlangstringedit.cpp:88
+msgid "Arabic (Lebanon)"
+msgstr "Àrab (Líban)"
+
+#: altlangstringedit.cpp:89
+msgid "Arabic (Libya)"
+msgstr "Àrab (Líbia)"
+
+#: altlangstringedit.cpp:90
+msgid "Arabic (Morocco)"
+msgstr "Àrab (Marroc)"
+
+#: altlangstringedit.cpp:91
+msgid "Arabic (Oman)"
+msgstr "Àrab (Oman)"
+
+#: altlangstringedit.cpp:92
+msgid "Arabic (Qatar)"
+msgstr "Àrab (Qatar)"
+
+#: altlangstringedit.cpp:93
+msgid "Arabic (Saudi Arabia)"
+msgstr "Àrab (Aràbia Saudita)"
+
+#: altlangstringedit.cpp:94
+msgid "Arabic (Syria)"
+msgstr "Àrab (Síria)"
+
+#: altlangstringedit.cpp:95
+msgid "Arabic (Tunisia)"
+msgstr "Àrab (Tunísia)"
+
+#: altlangstringedit.cpp:96
+msgid "Arabic (Yemen)"
+msgstr "Àrab (Iemen)"
+
+#: altlangstringedit.cpp:97
+msgid "Assamese (India)"
+msgstr "Assamès (Índia)"
+
+#: altlangstringedit.cpp:98
+#, fuzzy
+#| msgid "Bashkir(Russia)"
+msgid "Bashkir (Russia)"
+msgstr "Baixkir (Rússia)"
+
+#: altlangstringedit.cpp:99
+msgid "Belarusian (Belarus)"
+msgstr "Bielorús (Bielorússia)"
+
+#: altlangstringedit.cpp:100
+msgid "Bulgarian (Bulgaria)"
+msgstr "Búlgar (Bulgària)"
+
+#: altlangstringedit.cpp:101
+msgid "Bengali (India)"
+msgstr "Bengalí (Índia)"
+
+#: altlangstringedit.cpp:102
+msgid "Tibetan (Bhutan)"
+msgstr "Tibetà (Bhutan)"
+
+#: altlangstringedit.cpp:103
+msgid "Tibetan (PRC)"
+msgstr "Tibetà (Xina)"
+
+#: altlangstringedit.cpp:104
+msgid "Breton (France)"
+msgstr "Bretó (França)"
+
+#: altlangstringedit.cpp:105
+msgid "Catalan (Andorra)"
+msgstr "Català (Andorra)"
+
+#: altlangstringedit.cpp:106
+msgid "Catalan (Spain)"
+msgstr "Català (Espanya)"
+
+#: altlangstringedit.cpp:107
+msgid "Catalan (France)"
+msgstr "Català (França)"
+
+#: altlangstringedit.cpp:108
+msgid "Corsican (France)"
+msgstr "Cors (França)"
+
+#: altlangstringedit.cpp:109
+msgid "Czech (Czech Republic)"
+msgstr "Txec (República Txeca)"
+
+#: altlangstringedit.cpp:110
+msgid "Welsh (United Kingdom)"
+msgstr "Gal·lès (Regne Unit)"
+
+#: altlangstringedit.cpp:111
+msgid "Danish (Denmark)"
+msgstr "Danès (Dinamarca)"
+
+#: altlangstringedit.cpp:112
+msgid "German (Austria)"
+msgstr "Alemany (Àustria)"
+
+#: altlangstringedit.cpp:113
+msgid "German (Switzerland)"
+msgstr "Alemany (Suïssa)"
+
+#: altlangstringedit.cpp:114
+msgid "German (Germany)"
+msgstr "Alemany (Alemanya)"
+
+#: altlangstringedit.cpp:115
+msgid "German (Liechtenstein)"
+msgstr "Alemany (Liechtenstein)"
+
+#: altlangstringedit.cpp:116
+msgid "German (Luxembourg)"
+msgstr "Alemany (Luxemburg)"
+
+#: altlangstringedit.cpp:117
+msgid "Greek (Greece)"
+msgstr "Grec (Grècia)"
+
+#: altlangstringedit.cpp:118
+msgid "English (Australia)"
+msgstr "Anglès (Austràlia)"
+
+#: altlangstringedit.cpp:119
+msgid "English (Belize)"
+msgstr "Anglès (Belize)"
+
+#: altlangstringedit.cpp:120
+msgid "English (Canada)"
+msgstr "Anglès (Canadà)"
+
+#: altlangstringedit.cpp:121
+msgid "English (Caribbean)"
+msgstr "Anglès (Caribeny)"
+
+#: altlangstringedit.cpp:122
+msgid "English (United Kingdom)"
+msgstr "Anglès (Regne Unit)"
+
+#: altlangstringedit.cpp:123
+msgid "English (Ireland)"
+msgstr "Anglès (Irlanda)"
+
+#: altlangstringedit.cpp:124
+msgid "English (India)"
+msgstr "Anglès (Índia)"
+
+#: altlangstringedit.cpp:125
+msgid "English (Jamaica)"
+msgstr "Anglès (Jamaica)"
+
+#: altlangstringedit.cpp:126
+msgid "English (Malaysia)"
+msgstr "Anglès (Malàisia)"
+
+#: altlangstringedit.cpp:127
+msgid "English (New Zealand)"
+msgstr "Anglès (Nova Zelanda)"
+
+#: altlangstringedit.cpp:128
+msgid "English (Philippines)"
+msgstr "Anglès (Filipines)"
+
+#: altlangstringedit.cpp:129
+msgid "English (Singapore)"
+msgstr "Anglès (Singapur)"
+
+#: altlangstringedit.cpp:130
+msgid "English (Trinidad)"
+msgstr "Anglès (Trinidad)"
+
+#: altlangstringedit.cpp:131
+msgid "English (United States)"
+msgstr "Anglès (Estats Units)"
+
+#: altlangstringedit.cpp:132
+msgid "English (South Africa)"
+msgstr "Anglès (Sud-àfrica)"
+
+#: altlangstringedit.cpp:133
+msgid "English (Zimbabwe)"
+msgstr "Anglès (Zimbabwe)"
+
+#: altlangstringedit.cpp:134
+msgid "Spanish (Argentina)"
+msgstr "Espanyol (Argentina)"
+
+#: altlangstringedit.cpp:135
+msgid "Spanish (Bolivia)"
+msgstr "Espanyol (Bolívia)"
+
+#: altlangstringedit.cpp:136
+msgid "Spanish (Chile)"
+msgstr "Espanyol (Xile)"
+
+#: altlangstringedit.cpp:137
+msgid "Spanish (Colombia)"
+msgstr "Espanyol (Colòmbia)"
+
+#: altlangstringedit.cpp:138
+msgid "Spanish (Costa Rica)"
+msgstr "Espanyol (Costa Rica)"
+
+#: altlangstringedit.cpp:139
+msgid "Spanish (Dominican Republic)"
+msgstr "Espanyol (República Dominicana)"
+
+#: altlangstringedit.cpp:140
+msgid "Spanish (Ecuador)"
+msgstr "Espanyol (Equador)"
+
+#: altlangstringedit.cpp:141
+msgid "Spanish (Spain)"
+msgstr "Espanyol (Espanya)"
+
+#: altlangstringedit.cpp:142
+msgid "Spanish (Guatemala)"
+msgstr "Espanyol (Guatemala)"
+
+#: altlangstringedit.cpp:143
+msgid "Spanish (Honduras)"
+msgstr "Espanyol (Hondures)"
+
+#: altlangstringedit.cpp:144
+msgid "Spanish (Mexico)"
+msgstr "Espanyol (Mèxic)"
+
+#: altlangstringedit.cpp:145
+msgid "Spanish (Nicaragua)"
+msgstr "Espanyol (Nicaragua)"
+
+#: altlangstringedit.cpp:146
+msgid "Spanish (Panama)"
+msgstr "Espanyol (Panamà)"
+
+#: altlangstringedit.cpp:147
+msgid "Spanish (Peru)"
+msgstr "Espanyol (Perú)"
+
+#: altlangstringedit.cpp:148
+msgid "Spanish (Puerto Rico)"
+msgstr "Espanyol (Puerto Rico)"
+
+#: altlangstringedit.cpp:149
+msgid "Spanish (Paraguay)"
+msgstr "Espanyol (Paraguai)"
+
+#: altlangstringedit.cpp:150
+msgid "Spanish (El Salvador)"
+msgstr "Espanyol (El Salvador)"
+
+#: altlangstringedit.cpp:151
+msgid "Spanish (Uruguay)"
+msgstr "Espanyol (Uruguai)"
+
+#: altlangstringedit.cpp:152
+msgid "Spanish (United States)"
+msgstr "Espanyol (Estats Units)"
+
+#: altlangstringedit.cpp:153
+msgid "Spanish (Venezuela)"
+msgstr "Espanyol (Veneçuela)"
+
+#: altlangstringedit.cpp:154
+msgid "Estonian (Estonia)"
+msgstr "Estonià (Estònia)"
+
+#: altlangstringedit.cpp:155
+msgid "Basque (Basque Country)"
+msgstr "Basc (País Basc)"
+
+#: altlangstringedit.cpp:156
+msgid "Persian (Iran)"
+msgstr "Persa (Iran)"
+
+#: altlangstringedit.cpp:157
+msgid "Finnish (Finland)"
+msgstr "Finès (Finlàndia)"
+
+#: altlangstringedit.cpp:158
+msgid "Faeroese (Faero Islands)"
+msgstr "Feroès (Illes Fèroe)"
+
+#: altlangstringedit.cpp:159
+msgid "French (Belgium)"
+msgstr "Francès (Bèlgica)"
+
+#: altlangstringedit.cpp:160
+msgid "French (Canada)"
+msgstr "Francès (Canadà)"
+
+#: altlangstringedit.cpp:161
+msgid "French (Switzerland)"
+msgstr "Francès (Suïssa)"
+
+#: altlangstringedit.cpp:162
+msgid "French (France)"
+msgstr "Francès (França)"
+
+#: altlangstringedit.cpp:163
+msgid "French (Luxembourg)"
+msgstr "Francès (Luxemburg)"
+
+#: altlangstringedit.cpp:164
+msgid "French (Monaco)"
+msgstr "Francès (Mònaco)"
+
+#: altlangstringedit.cpp:165
+msgid "Frisian (Netherlands)"
+msgstr "Frisó (Països Baixos)"
+
+#: altlangstringedit.cpp:166
+msgid "Irish (Ireland)"
+msgstr "Irlandès (Irlanda)"
+
+#: altlangstringedit.cpp:167
+msgid "Galician (Galicia)"
+msgstr "Gallec (Galícia)"
+
+#: altlangstringedit.cpp:168
+msgid "Gujarati (India)"
+msgstr "Gujarati (Índia)"
+
+#: altlangstringedit.cpp:169
+msgid "Hebrew (Israel)"
+msgstr "Hebreu (Israel)"
+
+#: altlangstringedit.cpp:170
+msgid "Hindi (India)"
+msgstr "Hindi (Índia)"
+
+#: altlangstringedit.cpp:171
+msgid "Croatian (Bosnia and Herzegovina, Latin)"
+msgstr "Croata (Bòsnia i Hercegovina, llatí)"
+
+#: altlangstringedit.cpp:172
+msgid "Croatian (Croatia)"
+msgstr "Croata (Croàcia)"
+
+#: altlangstringedit.cpp:173
+msgid "Hungarian (Hungary)"
+msgstr "Hongarès (Hongria)"
+
+#: altlangstringedit.cpp:174
+msgid "Armenian (Armenia)"
+msgstr "Armeni (Armènia)"
+
+#: altlangstringedit.cpp:175
+msgid "(Indonesian)"
+msgstr "(Indonesi)"
+
+#: altlangstringedit.cpp:176
+msgid "Yi (PRC)"
+msgstr "Yi (Xina)"
+
+#: altlangstringedit.cpp:177
+msgid "Icelandic (Iceland)"
+msgstr "Islandès (Islàndia)"
+
+#: altlangstringedit.cpp:178
+msgid "Italian (Switzerland)"
+msgstr "Italià (Suïssa)"
+
+#: altlangstringedit.cpp:179
+msgid "Italian (Italy)"
+msgstr "Italià (Itàlia)"
+
+#: altlangstringedit.cpp:180
+msgid "Japanese (Japan)"
+msgstr "Japonès (Japó)"
+
+#: altlangstringedit.cpp:181
+msgid "Georgian (Georgia)"
+msgstr "Georgià (Geòrgia)"
+
+#: altlangstringedit.cpp:182
+msgid "Kazakh (Kazakhstan)"
+msgstr "Kazakh (Kazakhstan)"
+
+#: altlangstringedit.cpp:183
+msgid "Greenlandic (Greenland)"
+msgstr "Grenlandès (Groenlàndia)"
+
+#: altlangstringedit.cpp:184
+msgid "Khmer (Cambodia)"
+msgstr "Khmer (Cambodja)"
+
+#: altlangstringedit.cpp:185
+msgid "Kannada (India)"
+msgstr "Kanarès (Índia)"
+
+#: altlangstringedit.cpp:186
+msgid "Korean (Korea)"
+msgstr "Coreà (Corea)"
+
+#: altlangstringedit.cpp:187
+msgid "Kyrgyz (Kyrgyzstan)"
+msgstr "Kirguís (Kirguizistan)"
+
+#: altlangstringedit.cpp:188
+msgid "Luxembourgish (Luxembourg)"
+msgstr "Luxemburguès (Luxemburg)"
+
+#: altlangstringedit.cpp:189
+msgid "Lao (Lao PDR)"
+msgstr "Laosià (Laos)"
+
+#: altlangstringedit.cpp:190
+msgid "Lithuanian (Lithuania)"
+msgstr "Lituà (Lituània)"
+
+#: altlangstringedit.cpp:191
+msgid "Latvian (Latvia)"
+msgstr "Letó (Letònia)"
+
+#: altlangstringedit.cpp:192
+msgid "Maori (New Zealand)"
+msgstr "Maori (Nova Zelanda)"
+
+#: altlangstringedit.cpp:193
+msgid "Macedonian (Macedonia)"
+msgstr "Macedònic (Macedònia)"
+
+#: altlangstringedit.cpp:194
+msgid "Malayalam (India)"
+msgstr "Malaialam (Índia)"
+
+#: altlangstringedit.cpp:195
+msgid "Mongolian (PRC)"
+msgstr "Mongol (Xina)"
+
+#: altlangstringedit.cpp:196
+msgid "Mongolian (Mongolia)"
+msgstr "Mongol (Mongòlia)"
+
+#: altlangstringedit.cpp:197
+msgid "Marathi (India)"
+msgstr "Marathi (Índia)"
+
+#: altlangstringedit.cpp:198
+msgid "Malay (Brunei Darussalam)"
+msgstr "Malai (Brunei)"
+
+#: altlangstringedit.cpp:199
+msgid "Malay (Malaysia)"
+msgstr "Malai (Malàisia)"
+
+#: altlangstringedit.cpp:200
+msgid "Maltese (Malta)"
+msgstr "Maltès (Malta)"
+
+#: altlangstringedit.cpp:201
+msgid "Norwegian Bokmål (Norway)"
+msgstr "Noruec Bokmal (Noruega)"
+
+#: altlangstringedit.cpp:202
+msgid "Nepali (Nepal)"
+msgstr "Nepalès (Nepal)"
+
+#: altlangstringedit.cpp:203
+msgid "Dutch (Belgium)"
+msgstr "Holandès (Bèlgica)"
+
+#: altlangstringedit.cpp:204
+msgid "Dutch (Netherlands)"
+msgstr "Holandès (Països Baixos)"
+
+#: altlangstringedit.cpp:205
+msgid "Norwegian Nynorsk (Norway)"
+msgstr "Noruec Nynorsk (Noruega)"
+
+#: altlangstringedit.cpp:206
+msgid "Sesotho sa Leboa (South Africa)"
+msgstr "Sotho (Sud-àfrica)"
+
+#: altlangstringedit.cpp:207
+msgid "Occitan (France)"
+msgstr "Occità (França)"
+
+#: altlangstringedit.cpp:208
+msgid "Oriya (India)"
+msgstr "Oriya (Índia)"
+
+#: altlangstringedit.cpp:209
+msgid "Punjabi (India)"
+msgstr "Punjabi (Índia)"
+
+#: altlangstringedit.cpp:210
+msgid "Polish (Poland)"
+msgstr "Polonès (Polònia)"
+
+#: altlangstringedit.cpp:211
+msgid "Pashto (Afghanistan)"
+msgstr "Paixtu (Afganistan)"
+
+#: altlangstringedit.cpp:212
+msgid "Portuguese (Brazil)"
+msgstr "Portuguès (Brasil)"
+
+#: altlangstringedit.cpp:213
+msgid "Portuguese (Portugal)"
+msgstr "Portuguès (Portugal)"
+
+#: altlangstringedit.cpp:214
+msgid "Romansh (Switzerland)"
+msgstr "Romanx (Suïssa)"
+
+#: altlangstringedit.cpp:215
+msgid "Romanian (Romania)"
+msgstr "Romanès (Romania)"
+
+#: altlangstringedit.cpp:216
+msgid "Russian (Russia)"
+msgstr "Rus (Rússia)"
+
+#: altlangstringedit.cpp:217
+msgid "Kinyarwanda (Rwanda)"
+msgstr "Ruanda (Rwanda)"
+
+#: altlangstringedit.cpp:218
+msgid "Sanskrit (India)"
+msgstr "Sànscrit (Índia)"
+
+#: altlangstringedit.cpp:219
+msgid "Sami (Northern, Finland)"
+msgstr "Sami (Nord, Finlàndia)"
+
+#: altlangstringedit.cpp:220
+msgid "Sami (Northern, Norway)"
+msgstr "Sami (Nord, Noruega)"
+
+#: altlangstringedit.cpp:221
+msgid "Sami (Northern, Sweden)"
+msgstr "Sami (Nord, Suècia)"
+
+#: altlangstringedit.cpp:222
+msgid "Sinhala (Sri Lanka)"
+msgstr "Singalès (Sri Lanka)"
+
+#: altlangstringedit.cpp:223
+msgid "Slovak (Slovakia)"
+msgstr "Eslovac (Eslovàquia)"
+
+#: altlangstringedit.cpp:224
+msgid "Slovenian (Slovenia)"
+msgstr "Eslovè (Eslovènia)"
+
+#: altlangstringedit.cpp:225
+msgid "Albanian (Albania)"
+msgstr "Albanès (Albània)"
+
+#: altlangstringedit.cpp:226
+msgid "Swedish (Finland)"
+msgstr "Suec (Finlàndia)"
+
+#: altlangstringedit.cpp:227
+msgid "Swedish (Sweden)"
+msgstr "Suec (Suècia)"
+
+#: altlangstringedit.cpp:228
+msgid "Swahili (Kenya)"
+msgstr "Suahili (Kenya)"
+
+#: altlangstringedit.cpp:229
+msgid "Tamil (India)"
+msgstr "Tàmil (Índia)"
+
+#: altlangstringedit.cpp:230
+msgid "Telugu (India)"
+msgstr "Telugu (Índia)"
+
+#: altlangstringedit.cpp:231
+msgid "Thai (Thailand)"
+msgstr "Tai (Tailàndia)"
+
+#: altlangstringedit.cpp:232
+msgid "Turkmen (Turkmenistan)"
+msgstr "Turcman (Turkmenistan)"
+
+#: altlangstringedit.cpp:233
+msgid "Setswana Tswana (South Africa)"
+msgstr "Tswana (Sud-àfrica)"
+
+#: altlangstringedit.cpp:234
+msgid "Urdu (India)"
+msgstr "Urdú (Índia)"
+
+#: altlangstringedit.cpp:235
+msgid "Turkish (Turkey)"
+msgstr "Turc (Turquia)"
+
+#: altlangstringedit.cpp:236
+msgid "Tatar (Russia)"
+msgstr "Tàtar (Rússia)"
+
+#: altlangstringedit.cpp:237
+msgid "Uighur (PRC)"
+msgstr "Uigur (Xina)"
+
+#: altlangstringedit.cpp:238
+msgid "Ukrainian (Ukraine)"
+msgstr "Ucraïnès (Ucraïna)"
+
+#: altlangstringedit.cpp:239
+msgid "Urdu (Pakistan)"
+msgstr "Urdú (Pakistan)"
+
+#: altlangstringedit.cpp:240
+msgid "Vietnamese (Vietnam)"
+msgstr "Vietnamita (Vietnam)"
+
+#: altlangstringedit.cpp:241
+msgid "Wolof (Senegal)"
+msgstr "Wolof (Senegal)"
+
+#: altlangstringedit.cpp:242
+msgid "isiXhosa Xhosa (South Africa)"
+msgstr "Xosa (Sud-àfrica)"
+
+#: altlangstringedit.cpp:243
+msgid "Yoruba (Nigeria)"
+msgstr "Ioruba (Nigèria)"
+
+#: altlangstringedit.cpp:244
+msgid "Chinese (PRC)"
+msgstr "Xinès (Xina)"
+
+#: altlangstringedit.cpp:245
+msgid "Chinese (Hong Kong SAR, PRC)"
+msgstr "Xinès (Hong Kong, Xina)"
+
+#: altlangstringedit.cpp:246
+msgid "Chinese (Macao SAR)"
+msgstr "Xinès (Macao)"
+
+#: altlangstringedit.cpp:247
+msgid "Chinese (Singapore)"
+msgstr "Xinès (Singapur)"
+
+#: altlangstringedit.cpp:248
+msgid "Chinese (Taiwan)"
+msgstr "Xinès (Taiwan)"
+
+#: altlangstringedit.cpp:249
+msgid "isiZulu Zulu (South Africa)"
+msgstr "Zulu (Sud-àfrica)"
+
+#: altlangstringedit.cpp:286 multistringsedit.cpp:95 multivaluesedit.cpp:99
+#: objectattributesedit.cpp:109
+msgid "Add a new value to the list"
+msgstr "Afegeix un valor nou a la llista"
+
+#: altlangstringedit.cpp:287 multistringsedit.cpp:96 multivaluesedit.cpp:100
+#: objectattributesedit.cpp:110
+msgid "Remove the current selected value from the list"
+msgstr "Elimina el valor actualment seleccionat de la llista"
+
+#: altlangstringedit.cpp:288 multistringsedit.cpp:97 multivaluesedit.cpp:101
+#: objectattributesedit.cpp:111
+msgid "Replace the current selected value from the list"
+msgstr "Substitueix el valor actualment seleccionat de la llista"
+
+#: altlangstringedit.cpp:299
+msgid "Select here language code."
+msgstr "Seleccioneu aquí el codi d'idioma."
+
+#: altlangstringedit.cpp:313 iptcproperties.cpp:169 xmpproperties.cpp:174
+msgid "Language:"
+msgstr "Idioma:"
+
+#: commenteditdialog.cpp:89 plugin_metadataedit.cpp:763
+msgid "Edit Image Caption"
+msgstr "Edició del títol de la imatge"
+
+#: commenteditdialog.cpp:95 commentremovedialog.cpp:93 exifeditdialog.cpp:181
+#: iptceditdialog.cpp:215 xmpeditdialog.cpp:205
+msgid "Edit Metadata"
+msgstr "Editor de metadades"
+
+#: commenteditdialog.cpp:98 commentremovedialog.cpp:96 exifeditdialog.cpp:184
+#: iptceditdialog.cpp:218 xmpeditdialog.cpp:208
+#, fuzzy
+#| msgid "A Plugin to edit pictures metadata"
+msgid "A Plugin to edit pictures' metadata."
+msgstr "Un connector per editar les metadades de fotografies"
+
+#: commenteditdialog.cpp:99 commentremovedialog.cpp:97 exifeditdialog.cpp:185
+#: iptceditdialog.cpp:219
+msgid "(c) 2006-2009, Gilles Caulier"
+msgstr "(c) 2006-2009, Gilles Caulier"
+
+#: commenteditdialog.cpp:101 commentremovedialog.cpp:99 exifeditdialog.cpp:187
+#: iptceditdialog.cpp:221 xmpeditdialog.cpp:211
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: commenteditdialog.cpp:101 commentremovedialog.cpp:99 exifeditdialog.cpp:187
+#: iptceditdialog.cpp:221 xmpeditdialog.cpp:211
+msgid "Author and Maintainer"
+msgstr "Autor i mantenidor"
+
+#: commenteditdialog.cpp:109 commentremovedialog.cpp:107
+#: exifeditdialog.cpp:195 iptceditdialog.cpp:229 xmpeditdialog.cpp:219
+msgid "Handbook"
+msgstr "Manual"
+
+#: commenteditdialog.cpp:120
+#, kde-format
+msgid ""
+"Enter the image caption entered through <b>%1</b>. This field is not limited "
+"(excepted with IPTC). UTF-8 encoding will be used to save text."
+msgstr ""
+"Indiqueu aquí el títol de la imatge situat a <b>%1</b>. Aquest camp no està "
+"limitat (excepte amb IPTC). S'utilitzarà la codificació UTF8 per a desar el "
+"text."
+
+#: commenteditdialog.cpp:130 exifcaption.cpp:150 iptccontent.cpp:107
+#: xmpcontent.cpp:103
+msgid "Sync JFIF Comment section"
+msgstr "Sincronitza la secció de comentaris JFIF"
+
+#: commenteditdialog.cpp:131 iptccontent.cpp:111 xmpcontent.cpp:107
+msgid "Sync EXIF Comment"
+msgstr "Sincronitza el comentari EXIF"
+
+#: commenteditdialog.cpp:132
+msgid "Sync XMP Caption"
+msgstr "Sincronitza el títol XMP"
+
+#: commenteditdialog.cpp:133 exifcaption.cpp:152
+#, fuzzy
+#| msgid ""
+#| "Sync IPTC caption (warning: limited to 2000 printable Ascii characters "
+#| "set)"
+msgid "Sync IPTC caption (warning: limited to 2000 printable Ascii characters)"
+msgstr ""
+"Sincronitza el títol IPTC (avís: limitat a 2000 caràcters ASCII del joc "
+"imprimible)"
+
+#: commenteditdialog.cpp:139
+msgid ""
+"<b>Note: captions from currently selected images will be permanently "
+"replaced.</b>"
+msgstr ""
+"<b>Nota: els títols de les imatges actualment seleccionades se substituiran "
+"de manera permanent.</b>"
+
+#: commentremovedialog.cpp:87 plugin_metadataedit.cpp:844
+msgid "Remove Image Caption"
+msgstr "Suprimeix el títol d'imatge"
+
+#: commentremovedialog.cpp:118
+#, kde-format
+msgid "Remove caption hosted by %1"
+msgstr "Suprimeix el títol situat a %1"
+
+#: commentremovedialog.cpp:121
+msgid "Remove JFIF Comment section"
+msgstr "Suprimeix la secció de comentari del JFIF"
+
+#: commentremovedialog.cpp:122
+msgid "Remove EXIF Comment"
+msgstr "Suprimeix el comentari de l'EXIF"
+
+#: commentremovedialog.cpp:123
+msgid "Remove XMP Caption"
+msgstr "Suprimeix el títol XMP"
+
+#: commentremovedialog.cpp:124
+msgid "Remove IPTC Caption"
+msgstr "Suprimeix el títol IPTC"
+
+#: commentremovedialog.cpp:129
+msgid ""
+"<b>Note: Captions from currently selected images will be permanently removed."
+"</b>"
+msgstr ""
+"<b>Nota: els títols de les fotografies actualment seleccionades se "
+"suprimiran de manera permanent.</b>"
+
+#: exifadjust.cpp:96
+msgid "Brightness (APEX):"
+msgstr "Lluminositat (APEX):"
+
+#: exifadjust.cpp:101
+msgid ""
+"Set here the brightness adjustment value in APEX unit used by camera to take "
+"the picture."
+msgstr ""
+"Indiqueu aquí l'ajust de lluminositat en unitats APEX usat per la càmera en "
+"prendre la fotografia."
+
+#: exifadjust.cpp:106
+msgid "Gain Control:"
+msgstr "Control de guany:"
+
+#: exifadjust.cpp:108
+msgid "None"
+msgstr "Cap"
+
+#: exifadjust.cpp:109
+msgid "Low gain up"
+msgstr "Baix augment de guany"
+
+#: exifadjust.cpp:110
+msgid "High gain up"
+msgstr "Alt augment de guany"
+
+#: exifadjust.cpp:111
+msgid "Low gain down"
+msgstr "Baixa disminució de guany"
+
+#: exifadjust.cpp:112
+msgid "High gain down"
+msgstr "Alta disminució de guany"
+
+#: exifadjust.cpp:113
+msgid ""
+"Set here the degree of overall image gain adjustment used by camera to take "
+"the picture."
+msgstr ""
+"Indiqueu aquí el grau de l'ajust de guany de tota la imatge usat per la "
+"càmera en prendre la fotografia."
+
+#: exifadjust.cpp:118
+msgid "Contrast:"
+msgstr "Contrast:"
+
+#: exifadjust.cpp:120 exifadjust.cpp:130 exifadjust.cpp:140
+msgid "Normal"
+msgstr "Normal"
+
+#: exifadjust.cpp:121 exifadjust.cpp:141
+msgid "Soft"
+msgstr "Suau"
+
+#: exifadjust.cpp:122 exifadjust.cpp:142
+msgid "Hard"
+msgstr "Forçat"
+
+#: exifadjust.cpp:123
+msgid ""
+"Set here the direction of contrast processing applied by the camera to take "
+"the picture."
+msgstr ""
+"Indiqueu aquí la direcció del procés de contrast que la càmera va aplicar en "
+"prendre la fotografia."
+
+#: exifadjust.cpp:128
+msgid "Saturation:"
+msgstr "Saturació:"
+
+#: exifadjust.cpp:131
+msgid "Low"
+msgstr "Baixa"
+
+#: exifadjust.cpp:132
+msgid "High"
+msgstr "Alta"
+
+#: exifadjust.cpp:133
+msgid ""
+"Set here the direction of saturation processing applied by the camera to "
+"take the picture."
+msgstr ""
+"Indiqueu aquí la direcció del procés de saturació que la càmera va aplicar "
+"en prendre la fotografia."
+
+#: exifadjust.cpp:138
+msgid "Sharpness:"
+msgstr "Definició:"
+
+#: exifadjust.cpp:143
+msgid ""
+"Set here the direction of sharpness processing applied by the camera to take "
+"the picture."
+msgstr ""
+"Indiqueu aquí la direcció del procés de definició que la càmera va aplicar "
+"en prendre la fotografia."
+
+#: exifadjust.cpp:148
+msgid "Custom rendered:"
+msgstr "Renderització personalitzada:"
+
+#: exifadjust.cpp:150
+msgid "Normal process"
+msgstr "Procés normal"
+
+#: exifadjust.cpp:151
+msgid "Custom process"
+msgstr "Procés personalitzat"
+
+#: exifadjust.cpp:152
+msgid ""
+"Set here the use of special processing on image data, such as rendering "
+"geared to output."
+msgstr ""
+"Indiqueu aquí l'ús del processat especial de les dades de la imatge, com la "
+"renderització orientada a la sortida."
+
+#: exifcaption.cpp:104
+msgid "Name (*):"
+msgstr "Nom (*):"
+
+#: exifcaption.cpp:108
+msgid ""
+"Enter the name of the document from which this image was been scanned. This "
+"field is limited to ASCII characters."
+msgstr ""
+"Indiqueu el nom del document des del que s'ha escanejat la imatge. Aquest "
+"camp està limitat als caràcters ASCII."
+
+#: exifcaption.cpp:114
+msgid "Title (*):"
+msgstr "Títol (*):"
+
+#: exifcaption.cpp:118
+msgid "Enter the image title. This field is limited to ASCII characters."
+msgstr ""
+"Indiqueu el títol de la imatge. Aquest camp està limitat als caràcters ASCII."
+
+#: exifcaption.cpp:123
+msgid "Artist (*):"
+msgstr "Artista (*):"
+
+#: exifcaption.cpp:127
+msgid ""
+"Enter the image author's name. This field is limited to ASCII characters."
+msgstr ""
+"Introduïu aquí el nom de l'autor de la imatge. Aquest camp està limitat als "
+"caràcters ASCII."
+
+#: exifcaption.cpp:132
+msgid "Copyright (*):"
+msgstr "Copyright (*):"
+
+#: exifcaption.cpp:136
+msgid ""
+"Enter the copyright owner of the image. This field is limited to ASCII "
+"characters."
+msgstr ""
+"Indiqueu el propietari del copyright de la imatge. Aquest camp està limitat "
+"als caràcters ASCII."
+
+#: exifcaption.cpp:141 iptccontent.cpp:105 xmpcontent.cpp:97
+msgid "Caption:"
+msgstr "Títol:"
+
+#: exifcaption.cpp:143
+msgid ""
+"Enter the image's caption. This field is not limited. UTF8 encoding will be "
+"used to save the text."
+msgstr ""
+"Indiqueu el títol de la imatge. Aquest camp no està limitat. S'usarà la "
+"codificació UTF8 per desar el text."
+
+#: exifcaption.cpp:147
+#, kde-format
+msgid "Sync captions entered through %1"
+msgstr "Sincronitza els títols introduïts a través de %1"
+
+#: exifcaption.cpp:151
+msgid "Sync XMP caption"
+msgstr "Sincronitza el títol XMP"
+
+#: exifcaption.cpp:160 exifdevice.cpp:314
+#, fuzzy
+#| msgid ""
+#| "<b>Note: <b><a href='http://en.wikipedia.org/wiki/EXIF'>EXIF</a></b> text "
+#| "tags marked by (*) only support printable <b><a href='http://en.wikipedia."
+#| "org/wiki/Ascii'>ASCII</a></b> characters set.</b>"
+msgid ""
+"<b>Note: <b><a href='http://en.wikipedia.org/wiki/EXIF'>EXIF</a></b> text "
+"tags marked by (*) only support printable <b><a href='http://en.wikipedia."
+"org/wiki/Ascii'>ASCII</a></b> characters.</b>"
+msgstr ""
+"<b>Nota: les etiquetes de text <b><a href='http://en.wikipedia.org/wiki/"
+"EXIF'>EXIF</a></b> marcades amb (*) només accepten el joc de caràcters <b><a "
+"href='http://en.wikipedia.org/wiki/Ascii'>ASCII</a></b> imprimibles.</b>"
+
+#: exifdatetime.cpp:109
+msgid "Creation date and time"
+msgstr "Data i hora de creació"
+
+#: exifdatetime.cpp:110
+msgid "Creation sub-second"
+msgstr "Sub-segon de creació"
+
+#: exifdatetime.cpp:113 iptcorigin.cpp:424 xmporigin.cpp:398
+#, kde-format
+msgid "Sync creation date hosted by %1"
+msgstr "Sincronitza la data de creació situada per %1"
+
+#: exifdatetime.cpp:116
+msgid "Sync XMP creation date"
+msgstr "Sincronitza la data de creació XMP"
+
+#: exifdatetime.cpp:117
+msgid "Sync IPTC creation date"
+msgstr "Sincronitza la data de creació IPTC"
+
+#: exifdatetime.cpp:121 iptcorigin.cpp:431 xmporigin.cpp:405
+msgid "Set creation date to today"
+msgstr "Assigna la data de creació a avui"
+
+#: exifdatetime.cpp:126
+msgid ""
+"Set here the date and time of image creation. In this standard it is the "
+"date and time the file was changed."
+msgstr ""
+"Indiqueu aquí la data i hora de creació de la imatge. En aquest estàndard, "
+"és la data i hora en que es va canviar el fitxer."
+
+#: exifdatetime.cpp:128
+msgid ""
+"Set here the fractions of seconds for the date and time of image creation."
+msgstr ""
+"Indiqueu aquí les fraccions de segon de la data i hora de creació de la "
+"imatge."
+
+#: exifdatetime.cpp:135
+msgid "Original date and time"
+msgstr "Data i hora original"
+
+#: exifdatetime.cpp:136
+msgid "Original sub-second"
+msgstr "Sub-segon original"
+
+#: exifdatetime.cpp:142
+msgid "Set original date to today"
+msgstr "Assigna la data original a avui"
+
+#: exifdatetime.cpp:144
+msgid ""
+"Set here the date and time when the original image data was generated. For a "
+"digital still camera the date and time the picture was taken are recorded."
+msgstr ""
+"Indiqueu aquí la data i hora originals en que es va generar la imatge. Per "
+"les càmeres fotogràfiques digitals es registra la data i hora en que es va "
+"prendre la fotografia."
+
+#: exifdatetime.cpp:147
+msgid ""
+"Set here the fractions of seconds for the date and time when the original "
+"image data was generated."
+msgstr ""
+"Indiqueu aquí la fracció de segon de la data i hora en que es van generar "
+"les dades de la imatge."
+
+#: exifdatetime.cpp:154
+msgid "Digitization date and time"
+msgstr "Data i hora de digitalització"
+
+#: exifdatetime.cpp:155
+msgid "Digitization sub-second"
+msgstr "Sub-segon de digitalització"
+
+#: exifdatetime.cpp:161 iptcorigin.cpp:409 xmporigin.cpp:387
+msgid "Set digitization date to today"
+msgstr "Assigna la data de digitalització a avui"
+
+#: exifdatetime.cpp:163
+msgid ""
+"Set here the date and time when the image was stored as digital data. If, "
+"for example, an image was captured by a digital still camera and at the same "
+"time the file was recorded, then Original and Digitization date and time "
+"will have the same contents."
+msgstr ""
+"Indiqueu aquí la data i hora en que la imatge es va emmagatzemar com a dades "
+"digitals. Per exemple, si una càmera fotogràfica digital va capturar una "
+"imatge i en el mateix moment es va gravar el fitxer, llavors la data "
+"original i la data de digitalització tindran el mateix contingut."
+
+#: exifdatetime.cpp:168
+msgid ""
+"Set here the fractions of seconds for the date and time when the image was "
+"stored as digital data."
+msgstr ""
+"Indiqueu aquí la fracció de segon per la data i hora en que la imatge es va "
+"emmagatzemar com a dades digitals."
+
+#: exifdevice.cpp:131
+msgid "Device manufacturer (*):"
+msgstr "Fabricant del dispositiu (*):"
+
+#: exifdevice.cpp:135
+msgid ""
+"Set here the manufacturer of image input equipment used to take the picture. "
+"This field is limited to ASCII characters."
+msgstr ""
+"Indiqueu aquí el fabricant de l'equip de captura d'imatge que s'ha usat en "
+"prendre la fotografia. Aquest camp està limitat als caràcters ASCII."
+
+#: exifdevice.cpp:140
+msgid "Device model (*):"
+msgstr "Model del dispositiu (*):"
+
+#: exifdevice.cpp:144
+msgid ""
+"Set here the model of image input equipment used to take the picture. This "
+"field is limited to ASCII characters."
+msgstr ""
+"Indiqueu aquí el model de l'equip de captura d'imatge que s'ha usat per "
+"prendre la fotografia. Aquest camp està limitat als caràcters ASCII."
+
+#: exifdevice.cpp:149
+msgid "Device type:"
+msgstr "Tipus de dispositiu:"
+
+#: exifdevice.cpp:151
+msgid "Film scanner"
+msgstr "Escàner de pel·lícula"
+
+#: exifdevice.cpp:152
+msgid "Reflection print scanner"
+msgstr "Escàner de positius per reflexió"
+
+#: exifdevice.cpp:153
+msgid "Digital still camera"
+msgstr "Càmera fotogràfica digital"
+
+#: exifdevice.cpp:154
+msgid "Select here the image input equipment type used to take the picture."
+msgstr ""
+"Indiqueu aquí el tipus de l'equip de captura d'imatge que s'ha usat per "
+"prendre la fotografia."
+
+#: exifdevice.cpp:157
+msgid ""
+"<b>Warning: EXIF <b><a href='http://en.wikipedia.org/wiki/"
+"Exchangeable_image_file_format#MakerNote_data'>Makernotes</a></b> can be "
+"unreadable if you set wrong device manufacturer/model description.</b>"
+msgstr ""
+"<b>Avís: les notes EXIF del <b><a href='http://en.wikipedia.org/wiki/"
+"Exchangeable_image_file_format#MakerNote_Information'>fabricant</a></b> "
+"poden esdevenir illegibles si indiqueu una descripció errònia de fabricant/"
+"model de dispositiu.</b>"
+
+#: exifdevice.cpp:169
+msgid "Exposure time (seconds):"
+msgstr "Temps d'exposició (segons):"
+
+#: exifdevice.cpp:174
+msgid ""
+"Set on this option to set the exposure time of picture, given in seconds."
+msgstr ""
+"Habiliteu aquesta opció per indicar el temps d'exposició de la fotografia, "
+"en segons."
+
+#: exifdevice.cpp:179
+msgid "Exposure program:"
+msgstr "Programa d'exposició:"
+
+#: exifdevice.cpp:181 exifdevice.cpp:280
+msgid "Not defined"
+msgstr "No s'ha definit"
+
+#: exifdevice.cpp:182 exifdevice.cpp:198 exiflight.cpp:193
+msgid "Manual"
+msgstr "Manual"
+
+#: exifdevice.cpp:183 exifdevice.cpp:197 exiflight.cpp:192
+msgid "Auto"
+msgstr "Auto"
+
+#: exifdevice.cpp:184
+msgid "Aperture priority"
+msgstr "Prioritat d'obertura"
+
+#: exifdevice.cpp:185
+msgid "Shutter priority"
+msgstr "Prioritat de velocitat"
+
+#: exifdevice.cpp:186
+msgid "Creative program"
+msgstr "Programa creatiu"
+
+#: exifdevice.cpp:187
+msgid "Action program"
+msgstr "Prograna d'acció"
+
+#: exifdevice.cpp:188
+msgid "Portrait mode"
+msgstr "Mode retrat"
+
+#: exifdevice.cpp:189
+msgid "Landscape mode"
+msgstr "Mode paisatge"
+
+#: exifdevice.cpp:190
+#, fuzzy
+#| msgid ""
+#| "Select here the program used by the camera to set exposure when the "
+#| "picture have been taken."
+msgid ""
+"Select here the program used by the camera to set exposure when the picture "
+"was taken."
+msgstr ""
+"Seleccioneu aquí el programa usat per la càmera per establir l'exposició "
+"quan es va prendre la fotografia."
+
+#: exifdevice.cpp:195
+msgid "Exposure mode:"
+msgstr "Mode d'exposició:"
+
+#: exifdevice.cpp:199
+msgid "Auto bracket"
+msgstr "Selecció múltiple automàtica"
+
+#: exifdevice.cpp:200
+#, fuzzy
+#| msgid ""
+#| "Select here the mode used by the camera to set exposure when the picture "
+#| "have been shot. In auto-bracketing mode, the camera shoots a series of "
+#| "frames of the same scene at different exposure settings."
+msgid ""
+"Select here the mode used by the camera to set exposure when the picture was "
+"taken. In auto-bracketing mode, the camera shoots a series of frames of the "
+"same scene at different exposure settings."
+msgstr ""
+"Seleccioneu aquí el mode usat per la càmera per establir l'exposició quan es "
+"dispara la fotografia. En el mode de selecció múltiple automàtica (\"auto "
+"bracket\"), la càmera pren una sèrie de fotogrames de la mateixa escena amb "
+"diferents paràmetres d'exposició."
+
+#: exifdevice.cpp:208
+msgid "Exposure bias (APEX):"
+msgstr "Compensació d'exposició (APEX):"
+
+#: exifdevice.cpp:213
+#, fuzzy
+#| msgid ""
+#| "Set here the exposure bias value in APEX unit used by camera to take the "
+#| "picture."
+msgid ""
+"Set here the exposure bias value (in APEX units) used by camera to take the "
+"picture."
+msgstr ""
+"Indiqueu aquí el valor de compensació d'exposició, en unitats APEX, usat per "
+"la càmera en prendre la fotografia."
+
+#: exifdevice.cpp:220
+msgid "Metering mode:"
+msgstr "Mode de mesura:"
+
+#: exifdevice.cpp:222 exifdevice.cpp:305 exiflight.cpp:138
+msgid "Unknown"
+msgstr "Desconegut"
+
+#: exifdevice.cpp:223
+msgid "Average"
+msgstr "Mitjana"
+
+#: exifdevice.cpp:224
+msgid "Center weighted average"
+msgstr "Promig ponderat al centre"
+
+#: exifdevice.cpp:225
+msgid "Spot"
+msgstr "Puntual"
+
+#: exifdevice.cpp:226
+msgid "Multi-spot"
+msgstr "Multi-punt"
+
+#: exifdevice.cpp:227
+msgid "Multi-segment"
+msgstr "Multi-segment"
+
+#: exifdevice.cpp:228
+msgid "Partial"
+msgstr "Parcial"
+
+#: exifdevice.cpp:229
+msgid "Other"
+msgstr "Altres"
+
+#: exifdevice.cpp:230
+#, fuzzy
+#| msgid ""
+#| "Select here the metering mode used by the camera to set exposure when the "
+#| "picture have been shot."
+msgid ""
+"Select here the metering mode used by the camera to set exposure when the "
+"picture was taken."
+msgstr ""
+"Seleccioneu aquí el mode de mesura usat per la càmera per establir "
+"l'exposició quan es va prendre la fotografia."
+
+#: exifdevice.cpp:235
+msgid "Sensitivity (ISO):"
+msgstr "Sensibilitat (ISO):"
+
+#: exifdevice.cpp:273
+#, fuzzy
+#| msgid ""
+#| "Select here the ISO Speed of the camera witch have taken the picture."
+msgid "Select here the ISO Speed of the camera which took the picture."
+msgstr ""
+"Seleccioneu aquí la velocitat ISO de la càmera amb la que es va prendre la "
+"fotografia."
+
+#: exifdevice.cpp:278
+msgid "Sensing method:"
+msgstr "Mètode del sensor:"
+
+#: exifdevice.cpp:281
+msgid "One-chip color area"
+msgstr "Àrea de color d'un xip"
+
+#: exifdevice.cpp:282
+msgid "Two-chip color area"
+msgstr "Àrea de color de dos xips"
+
+#: exifdevice.cpp:283
+msgid "Three-chip color area"
+msgstr "Àrea de color de tres xips"
+
+#: exifdevice.cpp:284
+msgid "Color sequential area"
+msgstr "Àrea seqüencial de color"
+
+#: exifdevice.cpp:285
+msgid "Trilinear sensor"
+msgstr "Sensor trilineal"
+
+#: exifdevice.cpp:286
+msgid "Color sequential linear"
+msgstr "Color lineal seqüencial"
+
+#: exifdevice.cpp:287
+msgid ""
+"Select here the image sensor type used by the camera to take the picture."
+msgstr ""
+"Seleccioneu aquí el tipus de sensor d'imatge usat per la càmera per prendre "
+"la fotografia."
+
+#: exifdevice.cpp:292
+msgid "Scene capture type:"
+msgstr "Tipus de captura de l'escena:"
+
+#: exifdevice.cpp:294
+msgid "Standard"
+msgstr "Estàndard"
+
+#: exifdevice.cpp:295
+msgid "Landscape"
+msgstr "Apaïsat"
+
+#: exifdevice.cpp:296
+msgid "Portrait"
+msgstr "Vertical"
+
+#: exifdevice.cpp:297 xmpproperties.cpp:98
+msgid "Night scene"
+msgstr "Escena nocturna"
+
+#: exifdevice.cpp:298
+msgid "Select here the type of scene used by the camera to take the picture."
+msgstr ""
+"Seleccioneu aquí el tipus d'escena usat per la càmera en prendre la "
+"fotografia."
+
+#: exifdevice.cpp:303
+msgid "Subject distance type:"
+msgstr "Tipus de distància al subjecte:"
+
+#: exifdevice.cpp:306
+msgid "Macro"
+msgstr "Macro"
+
+#: exifdevice.cpp:307
+msgid "Close view"
+msgstr "Vista propera"
+
+#: exifdevice.cpp:308
+msgid "Distant view"
+msgstr "Vista distant"
+
+#: exifdevice.cpp:309
+msgid ""
+"Select here the type of distance between the subject and the image input "
+"equipment."
+msgstr ""
+"Seleccioneu aquí el tipus de distància entre el subjecte i l'equip de "
+"captura de la imatge."
+
+#: exifeditdialog.cpp:141 iptceditdialog.cpp:151 xmpeditdialog.cpp:147
+msgid "Next"
+msgstr "Següent"
+
+#: exifeditdialog.cpp:142 iptceditdialog.cpp:152 xmpeditdialog.cpp:148
+msgid "Previous"
+msgstr "Anterior"
+
+#: exifeditdialog.cpp:149
+msgid "Caption"
+msgstr "Títol"
+
+#: exifeditdialog.cpp:150
+msgid "Caption Information"
+msgstr "Informació del títol"
+
+#: exifeditdialog.cpp:154
+msgid "Date & Time"
+msgstr "Data i hora"
+
+#: exifeditdialog.cpp:155
+msgid "Date and Time Information"
+msgstr "Informació de la data i hora"
+
+#: exifeditdialog.cpp:159
+msgid "Lens"
+msgstr "Lent"
+
+#: exifeditdialog.cpp:160
+msgid "Lens Settings"
+msgstr "Arranjament de la lent"
+
+#: exifeditdialog.cpp:164
+msgid "Device"
+msgstr "Dispositiu"
+
+#: exifeditdialog.cpp:165
+msgid "Capture Device Settings"
+msgstr "Arranjament del dispositiu de captura"
+
+#: exifeditdialog.cpp:169
+msgid "Light"
+msgstr "Llum"
+
+#: exifeditdialog.cpp:170
+msgid "Light Source Information"
+msgstr "Informació de la font de llum"
+
+#: exifeditdialog.cpp:174
+msgctxt "Picture adjustments"
+msgid "Adjustments"
+msgstr "Ajustos"
+
+#: exifeditdialog.cpp:175
+msgid "Pictures Adjustments"
+msgstr "Ajustos de les fotografies"
+
+#: exifeditdialog.cpp:326
+msgid "Edit EXIF Metadata"
+msgstr "Edició de les metadades EXIF"
+
+#: exifeditdialog.cpp:327 iptceditdialog.cpp:373 xmpeditdialog.cpp:364
+msgid "(read only)"
+msgstr "(només lectura)"
+
+#: exiflens.cpp:154
+msgid "Focal length (mm):"
+msgstr "Distància focal (mm):"
+
+#: exiflens.cpp:160
+msgid ""
+"Set here the lens focal length in millimeters used by camera to take the "
+"picture."
+msgstr ""
+"Indiqueu aquí la distància focal en mil·límetres usat per la càmera per "
+"prendre la fotografia."
+
+#: exiflens.cpp:165
+msgid "Focal length in 35mm film (mm):"
+msgstr "Distància focal en pel·lícula de 35mm (mm):"
+
+#: exiflens.cpp:167
+msgid ""
+"Set here equivalent focal length assuming a 35mm film camera, in mm. A value "
+"of 0 means the focal length is unknown."
+msgstr ""
+"Indiqueu aquí la distància focal equivalent assumint una càmera de "
+"pel·lícula de 35mm, en mm. Un valor de 0 vol dir que la distància focal és "
+"desconeguda."
+
+#: exiflens.cpp:173
+msgid "Digital zoom ratio:"
+msgstr "Relació del zoom digital:"
+
+#: exiflens.cpp:179
+msgid "Set here the digital zoom ratio used by camera to take the picture."
+msgstr ""
+"Indiqueu aquí la relació del zoom digital usat per la càmera en prendre la "
+"fotografia."
+
+#: exiflens.cpp:184
+msgid "Lens aperture (f-number):"
+msgstr "Obertura de la lent (número f):"
+
+#: exiflens.cpp:187
+msgid "Select here the lens aperture used by camera to take the picture."
+msgstr ""
+"Indiqueu aquí l'obertura de la lent usada per la càmera en prendre la "
+"fotografia."
+
+#: exiflens.cpp:192
+msgid "Max. lens aperture (f-number):"
+msgstr "Obertura màx. de la lent (número f):"
+
+#: exiflens.cpp:195
+msgid ""
+"Select here the smallest aperture of the lens used by camera to take the "
+"picture."
+msgstr ""
+"Indiqueu aquí l'obertura de la lent més petita usada per la càmera en "
+"prendre la fotografia."
+
+#: exiflight.cpp:86
+msgid "No flash"
+msgstr "Sense flaix"
+
+#: exiflight.cpp:87
+msgid "Fired"
+msgstr "Disparat"
+
+#: exiflight.cpp:88
+msgid "Fired, no strobe return light"
+msgstr "Disparat, sense llum de retorn"
+
+#: exiflight.cpp:89
+msgid "Fired, strobe return light"
+msgstr "Disparat, llum de retorn"
+
+#: exiflight.cpp:90
+msgid "Yes, compulsory"
+msgstr "Sí, forçat"
+
+#: exiflight.cpp:91
+msgid "Yes, compulsory, no return light"
+msgstr "Sí, forçat, sense llum de retorn"
+
+#: exiflight.cpp:92
+msgid "Yes, compulsory, return light"
+msgstr "Sí, forçat, llum de retorn"
+
+#: exiflight.cpp:93
+msgid "No, compulsory"
+msgstr "No, forçat"
+
+#: exiflight.cpp:94
+msgid "No, auto"
+msgstr "No, automàtic"
+
+#: exiflight.cpp:95
+msgid "Yes, auto"
+msgstr "Sí, automàtic"
+
+#: exiflight.cpp:96
+msgid "Yes, auto, no return light"
+msgstr "Sí, automàtic, sense llum de retorn"
+
+#: exiflight.cpp:97
+msgid "Yes, auto, return light"
+msgstr "Sí, automàtic, llum de retorn"
+
+#: exiflight.cpp:98
+msgid "No flash function"
+msgstr "Sense funció de flaix"
+
+#: exiflight.cpp:99
+msgid "Yes, red-eye"
+msgstr "Sí, ulls-vermells"
+
+#: exiflight.cpp:100
+msgid "Yes, red-eye, no return light"
+msgstr "Sí, ulls-vermells, sense llum de retorn"
+
+#: exiflight.cpp:101
+msgid "Yes, red-eye, return light"
+msgstr "Sí, ulls-vermells, llum de retorn"
+
+#: exiflight.cpp:102
+msgid "Yes, compulsory, red-eye"
+msgstr "Sí, forçat, ulls-vermells"
+
+#: exiflight.cpp:103
+msgid "Yes, compulsory, red-eye, no return light"
+msgstr "Sí, forçat, ulls-vermells, sense llum de retorn"
+
+#: exiflight.cpp:104
+msgid "Yes, compulsory, red-eye, return light"
+msgstr "Sí, forçat, ulls-vermells, llum de retorn"
+
+#: exiflight.cpp:105
+msgid "Yes, auto, red-eye"
+msgstr "Sí, automàtic, ulls-vermells"
+
+#: exiflight.cpp:106
+msgid "Yes, auto, red-eye, no return light"
+msgstr "Sí, automàtic, ulls-vermells, sense llum de retorn"
+
+#: exiflight.cpp:107
+msgid "Yes, auto, red-eye, return light"
+msgstr "Sí, automàtic, ulls-vermells, llum de retorn"
+
+#: exiflight.cpp:136
+msgid "Light source:"
+msgstr "Fons de llum:"
+
+#: exiflight.cpp:139
+msgid "Daylight"
+msgstr "Llum de dia"
+
+#: exiflight.cpp:140
+msgid "Fluorescent"
+msgstr "Fluorescent"
+
+#: exiflight.cpp:141
+msgid "Tungsten (incandescent light)"
+msgstr "Tungstè (llum incandescent)"
+
+#: exiflight.cpp:142
+msgid "Flash"
+msgstr "Flaix"
+
+#: exiflight.cpp:143
+msgid "Fine weather"
+msgstr "Temps bo"
+
+#: exiflight.cpp:144
+msgid "Cloudy weather"
+msgstr "Temps ennuvolat"
+
+#: exiflight.cpp:145
+msgid "Shade"
+msgstr "Ombra"
+
+#: exiflight.cpp:146
+msgid "Daylight fluorescent (D 5700 - 7100K)"
+msgstr "Llum de dia fluorescent (D 5700 - 7100K)"
+
+#: exiflight.cpp:147
+msgid "Day white fluorescent (N 4600 - 5400K)"
+msgstr "Llum blanca de dia fluorescent (N 4600 - 5400K)"
+
+#: exiflight.cpp:148
+msgid "Cool white fluorescent (W 3900 - 4500K)"
+msgstr "Llum blanca freda fluorescent (W 3900 - 4500K)"
+
+#: exiflight.cpp:149
+msgid "White fluorescent (WW 3200 - 3700K)"
+msgstr "Llum blanca fluorescent (WW 3200 - 3700K)"
+
+#: exiflight.cpp:150
+msgid "Standard light A"
+msgstr "Llum estàndard A"
+
+#: exiflight.cpp:151
+msgid "Standard light B"
+msgstr "Llum estàndard B"
+
+#: exiflight.cpp:152
+msgid "Standard light C"
+msgstr "Llum estàndard C"
+
+#: exiflight.cpp:153
+msgid "D55"
+msgstr "D55"
+
+#: exiflight.cpp:154
+msgid "D65"
+msgstr "D65"
+
+#: exiflight.cpp:155
+msgid "D75"
+msgstr "D75"
+
+#: exiflight.cpp:156
+msgid "D50"
+msgstr "D50"
+
+#: exiflight.cpp:157
+msgid "ISO studio tungsten"
+msgstr "Tungstè d'estudi ISO"
+
+#: exiflight.cpp:158
+msgid "Other light source"
+msgstr "Altres fonts de llum"
+
+#: exiflight.cpp:159
+msgid "Select here the kind of light source used to take the picture."
+msgstr ""
+"Seleccioneu aquí la classe de font de llum usada en prendre la fotografia."
+
+#: exiflight.cpp:164
+msgid "Flash mode:"
+msgstr "Mode de flaix:"
+
+#: exiflight.cpp:171
+#, fuzzy
+#| msgid ""
+#| "Select here the flash program mode used by camera to take the picture."
+msgid ""
+"Select here the flash program mode used by the camera to take the picture."
+msgstr ""
+"Seleccioneu aquí el mode del programa de flaix usat en prendre la fotografia."
+
+#: exiflight.cpp:176
+msgid "Flash energy (BCPS):"
+msgstr "Energia del flaix (BCPS):"
+
+#: exiflight.cpp:182
+#, fuzzy
+#| msgid ""
+#| "Set here the flash energy used to take the picture in BCPS unit. Beam "
+#| "Candle Power Seconds is the measure of effective intensity of a light "
+#| "source when it is focused into a beam by a reflector or lens. This value "
+#| "is the effective intensity for a period of one second."
+msgid ""
+"Set here the flash energy used to take the picture in BCPS units.  Beam "
+"Candle Power Seconds is the measure of effective intensity of a light source "
+"when it is focused into a beam by a reflector or lens. This value is the "
+"effective intensity for a period of one second."
+msgstr ""
+"Indiqueu aquí l'energia del flaix usada en prendre la fotografia en unitats "
+"BCPS (Beam Candle Power Seconds). Aquesta és la unitat de mesura de la "
+"intensitat efectiva d'una font de llum quan s'enfoca en un raig des d'un "
+"reflector o lent. Aquest valor és la intensitat efectiva durant un periode "
+"d'un segon."
+
+#: exiflight.cpp:190
+msgid "White balance:"
+msgstr "Balanç de blancs:"
+
+#: exiflight.cpp:194
+#, fuzzy
+#| msgid ""
+#| "Select here the white balance mode set by camera when the picture have "
+#| "been shot."
+msgid ""
+"Select here the white balance mode set by the camera when the picture was "
+"taken."
+msgstr ""
+"Seleccioneu aquí el mode del balanç de blancs indicat per la càmera quan es "
+"va prendre la fotografia."
+
+#: iptccategories.cpp:91 xmpcategories.cpp:85
+msgid "Identify subject of content (3 chars max):"
+msgstr "Identificació de l'assumpte del contingut (màx. 3 car.):"
+
+#: iptccategories.cpp:96
+msgid ""
+"Set here the category of content. This field is limited to 3 ASCII "
+"characters."
+msgstr ""
+"Indiqueu aquí la categoria del contingut. Aquest camp està limitat a 3 "
+"caràcters ASCII."
+
+#: iptccategories.cpp:99 xmpcategories.cpp:92
+msgid "Supplemental categories:"
+msgstr "Categories addicionals:"
+
+#: iptccategories.cpp:105
+msgid ""
+"Enter here a new supplemental category of content. This field is limited to "
+"32 ASCII characters."
+msgstr ""
+"Introduïu aquí una nova categoria addicional del contingut. Aquest camp està "
+"limitat a 32 caràcters ASCII."
+
+#: iptccategories.cpp:111 iptckeywords.cpp:99 subjects.cpp:201
+#: xmpcategories.cpp:101 xmpkeywords.cpp:90
+msgid "&Add"
+msgstr "&Afegeix"
+
+#: iptccategories.cpp:112 iptckeywords.cpp:100 subjects.cpp:202
+#: xmpcategories.cpp:102 xmpkeywords.cpp:91
+msgid "&Delete"
+msgstr "Es&borra"
+
+#: iptccategories.cpp:113 iptckeywords.cpp:101 subjects.cpp:203
+#: xmpcategories.cpp:103 xmpkeywords.cpp:92
+msgid "&Replace"
+msgstr "&Substitueix"
+
+#: iptccategories.cpp:122 iptccontent.cpp:126 iptccredits.cpp:146
+#: iptcenvelope.cpp:269 iptckeywords.cpp:110 iptcorigin.cpp:496
+#: iptcproperties.cpp:238 iptcstatus.cpp:129 iptcsubjects.cpp:100
+#, fuzzy
+#| msgid ""
+#| "<b>Note: <b><a href='http://en.wikipedia.org/wiki/IPTC'>IPTC</a></b> text "
+#| "tags only support the printable <b><a href='http://en.wikipedia.org/wiki/"
+#| "Ascii'>ASCII</a></b> characters set and limit strings size. Use "
+#| "contextual help for details.</b>"
+msgid ""
+"<b>Note: <b><a href='http://en.wikipedia.org/wiki/IPTC'>IPTC</a></b> text "
+"tags only support the printable <b><a href='http://en.wikipedia.org/wiki/"
+"Ascii'>ASCII</a></b> characters and limit string sizes. Use contextual help "
+"for details.</b>"
+msgstr ""
+"<b>Nota: les etiquetes de text <b><a href='http://en.wikipedia.org/wiki/"
+"IPTC'>IPTC</a></b> només accepten el joc de caràcters <b><a href='http://en."
+"wikipedia.org/wiki/Ascii'>ASCII</a></b> imprimibles i limita la mida de les "
+"cadenes. Useu l'ajuda contextual pels detalls.</b>"
+
+#: iptccontent.cpp:95 xmpcontent.cpp:90
+msgid "Headline:"
+msgstr "Sinopsis:"
+
+#: iptccontent.cpp:100
+msgid ""
+"Enter here the content synopsis. This field is limited to 256 ASCII "
+"characters."
+msgstr ""
+"Indiqueu aquí la sinopsis del contingut. Aquest camp està limitat a 256 "
+"caràcters ASCII."
+
+#: iptccontent.cpp:108 xmpcontent.cpp:104
+#, kde-format
+msgid "Sync caption entered through %1"
+msgstr "Sincronitza el títol introduït a través de %1"
+
+#: iptccontent.cpp:115
+msgid ""
+"Enter the content description. This field is limited to 2000 ASCII "
+"characters."
+msgstr ""
+"Indiqueu aquí la descripció del contingut. Aquest camp està limitat a 2000 "
+"caràcters ASCII."
+
+#: iptccontent.cpp:120 xmpcontent.cpp:117
+msgid "Caption Writer:"
+msgstr "Autor del títol:"
+
+#: iptccontent.cpp:121 xmpcontent.cpp:120
+msgid "Enter the name of the caption author."
+msgstr "Indiqueu el nom del creador del títol."
+
+#: iptccredits.cpp:98 xmpcontent.cpp:122
+msgid "Copyright:"
+msgstr "Copyright:"
+
+#: iptccredits.cpp:103
+msgid ""
+"Set here the necessary copyright notice. This field is limited to 128 ASCII "
+"characters."
+msgstr ""
+"Indiqueu aquí les notes de copyright necessàries. Aquest camp està limitat a "
+"128 caràcters ASCII."
+
+#: iptccredits.cpp:108 xmpcredits.cpp:112
+msgid "Byline:"
+msgstr "Autoria:"
+
+#: iptccredits.cpp:109 xmpcredits.cpp:113
+msgid "Set here the name of content creator."
+msgstr "Indiqueu aquí el nom del creador del contingut."
+
+#: iptccredits.cpp:114 xmpcredits.cpp:117
+msgid "Byline Title:"
+msgstr "Títol de l'autoria:"
+
+#: iptccredits.cpp:115 xmpcredits.cpp:120
+msgid "Set here the title of content creator."
+msgstr "Seleccioneu aquí el títol del creador del contingut."
+
+#: iptccredits.cpp:120 xmpcredits.cpp:182
+msgid "Credit:"
+msgstr "Atribució:"
+
+#: iptccredits.cpp:125
+msgid ""
+"Set here the content provider. This field is limited to 32 ASCII characters."
+msgstr ""
+"Indiqueu aquí el proveïdor del contingut. Aquest camp està limitat a 32 "
+"caràcters ASCII."
+
+#: iptccredits.cpp:130 xmpcredits.cpp:189
+msgid "Source:"
+msgstr "Origen:"
+
+#: iptccredits.cpp:135
+msgid ""
+"Set here the original owner of content. This field is limited to 32 ASCII "
+"characters."
+msgstr ""
+"Indiqueu aquí el propietari original del contingut. Aquest camp està limitat "
+"a 32 caràcters ASCII."
+
+#: iptccredits.cpp:140
+msgid "Contact:"
+msgstr "Contacte:"
+
+#: iptccredits.cpp:141
+msgid "Set here the person or organisation to contact."
+msgstr "Indiqueu aquí la persona o l'organització de contacte."
+
+#: iptceditdialog.cpp:159 xmpeditdialog.cpp:155
+msgid "Content"
+msgstr "Contingut"
+
+#: iptceditdialog.cpp:160 xmpeditdialog.cpp:156
+msgid ""
+"<qt>Content Information<br/><i>Use this panel to describe the visual content "
+"of the image</i></qt>"
+msgstr ""
+"<qt>Informació del contingut<br/><i>Useu aquest camp per a descriure el "
+"contingut visual de la imatge</i></qt>"
+
+#: iptceditdialog.cpp:165 xmpeditdialog.cpp:161
+msgid "Origin"
+msgstr "Origen"
+
+#: iptceditdialog.cpp:166 xmpeditdialog.cpp:162
+msgid ""
+"<qt>Origin Information<br/><i>Use this panel for formal descriptive "
+"information about the image</i></qt>"
+msgstr ""
+"<qt>Informació de l'origen<br/><i>Useu aquest camp per a la informació de "
+"descripció formal de la imatge</i></qt>"
+
+#: iptceditdialog.cpp:171 xmpeditdialog.cpp:167
+msgid "Credits"
+msgstr "Atribucions"
+
+#: iptceditdialog.cpp:172 xmpeditdialog.cpp:168
+#, fuzzy
+#| msgid ""
+#| "<qt>Credits Information<br/><i>Use this panel to record copyright "
+#| "information about the image</i></qt>"
+msgid ""
+"<qt>Credit Information<br/><i>Use this panel to record copyright information "
+"about the image</i></qt>"
+msgstr ""
+"<qt>Informació del crèdits<br/><i>Useu aquest camp per a enregistrar la "
+"informació del copyright de la imatge</i></qt>"
+
+#: iptceditdialog.cpp:177 xmpeditdialog.cpp:173
+msgid "Subjects"
+msgstr "Assumptes"
+
+#: iptceditdialog.cpp:178 xmpeditdialog.cpp:174
+#, fuzzy
+#| msgid ""
+#| "<qt>Subjects Information<br/><i>Use this panel to record subjects about "
+#| "the image</i></qt>"
+msgid ""
+"<qt>Subject Information<br/><i>Use this panel to record subject information "
+"about the image</i></qt>"
+msgstr ""
+"<qt>Informació dels assumptes<br/><i>Useu aquest camp per a enregistrar els "
+"assumptes de la imatge</i></qt>"
+
+#: iptceditdialog.cpp:183 xmpeditdialog.cpp:179
+msgid "Keywords"
+msgstr "Paraules clau"
+
+#: iptceditdialog.cpp:184 xmpeditdialog.cpp:180
+#, fuzzy
+#| msgid ""
+#| "<qt>Keywords Information<br/><i>Use this panel to record keywords about "
+#| "the image</i></qt>"
+msgid ""
+"<qt>Keyword Information<br/><i>Use this panel to record keywords relevant to "
+"the image</i></qt>"
+msgstr ""
+"<qt>Informació de les paraules clau<br/><i>Useu aquest camp per a "
+"enregistrar les paraules claus de la imatge</i></qt>"
+
+#: iptceditdialog.cpp:189 xmpeditdialog.cpp:185
+msgid "Categories"
+msgstr "Categories"
+
+#: iptceditdialog.cpp:190 xmpeditdialog.cpp:186
+#, fuzzy
+#| msgid ""
+#| "<qt>Categories Information<br/><i>Use this panel to record categories "
+#| "about the image</i></qt>"
+msgid ""
+"<qt>Category Information<br/><i>Use this panel to record categories relevant "
+"to the image</i></qt>"
+msgstr ""
+"<qt>Informació de les categories<br/><i>Useu aquest plafó per a enregistrar "
+"les categories de la imatge</i></qt>"
+
+#: iptceditdialog.cpp:195 xmpeditdialog.cpp:191
+msgid "Status"
+msgstr "Estat"
+
+#: iptceditdialog.cpp:196 xmpeditdialog.cpp:192
+#, fuzzy
+#| msgid ""
+#| "<qt>Status Information<br/><i>Use this panel to record workflow "
+#| "description</i></qt>"
+msgid ""
+"<qt>Status Information<br/><i>Use this panel to record workflow information</"
+"i></qt>"
+msgstr ""
+"<qt>Informació de l'estat<br/><i>Useu aquest camp per a enregistrar la "
+"descripció del flux de treball</i></qt>"
+
+#: iptceditdialog.cpp:201 xmpeditdialog.cpp:197
+msgid "Properties"
+msgstr "Propietats"
+
+#: iptceditdialog.cpp:202 xmpeditdialog.cpp:198
+msgid ""
+"<qt>Status Properties<br/><i>Use this panel to record workflow properties</"
+"i></qt>"
+msgstr ""
+"<qt>Propietats de l'estat<br/><i>Useu aquest camp per a enregistrar les "
+"propietats del flux de treball</i></qt>"
+
+#: iptceditdialog.cpp:207
+msgid "Envelope"
+msgstr "Sobre"
+
+#: iptceditdialog.cpp:208
+#, fuzzy
+#| msgid ""
+#| "<qt>Envelope Information<br/><i>Use this panel to record editorial "
+#| "description</i></qt>"
+msgid ""
+"<qt>Envelope Information<br/><i>Use this panel to record editorial details</"
+"i></qt>"
+msgstr ""
+"<qt>Informació del sobre<br/><i>Useu aquest camp per a enregistrar la "
+"informació editorial</i></qt>"
+
+#: iptceditdialog.cpp:372
+msgid "Edit IPTC Metadata"
+msgstr "Edita les metadades IPTC"
+
+#: iptcenvelope.cpp:91
+msgid "No ObjectData"
+msgstr "Sense ObjectData"
+
+#: iptcenvelope.cpp:92
+msgid "IPTC-NAA Digital Newsphoto Parameter Record (version 1)"
+msgstr "Registre de paràmetres IPTC-NAA Digital Newsphoto (versió 1)"
+
+#: iptcenvelope.cpp:93
+msgid "IPTC-NAA Digital Newsphoto Parameter Record (version 2)"
+msgstr "Registre de paràmetres IPTC-NAA Digital Newsphoto (versió 2)"
+
+#: iptcenvelope.cpp:94
+msgid "IPTC-NAA Digital Newsphoto Parameter Record (version 3)"
+msgstr "Registre de paràmetres IPTC-NAA Digital Newsphoto (versió 3)"
+
+#: iptcenvelope.cpp:95
+msgid "IPTC-NAA Digital Newsphoto Parameter Record (version 4)"
+msgstr "Registre de paràmetres IPTC-NAA Digital Newsphoto (versió 4)"
+
+#: iptcenvelope.cpp:96
+msgid "IPTC7901 Recommended Message Format"
+msgstr "Format de missatge recomanat IPTC7901"
+
+#: iptcenvelope.cpp:97
+msgid "Tagged Image File Format (version 5.0)"
+msgstr "Tagged Image File Format (versió 5.0)"
+
+#: iptcenvelope.cpp:98
+msgid "Tagged Image File Format (version 6.0)"
+msgstr "Tagged Image File Format (versió 6.0)"
+
+#: iptcenvelope.cpp:99
+msgid "Illustrator"
+msgstr "Illustrator"
+
+#: iptcenvelope.cpp:100
+msgid "AppleSingle"
+msgstr "AppleSingle"
+
+#: iptcenvelope.cpp:101
+msgid "NAA 89-3 (ANPA 1312)"
+msgstr "NAA 89-3 (ANPA 1312)"
+
+#: iptcenvelope.cpp:102
+msgid "MacBinary II"
+msgstr "MacBinary II"
+
+#: iptcenvelope.cpp:103
+msgid "IPTC Unstructured Character Oriented File Format"
+msgstr "Format de fitxer orientat a caràcter sense estructura IPTC"
+
+#: iptcenvelope.cpp:104
+msgid "United Press International ANPA 1312 variant"
+msgstr "Variant United Press International ANPA 1312"
+
+#: iptcenvelope.cpp:105
+msgid "United Press International Down-Load Message"
+msgstr "Missatge de transferència United Press International"
+
+#: iptcenvelope.cpp:106
+msgid "JPEG File Interchange"
+msgstr "Fitxer d'intercanvi JPEG File Interchange"
+
+#: iptcenvelope.cpp:107
+msgid "Photo-CD Image-Pac"
+msgstr "Photo-CD Image-Pac"
+
+#: iptcenvelope.cpp:108
+msgid "Microsoft Bit Mapped Graphics File [*.BMP]"
+msgstr "Fitxer de mapa de bits de Microsoft [*.BMP]"
+
+#: iptcenvelope.cpp:109
+msgid "Digital Audio File [*.WAV]"
+msgstr "Fitxer d'àudio digital [*.WAV]"
+
+#: iptcenvelope.cpp:110
+msgid "Audio plus Moving Video [*.AVI]"
+msgstr "Àudio amb vídeo en moviment [*.AVI]"
+
+#: iptcenvelope.cpp:111
+msgid "PC DOS/Windows Executable Files [*.COM][*.EXE]"
+msgstr "Fitxers executables PC DOS/Windows [*.COM][*.EXE]"
+
+#: iptcenvelope.cpp:112
+msgid "Compressed Binary File [*.ZIP]"
+msgstr "Fitxer binari comprimit [*.ZIP]"
+
+#: iptcenvelope.cpp:113
+msgid "Audio Interchange File Format AIFF"
+msgstr "Format de fitxer d'intercanvi d'àudio AIFF"
+
+#: iptcenvelope.cpp:114
+msgid "RIFF Wave (Microsoft Corporation)"
+msgstr "RIFF Wave (Microsoft Corporation)"
+
+#: iptcenvelope.cpp:115
+msgid "Freehand (version 3.1)"
+msgstr "Freehand (versió 3.1)"
+
+#: iptcenvelope.cpp:116
+msgid "Freehand (version 4.0)"
+msgstr "Freehand (versió 4.0)"
+
+#: iptcenvelope.cpp:117
+msgid "Freehand (version 5.0)"
+msgstr "Freehand (versió 5.0)"
+
+#: iptcenvelope.cpp:118
+msgid "Freehand (version 5.5)"
+msgstr "Freehand (versió 5.5)"
+
+#: iptcenvelope.cpp:119
+msgid "Hypertext Markup Language \"HTML\""
+msgstr "Llenguatge de marques d'hipertext \"HTML\""
+
+#: iptcenvelope.cpp:120
+msgid "MPEG 2 Audio Layer 2 (Musicom), ISO/IEC"
+msgstr "MPEG 2 Audio Layer 2 (Musicom), ISO/IEC"
+
+#: iptcenvelope.cpp:121
+msgid "MPEG 2 Audio Layer 3, ISO/IEC"
+msgstr "MPEG 2 Audio Layer 3, ISO/IEC"
+
+#: iptcenvelope.cpp:122
+msgid "Portable Document File [*.PDF] Adobe"
+msgstr "Portable Document File [*.PDF] Adobe"
+
+#: iptcenvelope.cpp:123
+msgid "News Industry Text Format"
+msgstr "Format de text de la indústria de notícies"
+
+#: iptcenvelope.cpp:124
+msgid "Tape Archive [*.TAR]"
+msgstr "Arxiu de cinta [*.TAR]"
+
+#: iptcenvelope.cpp:125
+msgid "Tidningarnas Telegrambyra NITF version (TTNITF DTD)"
+msgstr "Tidningarnas Telegrambyra versió NITF (TTNITF DTD)"
+
+#: iptcenvelope.cpp:126
+msgid "Ritzaus Bureau NITF version (RBNITF DTD)"
+msgstr "Ritzaus Bureau versió NITF (RBNITF DTD)"
+
+#: iptcenvelope.cpp:127
+msgid "Corel Draw [*.CDR]"
+msgstr "Corel Draw [*.CDR]"
+
+#: iptcenvelope.cpp:174
+msgid "Destination:"
+msgstr "Destí:"
+
+#: iptcenvelope.cpp:178
+msgid ""
+"Enter the envelope destination. This field is limited to 1024 ASCII "
+"characters."
+msgstr ""
+"Indiqueu el destí del sobre. Aquest camp està limitat a 1024 caràcters ASCII."
+
+#: iptcenvelope.cpp:183
+msgid "U.N.O ID:"
+msgstr "U.N.O ID:"
+
+#: iptcenvelope.cpp:188
+msgid ""
+"Set here the Unique Name of Object identifier. This field is limited to 80 "
+"ASCII characters."
+msgstr ""
+"Indiqueu aquí l'identificador de Nom Únic d'Objecte. Aquest camp està "
+"limitat a 80 caràcters ASCII."
+
+#: iptcenvelope.cpp:193
+msgid "Product ID:"
+msgstr "ID del producte:"
+
+#: iptcenvelope.cpp:198
+msgid ""
+"Set here the product identifier. This field is limited to 32 ASCII "
+"characters."
+msgstr ""
+"Indiqueu aquí l'identificador del producte. Aquest camp està limitat a 32 "
+"caràcters ASCII."
+
+#: iptcenvelope.cpp:203
+msgid "Service ID:"
+msgstr "ID del servei:"
+
+#: iptcenvelope.cpp:208
+msgid ""
+"Set here the service identifier. This field is limited to 10 ASCII "
+"characters."
+msgstr ""
+"Indiqueu aquí l'identificador del servei. Aquest camp està limitat a 10 "
+"caràcters ASCII."
+
+#: iptcenvelope.cpp:213
+msgid "Envelope ID:"
+msgstr "ID del sobre:"
+
+#: iptcenvelope.cpp:218
+msgid ""
+"Set here the envelope identifier. This field is limited to 8 ASCII "
+"characters."
+msgstr ""
+"Indiqueu aquí l'identificador del sobre. Aquest camp està limitat a 8 "
+"caràcters ASCII."
+
+#: iptcenvelope.cpp:223 iptcproperties.cpp:185 xmpproperties.cpp:186
+msgid "Priority:"
+msgstr "Prioritat:"
+
+#: iptcenvelope.cpp:225 iptcproperties.cpp:187 xmpproperties.cpp:188
+msgid "0: None"
+msgstr "0: cap"
+
+#: iptcenvelope.cpp:226 iptcproperties.cpp:188 xmpproperties.cpp:189
+msgid "1: High"
+msgstr "1: alta"
+
+#: iptcenvelope.cpp:230 iptcproperties.cpp:192 xmpproperties.cpp:193
+msgid "5: Normal"
+msgstr "5: normal"
+
+#: iptcenvelope.cpp:233 iptcproperties.cpp:195 xmpproperties.cpp:196
+msgid "8: Low"
+msgstr "8: baixa"
+
+#: iptcenvelope.cpp:234
+msgid "Select here the envelope priority."
+msgstr "Seleccioneu aquí la prioritat del sobre."
+
+#: iptcenvelope.cpp:238
+msgid "Format:"
+msgstr "Format:"
+
+#: iptcenvelope.cpp:250
+msgid "Select here envelope file format."
+msgstr "Seleccioneu aquí el format de fitxer del sobre."
+
+#: iptcenvelope.cpp:254
+msgid "Sent date:"
+msgstr "Data d'enviament:"
+
+#: iptcenvelope.cpp:255
+msgid "Sent time:"
+msgstr "Hora d'enviament:"
+
+#: iptcenvelope.cpp:261
+msgid "Set envelope sent date to today"
+msgstr "Assigneu la data d'enviament del sobre a avui"
+
+#: iptcenvelope.cpp:263
+msgid "Set here the date when the service sent the material."
+msgstr "Indiqueu aquí la data quan el servei ha enviat el material."
+
+#: iptcenvelope.cpp:264
+msgid "Set here the time when the service sent the material."
+msgstr "Indiqueu aquí l'hora quan el servei ha enviat el material."
+
+#: iptckeywords.cpp:87 xmpkeywords.cpp:81
+msgid "Use information retrieval words:"
+msgstr "Usa les paraules de recuperació d'informació:"
+
+#: iptckeywords.cpp:93
+msgid "Enter here a new keyword. This field is limited to 64 ASCII characters."
+msgstr ""
+"Introduïu aquí una nova paraula clau. Aquest camp està limitat a 64 "
+"caràcters ASCII."
+
+#: iptcorigin.cpp:100 xmporigin.cpp:91
+msgid "Afghanistan"
+msgstr "Afganistan"
+
+#: iptcorigin.cpp:101 xmporigin.cpp:92
+msgid "Albania"
+msgstr "Albània"
+
+#: iptcorigin.cpp:102 xmporigin.cpp:93
+msgid "Algeria"
+msgstr "Algèria"
+
+#: iptcorigin.cpp:103 xmporigin.cpp:94
+msgid "American Samoa"
+msgstr "Samoa americana"
+
+#: iptcorigin.cpp:104 xmporigin.cpp:95
+msgid "Andorra"
+msgstr "Andorra"
+
+#: iptcorigin.cpp:105 iptcorigin.cpp:107 xmporigin.cpp:96 xmporigin.cpp:98
+msgid "Angola"
+msgstr "Angola"
+
+#: iptcorigin.cpp:106 xmporigin.cpp:97
+msgid "Anguilla"
+msgstr "Anguila"
+
+#: iptcorigin.cpp:108 xmporigin.cpp:99
+msgid "Antarctica"
+msgstr "Antàrtida"
+
+#: iptcorigin.cpp:109 xmporigin.cpp:100
+msgid "Antigua and Barbuda"
+msgstr "Antigua i Barbuda"
+
+#: iptcorigin.cpp:110 xmporigin.cpp:101
+msgid "Argentina"
+msgstr "Argentina"
+
+#: iptcorigin.cpp:111 xmporigin.cpp:102
+msgid "Armenia"
+msgstr "Armènia"
+
+#: iptcorigin.cpp:112 xmporigin.cpp:103
+msgid "Aruba"
+msgstr "Aruba"
+
+#: iptcorigin.cpp:113 xmporigin.cpp:104
+msgid "Australia"
+msgstr "Austràlia"
+
+#: iptcorigin.cpp:114 xmporigin.cpp:105
+msgid "Austria"
+msgstr "Àustria"
+
+#: iptcorigin.cpp:115 xmporigin.cpp:106
+msgid "Azerbaijan"
+msgstr "Azerbaitjan"
+
+#: iptcorigin.cpp:116 xmporigin.cpp:107
+msgid "Bahamas"
+msgstr "Bahames"
+
+#: iptcorigin.cpp:117 xmporigin.cpp:108
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: iptcorigin.cpp:118 xmporigin.cpp:109
+msgid "Bangladesh"
+msgstr "Bangla Desh"
+
+#: iptcorigin.cpp:119 xmporigin.cpp:110
+msgid "Barbados"
+msgstr "Barbados"
+
+#: iptcorigin.cpp:120 xmporigin.cpp:111
+msgid "Belarus"
+msgstr "Bielorússia"
+
+#: iptcorigin.cpp:121 xmporigin.cpp:112
+msgid "Belgium"
+msgstr "Bèlgica"
+
+#: iptcorigin.cpp:122 xmporigin.cpp:113
+msgid "Belize"
+msgstr "Belize"
+
+#: iptcorigin.cpp:123 xmporigin.cpp:114
+msgid "Benin"
+msgstr "Benín"
+
+#: iptcorigin.cpp:124 xmporigin.cpp:115
+msgid "Bermuda"
+msgstr "Bermudes"
+
+#: iptcorigin.cpp:125 xmporigin.cpp:116
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: iptcorigin.cpp:126 xmporigin.cpp:117
+msgid "Bolivia"
+msgstr "Bolívia"
+
+#: iptcorigin.cpp:127 xmporigin.cpp:118
+msgid "Bosnia and Herzegovina"
+msgstr "Bòsnia i Hercegovina"
+
+#: iptcorigin.cpp:128 xmporigin.cpp:119
+msgid "Botswana"
+msgstr "Botswana"
+
+#: iptcorigin.cpp:129 xmporigin.cpp:120
+msgid "Bouvet Island"
+msgstr "Illa Bouvet"
+
+#: iptcorigin.cpp:130 xmporigin.cpp:121
+msgid "Brazil"
+msgstr "Brasil"
+
+#: iptcorigin.cpp:131 xmporigin.cpp:122
+msgid "British Indian Ocean Territory"
+msgstr "Territori Britànic de l'Oceà Índic"
+
+#: iptcorigin.cpp:132 xmporigin.cpp:123
+msgid "British Virgin Islands"
+msgstr "Illes Verges Britàniques"
+
+#: iptcorigin.cpp:133 xmporigin.cpp:124
+msgid "Brunei Darussalam"
+msgstr "Brunei"
+
+#: iptcorigin.cpp:134 xmporigin.cpp:125
+msgid "Bulgaria"
+msgstr "Bulgària"
+
+#: iptcorigin.cpp:135 xmporigin.cpp:126
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: iptcorigin.cpp:136 xmporigin.cpp:127
+msgid "Burundi"
+msgstr "Burundi"
+
+#: iptcorigin.cpp:137 xmporigin.cpp:128
+msgid "Cambodia"
+msgstr "Cambodja"
+
+#: iptcorigin.cpp:138 xmporigin.cpp:129
+msgid "Cameroon"
+msgstr "Camerun"
+
+#: iptcorigin.cpp:139 xmporigin.cpp:130
+msgid "Canada"
+msgstr "Canadà"
+
+#: iptcorigin.cpp:140 xmporigin.cpp:131
+msgid "Cape Verde"
+msgstr "Cap Verd"
+
+#: iptcorigin.cpp:141 xmporigin.cpp:132
+msgid "Cayman Islands"
+msgstr "Illes Caiman"
+
+#: iptcorigin.cpp:142 xmporigin.cpp:133
+msgid "Central African Republic"
+msgstr "República Centreafricana"
+
+#: iptcorigin.cpp:143 xmporigin.cpp:134
+msgid "Chad"
+msgstr "Txad"
+
+#: iptcorigin.cpp:144 xmporigin.cpp:135
+msgid "Chile"
+msgstr "Xile"
+
+#: iptcorigin.cpp:145 xmporigin.cpp:136
+msgid "China"
+msgstr "Xina"
+
+#: iptcorigin.cpp:146 xmporigin.cpp:137
+msgid "Christmas Island "
+msgstr "Illa Christmas"
+
+#: iptcorigin.cpp:147 xmporigin.cpp:138
+msgid "Cocos Islands"
+msgstr "Illes Cocos"
+
+#: iptcorigin.cpp:148 xmporigin.cpp:139
+msgid "Colombia"
+msgstr "Colòmbia"
+
+#: iptcorigin.cpp:149 xmporigin.cpp:140
+msgid "Comoros"
+msgstr "Comores"
+
+#: iptcorigin.cpp:150 xmporigin.cpp:141
+msgid "Zaire"
+msgstr "Zaire"
+
+#: iptcorigin.cpp:151 xmporigin.cpp:142
+msgid "Congo"
+msgstr "Congo"
+
+#: iptcorigin.cpp:152 xmporigin.cpp:143
+msgid "Cook Islands"
+msgstr "Illes Cook"
+
+#: iptcorigin.cpp:153 xmporigin.cpp:144
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: iptcorigin.cpp:154 xmporigin.cpp:145
+msgid "Ivory Coast"
+msgstr "Costa d'Ivori"
+
+#: iptcorigin.cpp:155 xmporigin.cpp:146
+msgid "Cuba"
+msgstr "Cuba"
+
+#: iptcorigin.cpp:156 xmporigin.cpp:147
+msgid "Cyprus"
+msgstr "Xipre"
+
+#: iptcorigin.cpp:157 xmporigin.cpp:148
+msgid "Czech Republic"
+msgstr "República Txeca"
+
+#: iptcorigin.cpp:158 xmporigin.cpp:149
+msgid "Denmark"
+msgstr "Dinamarca"
+
+#: iptcorigin.cpp:159 xmporigin.cpp:150
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: iptcorigin.cpp:160 xmporigin.cpp:151
+msgid "Dominica"
+msgstr "Dominica"
+
+#: iptcorigin.cpp:161 xmporigin.cpp:152
+msgid "Dominican Republic"
+msgstr "República Dominicana"
+
+#: iptcorigin.cpp:162 xmporigin.cpp:153
+msgid "Ecuador"
+msgstr "Equador"
+
+#: iptcorigin.cpp:163 xmporigin.cpp:154
+msgid "Egypt"
+msgstr "Egipte"
+
+#: iptcorigin.cpp:164 xmporigin.cpp:155
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: iptcorigin.cpp:165 xmporigin.cpp:156
+msgid "Equatorial Guinea"
+msgstr "Guinea Equatorial"
+
+#: iptcorigin.cpp:166 xmporigin.cpp:157
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: iptcorigin.cpp:167 xmporigin.cpp:158
+msgid "Estonia"
+msgstr "Estònia"
+
+#: iptcorigin.cpp:168 xmporigin.cpp:159
+msgid "Ethiopia"
+msgstr "Etiòpia"
+
+#: iptcorigin.cpp:169 xmporigin.cpp:160
+msgid "Faeroe Islands"
+msgstr "Illes Fèroe"
+
+#: iptcorigin.cpp:170 xmporigin.cpp:161
+msgid "Falkland Islands"
+msgstr "Illes Malvines"
+
+#: iptcorigin.cpp:171 xmporigin.cpp:162
+msgid "Fiji Islands"
+msgstr "Illes Fiji"
+
+#: iptcorigin.cpp:172 xmporigin.cpp:163
+msgid "Finland"
+msgstr "Finlàndia"
+
+#: iptcorigin.cpp:173 xmporigin.cpp:164
+msgid "France"
+msgstr "França"
+
+#: iptcorigin.cpp:174 xmporigin.cpp:165
+msgid "French Guiana"
+msgstr "Guaiana francesa"
+
+#: iptcorigin.cpp:175 xmporigin.cpp:166
+msgid "French Polynesia"
+msgstr "Polinèsia francesa"
+
+#: iptcorigin.cpp:176 xmporigin.cpp:167
+msgid "French Southern Territories"
+msgstr "Territoris Francesos del Sud"
+
+#: iptcorigin.cpp:177 xmporigin.cpp:168
+msgid "Gabon"
+msgstr "Gabon"
+
+#: iptcorigin.cpp:178 xmporigin.cpp:169
+msgid "Gambia"
+msgstr "Gàmbia"
+
+#: iptcorigin.cpp:179 xmporigin.cpp:170
+msgid "Georgia"
+msgstr "Geòrgia"
+
+#: iptcorigin.cpp:180 xmporigin.cpp:171
+msgid "Germany"
+msgstr "Alemanya"
+
+#: iptcorigin.cpp:181 xmporigin.cpp:172
+msgid "Ghana"
+msgstr "Ghana"
+
+#: iptcorigin.cpp:182 xmporigin.cpp:173
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: iptcorigin.cpp:183 xmporigin.cpp:174
+msgid "Greece"
+msgstr "Grècia"
+
+#: iptcorigin.cpp:184 xmporigin.cpp:175
+msgid "Greenland"
+msgstr "Groenlàndia"
+
+#: iptcorigin.cpp:185 xmporigin.cpp:176
+msgid "Grenada"
+msgstr "Grenada"
+
+#: iptcorigin.cpp:186 xmporigin.cpp:177
+msgid "Guadaloupe"
+msgstr "Guadalupe"
+
+#: iptcorigin.cpp:187 xmporigin.cpp:178
+msgid "Guam"
+msgstr "Guam"
+
+#: iptcorigin.cpp:188 xmporigin.cpp:179
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: iptcorigin.cpp:189 xmporigin.cpp:180
+msgid "Guinea"
+msgstr "Guinea"
+
+#: iptcorigin.cpp:190 xmporigin.cpp:181
+msgid "Guinea-Bissau"
+msgstr "Guinea Bissau"
+
+#: iptcorigin.cpp:191 xmporigin.cpp:182
+msgid "Guyana"
+msgstr "Guyana"
+
+#: iptcorigin.cpp:192 xmporigin.cpp:183
+msgid "Haiti"
+msgstr "Haití"
+
+#: iptcorigin.cpp:193 xmporigin.cpp:184
+msgid "Heard and McDonald Islands"
+msgstr "Illa Heard i Illes McDonald"
+
+#: iptcorigin.cpp:194 xmporigin.cpp:185
+msgid "Vatican"
+msgstr "Vaticà"
+
+#: iptcorigin.cpp:195 xmporigin.cpp:186
+msgid "Honduras"
+msgstr "Hondures"
+
+#: iptcorigin.cpp:196 xmporigin.cpp:187
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: iptcorigin.cpp:197 xmporigin.cpp:188
+msgid "Croatia"
+msgstr "Croàcia"
+
+#: iptcorigin.cpp:198 xmporigin.cpp:189
+msgid "Hungary"
+msgstr "Hongria"
+
+#: iptcorigin.cpp:199 xmporigin.cpp:190
+msgid "Iceland"
+msgstr "Islàndia"
+
+#: iptcorigin.cpp:200 xmporigin.cpp:191
+msgid "India"
+msgstr "Índia"
+
+#: iptcorigin.cpp:201 xmporigin.cpp:192
+msgid "Indonesia"
+msgstr "Indonèsia"
+
+#: iptcorigin.cpp:202 xmporigin.cpp:193
+msgid "Iran"
+msgstr "Iran"
+
+#: iptcorigin.cpp:203 xmporigin.cpp:194
+msgid "Iraq"
+msgstr "Iraq"
+
+#: iptcorigin.cpp:204 xmporigin.cpp:195
+msgid "Ireland"
+msgstr "Irlanda"
+
+#: iptcorigin.cpp:205 xmporigin.cpp:196
+msgid "Israel"
+msgstr "Israel"
+
+#: iptcorigin.cpp:206 xmporigin.cpp:197
+msgid "Italy"
+msgstr "Itàlia"
+
+#: iptcorigin.cpp:207 xmporigin.cpp:198
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: iptcorigin.cpp:208 xmporigin.cpp:199
+msgid "Japan"
+msgstr "Japó"
+
+#: iptcorigin.cpp:209 xmporigin.cpp:200
+msgid "Jordan"
+msgstr "Jordània"
+
+#: iptcorigin.cpp:210 xmporigin.cpp:201
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+#: iptcorigin.cpp:211 xmporigin.cpp:202
+msgid "Kenya"
+msgstr "Kenya"
+
+#: iptcorigin.cpp:212 xmporigin.cpp:203
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: iptcorigin.cpp:213 iptcorigin.cpp:214 xmporigin.cpp:204 xmporigin.cpp:205
+msgid "Korea"
+msgstr "Corea"
+
+#: iptcorigin.cpp:215 xmporigin.cpp:206
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: iptcorigin.cpp:216 xmporigin.cpp:207
+msgid "Kyrgyz Republic"
+msgstr "Kirguizistan"
+
+#: iptcorigin.cpp:217 xmporigin.cpp:208
+msgid "Lao"
+msgstr "Laos"
+
+#: iptcorigin.cpp:218 xmporigin.cpp:209
+msgid "Latvia"
+msgstr "Letònia"
+
+#: iptcorigin.cpp:219 xmporigin.cpp:210
+msgid "Lebanon"
+msgstr "Líban"
+
+#: iptcorigin.cpp:220 xmporigin.cpp:211
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: iptcorigin.cpp:221 xmporigin.cpp:212
+msgid "Liberia"
+msgstr "Libèria"
+
+#: iptcorigin.cpp:222 xmporigin.cpp:213
+msgid "Libyan Arab Jamahiriya"
+msgstr "Líbia"
+
+#: iptcorigin.cpp:223 xmporigin.cpp:214
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: iptcorigin.cpp:224 xmporigin.cpp:215
+msgid "Lithuania"
+msgstr "Lituània"
+
+#: iptcorigin.cpp:225 xmporigin.cpp:216
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+#: iptcorigin.cpp:226 xmporigin.cpp:217
+msgid "Macao"
+msgstr "Macau"
+
+#: iptcorigin.cpp:227 xmporigin.cpp:218
+msgid "Macedonia"
+msgstr "Macedònia"
+
+#: iptcorigin.cpp:228 xmporigin.cpp:219
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: iptcorigin.cpp:229 xmporigin.cpp:220
+msgid "Malawi"
+msgstr "Malawi"
+
+#: iptcorigin.cpp:230 xmporigin.cpp:221
+msgid "Malaysia"
+msgstr "Malàisia"
+
+#: iptcorigin.cpp:231 xmporigin.cpp:222
+msgid "Maldives"
+msgstr "Maldives"
+
+#: iptcorigin.cpp:232 xmporigin.cpp:223
+msgid "Mali"
+msgstr "Mali"
+
+#: iptcorigin.cpp:233 xmporigin.cpp:224
+msgid "Malta"
+msgstr "Malta"
+
+#: iptcorigin.cpp:234 xmporigin.cpp:225
+msgid "Marshall Islands"
+msgstr "Illes Marshall"
+
+#: iptcorigin.cpp:235 xmporigin.cpp:226
+msgid "Martinique"
+msgstr "Martinica"
+
+#: iptcorigin.cpp:236 xmporigin.cpp:227
+msgid "Mauritania"
+msgstr "Mauritània"
+
+#: iptcorigin.cpp:237 xmporigin.cpp:228
+msgid "Mauritius"
+msgstr "Maurici"
+
+#: iptcorigin.cpp:238 xmporigin.cpp:229
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: iptcorigin.cpp:239 xmporigin.cpp:230
+msgid "Mexico"
+msgstr "Mèxic"
+
+#: iptcorigin.cpp:240 xmporigin.cpp:231
+msgid "Micronesia"
+msgstr "Micronèsia"
+
+#: iptcorigin.cpp:241 xmporigin.cpp:232
+msgid "Moldova"
+msgstr "Moldàvia"
+
+#: iptcorigin.cpp:242 xmporigin.cpp:233
+msgid "Monaco"
+msgstr "Mònaco"
+
+#: iptcorigin.cpp:243 xmporigin.cpp:234
+msgid "Mongolia"
+msgstr "Mongòlia"
+
+#: iptcorigin.cpp:244 xmporigin.cpp:235
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: iptcorigin.cpp:245 xmporigin.cpp:236
+msgid "Morocco"
+msgstr "Marroc"
+
+#: iptcorigin.cpp:246 xmporigin.cpp:237
+msgid "Mozambique"
+msgstr "Moçambic"
+
+#: iptcorigin.cpp:247 xmporigin.cpp:238
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: iptcorigin.cpp:248 xmporigin.cpp:239
+msgid "Namibia"
+msgstr "Namíbia"
+
+#: iptcorigin.cpp:249 xmporigin.cpp:240
+msgid "Nauru"
+msgstr "Nauru"
+
+#: iptcorigin.cpp:250 xmporigin.cpp:241
+msgid "Nepal"
+msgstr "Nepal"
+
+#: iptcorigin.cpp:251 xmporigin.cpp:242
+msgid "Netherlands Antilles"
+msgstr "Antilles Holandeses"
+
+#: iptcorigin.cpp:252 xmporigin.cpp:243
+msgid "Netherlands"
+msgstr "Països Baixos"
+
+#: iptcorigin.cpp:253 xmporigin.cpp:244
+msgid "New Caledonia"
+msgstr "Nova Caledònia"
+
+#: iptcorigin.cpp:254 xmporigin.cpp:245
+msgid "New Zealand"
+msgstr "Nova Zelanda"
+
+#: iptcorigin.cpp:255 xmporigin.cpp:246
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: iptcorigin.cpp:256 xmporigin.cpp:247
+msgid "Niger"
+msgstr "Níger"
+
+#: iptcorigin.cpp:257 xmporigin.cpp:248
+msgid "Nigeria"
+msgstr "Nigèria"
+
+#: iptcorigin.cpp:258 xmporigin.cpp:249
+msgid "Niue"
+msgstr "Niue"
+
+#: iptcorigin.cpp:259 xmporigin.cpp:250
+msgid "Norfolk Island"
+msgstr "Illa Norfolk"
+
+#: iptcorigin.cpp:260 xmporigin.cpp:251
+msgid "Northern Mariana Islands"
+msgstr "Illes Marianes del Nord"
+
+#: iptcorigin.cpp:261 xmporigin.cpp:252
+msgid "Norway"
+msgstr "Noruega"
+
+#: iptcorigin.cpp:262 xmporigin.cpp:253
+msgid "Oman"
+msgstr "Oman"
+
+#: iptcorigin.cpp:263 xmporigin.cpp:254
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: iptcorigin.cpp:264 xmporigin.cpp:255
+msgid "Palau"
+msgstr "Palau"
+
+#: iptcorigin.cpp:265 xmporigin.cpp:256
+msgid "Palestinian Territory"
+msgstr "Palestina"
+
+#: iptcorigin.cpp:266 xmporigin.cpp:257
+msgid "Panama"
+msgstr "Panamà"
+
+#: iptcorigin.cpp:267 xmporigin.cpp:258
+msgid "Papua New Guinea"
+msgstr "Papua Nova Guinea"
+
+#: iptcorigin.cpp:268 xmporigin.cpp:259
+msgid "Paraguay"
+msgstr "Paraguai"
+
+#: iptcorigin.cpp:269 xmporigin.cpp:260
+msgid "Peru"
+msgstr "Perú"
+
+#: iptcorigin.cpp:270 xmporigin.cpp:261
+msgid "Philippines"
+msgstr "Filipines"
+
+#: iptcorigin.cpp:271 xmporigin.cpp:262
+msgid "Pitcairn Island"
+msgstr "Illa Pitcairn"
+
+#: iptcorigin.cpp:272 xmporigin.cpp:263
+msgid "Poland"
+msgstr "Polònia"
+
+#: iptcorigin.cpp:273 xmporigin.cpp:264
+msgid "Portugal"
+msgstr "Portugal"
+
+#: iptcorigin.cpp:274 xmporigin.cpp:265
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: iptcorigin.cpp:275 xmporigin.cpp:266
+msgid "Qatar"
+msgstr "Qatar"
+
+#: iptcorigin.cpp:276 xmporigin.cpp:267
+msgid "Reunion"
+msgstr "Reunion"
+
+#: iptcorigin.cpp:277 xmporigin.cpp:268
+msgid "Romania"
+msgstr "Romania"
+
+#: iptcorigin.cpp:278 xmporigin.cpp:269
+msgid "Russian Federation"
+msgstr "Federació Russa"
+
+#: iptcorigin.cpp:279 xmporigin.cpp:270
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: iptcorigin.cpp:280 xmporigin.cpp:271
+msgid "St. Helena"
+msgstr "Saint Helena"
+
+#: iptcorigin.cpp:281 xmporigin.cpp:272
+msgid "St. Kitts and Nevis"
+msgstr "Saint Chistopher i Nevis"
+
+#: iptcorigin.cpp:282 xmporigin.cpp:273
+msgid "St. Lucia"
+msgstr "Saint Lucia"
+
+#: iptcorigin.cpp:283 xmporigin.cpp:274
+msgid "St. Pierre and Miquelon"
+msgstr "Saint Pierre i Miquelon"
+
+#: iptcorigin.cpp:284 xmporigin.cpp:275
+msgid "St. Vincent and the Grenadines"
+msgstr "Saint Vincent i les Granadines"
+
+#: iptcorigin.cpp:285 xmporigin.cpp:276
+msgid "Samoa"
+msgstr "Samoa"
+
+#: iptcorigin.cpp:286 xmporigin.cpp:277
+msgid "San Marino"
+msgstr "San Marino"
+
+#: iptcorigin.cpp:287 xmporigin.cpp:278
+msgid "Sao Tome and Principe"
+msgstr "Sao Tomé i Príncipe"
+
+#: iptcorigin.cpp:288 xmporigin.cpp:279
+msgid "Saudi Arabia"
+msgstr "Aràbia Saudita"
+
+#: iptcorigin.cpp:289 xmporigin.cpp:280
+msgid "Senegal"
+msgstr "Senegal"
+
+#: iptcorigin.cpp:290 xmporigin.cpp:281
+msgid "Serbia and Montenegro"
+msgstr "Sèrbia i Montenegro"
+
+#: iptcorigin.cpp:291 xmporigin.cpp:282
+msgid "Seychelles"
+msgstr "Seychelles"
+
+#: iptcorigin.cpp:292 xmporigin.cpp:283
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: iptcorigin.cpp:293 xmporigin.cpp:284
+msgid "Singapore"
+msgstr "Singapur"
+
+#: iptcorigin.cpp:294 xmporigin.cpp:285
+msgid "Slovakia"
+msgstr "Eslovàquia"
+
+#: iptcorigin.cpp:295 xmporigin.cpp:286
+msgid "Slovenia"
+msgstr "Eslovènia"
+
+#: iptcorigin.cpp:296 xmporigin.cpp:287
+msgid "Solomon Islands"
+msgstr "Illes Salomó"
+
+#: iptcorigin.cpp:297 xmporigin.cpp:288
+msgid "Somalia"
+msgstr "Somàlia"
+
+#: iptcorigin.cpp:298 xmporigin.cpp:289
+msgid "South Africa"
+msgstr "Sud-àfrica"
+
+#: iptcorigin.cpp:299 xmporigin.cpp:290
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Illes Geòrgia del Sud i Sandwich del Sud"
+
+#: iptcorigin.cpp:300 xmporigin.cpp:291
+msgid "Spain"
+msgstr "Espanya"
+
+#: iptcorigin.cpp:301 xmporigin.cpp:292
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: iptcorigin.cpp:302 xmporigin.cpp:293
+msgid "Sudan"
+msgstr "Sudan"
+
+#: iptcorigin.cpp:303 xmporigin.cpp:294
+msgid "Suriname"
+msgstr "Surinam"
+
+#: iptcorigin.cpp:304 xmporigin.cpp:295
+msgid "Svalbard & Jan Mayen Islands"
+msgstr "Illes Svalbard i Jan Mayen"
+
+#: iptcorigin.cpp:305 xmporigin.cpp:296
+msgid "Swaziland"
+msgstr "Swazilàndia"
+
+#: iptcorigin.cpp:306 xmporigin.cpp:297
+msgid "Sweden"
+msgstr "Suècia"
+
+#: iptcorigin.cpp:307 xmporigin.cpp:298
+msgid "Switzerland"
+msgstr "Suïssa"
+
+#: iptcorigin.cpp:308 xmporigin.cpp:299
+msgid "Syrian Arab Republic"
+msgstr "Síria"
+
+#: iptcorigin.cpp:309 xmporigin.cpp:300
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#: iptcorigin.cpp:310 xmporigin.cpp:301
+msgid "Tajikistan"
+msgstr "Tadjikistan"
+
+#: iptcorigin.cpp:311 xmporigin.cpp:302
+msgid "Tanzania"
+msgstr "Tanzània"
+
+#: iptcorigin.cpp:312 xmporigin.cpp:303
+msgid "Thailand"
+msgstr "Tailàndia"
+
+#: iptcorigin.cpp:313 xmporigin.cpp:304
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+#: iptcorigin.cpp:314 xmporigin.cpp:305
+msgid "Togo"
+msgstr "Togo"
+
+#: iptcorigin.cpp:315 xmporigin.cpp:306
+msgid "Tokelau Islands"
+msgstr "Illes Tokelau"
+
+#: iptcorigin.cpp:316 xmporigin.cpp:307
+msgid "Tonga"
+msgstr "Tonga"
+
+#: iptcorigin.cpp:317 xmporigin.cpp:308
+msgid "Trinidad and Tobago"
+msgstr "Trinitat i Tobago"
+
+#: iptcorigin.cpp:318 xmporigin.cpp:309
+msgid "Tunisia"
+msgstr "Tunísia"
+
+#: iptcorigin.cpp:319 xmporigin.cpp:310
+msgid "Turkey"
+msgstr "Turquia"
+
+#: iptcorigin.cpp:320 xmporigin.cpp:311
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: iptcorigin.cpp:321 xmporigin.cpp:312
+msgid "Turks and Caicos Islands"
+msgstr "Illes Turks i Caicos"
+
+#: iptcorigin.cpp:322 xmporigin.cpp:313
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: iptcorigin.cpp:323 xmporigin.cpp:314
+msgid "US Virgin Islands"
+msgstr "Illes Verge Americanes"
+
+#: iptcorigin.cpp:324 xmporigin.cpp:315
+msgid "Uganda"
+msgstr "Uganda"
+
+#: iptcorigin.cpp:325 xmporigin.cpp:316
+msgid "Ukraine"
+msgstr "Ucraïna"
+
+#: iptcorigin.cpp:326 xmporigin.cpp:317
+msgid "United Arab Emirates"
+msgstr "Unió dels Emirats Àrabs"
+
+#: iptcorigin.cpp:327 xmporigin.cpp:318
+msgid "United Kingdom"
+msgstr "Regne Unit"
+
+#: iptcorigin.cpp:328 xmporigin.cpp:319
+msgid "United States Minor Outlying Islands"
+msgstr "Illes Perifèriques Menors dels EUA"
+
+#: iptcorigin.cpp:329 xmporigin.cpp:320
+msgid "United States of America"
+msgstr "Estats Units d'Amèrica"
+
+#: iptcorigin.cpp:330 xmporigin.cpp:321
+msgid "Uruguay, Eastern Republic of"
+msgstr "Uruguai"
+
+#: iptcorigin.cpp:331 xmporigin.cpp:322
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+#: iptcorigin.cpp:332 xmporigin.cpp:323
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: iptcorigin.cpp:333 xmporigin.cpp:324
+msgid "Venezuela"
+msgstr "Veneçuela"
+
+#: iptcorigin.cpp:334 xmporigin.cpp:325
+msgid "Viet Nam"
+msgstr "Vietnam"
+
+#: iptcorigin.cpp:335 xmporigin.cpp:326
+msgid "Wallis and Futuna Islands "
+msgstr "Illes Wallis i Futuna"
+
+#: iptcorigin.cpp:336 xmporigin.cpp:327
+msgid "Western Sahara"
+msgstr "Sàhara occidental"
+
+#: iptcorigin.cpp:337 xmporigin.cpp:328
+msgid "Yemen"
+msgstr "Iemen"
+
+#: iptcorigin.cpp:338 xmporigin.cpp:329
+msgid "Zambia"
+msgstr "Zàmbia"
+
+#: iptcorigin.cpp:339 xmporigin.cpp:330
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: iptcorigin.cpp:343 xmporigin.cpp:334
+msgid "United Nations"
+msgstr "Nacions Unides"
+
+#: iptcorigin.cpp:344 xmporigin.cpp:335
+msgid "European Union"
+msgstr "Unió Europea"
+
+#: iptcorigin.cpp:345 xmporigin.cpp:336
+msgid "Space"
+msgstr "Espai"
+
+#: iptcorigin.cpp:346 xmporigin.cpp:337
+msgid "At Sea"
+msgstr "Al mar"
+
+#: iptcorigin.cpp:347 xmporigin.cpp:338
+msgid "In Flight"
+msgstr "Volant"
+
+#: iptcorigin.cpp:348 xmporigin.cpp:339
+msgid "England"
+msgstr "Anglaterra"
+
+#: iptcorigin.cpp:349 xmporigin.cpp:340
+msgid "Scotland"
+msgstr "Escòcia"
+
+#: iptcorigin.cpp:350 xmporigin.cpp:341
+msgid "Northern Ireland"
+msgstr "Irlanda del Nord"
+
+#: iptcorigin.cpp:351 xmporigin.cpp:342
+msgid "Wales"
+msgstr "Gal·les"
+
+#: iptcorigin.cpp:352 xmporigin.cpp:343
+msgid "Palestine"
+msgstr "Palestina"
+
+#: iptcorigin.cpp:353 xmporigin.cpp:344
+msgid "Gaza"
+msgstr "Gaza"
+
+#: iptcorigin.cpp:354 xmporigin.cpp:345
+msgid "Jericho"
+msgstr "Jericó"
+
+#: iptcorigin.cpp:402 xmporigin.cpp:382
+msgid "Digitization date"
+msgstr "Data de digitalització"
+
+#: iptcorigin.cpp:403
+msgid "Digitization time"
+msgstr "Hora de digitalització"
+
+#: iptcorigin.cpp:411 xmporigin.cpp:389
+msgid "Set here the creation date of digital representation."
+msgstr "Indiqueu aquí la data de creació de la representació digital."
+
+#: iptcorigin.cpp:413
+msgid "Set here the creation time of digital representation."
+msgstr "Indiqueu aquí l'hora de creació de la representació digital."
+
+#: iptcorigin.cpp:420 xmporigin.cpp:396
+msgid "Creation date"
+msgstr "Data d creació"
+
+#: iptcorigin.cpp:421
+msgid "Creation time"
+msgstr "Hora de creació"
+
+#: iptcorigin.cpp:427 xmporigin.cpp:401
+msgid "Sync EXIF creation date"
+msgstr "Sincronitza la data de creació EXIF"
+
+#: iptcorigin.cpp:433 xmporigin.cpp:407
+msgid "Set here the creation date of intellectual content."
+msgstr "Indiqueu aquí la data de creació del contingut intel·lectual."
+
+#: iptcorigin.cpp:435
+msgid "Set here the creation time of intellectual content."
+msgstr "Indiqueu aquí l'hora de creació del contingut intel·lectual."
+
+#: iptcorigin.cpp:442
+msgid "Location:"
+msgstr "Localització:"
+
+#: iptcorigin.cpp:443
+msgid "Set here the full country name referenced by the content."
+msgstr "Indiqueu aquí el nom sencer del país referenciat pel contingut."
+
+#: iptcorigin.cpp:454 xmpcredits.cpp:152 xmporigin.cpp:414
+msgid "City:"
+msgstr "Ciutat:"
+
+#: iptcorigin.cpp:459
+msgid ""
+"Set here the city of content origin. This field is limited to 32 ASCII "
+"characters."
+msgstr ""
+"Indiqueu aquí la ciutat de l'origen del contingut. Aquest camp està limitat "
+"a 32 caràcters ASCII."
+
+#: iptcorigin.cpp:464 xmporigin.cpp:421
+msgid "Sublocation:"
+msgstr "Sublocalització:"
+
+#: iptcorigin.cpp:469
+msgid ""
+"Set here the content location within city. This field is limited to 32 ASCII "
+"characters."
+msgstr ""
+"Indiqueu aquí la localització del contingut en la ciutat. Aquest camp està "
+"limitat a 32 caràcters ASCII."
+
+#: iptcorigin.cpp:474 xmporigin.cpp:428
+msgid "State/Province:"
+msgstr "Estat/província:"
+
+#: iptcorigin.cpp:479
+msgid ""
+"Set here the Province or State of content origin. This field is limited to "
+"32 ASCII characters."
+msgstr ""
+"Indiqueu aquí la provincia o estat de l'origen del contingut. Aquest camp "
+"està limitat a 32 caràcters ASCII."
+
+#: iptcorigin.cpp:484 xmpcredits.cpp:157 xmporigin.cpp:435
+msgid "Country:"
+msgstr "País:"
+
+#: iptcorigin.cpp:492
+msgid "Select here country name of content origin."
+msgstr "Indiqueu aquí el país de l'origen del contingut."
+
+#: iptcproperties.cpp:134
+msgid "Release date"
+msgstr "Data de publicació"
+
+#: iptcproperties.cpp:135
+msgid "Release time"
+msgstr "Hora de publicació"
+
+#: iptcproperties.cpp:141
+msgid "Set release date to today"
+msgstr "Assigneu la data de publicació a avui"
+
+#: iptcproperties.cpp:143
+msgid "Set here the earliest intended usable date of intellectual content."
+msgstr ""
+"Indiqueu aquí la primera data proposada d'ús del contingut intel·lectual."
+
+#: iptcproperties.cpp:145
+msgid "Set here the earliest intended usable time of intellectual content."
+msgstr ""
+"Indiqueu aquí la primera hora proposada d'ús del contingut intel·lectual."
+
+#: iptcproperties.cpp:151
+msgid "Expiration date"
+msgstr "Data de venciment"
+
+#: iptcproperties.cpp:152
+msgid "Expiration time"
+msgstr "Hora de venciment"
+
+#: iptcproperties.cpp:158
+msgid "Set expiration date to today"
+msgstr "Assigna la data de venciment a avui"
+
+#: iptcproperties.cpp:160
+msgid "Set here the latest intended usable date of intellectual content."
+msgstr ""
+"Indiqueu aquí l'última data proposada d'ús del contingut intel·lectual."
+
+#: iptcproperties.cpp:162
+msgid "Set here the latest intended usable time of intellectual content."
+msgstr ""
+"Indiqueu aquí l'última hora proposada d'ús del contingut intel·lectual."
+
+#: iptcproperties.cpp:181 xmpproperties.cpp:175
+msgid "Select here the language of content."
+msgstr "Seleccioneu aquí l'idioma del contingut."
+
+#: iptcproperties.cpp:196 xmpproperties.cpp:197
+msgid "Select here the editorial urgency of content."
+msgstr "Seleccioneu aquí la urgència editorial del contingut."
+
+#: iptcproperties.cpp:200
+msgid "Cycle:"
+msgstr "Cicle:"
+
+#: iptcproperties.cpp:202
+msgid "Morning"
+msgstr "Matí"
+
+#: iptcproperties.cpp:203
+msgid "Afternoon"
+msgstr "Tarda"
+
+#: iptcproperties.cpp:204
+msgid "Evening"
+msgstr "Vespre"
+
+#: iptcproperties.cpp:205
+msgid "Select here the editorial cycle of content."
+msgstr "Seleccioneu aquí el cicle editorial del contingut."
+
+#: iptcproperties.cpp:209 xmpproperties.cpp:213
+msgid "Type:"
+msgstr "Tipus:"
+
+#: iptcproperties.cpp:215 xmpproperties.cpp:117
+msgid "News"
+msgstr "Notícia"
+
+#: iptcproperties.cpp:216 xmpproperties.cpp:113
+msgid "Data"
+msgstr "Dades"
+
+#: iptcproperties.cpp:217 xmpproperties.cpp:110
+msgid "Advisory"
+msgstr "Avís"
+
+#: iptcproperties.cpp:218
+msgid "Select here the editorial type of content."
+msgstr "Seleccioneu aquí el tipus editorial del contingut."
+
+#: iptcproperties.cpp:219
+msgid ""
+"Set here the editorial type description of content. This field is limited to "
+"64 ASCII characters."
+msgstr ""
+"Indiqueu aquí la descripció del tipus editorial del contingut. Aquest camp "
+"està limitat a 64 caràcters ASCII."
+
+#: iptcproperties.cpp:228 subjects.cpp:191 xmpproperties.cpp:257
+msgid "Reference:"
+msgstr "Referència:"
+
+#: iptcproperties.cpp:233
+#, fuzzy
+#| msgid ""
+#| "Set here the location of original content transmission reference. This "
+#| "field is limited to 32 ASCII characters."
+msgid ""
+"Set here the original content transmission reference. This field is limited "
+"to 32 ASCII characters."
+msgstr ""
+"Indiqueu aquí la localització de la referència de la transmissió del "
+"contingut original. Aquest camp està limitat a 32 caràcters ASCII."
+
+#: iptcstatus.cpp:90 xmpstatus.cpp:87
+msgid "Title:"
+msgstr "Títol:"
+
+#: iptcstatus.cpp:95
+msgid ""
+"Set here the shorthand reference of content. This field is limited to 64 "
+"ASCII characters."
+msgstr ""
+"Indiqueu aquí la referència curta pel contingut. Aquest camp està limitat a "
+"64 caràcters ASCII."
+
+#: iptcstatus.cpp:100
+msgid "Edit Status:"
+msgstr "Estat d'edició:"
+
+#: iptcstatus.cpp:105
+msgid ""
+"Set here the title of content status. This field is limited to 64 ASCII "
+"characters."
+msgstr ""
+"Indiqueu aquí el títol de l'estat del contingut. Aquest camp està limitat a "
+"64 caràcters ASCII."
+
+#: iptcstatus.cpp:110
+msgid "Job Identifier:"
+msgstr "Identificació del treball:"
+
+#: iptcstatus.cpp:115
+msgid ""
+"Set here the string that identifies content that recurs. This field is "
+"limited to 32 ASCII characters."
+msgstr ""
+"Indiqueu aquí la cadena que identifica el contingut que es repeteix. Aquest "
+"camp està limitat a 32 caràcters ASCII."
+
+#: iptcstatus.cpp:120 xmpstatus.cpp:104
+msgid "Special Instructions:"
+msgstr "Instruccions especials:"
+
+#: iptcstatus.cpp:124
+msgid ""
+"Enter the editorial usage instructions. This field is limited to 256 ASCII "
+"characters."
+msgstr ""
+"Indiqueu aquí les instruccions d'ús editorial. Aquest camp està limitat a "
+"256 caràcters ASCII."
+
+#: iptcsubjects.cpp:59
+msgid ""
+"Enter here the Informative Provider Reference. I.P.R is a name registered "
+"with the IPTC/NAA, identifying the provider that provides an indicator of "
+"the content. The default value for the I.P.R is \"IPTC\" if a standard "
+"Reference Code is used. This field is limited to 32 ASCII characters."
+msgstr ""
+"Introduïu aquí la Referència del Proveïdor Informativa (IPR). La IPR és un "
+"nom registrat a IPTC/NAA,que identifica el proveïdor que proporciona un "
+"identificador del contingut. El valor per omissió per la IPR és \"IPTC\" si "
+"s'usa un codi de referència estàndard. Aquest camp està limitat a 32 "
+"caràcters ASCII."
+
+#: iptcsubjects.cpp:67
+msgid ""
+"Enter here the Subject Reference Number. Provides a numeric code to indicate "
+"the Subject Name plus optional Subject Matter and Subject Detail Names in "
+"the language of the service. Subject Reference is a number from the range "
+"01000000 to 17999999 and represent a language independent international "
+"reference to a Subject. A Subject is identified by its Reference Number and "
+"corresponding Names taken from a standard lists given by IPTC/NAA. If a "
+"standard reference code is used, these lists are the English language "
+"reference versions. This field is limited to 8 ASCII digit code."
+msgstr ""
+"Introduïu aquí el Número de Referència de l'Assumpte. Proporciona un codi "
+"numèric per a indicar el nom de l'assumpte i opcionalment una matèria de "
+"l'assumpte i noms de detall de l'assumpte en l'idioma del servei. La "
+"referència de l'assumpte és un número amb l'interval entre 01000000 i "
+"17999999 i representa una referència internacional a un assumpte independent "
+"de l'idioma. Un assumpte s'identifica pel seu Número de Referència i els "
+"noms corresponents indicats en unes llistes estàndard donades per IPTC/NAA. "
+"Si s'usa un codi de referència estàndard, aquestes llistes són amb la versió "
+"de referència de l'idioma anglès. Aquest camp està limitat a un codi de 8 "
+"dígits."
+
+#: iptcsubjects.cpp:82
+msgid ""
+"Enter here the Subject Name. English language is used if you selected a "
+"standard IPTC/NAA reference code. This field is limited to 64 ASCII "
+"characters."
+msgstr ""
+"Indiqueu aquí el nom de l'assumpte. S'usa l'idioma anglès si seleccioneu un "
+"codi de referència IPTC/NAA estàndard. Aquest camp està limitat a 64 "
+"caràcters ASCII."
+
+#: iptcsubjects.cpp:89
+msgid ""
+"Enter here the Subject Matter Name. English language is used if you selected "
+"a standard IPTC/NAA reference code. This field is limited to 64 ASCII "
+"characters."
+msgstr ""
+"Indiqueu aquí el nom de matèria de l'assumpte. S'usa l'idioma anglès si "
+"seleccioneu un codi de referència IPTC/NAA estàndard. Aquest camp està "
+"limitat a 64 caràcters ASCII."
+
+#: iptcsubjects.cpp:96
+msgid ""
+"Enter here the Subject Detail Name. English language is used if you selected "
+"a standard IPTC/NAA reference code. This field is limited to 64 ASCII "
+"characters."
+msgstr ""
+"Indiqueu aquí el nom detallat de l'assumpte. S'usa l'idioma anglès si "
+"seleccioneu un codi de referència IPTC/NAA estàndard. Aquest camp està "
+"limitat a 64 caràcters ASCII."
+
+#: multistringsedit.cpp:111 objectattributesedit.cpp:156
+msgid " This field is limited to:"
+msgstr " Aquest camp està limitat a:"
+
+#: multistringsedit.cpp:117 objectattributesedit.cpp:162
+#, fuzzy
+#| msgid "<p>Printable ASCII characters set.</p>"
+msgid "<p>Printable ASCII characters.</p>"
+msgstr "<p>Joc de caràcters ASCII imprimibles.</p>"
+
+#: multistringsedit.cpp:123 objectattributesedit.cpp:168
+#, fuzzy, kde-format
+#| msgid "<p>Size of %1 characters.</p>"
+msgid "<p>1 character.</p>"
+msgid_plural "<p>%1 characters.</p>"
+msgstr[0] "<p>Mida de %1 caràcters.</p>"
+msgstr[1] "<p>Mida de %1 caràcters.</p>"
+
+#: objectattributesedit.cpp:101 xmpproperties.cpp:225
+msgid "Attribute:"
+msgstr "Atribució:"
+
+#: objectattributesedit.cpp:123
+msgid "Select here the editorial attribute of content."
+msgstr "Seleccioneu aquí l'atribució editorial del contingut."
+
+#: objectattributesedit.cpp:124 xmpproperties.cpp:232
+msgid "Current"
+msgstr "Actual"
+
+#: objectattributesedit.cpp:125 xmpproperties.cpp:233
+msgid "Analysis"
+msgstr "Anàlisis"
+
+#: objectattributesedit.cpp:126 xmpproperties.cpp:234
+msgid "Archive material"
+msgstr "Material d'arxiu"
+
+#: objectattributesedit.cpp:127 xmpproperties.cpp:235
+msgid "Background"
+msgstr "Fons"
+
+#: objectattributesedit.cpp:128 xmpproperties.cpp:236
+msgid "Feature"
+msgstr "Característica"
+
+#: objectattributesedit.cpp:129 xmpproperties.cpp:237
+msgid "Forecast"
+msgstr "Previsió"
+
+#: objectattributesedit.cpp:130 xmpproperties.cpp:238
+msgid "History"
+msgstr "Història"
+
+#: objectattributesedit.cpp:131 xmpproperties.cpp:239
+msgid "Obituary"
+msgstr "Necrologia"
+
+#: objectattributesedit.cpp:132 xmpproperties.cpp:240
+msgid "Opinion"
+msgstr "Opinió"
+
+#: objectattributesedit.cpp:133 xmpproperties.cpp:241
+msgid "Polls & Surveys"
+msgstr "Enquestes i sondeigs"
+
+#: objectattributesedit.cpp:134 xmpproperties.cpp:242
+msgctxt "Content type"
+msgid "Profile"
+msgstr "Perfil"
+
+#: objectattributesedit.cpp:135 xmpproperties.cpp:243
+msgid "Results Listings & Table"
+msgstr "Llistats i taules de resultats"
+
+#: objectattributesedit.cpp:136 xmpproperties.cpp:244
+msgid "Side bar & Supporting information"
+msgstr "Informació de barra lateral i d'assistència"
+
+#: objectattributesedit.cpp:137 xmpproperties.cpp:245
+msgid "Summary"
+msgstr "Resum"
+
+#: objectattributesedit.cpp:138 xmpproperties.cpp:246
+msgid "Transcript & Verbatim"
+msgstr "Transcripció i literal"
+
+#: objectattributesedit.cpp:139 xmpproperties.cpp:247
+msgid "Interview"
+msgstr "Entrevista"
+
+#: objectattributesedit.cpp:140 xmpproperties.cpp:248
+msgid "From the Scene"
+msgstr "Des del lloc"
+
+#: objectattributesedit.cpp:141 xmpproperties.cpp:249
+msgid "Retrospective"
+msgstr "Retrospectiva"
+
+#: objectattributesedit.cpp:142 xmpproperties.cpp:250
+msgid "Statistics"
+msgstr "Estadístiques"
+
+#: objectattributesedit.cpp:143 xmpproperties.cpp:251
+msgid "Update"
+msgstr "Actualització"
+
+#: objectattributesedit.cpp:144 xmpproperties.cpp:252
+msgid "Wrap-up"
+msgstr "Embolcall"
+
+#: objectattributesedit.cpp:145 xmpproperties.cpp:253
+msgid "Press Release"
+msgstr "Nota de premsa"
+
+#: objectattributesedit.cpp:151
+msgid ""
+"Set here the editorial attribute description of content. This field is "
+"limited to 64 ASCII characters."
+msgstr ""
+"Indiqueu aquí la descripció de l'atribut editorial del contingut. Aquest "
+"camp està limitat a 64 caràcters ASCII."
+
+#: plugin_metadataedit.cpp:80
+msgid "Metadata"
+msgstr "Metadades"
+
+#: plugin_metadataedit.cpp:84
+msgid "Edit EXIF..."
+msgstr "Edició de l'EXIF..."
+
+#: plugin_metadataedit.cpp:90
+msgid "Remove EXIF..."
+msgstr "Suprimeix l'EXIF..."
+
+#: plugin_metadataedit.cpp:96
+msgid "Import EXIF..."
+msgstr "Importa l'EXIF..."
+
+#: plugin_metadataedit.cpp:106
+msgid "Edit IPTC..."
+msgstr "Edita l'IPTC..."
+
+#: plugin_metadataedit.cpp:112
+msgid "Remove IPTC..."
+msgstr "Suprimeix l'IPTC..."
+
+#: plugin_metadataedit.cpp:118
+msgid "Import IPTC..."
+msgstr "Importa l'IPTC..."
+
+#: plugin_metadataedit.cpp:128
+msgid "Edit XMP..."
+msgstr "Edita l'XMP..."
+
+#: plugin_metadataedit.cpp:134
+msgid "Remove XMP..."
+msgstr "Suprimeix l'XMP..."
+
+#: plugin_metadataedit.cpp:140
+msgid "Import XMP..."
+msgstr "Importa l'XMP..."
+
+#: plugin_metadataedit.cpp:150
+msgid "Edit Captions..."
+msgstr "Edita els títols..."
+
+#: plugin_metadataedit.cpp:156
+msgid "Remove Captions..."
+msgstr "Suprimeix els títols..."
+
+#: plugin_metadataedit.cpp:201
+#, fuzzy
+#| msgid ""
+#| "EXIF metadata will be permanently removed from all current selected "
+#| "pictures.\n"
+#| "Do you want to continue ?"
+msgid ""
+"EXIF metadata will be permanently removed from all currently selected "
+"pictures.\n"
+"Do you want to continue?"
+msgstr ""
+"Les metadades EXIF se suprimiran permanentment de totes les fotografies "
+"actualment seleccionades.\n"
+"Voleu continuar?"
+
+#: plugin_metadataedit.cpp:203 plugin_metadataedit.cpp:248
+msgid "Remove EXIF Metadata"
+msgstr "Suprimeix les metadades EXIF"
+
+#: plugin_metadataedit.cpp:246
+msgid "Unable to remove EXIF metadata from:"
+msgstr "No s'ha pogut suprimir les metadades EXIF de:"
+
+#: plugin_metadataedit.cpp:266
+msgid "Select File to Import EXIF metadata"
+msgstr "Seleccioneu un fitxer per importar les metadades EXIF"
+
+#: plugin_metadataedit.cpp:276 plugin_metadataedit.cpp:443
+#: plugin_metadataedit.cpp:610
+#, kde-format
+msgid "Cannot load metadata from \"%1\""
+msgstr "No s'ha pogut carregar les metadades des de \"%1\""
+
+#: plugin_metadataedit.cpp:277 plugin_metadataedit.cpp:286
+#: plugin_metadataedit.cpp:295 plugin_metadataedit.cpp:340
+msgid "Import EXIF Metadata"
+msgstr "Importa les metadades EXIF"
+
+#: plugin_metadataedit.cpp:285
+#, fuzzy, kde-format
+#| msgid "\"%1\" do not have EXIF metadata"
+msgid "\"%1\" does not have EXIF metadata."
+msgstr "\"%1\" no té metadades EXIF"
+
+#: plugin_metadataedit.cpp:292
+#, fuzzy, kde-format
+#| msgid ""
+#| "EXIF metadata from current selected pictures will be permanently replaced "
+#| "by the EXIF content of \"%1\".\n"
+#| "Do you want to continue ?"
+msgid ""
+"EXIF metadata from the currently selected pictures will be permanently "
+"replaced by the EXIF content of \"%1\".\n"
+"Do you want to continue?"
+msgstr ""
+"Les metadades EXIF de les fotografies actualment seleccionades es "
+"reemplaçaran permanentment pel contingut EXIF de \"%1\".\n"
+"Voleu continuar?"
+
+#: plugin_metadataedit.cpp:338
+msgid "Unable to set EXIF metadata from:"
+msgstr "No s'ha pogut establir les metadades EXIF des de:"
+
+#: plugin_metadataedit.cpp:368
+#, fuzzy
+#| msgid ""
+#| "IPTC metadata will be permanently removed from all current selected "
+#| "pictures.\n"
+#| "Do you want to continue ?"
+msgid ""
+"IPTC metadata will be permanently removed from all currently selected "
+"pictures.\n"
+"Do you want to continue?"
+msgstr ""
+"Les metadades IPTC se suprimiran permanentment de totes les fotografies "
+"actualment seleccionades.\n"
+"Voleu continuar?"
+
+#: plugin_metadataedit.cpp:370 plugin_metadataedit.cpp:415
+msgid "Remove IPTC Metadata"
+msgstr "Suprimeix les metadades IPTC"
+
+#: plugin_metadataedit.cpp:413
+msgid "Unable to remove IPTC metadata from:"
+msgstr "No s'ha pogut suprimir les metadades IPTC de:"
+
+#: plugin_metadataedit.cpp:433
+msgid "Select File to Import IPTC metadata"
+msgstr "Seleccioneu un fitxer per importar les metadades IPTC"
+
+#: plugin_metadataedit.cpp:444 plugin_metadataedit.cpp:453
+#: plugin_metadataedit.cpp:462 plugin_metadataedit.cpp:507
+msgid "Import IPTC Metadata"
+msgstr "Importa les metadades IPTC"
+
+#: plugin_metadataedit.cpp:452
+#, fuzzy, kde-format
+#| msgid "\"%1\" do not have IPTC metadata"
+msgid "\"%1\" does not have IPTC metadata."
+msgstr "\"%1\" no té metadades IPTC"
+
+#: plugin_metadataedit.cpp:459
+#, fuzzy, kde-format
+#| msgid ""
+#| "IPTC metadata from current selected pictures will be permanently replaced "
+#| "by the IPTC content of \"%1\".\n"
+#| "Do you want to continue ?"
+msgid ""
+"IPTC metadata from the currently selected pictures will be permanently "
+"replaced by the IPTC content of \"%1\".\n"
+"Do you want to continue?"
+msgstr ""
+"Les metadades IPTC de les fotografies actualment seleccionades es "
+"reemplaçaran permanentment pel contingut IPTC de \"%1\".\n"
+"Voleu continuar?"
+
+#: plugin_metadataedit.cpp:505
+msgid "Unable to set IPTC metadata from:"
+msgstr "No s'ha pogut establir les metadades IPTC des de:"
+
+#: plugin_metadataedit.cpp:535
+#, fuzzy
+#| msgid ""
+#| "XMP metadata will be permanently removed from all current selected "
+#| "pictures.\n"
+#| "Do you want to continue ?"
+msgid ""
+"XMP metadata will be permanently removed from all of the currently selected "
+"pictures.\n"
+"Do you want to continue?"
+msgstr ""
+"Les metadades XMP se suprimiran permanentment de totes les fotografies "
+"actualment seleccionades.\n"
+"Voleu continuar?"
+
+#: plugin_metadataedit.cpp:537 plugin_metadataedit.cpp:582
+msgid "Remove XMP Metadata"
+msgstr "Suprimeix les metadades XMP"
+
+#: plugin_metadataedit.cpp:580
+msgid "Unable to remove XMP metadata from:"
+msgstr "No s'ha pogut suprimir les metadades XMP de:"
+
+#: plugin_metadataedit.cpp:600
+msgid "Select File to Import XMP metadata"
+msgstr "Seleccioneu un fitxer per importar les metadades XMP"
+
+#: plugin_metadataedit.cpp:611 plugin_metadataedit.cpp:620
+#: plugin_metadataedit.cpp:629 plugin_metadataedit.cpp:674
+msgid "Import XMP Metadata"
+msgstr "Importa les metadades XMP"
+
+#: plugin_metadataedit.cpp:619
+#, fuzzy, kde-format
+#| msgid "\"%1\" do not have XMP metadata"
+msgid "\"%1\" does not have XMP metadata."
+msgstr "\"%1\" no té metadades XMP"
+
+#: plugin_metadataedit.cpp:626
+#, fuzzy, kde-format
+#| msgid ""
+#| "XMP metadata from current selected pictures will be permanently replaced "
+#| "by the XMP content of \"%1\".\n"
+#| "Do you want to continue ?"
+msgid ""
+"XMP metadata from the currently selected pictures will be permanently "
+"replaced by the XMP content of \"%1\".\n"
+"Do you want to continue?"
+msgstr ""
+"Les metadades XMP de les fotografies actualment seleccionades es "
+"reemplaçaran permanentment pel contingut XMP de \"%1\".\n"
+"Voleu continuar?"
+
+#: plugin_metadataedit.cpp:672
+msgid "Unable to set XMP metadata from:"
+msgstr "No s'ha pogut establir les metadades XMP des de:"
+
+#: plugin_metadataedit.cpp:761
+msgid "Unable to set captions as image metadata from:"
+msgstr "No s'han pogut establir els títols com a metadades d'imatge de:"
+
+#: plugin_metadataedit.cpp:842
+msgid "Unable to remove caption as image metadata from:"
+msgstr "No s'ha pogut suprimir el títol de les metadades d'imatge de:"
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Josep Ma. Ferrer"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "txemaq@gmail.com"
+
+#: subjects.cpp:134
+msgid "Use structured definition of the subject matter:"
+msgstr "Usa una definició estructurada de la matèria de l'assumpte:"
+
+#: subjects.cpp:140
+msgid ""
+"Use standard <b><a href='http://www.iptc.org/NewsCodes'>reference code</a></"
+"b>"
+msgstr ""
+"Usa un <b><a href='http://www.iptc.org/NewsCodes'>codi de referència</a> "
+"estàndard</b>"
+
+#: subjects.cpp:146
+msgid "Use custom definition"
+msgstr "Usa una definició personalitzada"
+
+#: subjects.cpp:190
+msgid "I.P.R:"
+msgstr "IPR:"
+
+#: subjects.cpp:192
+msgid "Name:"
+msgstr "Nom:"
+
+#: subjects.cpp:193
+msgid "Matter:"
+msgstr "Matèria:"
+
+#: subjects.cpp:194
+msgid "Detail:"
+msgstr "Detall:"
+
+#: xmpcategories.cpp:89
+msgid ""
+"Set here the category of content. This field is limited to 3 characters."
+msgstr ""
+"Indiqueu aquí la categoria del contingut. Aquest camp està limitat a 3 "
+"caràcters."
+
+#: xmpcategories.cpp:96
+msgid "Enter here a new supplemental category of content."
+msgstr "Introduïu aquí una nova categoria addicional del contingut."
+
+#: xmpcontent.cpp:93
+msgid "Enter here the content synopsis."
+msgstr "Introduïu aquí la sinopsis del contingut."
+
+#: xmpcontent.cpp:98
+msgid "Enter the content description."
+msgstr "Introduïu aquí la descripció del contingut."
+
+#: xmpcontent.cpp:100
+msgid "Default Language Caption Options"
+msgstr "Opcions per omissió de l'idioma dels títols"
+
+#: xmpcontent.cpp:123
+msgid "Enter the necessary copyright notice."
+msgstr "Introduïu les notes de copyright necessàries."
+
+#: xmpcredits.cpp:124
+msgid "Contact"
+msgstr "Contacte"
+
+#: xmpcredits.cpp:127
+msgid "E-mail:"
+msgstr "Correu electrònic:"
+
+#: xmpcredits.cpp:130
+msgid "Set here the contact e-mail."
+msgstr "Indiqueu aquí el correu electrònic de contacte."
+
+#: xmpcredits.cpp:132
+msgid "URL:"
+msgstr "URL:"
+
+#: xmpcredits.cpp:135
+msgid "Set here the contact URL."
+msgstr "Indiqueu aquí l'URL de contacte."
+
+#: xmpcredits.cpp:137
+msgid "Phone:"
+msgstr "Telèfon:"
+
+#: xmpcredits.cpp:140
+#, fuzzy
+#| msgid "Set here the contact phone."
+msgid "Set here the contact 'phone number."
+msgstr "Indiqueu aquí el telèfon de contacte."
+
+#: xmpcredits.cpp:142
+msgctxt "Street address"
+msgid "Address:"
+msgstr "Adreça:"
+
+#: xmpcredits.cpp:145
+msgid "Set here the contact address."
+msgstr "Indiqueu aquí l'adreça de contacte."
+
+#: xmpcredits.cpp:147
+msgid "Postal code:"
+msgstr "Codi postal:"
+
+#: xmpcredits.cpp:150
+msgid "Set here the contact postal code."
+msgstr "Indiqueu aquí el codi postal de contacte."
+
+#: xmpcredits.cpp:155
+msgid "Set here the contact city."
+msgstr "Indiqueu aquí la ciutat de contacte."
+
+#: xmpcredits.cpp:160
+msgid "Set here the contact country."
+msgstr "Indiqueu aquí el país de contacte."
+
+#: xmpcredits.cpp:185
+msgid "Set here the content provider."
+msgstr "Introduïu aquí el proveïdor del contingut."
+
+#: xmpcredits.cpp:192
+msgid "Set here the original owner of content."
+msgstr "Introduïu aquí el propietari original del contingut."
+
+#: xmpeditdialog.cpp:209
+msgid "(c) 2007-2009, Gilles Caulier"
+msgstr "(c) 2007-2009, Gilles Caulier"
+
+#: xmpeditdialog.cpp:363
+msgid "Edit XMP Metadata"
+msgstr "Edita les metadades XMP"
+
+#: xmpkeywords.cpp:85
+msgid "Enter here a new keyword."
+msgstr "Introduïu aquí una paraula clau nova."
+
+#: xmporigin.cpp:417
+#, fuzzy
+#| msgid "Set here the city of content origin."
+msgid "Set here the content's city of origin."
+msgstr "Indiqueu aquí la ciutat d'origen del contingut."
+
+#: xmporigin.cpp:424
+#, fuzzy
+#| msgid "Set here the content location within city."
+msgid "Set here the content's location within the city."
+msgstr "Indiqueu aquí la localització dins la ciutat pel contingut."
+
+#: xmporigin.cpp:431
+#, fuzzy
+#| msgid "Set here the Province or State of content origin."
+msgid "Set here the content's Province or State of origin."
+msgstr "Indiqueu aquí la província o estat d'origen del contingut."
+
+#: xmporigin.cpp:443
+#, fuzzy
+#| msgid "Set here the contact country."
+msgid "Select here the content's country of origin."
+msgstr "Indiqueu aquí el país de contacte."
+
+#: xmpproperties.cpp:85
+msgid "Headshot"
+msgstr "Retrat"
+
+#: xmpproperties.cpp:86
+msgid "Half-length"
+msgstr "Mig cos"
+
+#: xmpproperties.cpp:87
+msgid "Full-length"
+msgstr "Tot el cos"
+
+#: xmpproperties.cpp:88
+msgctxt "Side view of a person"
+msgid "Profile"
+msgstr "Perfil"
+
+#: xmpproperties.cpp:89
+msgid "Rear view"
+msgstr "Vista posterior"
+
+#: xmpproperties.cpp:90
+msgid "Single"
+msgstr "Individual"
+
+#: xmpproperties.cpp:91
+msgid "Couple"
+msgstr "Parella"
+
+#: xmpproperties.cpp:92
+msgid "Two"
+msgstr "Dos"
+
+#: xmpproperties.cpp:93
+msgid "Group"
+msgstr "Grup"
+
+#: xmpproperties.cpp:94
+msgid "General view"
+msgstr "Vista general"
+
+#: xmpproperties.cpp:95
+msgid "Panoramic view"
+msgstr "Vista panoràmica"
+
+#: xmpproperties.cpp:96
+msgid "Aerial view"
+msgstr "Vista aèria"
+
+#: xmpproperties.cpp:97
+msgid "Under-water"
+msgstr "Submarina"
+
+#: xmpproperties.cpp:99
+msgid "Satellite"
+msgstr "Satèl·lit"
+
+#: xmpproperties.cpp:100
+msgid "Exterior view"
+msgstr "Vista exterior"
+
+#: xmpproperties.cpp:101
+msgid "Interior view"
+msgstr "Vista interior"
+
+#: xmpproperties.cpp:102
+msgid "Close-up"
+msgstr "Primer plànol"
+
+#: xmpproperties.cpp:103
+msgid "Action"
+msgstr "Acció"
+
+#: xmpproperties.cpp:104
+msgid "Performing"
+msgstr "Representació"
+
+#: xmpproperties.cpp:105
+msgid "Posing"
+msgstr "Posa"
+
+#: xmpproperties.cpp:106
+msgid "Symbolic"
+msgstr "Simbòlic"
+
+#: xmpproperties.cpp:107
+msgid "Off-beat"
+msgstr "Excèntric"
+
+#: xmpproperties.cpp:108
+msgid "Movie scene"
+msgstr "Escena de pel·lícula"
+
+#: xmpproperties.cpp:111
+msgid "Alert"
+msgstr "Alerta"
+
+#: xmpproperties.cpp:112
+msgid "Catalog"
+msgstr "Catàleg"
+
+#: xmpproperties.cpp:114
+msgid "Document"
+msgstr "Document"
+
+#: xmpproperties.cpp:115
+msgid "DTD"
+msgstr "DTD"
+
+#: xmpproperties.cpp:116
+msgid "Maintenance"
+msgstr "Manteniment"
+
+#: xmpproperties.cpp:118
+msgid "News Management Mode"
+msgstr "Mode de gestió de notícies"
+
+#: xmpproperties.cpp:119
+msgid "Package"
+msgstr "Paquet"
+
+#: xmpproperties.cpp:120
+msgid "Schema"
+msgstr "Esquema"
+
+#: xmpproperties.cpp:121
+msgid "Topic"
+msgstr "Tema"
+
+#: xmpproperties.cpp:122
+msgid "Topic Set"
+msgstr "Conjunt de temes"
+
+#: xmpproperties.cpp:201
+msgid "Scene:"
+msgstr "Escenari:"
+
+#: xmpproperties.cpp:202
+#, fuzzy
+#| msgid "Select here the scene type of content."
+msgid "Select here the scene type of the content."
+msgstr "Seleccioneu aquí el tipus d'escenari del contingut."
+
+#: xmpproperties.cpp:214
+#, fuzzy
+#| msgid "Select here the editorial type of content."
+msgid "Select here the editorial type of the content."
+msgstr "Seleccioneu aquí el tipus editorial del contingut."
+
+#: xmpproperties.cpp:229
+#, fuzzy
+#| msgid "Set here the editorial attribute description of content."
+msgid "Set here the editorial attribute description of the content."
+msgstr "Introduïu aquí la descripció de l'atribució editorial del contingut."
+
+#: xmpproperties.cpp:231
+#, fuzzy
+#| msgid "Select here the editorial attribute of content."
+msgid "Select here the editorial attribute of the content."
+msgstr "Seleccioneu aquí l'atribució editorial del contingut."
+
+#: xmpproperties.cpp:260
+#, fuzzy
+#| msgid "Set here the location of original content transmission reference."
+msgid "Set here the original content transmission reference."
+msgstr ""
+"Indiqueu aquí la localització de la referència de transmissió original del "
+"contingut."
+
+#: xmpstatus.cpp:88
+#, fuzzy
+#| msgid "Set here the shorthand reference of content."
+msgid "Set here a shorthand reference for the content."
+msgstr "Introduïu aquí la referència curta del contingut."
+
+#: xmpstatus.cpp:92
+msgid "Nickname:"
+msgstr "Sobrenom:"
+
+#: xmpstatus.cpp:95
+msgid "A short informal name for the resource."
+msgstr "Un nom curt informal per al recurs."
+
+#: xmpstatus.cpp:99
+msgid "Identifiers:"
+msgstr "Identificadors:"
+
+#: xmpstatus.cpp:100
+#, fuzzy
+#| msgid "Set here the strings that identifies content that recurs."
+msgid "Set here the strings that identify content that recurs."
+msgstr ""
+"Indiqueu aquí les cadenes que identifiquen el contingut que es repeteix."
+
+#: xmpstatus.cpp:106
+msgid "Enter the editorial usage instructions."
+msgstr "Seleccioneu aquí les instruccions d'ús editorial."
+
+#: xmpsubjects.cpp:59
+msgid ""
+"Enter here the Informative Provider Reference. I.P.R is a name registered "
+"with the XMP/NAA, identifying the provider that provides an indicator of the "
+"content. The default value for the I.P.R is \"XMP\" if a standard Reference "
+"Code is used."
+msgstr ""
+"Introduïu aquí la Referència del Proveïdor Informativa (IPR). La IPR és un "
+"nom registrat a XMP/NAA,que identifica el proveïdor que proporciona un "
+"identificador del contingut. El valor per omissió per la IPR és \"XMP\" si "
+"s'usa un codi de referència estàndard."
+
+#: xmpsubjects.cpp:65
+msgid ""
+"Enter here the Subject Reference Number. Provides a numeric code to indicate "
+"the Subject Name plus optional Subject Matter and Subject Detail Names in "
+"the language of the service. Subject Reference is a number from the range "
+"01000000 to 17999999 and represent a language independent international "
+"reference to a Subject. A Subject is identified by its Reference Number and "
+"corresponding Names taken from a standard lists given by XMP/NAA. If a "
+"standard reference code is used, these lists are the English language "
+"reference versions. This field is limited to 8 digit code."
+msgstr ""
+"Introduïu aquí el Número de Referència de l'Assumpte. Proporciona un codi "
+"numèric per a indicar el nom de l'assumpte i opcionalment una matèria de "
+"l'assumpte i noms de detall de l'assumpte en l'idioma del servei. La "
+"referència de l'assumpte és un número amb l'interval entre 01000000 i "
+"17999999 i representa una referència internacional a un assumpte independent "
+"de l'idioma. Un assumpte s'identifica pel seu Número de Referència i els "
+"noms corresponents indicats en unes llistes estàndard donades per XMP/NAA. "
+"Si s'usa un codi de referència estàndard, aquestes llistes són amb la versió "
+"de referència de l'idioma anglès. Aquest camp està limitat a un codi de 8 "
+"dígits."
+
+#: xmpsubjects.cpp:78
+msgid ""
+"Enter here the Subject Name. English language is used if you selected a "
+"standard XMP/NAA reference code."
+msgstr ""
+"Indiqueu aquí el nom de l'assumpte. S'usa l'idioma anglès si seleccioneu un "
+"codi de referència XMP/NAA estàndard."
+
+#: xmpsubjects.cpp:82
+msgid ""
+"Enter here the Subject Matter Name. English language is used if you selected "
+"a standard XMP/NAA reference code."
+msgstr ""
+"Indiqueu aquí el nom de matèria de l'assumpte. S'usa l'idioma anglès si "
+"seleccioneu un codi de referència XMP/NAA estàndard."
+
+#: xmpsubjects.cpp:86
+msgid ""
+"Enter here the Subject Detail Name. English language is used if you selected "
+"a standard XMP/NAA reference code."
+msgstr ""
+"Indiqueu aquí el nom detallat de l'assumpte. S'usa l'idioma anglès si "
+"seleccioneu un codi de referència XMP/NAA estàndard."
+
+#~ msgid "Unknow"
+#~ msgstr "Desconegut"

@@ -1,0 +1,355 @@
+# Translation of kipiplugin_calendar.po to Catalan
+# Copyright (C) 2009 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2 or later.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_calendar\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-07-18 13:06+0200\n"
+"PO-Revision-Date: 2009-02-20 18:33+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. i18n: file: caltemplate.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, CalTemplate)
+#: calwizard.cpp:71 rc.cpp:52 rc.cpp:115
+msgid "Create Template for Calendar"
+msgstr "Crea una plantilla per al calendari"
+
+#: calwizard.cpp:77
+msgid "Choose events to show on the Calendar"
+msgstr "Seleccioneu els esdeveniments a mostrar en el calendari"
+
+#: calwizard.cpp:82
+msgid "Select Year & Images"
+msgstr "Seleccioneu l'any i les imatges"
+
+#: calwizard.cpp:90
+msgid "Print"
+msgstr "Imprimeix"
+
+#. i18n: file: calprogress.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, CalProgress)
+#: calwizard.cpp:96 rc.cpp:30 rc.cpp:93
+msgid "Printing"
+msgstr "Impressió"
+
+#: calwizard.cpp:102
+msgid "Calendar"
+msgstr "Calendari"
+
+#: calwizard.cpp:105
+msgid "A Kipi plugin to create a calendar"
+msgstr "Un connector del Kipi per a crear un calendari"
+
+#: calwizard.cpp:106
+msgid ""
+"(c) 2003-2005, Renchi Raju\n"
+"(c) 2006 Tom Albers\n"
+"(c) 2007-2008 Orgad Shaneh"
+msgstr ""
+"(c) 2003-2005, Renchi Raju\n"
+"(c) 2006 Tom Albers\n"
+"(c) 2007-2008 Orgad Shaneh"
+
+#: calwizard.cpp:110
+msgid "Orgad Shaneh"
+msgstr "Orgad Shaneh"
+
+#: calwizard.cpp:110
+msgid "Author and maintainer"
+msgstr "Autor i mantenidor"
+
+#: calwizard.cpp:113
+msgid "Tom Albers"
+msgstr "Tom Albers"
+
+#: calwizard.cpp:113 calwizard.cpp:116
+msgid "Former author and maintainer"
+msgstr "Antic autor i mantenidor"
+
+#: calwizard.cpp:116
+msgid "Renchi Raju"
+msgstr "Renchi Raju"
+
+#: calwizard.cpp:124
+msgid "Handbook"
+msgstr "Manual"
+
+#. i18n: file: calselect.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, CalSelect)
+#: calwizard.cpp:138 rc.cpp:39 rc.cpp:102
+msgid "Create Calendar"
+msgstr "Crea un calendari"
+
+#: calwizard.cpp:185
+msgid "No valid images selected for months<br/>Click Back to select images"
+msgstr ""
+"No s'ha seleccionat cap imatge vàlida per als mesos<br/>Cliqueu enrere per a "
+"seleccionar les imatges"
+
+#: calwizard.cpp:197
+msgid ""
+"Please note that you are making a calendar for<br/>the current year or a "
+"year in the past."
+msgstr ""
+"Tingueu en compte que esteu creant un calendari per a<br/>l'any actual o per "
+"un any anterior."
+
+#: calwizard.cpp:205
+#, kde-format
+msgid ""
+"Click Next to start Printing<br/><br/>Following months will be printed for "
+"year %1:<br/>"
+msgstr ""
+"Cliqueu següent per a iniciar la impressió<br/><br/>S'imprimiran els mesos "
+"següents de l'any %1:<br/>"
+
+#: calwizard.cpp:257
+msgid "Printing Cancelled"
+msgstr "S'ha cancel·lat la impressió"
+
+#: calwizard.cpp:313
+#, kde-format
+msgid "Printing Calendar Page for %1 of %2"
+msgstr "S'està imprimint la pàgina %1 de %2 del calendari"
+
+#: calwizard.cpp:322
+msgid "Printing Complete"
+msgstr "Ha finalitzat la impressió"
+
+#: plugin_calendar.cpp:62
+msgid "Create Calendar..."
+msgstr "Crea un calendari..."
+
+#. i18n: file: calevents.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, CalEvents)
+#: rc.cpp:3 rc.cpp:154
+msgid "Calendar events"
+msgstr "Esdeveniments del calendari"
+
+#. i18n: file: calevents.ui:25
+#. i18n: ectx: property (text), widget (QLabel, ohHeaderLabel)
+#: rc.cpp:6 rc.cpp:157
+msgid "Select an optional calendar file with the official holidays"
+msgstr ""
+"Seleccioneu una fitxer opcional de calendari t amb els festius oficials"
+
+#. i18n: file: calevents.ui:32
+#. i18n: ectx: property (filter), widget (KUrlRequester, ohUrlRequester)
+#. i18n: file: calevents.ui:88
+#. i18n: ectx: property (filter), widget (KUrlRequester, fhUrlRequester)
+#. i18n: file: calevents.ui:32
+#. i18n: ectx: property (filter), widget (KUrlRequester, ohUrlRequester)
+#. i18n: file: calevents.ui:88
+#. i18n: ectx: property (filter), widget (KUrlRequester, fhUrlRequester)
+#: rc.cpp:9 rc.cpp:23 rc.cpp:160 rc.cpp:174
+msgid "*.ics"
+msgstr "*.ics"
+
+#. i18n: file: calevents.ui:49
+#. i18n: ectx: property (text), widget (QLabel, ohExplainLabel)
+#: rc.cpp:12 rc.cpp:163
+#, fuzzy
+#| msgid ""
+#| "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#| "REC-html40/strict.dtd\">\n"
+#| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#| "css\">\n"
+#| "p, li { white-space: pre-wrap; }\n"
+#| "</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; "
+#| "font-weight:400; font-style:italic;\">\n"
+#| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#| "right:0px; -qt-block-indent:0; text-indent:0px;\">You can download a "
+#| "calendar for your country from <a href=\"http://www.icalshare.com\"><span "
+#| "style=\" text-decoration: underline; color:#0057ae;\">http://www."
+#| "icalshare.com</span></a> or other sites.</p>\n"
+#| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#| "right:0px; -qt-block-indent:0; text-indent:0px;\">This is fully optional. "
+#| "All the events from this calendar will be printed red.</p></body></html>"
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
+"weight:400; font-style:italic;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">You can download a "
+"calendar for your country from <a href=\"http://www.icalshare.com\"><span "
+"style=\" text-decoration: underline; color:#0057ae;\">http://www.icalshare."
+"com</span></a> or other sites.</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">This is fully optional. "
+"All the events from this calendar will be printed in red.</p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
+"weight:400; font-style:italic;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Podeu baixar un calendari "
+"del vostre país des de <a href=\"http://www.icalshare.com\"><span style=\" "
+"text-decoration: underline; color:#0057ae;\">http://www.icalshare.com</"
+"span></a> o d'altres llocs.</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Això és completament "
+"opcional. Tots els esdeveniments d'aquest calendari s'imprimiran en vermell."
+"</p></body></html>"
+
+#. i18n: file: calevents.ui:78
+#. i18n: ectx: property (text), widget (QLabel, fhHeaderLabel)
+#: rc.cpp:20 rc.cpp:171
+msgid "Select an optional calendar file with your \"family holidays\""
+msgstr ""
+"Seleccioneu un fitxer opcional de calendari amb els \"festius de la família\""
+
+#. i18n: file: calevents.ui:101
+#. i18n: ectx: property (text), widget (QLabel, fhExplainLabel)
+#: rc.cpp:26 rc.cpp:177
+#, fuzzy
+#| msgid ""
+#| "You can create such a calendar using KOrganizer or any other calendar "
+#| "program.\n"
+#| "This is fully optional. All the events from this calendar will be printed "
+#| "green."
+msgid ""
+"You can create such a calendar using KOrganizer or any other calendar "
+"program.\n"
+"This is fully optional. All the events from this calendar will be printed in "
+"green."
+msgstr ""
+"Podeu crear un calendari utilitzant el KOrganizer o qualsevol altre programa "
+"de calendari.\n"
+"Això és completament opcional. Tots els esdeveniments d'aquest calendari "
+"verd."
+
+#. i18n: file: calprogress.ui:22
+#. i18n: ectx: property (text), widget (QLabel, currentLabel)
+#: rc.cpp:33 rc.cpp:96
+msgid "Current Page"
+msgstr "Pàgina actual"
+
+#. i18n: file: calprogress.ui:32
+#. i18n: ectx: property (text), widget (QLabel, totalLabel)
+#: rc.cpp:36 rc.cpp:99
+msgid "Total Pages"
+msgstr "Total de pàgines"
+
+#. i18n: file: calselect.ui:19
+#. i18n: ectx: property (title), widget (QGroupBox, yearBox)
+#: rc.cpp:42 rc.cpp:105
+msgid "Select Year"
+msgstr "Selecció d'any"
+
+#. i18n: file: calselect.ui:44
+#. i18n: ectx: property (title), widget (QGroupBox, monthBox)
+#: rc.cpp:45 rc.cpp:108
+msgid "Select Images"
+msgstr "Selecció d'imatges"
+
+#. i18n: file: calselect.ui:54
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: rc.cpp:48 rc.cpp:111
+msgid ""
+"Left click on Months to Select Images. Right click to Clear Month.\n"
+"You can also drag and drop images onto the Months"
+msgstr ""
+"Cliqueu amb el botó esquerre en el mesos per a seleccionar imatges. Cliqueu "
+"amb el botó dret per a netejar el mes.\n"
+"També podeu arrossegar i deixar anar imatges en els mesos"
+
+#. i18n: file: caltemplate.ui:25
+#. i18n: ectx: property (title), widget (QGroupBox, previewGroupBox)
+#: rc.cpp:55 rc.cpp:118
+msgid "Preview"
+msgstr "Vista prèvia"
+
+#. i18n: file: caltemplate.ui:40
+#. i18n: ectx: property (title), widget (QGroupBox, settingsGroupBox)
+#: rc.cpp:58 rc.cpp:121
+msgid "Settings"
+msgstr "Arranjament"
+
+#. i18n: file: caltemplate.ui:54
+#. i18n: ectx: property (text), widget (QLabel, paperSizeLabel)
+#: rc.cpp:61 rc.cpp:124
+msgid "Paper Size:"
+msgstr "Mida del paper:"
+
+#. i18n: file: caltemplate.ui:62
+#. i18n: ectx: property (text), item, widget (KComboBox, paperSizeCombo)
+#: rc.cpp:64 rc.cpp:127
+msgid "A4"
+msgstr "A4"
+
+#. i18n: file: caltemplate.ui:67
+#. i18n: ectx: property (text), item, widget (KComboBox, paperSizeCombo)
+#: rc.cpp:67 rc.cpp:130
+msgid "US Letter"
+msgstr "Carta US"
+
+#. i18n: file: caltemplate.ui:77
+#. i18n: ectx: property (title), widget (KButtonGroup, imagePosButtonGroup)
+#: rc.cpp:70 rc.cpp:133
+msgid "Image Position"
+msgstr "Posició de la imatge"
+
+#. i18n: file: caltemplate.ui:86
+#. i18n: ectx: property (text), widget (QRadioButton, topRadio)
+#: rc.cpp:73 rc.cpp:136
+msgid "&Top"
+msgstr "&Dalt"
+
+#. i18n: file: caltemplate.ui:93
+#. i18n: ectx: property (text), widget (QRadioButton, leftRadio)
+#: rc.cpp:76 rc.cpp:139
+msgid "&Left"
+msgstr "&Esquerra"
+
+#. i18n: file: caltemplate.ui:100
+#. i18n: ectx: property (text), widget (QRadioButton, rightRadio)
+#: rc.cpp:79 rc.cpp:142
+msgid "&Right"
+msgstr "&Dreta"
+
+#. i18n: file: caltemplate.ui:110
+#. i18n: ectx: property (text), widget (QCheckBox, drawLinesCheckBox)
+#: rc.cpp:82 rc.cpp:145
+#, fuzzy
+#| msgid "Draw lines in calendar"
+msgid "Draw lines on calendar"
+msgstr "Dibuixa línies en el calendari"
+
+#. i18n: file: caltemplate.ui:122
+#. i18n: ectx: property (text), widget (QLabel, ratioLabel)
+#: rc.cpp:85 rc.cpp:148
+msgid "Image to text ratio:"
+msgstr "Relació entre imatge i text:"
+
+#. i18n: file: caltemplate.ui:152
+#. i18n: ectx: property (text), widget (QLabel, fontLabel)
+#: rc.cpp:88 rc.cpp:151
+msgid "Font:"
+msgstr "Tipus de lletra:"
+
+#: rc.cpp:89
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Josep Ma. Ferrer"
+
+#: rc.cpp:90
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "txemaq@gmail.com"

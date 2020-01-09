@@ -1,0 +1,209 @@
+# translation of kipiplugin_dngconverter.po to Icelandic
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sveinn í Felli <sveinki@nett.is>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_dngconverter\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-27 07:11+0100\n"
+"PO-Revision-Date: 2009-10-04 18:51+0000\n"
+"Last-Translator: Sveinn í Felli <sveinki@nett.is>\n"
+"Language-Team: Icelandic <kde-isl@molar.is>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: aboutdata.h:47
+msgid "DNG Image Converter"
+msgstr "Umbreytir fyrir DNG myndi"
+
+#: aboutdata.h:49
+msgid "A tool to batch convert RAW camera images to DNG"
+msgstr "Tól til að breyta mörgum RAW ljósmyndum í DNG"
+
+#: aboutdata.h:50
+msgid "(c) 2008-2009, Gilles Caulier"
+msgstr "(c) 2008-2009, Gilles Caulier"
+
+#: aboutdata.h:52
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: aboutdata.h:53
+msgid "Author"
+msgstr "Höfundur"
+
+#: actionthread.cpp:229
+msgid "Cannot identify Raw image"
+msgstr "Get ekki ákvarðað RAW myndgerð"
+
+#: actionthread.cpp:236
+#, kde-format
+msgid "Make: %1\n"
+msgstr "Tegund: %1\n"
+
+#: actionthread.cpp:237
+#, kde-format
+msgid "Model: %1\n"
+msgstr "Gerð: %1\n"
+
+#: actionthread.cpp:241
+#, kde-format
+msgid "Created: %1\n"
+msgstr "Búið til: %1\n"
+
+#: actionthread.cpp:248
+#, kde-format
+msgid "Aperture: f/%1\n"
+msgstr "Ljósop: f/%1\n"
+
+#: actionthread.cpp:253
+#, kde-format
+msgid "Focal: %1 mm\n"
+msgstr "Brennivídd: %1 mm\n"
+
+#: actionthread.cpp:258
+#, kde-format
+msgid "Exposure: 1/%1 s\n"
+msgstr "Lýsingartími: 1/%1 s\n"
+
+#: actionthread.cpp:263
+#, kde-format
+msgid "Sensitivity: %1 ISO"
+msgstr "Ljósnæmni: %1 ISO"
+
+#: batchdialog.cpp:129
+msgid "Exit DNG Converter"
+msgstr "Hætta í DNG-umbreyti"
+
+#: batchdialog.cpp:130
+msgid "Batch convert RAW camera images to DNG"
+msgstr "Breyta mörgum RAW ljósmyndum í DNG"
+
+#: batchdialog.cpp:133
+msgid "&Add"
+msgstr "&Bæta við"
+
+#: batchdialog.cpp:134
+msgid "Add new Raw files to the list"
+msgstr "Bæta nýjum RAW skrám á listann"
+
+#: batchdialog.cpp:136
+msgid "&Remove"
+msgstr "Fja&rlægja"
+
+#: batchdialog.cpp:137
+msgid "Remove selected Raw files from the list"
+msgstr "Fjarlægja valdar RAW skrár af listanum"
+
+#: batchdialog.cpp:156
+msgid "Thumbnail"
+msgstr "Smámynd"
+
+#: batchdialog.cpp:157
+msgid "Raw File"
+msgstr "RAW skrá"
+
+#: batchdialog.cpp:158
+msgid "Target File"
+msgstr "Úttaksskrá"
+
+#: batchdialog.cpp:159
+msgid "Camera"
+msgstr "Myndavél"
+
+#: batchdialog.cpp:190
+msgid "Handbook"
+msgstr "Handbók"
+
+#: batchdialog.cpp:331
+msgid "The list does not contain any Raw files to process."
+msgstr "Það er engin RAW skrá í listanum til að vinna með."
+
+#: batchdialog.cpp:472
+msgid "&Abort"
+msgstr "&Hætta við"
+
+#: batchdialog.cpp:473
+msgid "Abort the conversion of Raw files."
+msgstr "Hætta við umbreytingu RAW skráa."
+
+#: batchdialog.cpp:478
+msgid "Con&vert"
+msgstr "&Umbreyta"
+
+#: batchdialog.cpp:479
+msgid "Start converting the Raw images using the current settings."
+msgstr "Hefja umbreytingu RAW skráa með núverandi stillingum."
+
+#: batchdialog.cpp:528
+#, kde-format
+msgid "Save Raw Image converted from '%1' as"
+msgstr "Vista RAW mynd umbreyttri frá '%1' sem "
+
+#: batchdialog.cpp:557
+#, kde-format
+msgid "Failed to save image %1"
+msgstr "Tókst ekki að vista mynd %1"
+
+#: dngconverter.cpp:54
+msgid "File(s) to convert"
+msgstr "skrá(r) til að umbreyta"
+
+#: plugin_dngconverter.cpp:66
+msgid "DNG Converter..."
+msgstr "DNG umbreytir..."
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sveinn í Felli"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sveinki@nett.is"
+
+#: settingswidget.cpp:106
+msgid "Embed Original File"
+msgstr "Ígræða upprunalega skrá"
+
+#: settingswidget.cpp:108
+msgid "Lossless Compression"
+msgstr "Taplaus þjöppun"
+
+#: settingswidget.cpp:110
+msgid "Update File Modification Date"
+msgstr "Sýna breytingadagsetningu skráa"
+
+#: settingswidget.cpp:114
+msgid "JPEG Preview:"
+msgstr "Forsýning JPEG:"
+
+#: settingswidget.cpp:116
+msgid "None"
+msgstr "Engin"
+
+#: settingswidget.cpp:117
+msgid "Medium"
+msgstr "Miðlungs"
+
+#: settingswidget.cpp:118
+msgid "Full size"
+msgstr "Full stærð"
+
+#: settingswidget.cpp:124
+msgid "If Target File Exists:"
+msgstr "Ef úttaksskrá er þegar til:"
+
+#: settingswidget.cpp:128
+msgid "Overwrite automatically"
+msgstr "Skrifa yfir sjálfkrafa"
+
+#: settingswidget.cpp:129
+msgid "Open rename-file dialog"
+msgstr "Opna endurnefningarglugga"

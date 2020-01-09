@@ -1,0 +1,218 @@
+# Nick Shaforostoff <shaforostoff@kde.ru>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: DNG Convertor\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-27 07:11+0100\n"
+"PO-Revision-Date: 2009-03-17 06:36+0200\n"
+"Last-Translator: Nick Shaforostoff <shaforostoff@kde.ru>\n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: aboutdata.h:47
+#, fuzzy
+#| msgid "DNG Converter..."
+msgid "DNG Image Converter"
+msgstr "Преобразование в DNG..."
+
+#: aboutdata.h:49
+#, fuzzy
+#| msgid "Batch convert RAW camera images to DNG"
+msgid "A tool to batch convert RAW camera images to DNG"
+msgstr "Выполнить пакетное преобразование цифровых негативов в DNG"
+
+#: aboutdata.h:50
+msgid "(c) 2008-2009, Gilles Caulier"
+msgstr ""
+
+#: aboutdata.h:52
+msgid "Gilles Caulier"
+msgstr ""
+
+#: aboutdata.h:53
+msgid "Author"
+msgstr ""
+
+#: actionthread.cpp:229
+msgid "Cannot identify Raw image"
+msgstr "Не удалось идентифицировать цифровой негатив"
+
+#: actionthread.cpp:236
+#, kde-format
+msgid "Make: %1\n"
+msgstr "Производитель: %1\n"
+
+#: actionthread.cpp:237
+#, kde-format
+msgid "Model: %1\n"
+msgstr "Модель: %1\n"
+
+#: actionthread.cpp:241
+#, kde-format
+msgid "Created: %1\n"
+msgstr "Создано: %1\n"
+
+#: actionthread.cpp:248
+#, kde-format
+msgid "Aperture: f/%1\n"
+msgstr "Диафрагма: f/%1\n"
+
+#: actionthread.cpp:253
+#, kde-format
+msgid "Focal: %1 mm\n"
+msgstr "Фокусное расстояние: %1 мм\n"
+
+#: actionthread.cpp:258
+#, kde-format
+msgid "Exposure: 1/%1 s\n"
+msgstr "Экспозиция: 1/%1 s\n"
+
+#: actionthread.cpp:263
+#, kde-format
+msgid "Sensitivity: %1 ISO"
+msgstr "Чувствительность: %1 ISO"
+
+#: batchdialog.cpp:129
+msgid "Exit DNG Converter"
+msgstr "Завершить работу с преобразователем в DNG"
+
+#: batchdialog.cpp:130
+msgid "Batch convert RAW camera images to DNG"
+msgstr "Выполнить пакетное преобразование цифровых негативов в DNG"
+
+#: batchdialog.cpp:133
+msgid "&Add"
+msgstr "&Добавить"
+
+#: batchdialog.cpp:134
+msgid "Add new Raw files to the list"
+msgstr "Добавить новый цифровой негатив в список"
+
+#: batchdialog.cpp:136
+msgid "&Remove"
+msgstr "&Удалить"
+
+#: batchdialog.cpp:137
+msgid "Remove selected Raw files from the list"
+msgstr "Удалить выбранный цифровой негатив из списка"
+
+#: batchdialog.cpp:156
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: batchdialog.cpp:157
+msgid "Raw File"
+msgstr "Цифровой негатив "
+
+#: batchdialog.cpp:158
+msgid "Target File"
+msgstr "Целевой файл"
+
+#: batchdialog.cpp:159
+msgid "Camera"
+msgstr "Камера"
+
+#: batchdialog.cpp:190
+msgid "Handbook"
+msgstr "Руководство"
+
+#: batchdialog.cpp:331
+#, fuzzy
+#| msgid "There is no Raw file to process in the list!"
+msgid "The list does not contain any Raw files to process."
+msgstr "В списке обрабатываемых снимков нет ни одного цифрового негатива!"
+
+#: batchdialog.cpp:472
+msgid "&Abort"
+msgstr "&Прервать"
+
+#: batchdialog.cpp:473
+#, fuzzy
+#| msgid "Abort the current Raw files conversion"
+msgid "Abort the conversion of Raw files."
+msgstr "Прервать выполняющееся преобразование"
+
+#: batchdialog.cpp:478
+msgid "Con&vert"
+msgstr "&Преобразовать"
+
+#: batchdialog.cpp:479
+#, fuzzy
+#| msgid "Start converting the Raw images from current settings"
+msgid "Start converting the Raw images using the current settings."
+msgstr "Начать преобразование цифровых негативов с текущими параметрами"
+
+#: batchdialog.cpp:528
+#, kde-format
+msgid "Save Raw Image converted from '%1' as"
+msgstr "Сохранить цифровой негатив, преобразованный из «%1», как"
+
+#: batchdialog.cpp:557
+#, kde-format
+msgid "Failed to save image %1"
+msgstr "Не удалось сохранить снимок %1"
+
+#: dngconverter.cpp:54
+msgid "File(s) to convert"
+msgstr "Преобразуемые файлы"
+
+#: plugin_dngconverter.cpp:66
+msgid "DNG Converter..."
+msgstr "Преобразование в DNG..."
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Александр Прокудин"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "alexandre.prokoudine@gmail.com"
+
+#: settingswidget.cpp:106
+msgid "Embed Original File"
+msgstr "Встраивать исходный файл"
+
+#: settingswidget.cpp:108
+msgid "Lossless Compression"
+msgstr "Сжимать без потери качества"
+
+#: settingswidget.cpp:110
+msgid "Update File Modification Date"
+msgstr ""
+
+#: settingswidget.cpp:114
+msgid "JPEG Preview:"
+msgstr "Миниатюра JPEG:"
+
+#: settingswidget.cpp:116
+msgid "None"
+msgstr "Нет"
+
+#: settingswidget.cpp:117
+msgid "Medium"
+msgstr "Среднего размера"
+
+#: settingswidget.cpp:118
+msgid "Full size"
+msgstr "Полноразмерная"
+
+#: settingswidget.cpp:124
+msgid "If Target File Exists:"
+msgstr "Если целевой файл уже существует:"
+
+#: settingswidget.cpp:128
+msgid "Overwrite automatically"
+msgstr "Автоматически перезаписать"
+
+#: settingswidget.cpp:129
+msgid "Open rename-file dialog"
+msgstr "Открыть диалог переименования"

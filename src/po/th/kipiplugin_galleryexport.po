@@ -1,0 +1,272 @@
+# translation of kipiplugin_galleryexport.po to Thai
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_galleryexport\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-17 07:01+0200\n"
+"PO-Revision-Date: 2009-01-24 23:22+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: galleryconfig.cpp:78
+msgid "Name:"
+msgstr "ชื่อ:"
+
+#: galleryconfig.cpp:82
+msgid "URL:"
+msgstr "ที่อยู่ URL:"
+
+#: galleryconfig.cpp:86
+msgid "Username:"
+msgstr "ชื่อผู้ใช้:"
+
+#: galleryconfig.cpp:90
+msgid "Password:"
+msgstr "รหัสผ่าน:"
+
+#: galleryconfig.cpp:95
+msgid "Use &Gallery 2"
+msgstr "ใช้แ&กลเลอรีรุ่น 2"
+
+#: gallerytalker.cpp:436
+msgid "Gallery URL probably incorrect"
+msgstr "ที่อยู่ URL ของแม่ข่ายแกลเกลอรีอาจจะไม่ถูกต้อง"
+
+#: gallerytalker.cpp:442
+msgid "Incorrect username or password specified"
+msgstr "ชื่อผู้ใช้หรือรหัสผ่านที่ระบุมา ไม่ถูกต้อง"
+
+#: gallerytalker.cpp:526 gallerytalker.cpp:601 gallerytalker.cpp:652
+#: gallerytalker.cpp:708
+msgid "Invalid response received from remote Gallery"
+msgstr "ได้รับการตอบรับที่ใช้ไม่ได้จากแกลเลอรีทางไกล"
+
+#: gallerytalker.cpp:532
+msgid "Failed to list albums"
+msgstr "ล้มเหลวในการเรียกรายการอัลบั้มต่าง ๆ"
+
+#: gallerytalker.cpp:607
+msgid "Failed to list photos"
+msgstr "ล้มเหลวในการเรียกรายการภาพถ่ายต่าง ๆ"
+
+#: gallerytalker.cpp:658
+msgid "Failed to create new album"
+msgstr "ล้มเหลวในการสร้างอัลบั้มใหม่"
+
+#: gallerytalker.cpp:714
+msgid "Failed to upload photo"
+msgstr "ล้มเหลวในการอัปโหลดภาพถ่าย"
+
+#: gallerywindow.cpp:120
+#, fuzzy
+#| msgid "albums"
+msgid "Albums"
+msgstr "อัลบั้ม"
+
+#: gallerywindow.cpp:129
+msgid "&New Album"
+msgstr "สร้างอัลบั้มใ&หม่"
+
+#: gallerywindow.cpp:135
+msgid "&Add Photos"
+msgstr "เ&พิ่มภาพต่าง ๆ"
+
+#: gallerywindow.cpp:140
+msgid "Override Default Options"
+msgstr "ใช้แทนค่าตัวเลือกปริยาย"
+
+#: gallerywindow.cpp:144
+msgid "Comment sets Title"
+msgstr "ชุดหมายเหตุต่าง ๆ ของชื่อเรื่อง"
+
+#: gallerywindow.cpp:147
+msgid "Comment sets Description"
+msgstr "ชุดหมายเหตุต่าง ๆ ของคำอธิบาย"
+
+#: gallerywindow.cpp:150
+msgid "Resize photos before uploading"
+msgstr "ปรับขนาดภาพต่าง ๆ ก่อนทำการอัปโหลด"
+
+#: gallerywindow.cpp:153
+msgid "Maximum dimension:"
+msgstr "มิติขนาดสูงสุด:"
+
+#: gallerywindow.cpp:211 gallerywindow.cpp:216
+msgid "Gallery Export"
+msgstr "ส่งออกไปยัง แกลเลอรี"
+
+#: gallerywindow.cpp:219
+#, fuzzy
+#| msgid "A Kipi plugin to export image collection to remote Gallery server."
+msgid "A Kipi plugin to export image collections to a remote Gallery server."
+msgstr "ส่วนเสริมของ KIPI สำหรับส่งออกคลังภาพไปยังแม่ข่ายแกลเลอรีทางไกล"
+
+#: gallerywindow.cpp:220
+#, fuzzy
+#| msgid ""
+#| "(c) 2003-2005, Renchi Raju\n"
+#| "(c) 2006-2007, Colin Guthrie\n"
+#| "(c) 2008, Andrea Diamantini\n"
+msgid ""
+"(c) 2003-2005, Renchi Raju\n"
+"(c) 2006-2007, Colin Guthrie\n"
+"(c) 2006-2009, Gilles Caulier\n"
+"(c) 2008, Andrea Diamantini\n"
+msgstr ""
+"(c) 2003-2005, Renchi Raju\n"
+"(c) 2006-2007, Colin Guthrie\n"
+"(c) 2008, Andrea Diamantini\n"
+
+#: gallerywindow.cpp:225
+msgid "Renchi Raju"
+msgstr "Renchi Raju"
+
+#: gallerywindow.cpp:225
+msgid "Author"
+msgstr "ผู้เขียน"
+
+#: gallerywindow.cpp:228
+msgid "Colin Guthrie"
+msgstr "Colin Guthrie"
+
+#: gallerywindow.cpp:228
+msgid "Maintainer"
+msgstr "ผู้ดูแล"
+
+#: gallerywindow.cpp:231
+msgid "Andrea Diamantini"
+msgstr "Andrea Diamantini"
+
+#: gallerywindow.cpp:231 gallerywindow.cpp:234
+msgid "Developer"
+msgstr "ผู้พัฒนา"
+
+#: gallerywindow.cpp:234
+msgid "Gilles Caulier"
+msgstr ""
+
+#: gallerywindow.cpp:244
+#, fuzzy
+#| msgid "Plugin Handbook"
+msgid "Handbook"
+msgstr "คู่มือส่วนเสริม"
+
+#: gallerywindow.cpp:252
+#, fuzzy
+#| msgid "settings"
+msgid "Settings"
+msgstr "ตั้งค่าต่าง ๆ"
+
+#: gallerywindow.cpp:409
+msgid "Failed to login into remote gallery. "
+msgstr "ล้มเหลวในการล็อกอินไปยังแกลเลอรีทางไกล "
+
+#: gallerywindow.cpp:411
+msgid ""
+"\n"
+"Do you want to check your settings and try again?"
+msgstr ""
+"\n"
+"คุณต้องการจะตรวจสอบการตั้งค่าต่าง ๆ ของคุณ แล้วลองใหม่อีกครั้งหรือไม่ ?"
+
+#: gallerywindow.cpp:418 gallerywindow.cpp:806 plugin_galleryexport.cpp:115
+msgid "Edit Gallery Data"
+msgstr "แก้ไขข้อมูลของแกลเลอรี"
+
+#: gallerywindow.cpp:475 gallerywindow.cpp:496
+#, fuzzy
+#| msgid "albums"
+msgid "Album"
+msgstr "อัลบั้ม"
+
+#: gallerywindow.cpp:527 gallerywindow.cpp:536
+msgid "Image"
+msgstr ""
+
+#: gallerywindow.cpp:669
+msgid ""
+"Sorry, these characters are not allowed in album name: \\ / * ? \" ' & < > "
+"| . + # ( ) or spaces"
+msgstr ""
+"ขออภัย ไม่สามารถใช้ตัวอักษรต่อไปนี้ในชื่อของอัลบั้มได้: \\ / * ? \" ' & < > | . + # ( ) "
+"หรือช่องว่าง"
+
+#: gallerywindow.cpp:746
+msgid "Uploading file "
+msgstr "กำลังอัปโหลดแฟ้ม"
+
+#: gallerywindow.cpp:765
+msgid "Failed to upload photo into remote gallery. "
+msgstr "ล้มเหลวในการอัปโหลดแฟ้มไปยังแกลเลอรีทางไกล"
+
+#: gallerywindow.cpp:768
+msgid ""
+"\n"
+"Do you want to continue?"
+msgstr ""
+"\n"
+"คุณต้องการจะทำต่อไปหรือไม่ ?"
+
+#: plugin_galleryexport.cpp:81
+#, fuzzy
+#| msgid "Export to Gallery..."
+msgid "Export to &Gallery..."
+msgstr "ส่งออกไปยังแม่ข่ายแกลเลอรี..."
+
+#. i18n: file: galleryalbumwidget.ui:16
+#. i18n: ectx: property (text), widget (QLabel, header)
+#: rc.cpp:3 rc.cpp:23
+msgid "<h3>Enter New Album Name</h3>"
+msgstr "<h3>ป้อนชื่อใหม่ของอัลบั้ม</h3>"
+
+#. i18n: file: galleryalbumwidget.ui:38
+#. i18n: ectx: property (text), widget (QLabel, titleLabel)
+#: rc.cpp:6 rc.cpp:26
+msgid "Title:"
+msgstr "ชื่อเรื่อง:"
+
+#. i18n: file: galleryalbumwidget.ui:48
+#. i18n: ectx: property (text), widget (QLabel, nameLabel)
+#: rc.cpp:9 rc.cpp:29
+msgid "Name (optional):"
+msgstr "ชื่อ (เป็นตัวเลือกเสริม):"
+
+#. i18n: file: galleryalbumwidget.ui:58
+#. i18n: ectx: property (text), widget (QLabel, captionLabel)
+#: rc.cpp:12 rc.cpp:32
+msgid "Caption (optional):"
+msgstr "คำบรรยาย (เป็นตัวเลือกเสริม):"
+
+#. i18n: file: galleryalbumwidget.ui:113
+#. i18n: ectx: property (text), widget (QPushButton, buttonOk)
+#: rc.cpp:15 rc.cpp:35
+msgid "&OK"
+msgstr "&ตกลง"
+
+#. i18n: file: galleryalbumwidget.ui:129
+#. i18n: ectx: property (text), widget (QPushButton, buttonCancel)
+#: rc.cpp:18 rc.cpp:38
+msgid "&Cancel"
+msgstr "&ยกเลิก"
+
+#: rc.cpp:19
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ถนอมทรัพย์ นพบูรณ์"
+
+#: rc.cpp:20
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "donga.nb@gmail.com"
+
+#~ msgid "albums"
+#~ msgstr "อัลบั้ม"

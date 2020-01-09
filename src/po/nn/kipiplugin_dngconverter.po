@@ -1,0 +1,212 @@
+# Translation of kipiplugin_dngconverter to Norwegian Nynorsk
+#
+# Karl Ove Hufthammer <karl@huftis.org>, 2008.
+# Eirik U. Birkeland <eirbir@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE 4\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-27 07:11+0100\n"
+"PO-Revision-Date: 2009-01-12 23:47+0100\n"
+"Last-Translator: Eirik U. Birkeland <eirbir@gmail.com>\n"
+"Language-Team: Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 0.3\n"
+"Language: nn\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: aboutdata.h:47
+msgid "DNG Image Converter"
+msgstr ""
+
+#: aboutdata.h:49
+msgid "A tool to batch convert RAW camera images to DNG"
+msgstr ""
+
+#: aboutdata.h:50
+msgid "(c) 2008-2009, Gilles Caulier"
+msgstr ""
+
+#: aboutdata.h:52
+msgid "Gilles Caulier"
+msgstr ""
+
+#: aboutdata.h:53
+msgid "Author"
+msgstr ""
+
+#: actionthread.cpp:229
+msgid "Cannot identify Raw image"
+msgstr "Klarte ikkje identifisera råbilete"
+
+#: actionthread.cpp:236
+#, kde-format
+msgid "Make: %1\n"
+msgstr "Merke: %1\n"
+
+#: actionthread.cpp:237
+#, kde-format
+msgid "Model: %1\n"
+msgstr "Modell: %1\n"
+
+#: actionthread.cpp:241
+#, kde-format
+msgid "Created: %1\n"
+msgstr "Dato: %1\n"
+
+#: actionthread.cpp:248
+#, kde-format
+msgid "Aperture: f/%1\n"
+msgstr "Blendaropning: f/%1\n"
+
+#: actionthread.cpp:253
+#, kde-format
+msgid "Focal: %1 mm\n"
+msgstr "Fokallengd: %1 mm\n"
+
+#: actionthread.cpp:258
+#, kde-format
+msgid "Exposure: 1/%1 s\n"
+msgstr "Eksponeringstid: 1/%1 s\n"
+
+#: actionthread.cpp:263
+#, kde-format
+msgid "Sensitivity: %1 ISO"
+msgstr "Følsemd: %1 ISO"
+
+#: batchdialog.cpp:129
+msgid "Exit DNG Converter"
+msgstr "Avslutt DNG-omformar"
+
+#: batchdialog.cpp:130
+msgid "Batch convert RAW camera images to DNG"
+msgstr "Form om fleire råbiletfiler til DNG samtidig"
+
+#: batchdialog.cpp:133
+msgid "&Add"
+msgstr "&Legg til"
+
+#: batchdialog.cpp:134
+msgid "Add new Raw files to the list"
+msgstr "Legg nye råfiler til lista"
+
+#: batchdialog.cpp:136
+msgid "&Remove"
+msgstr "&Fjern"
+
+#: batchdialog.cpp:137
+msgid "Remove selected Raw files from the list"
+msgstr "Fjern valde råfiler frå lista"
+
+#: batchdialog.cpp:156
+msgid "Thumbnail"
+msgstr "Miniatyrbilete"
+
+#: batchdialog.cpp:157
+msgid "Raw File"
+msgstr "Råfil"
+
+#: batchdialog.cpp:158
+msgid "Target File"
+msgstr "Målfil"
+
+#: batchdialog.cpp:159
+msgid "Camera"
+msgstr "Kamera"
+
+#: batchdialog.cpp:190
+msgid "Handbook"
+msgstr ""
+
+#: batchdialog.cpp:331
+msgid "The list does not contain any Raw files to process."
+msgstr ""
+
+#: batchdialog.cpp:472
+msgid "&Abort"
+msgstr "&Avbryt"
+
+#: batchdialog.cpp:473
+msgid "Abort the conversion of Raw files."
+msgstr ""
+
+#: batchdialog.cpp:478
+msgid "Con&vert"
+msgstr "&Form om"
+
+#: batchdialog.cpp:479
+msgid "Start converting the Raw images using the current settings."
+msgstr ""
+
+#: batchdialog.cpp:528
+#, kde-format
+msgid "Save Raw Image converted from '%1' as"
+msgstr "Lagra råbilete gjort om frå «%1» som"
+
+#: batchdialog.cpp:557
+#, kde-format
+msgid "Failed to save image %1"
+msgstr "Klarte ikkje lagra biletet %1"
+
+#: dngconverter.cpp:54
+msgid "File(s) to convert"
+msgstr "Filer å forma om"
+
+#: plugin_dngconverter.cpp:66
+msgid "DNG Converter..."
+msgstr "DNG-omformar …"
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Karl Ove Hufthammer"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "karl@huftis.org"
+
+#: settingswidget.cpp:106
+msgid "Embed Original File"
+msgstr "Innebygg den opphavlege fila"
+
+#: settingswidget.cpp:108
+msgid "Lossless Compression"
+msgstr "Tapsfri komprimering"
+
+#: settingswidget.cpp:110
+msgid "Update File Modification Date"
+msgstr ""
+
+#: settingswidget.cpp:114
+msgid "JPEG Preview:"
+msgstr "JPEG-førehandsvising:"
+
+#: settingswidget.cpp:116
+msgid "None"
+msgstr "Inga"
+
+#: settingswidget.cpp:117
+msgid "Medium"
+msgstr "Middels"
+
+#: settingswidget.cpp:118
+msgid "Full size"
+msgstr "Full storleik"
+
+#: settingswidget.cpp:124
+msgid "If Target File Exists:"
+msgstr "Viss målfila alt finst:"
+
+#: settingswidget.cpp:128
+msgid "Overwrite automatically"
+msgstr "Skriv automatisk over"
+
+#: settingswidget.cpp:129
+msgid "Open rename-file dialog"
+msgstr "Opna vindauge for filnamnbyte"

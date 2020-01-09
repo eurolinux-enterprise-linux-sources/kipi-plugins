@@ -1,0 +1,209 @@
+# Lithuanian translations for kipiplugins_dngconverter package.
+# Andrius Štikonas <stikonas@gmail.com>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugins_dngconverter\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-27 07:11+0100\n"
+"PO-Revision-Date: 2009-03-08 14:08+0300\n"
+"Last-Translator: Andrius Štikonas <stikonas@gmail.com>\n"
+"Language-Team: Lithuanian <kde-i18n-lt@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n%10==1 && n%100!=11 ? 1 : n%"
+"10>=2 && (n%100<10 || n%100>=20) ? 2 : 3);\n"
+
+#: aboutdata.h:47
+#, fuzzy
+#| msgid "DNG Converter..."
+msgid "DNG Image Converter"
+msgstr "DNG konvertuoklis..."
+
+#: aboutdata.h:49
+msgid "A tool to batch convert RAW camera images to DNG"
+msgstr ""
+
+#: aboutdata.h:50
+msgid "(c) 2008-2009, Gilles Caulier"
+msgstr ""
+
+#: aboutdata.h:52
+msgid "Gilles Caulier"
+msgstr ""
+
+#: aboutdata.h:53
+msgid "Author"
+msgstr ""
+
+#: actionthread.cpp:229
+msgid "Cannot identify Raw image"
+msgstr "Nepavyko identifikuoti Raw paveikslėlio"
+
+#: actionthread.cpp:236
+#, kde-format
+msgid "Make: %1\n"
+msgstr ""
+
+#: actionthread.cpp:237
+#, kde-format
+msgid "Model: %1\n"
+msgstr "Modelis: %1\n"
+
+#: actionthread.cpp:241
+#, kde-format
+msgid "Created: %1\n"
+msgstr "Sukurta: %1\n"
+
+#: actionthread.cpp:248
+#, kde-format
+msgid "Aperture: f/%1\n"
+msgstr "Apertūra: f/%1\n"
+
+#: actionthread.cpp:253
+#, kde-format
+msgid "Focal: %1 mm\n"
+msgstr "Židinio nuotolis: %1 mm\n"
+
+#: actionthread.cpp:258
+#, kde-format
+msgid "Exposure: 1/%1 s\n"
+msgstr "Išlaikymas: 1/%1 s\n"
+
+#: actionthread.cpp:263
+#, kde-format
+msgid "Sensitivity: %1 ISO"
+msgstr "Jautrumas: %1 ISO"
+
+#: batchdialog.cpp:129
+msgid "Exit DNG Converter"
+msgstr "Išeiti iš DNG konvertuoklio"
+
+#: batchdialog.cpp:130
+msgid "Batch convert RAW camera images to DNG"
+msgstr ""
+
+#: batchdialog.cpp:133
+msgid "&Add"
+msgstr "&Pridėti"
+
+#: batchdialog.cpp:134
+msgid "Add new Raw files to the list"
+msgstr "Į sąrašą pridėti naujų Raw failų"
+
+#: batchdialog.cpp:136
+msgid "&Remove"
+msgstr "P&ašalinti"
+
+#: batchdialog.cpp:137
+msgid "Remove selected Raw files from the list"
+msgstr "Pašalinti pažymėtus Raw failus iš sąrašo"
+
+#: batchdialog.cpp:156
+msgid "Thumbnail"
+msgstr ""
+
+#: batchdialog.cpp:157
+msgid "Raw File"
+msgstr "Raw failas"
+
+#: batchdialog.cpp:158
+msgid "Target File"
+msgstr ""
+
+#: batchdialog.cpp:159
+msgid "Camera"
+msgstr "Fotoaparatas"
+
+#: batchdialog.cpp:190
+msgid "Handbook"
+msgstr ""
+
+#: batchdialog.cpp:331
+msgid "The list does not contain any Raw files to process."
+msgstr ""
+
+#: batchdialog.cpp:472
+msgid "&Abort"
+msgstr "&Nutraukti"
+
+#: batchdialog.cpp:473
+msgid "Abort the conversion of Raw files."
+msgstr ""
+
+#: batchdialog.cpp:478
+msgid "Con&vert"
+msgstr "&Konvertuoti"
+
+#: batchdialog.cpp:479
+msgid "Start converting the Raw images using the current settings."
+msgstr ""
+
+#: batchdialog.cpp:528
+#, kde-format
+msgid "Save Raw Image converted from '%1' as"
+msgstr ""
+
+#: batchdialog.cpp:557
+#, kde-format
+msgid "Failed to save image %1"
+msgstr ""
+
+#: dngconverter.cpp:54
+msgid "File(s) to convert"
+msgstr "Konvertuojami failai"
+
+#: plugin_dngconverter.cpp:66
+msgid "DNG Converter..."
+msgstr "DNG konvertuoklis..."
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Andrius Štikonas"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "stikonas@gmail.com"
+
+#: settingswidget.cpp:106
+msgid "Embed Original File"
+msgstr ""
+
+#: settingswidget.cpp:108
+msgid "Lossless Compression"
+msgstr ""
+
+#: settingswidget.cpp:110
+msgid "Update File Modification Date"
+msgstr ""
+
+#: settingswidget.cpp:114
+msgid "JPEG Preview:"
+msgstr "JPEG peržiūra:"
+
+#: settingswidget.cpp:116
+msgid "None"
+msgstr ""
+
+#: settingswidget.cpp:117
+msgid "Medium"
+msgstr ""
+
+#: settingswidget.cpp:118
+msgid "Full size"
+msgstr ""
+
+#: settingswidget.cpp:124
+msgid "If Target File Exists:"
+msgstr ""
+
+#: settingswidget.cpp:128
+msgid "Overwrite automatically"
+msgstr "Automatiškai perrašyti"
+
+#: settingswidget.cpp:129
+msgid "Open rename-file dialog"
+msgstr ""

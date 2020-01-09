@@ -1,0 +1,196 @@
+# translation of kipiplugin_jpeglossless.po to
+# Jakub Friedl <jfriedl@suse.cz>, 2006.
+# Vit Pelcak <vit@pelcak.org>, 2008.
+# Zdeněk Pech <dom.toretto@seznam.cz>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_jpeglossless\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-22 06:48+0200\n"
+"PO-Revision-Date: 2009-06-26 11:59+0200\n"
+"Last-Translator: Zdeněk Pech <dom.toretto@seznam.cz>\n"
+"Language-Team:  <cs@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: convert2grayscale.cpp:85 convert2grayscale.cpp:162 imageflip.cpp:79
+#: imagerotate.cpp:80 jpegtransform.cpp:216 jpegtransform.cpp:319
+msgid "Error in opening input file"
+msgstr "Chyba při otevírání vstupního souboru"
+
+#: convert2grayscale.cpp:91 imageflip.cpp:85 imagerotate.cpp:88
+msgid "Error in opening temporary file"
+msgstr "Chyba při otevírání dočasného souboru"
+
+#: convert2grayscale.cpp:99
+msgid "Cannot convert to gray scale RAW file"
+msgstr "Soubor RAW nelze převést do stupnice šedé"
+
+#: convert2grayscale.cpp:123 imageflip.cpp:117 imagerotate.cpp:123
+msgid "Cannot update source image"
+msgstr "Nelze aktualizovat zdrojový obrázek"
+
+#: convert2grayscale.cpp:171 jpegtransform.cpp:225 jpegtransform.cpp:262
+#: jpegtransform.cpp:328
+msgid "Error in opening output file"
+msgstr "Chyba při otevírání výstupního obrázku"
+
+#: convert2grayscale.cpp:273
+#, kde-format
+msgid "Cannot convert to gray scale: %1"
+msgstr "Nelze převést do stupnice šedé: %1"
+
+#: imageflip.cpp:93 imagerotate.cpp:96
+msgid "Cannot rotate RAW file"
+msgstr "Soubor RAW nelze otáčet"
+
+#: imageflip.cpp:144 imageflip.cpp:173
+msgid "Nonstandard flip action"
+msgstr "Nestandardní operace převrácení"
+
+#: imageflip.cpp:206
+#, kde-format
+msgid "Cannot flip: %1"
+msgstr "Nelze převrátit: %1"
+
+#: imagerotate.cpp:160 imagerotate.cpp:200
+msgid "Nonstandard rotation angle"
+msgstr "Nestandardní úhel otočení"
+
+#: imagerotate.cpp:233
+#, kde-format
+msgid "Cannot rotate: %1"
+msgstr "Nelze otočit: %1"
+
+#: plugin_jpeglossless.cpp:113
+msgid "Auto Rotate/Flip Using Exif Information"
+msgstr "Automaticky otočit/převrátit podle EXIF"
+
+#: plugin_jpeglossless.cpp:118
+msgid "Rotate"
+msgstr "Otočit"
+
+#: plugin_jpeglossless.cpp:123
+msgid "Left"
+msgstr "Doleva"
+
+#: plugin_jpeglossless.cpp:130
+msgid "Right"
+msgstr "Doprava"
+
+#: plugin_jpeglossless.cpp:136
+msgid "Flip"
+msgstr "Převrátit"
+
+#: plugin_jpeglossless.cpp:140
+msgid "Horizontally"
+msgstr "Vodorovně"
+
+#: plugin_jpeglossless.cpp:147
+msgid "Vertically"
+msgstr "Svisle"
+
+#: plugin_jpeglossless.cpp:154
+msgid "Convert to Black && White"
+msgstr "Převést do černobílé"
+
+#: plugin_jpeglossless.cpp:198
+msgid "horizontally"
+msgstr "vodorovně"
+
+#: plugin_jpeglossless.cpp:203
+msgid "vertically"
+msgstr "svisle"
+
+#: plugin_jpeglossless.cpp:224
+#, kde-format
+msgid "Flip images %1"
+msgstr "Převrátit obrázky %1"
+
+#: plugin_jpeglossless.cpp:237
+msgid "right (clockwise)"
+msgstr "doprava (po směru hod. ručiček)"
+
+#: plugin_jpeglossless.cpp:242
+msgid "left (counterclockwise)"
+msgstr "doleva (proti směru hod. ručiček)"
+
+#: plugin_jpeglossless.cpp:247
+msgid "using Exif orientation tag"
+msgstr "podle značky natočení Exif"
+
+#: plugin_jpeglossless.cpp:268
+#, kde-format
+msgid "Rotate images %1"
+msgstr "Otočit obrázky %1"
+
+#: plugin_jpeglossless.cpp:284
+msgid ""
+"<p>Are you sure you wish to convert the selected image(s) to black and "
+"white? This operation <b>cannot</b> be undone.</p>"
+msgstr ""
+"<p>Jste si jistí, že si přejete vybraný obrázek převést do černobílé? Tuto "
+"operaci <b>nelze</b> vrátit.</p>"
+
+#: plugin_jpeglossless.cpp:301
+msgid "Convert images to black & white"
+msgstr "Převést obrázky do černobílé"
+
+#: plugin_jpeglossless.cpp:336
+#, kde-format
+msgid "Rotating Image \"%1\""
+msgstr "Otáčení obrázku \"%1\""
+
+#: plugin_jpeglossless.cpp:341
+#, kde-format
+msgid "Flipping Image \"%1\""
+msgstr "Převracení obrázku \"%1\""
+
+#: plugin_jpeglossless.cpp:346
+#, kde-format
+msgid "Converting to Black & White \"%1\""
+msgstr "Převod do černobílé \"%1\""
+
+#: plugin_jpeglossless.cpp:368
+msgid "Rotate image complete"
+msgstr "Otočení obrázku dokončeno"
+
+#: plugin_jpeglossless.cpp:373
+msgid "Flip image complete"
+msgstr "Převracení obrázku dokončeno"
+
+#: plugin_jpeglossless.cpp:378
+msgid "Convert to Black & White complete"
+msgstr "Převod do černobílé dokončen"
+
+#: plugin_jpeglossless.cpp:403
+msgid "Failed to Rotate image"
+msgstr "Chyba při otáčení obrázku"
+
+#: plugin_jpeglossless.cpp:408
+msgid "Failed to Flip image"
+msgstr "Chyba při převracení obrázku"
+
+#: plugin_jpeglossless.cpp:413
+msgid "Failed to convert image to Black & White"
+msgstr "Chyba při převádění obrázku do černobílé"
+
+#: utils.cpp:88
+msgid "unable to open source file"
+msgstr "nelze otevřít zdrojový soubor "
+
+#: utils.cpp:112 utils.cpp:139
+msgid "unable to open temp file"
+msgstr "nelze otevřít dočasný soubor "
+
+#: utils.cpp:126
+msgid "Cannot rotate: unable to open temp file"
+msgstr "Nelze otáčet: nepodařilo se otevřít dočasný soubor"
+
+#: utils.cpp:188
+#, kde-format
+msgid "Cannot update metadata: %1"
+msgstr "Nelze aktualizovat metadata: %1"

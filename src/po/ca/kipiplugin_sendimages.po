@@ -1,0 +1,392 @@
+# Translation of kipiplugin_sendimages.po to Catalan
+# Albert Astals Cid <astals11@terra.es>, 2004, 2005.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2007, 2008, 2009.
+# Joan Maspons <joanmaspons@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_sendimages\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-07-10 12:00+0200\n"
+"PO-Revision-Date: 2009-05-03 11:37+0200\n"
+"Last-Translator: Joan Maspons <joanmaspons@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: emailpage.cpp:87
+msgid "Mail program:"
+msgstr "Programa de correu:"
+
+#: emailpage.cpp:90
+msgid "Default"
+msgstr "Omissió"
+
+#: emailpage.cpp:102
+msgid ""
+"Select your preferred external email program here. <b>Default</b> is the "
+"current email program set in KDE System Settings."
+msgstr ""
+"Seleccioneu aquí el vostre programa extern de correu preferit. <b>Omissió</"
+"b> és el programa de correu electrònic indicat al centre de control del KDE."
+
+#: emailpage.cpp:108
+#, kde-format
+msgid "Attach a file with image properties from %1"
+msgstr "Adjunta un fitxer amb les propietats de la imatge de %1"
+
+#: emailpage.cpp:111
+#, kde-format
+msgid ""
+"If you enable this option, all image properties set by %1 as Comments, "
+"Rating, or Tags, will be added as an attached file."
+msgstr ""
+"Si habiliteu aquesta opció, totes les propietats de la imatge definides per %"
+"1 com a comentaris, puntuació, o etiquetes s'afegiran com un fitxer adjunt."
+
+#: emailpage.cpp:120
+msgid "Maximum email size limit:"
+msgstr "Límit de la mida màxima del correu-e:"
+
+#: emailpage.cpp:121
+msgid "MB"
+msgstr "MB"
+
+#: emailpage.cpp:125
+msgid "Adjust image properties"
+msgstr "Ajusta les propietats de les imatges"
+
+#: emailpage.cpp:127
+msgid ""
+"If you enable this option, all images to be sent can be resized and "
+"recompressed."
+msgstr ""
+"Si activeu aquesta opció, totes les imatges a enviar es podran redimensionar "
+"i tornar a comprimir."
+
+#: emailpage.cpp:130
+msgid "Image Properties"
+msgstr "Propietats de la imatge"
+
+#: emailpage.cpp:134 emailpage.cpp:152
+msgid "Very Small (320 pixels)"
+msgstr "Molt petita (320 píxels)"
+
+#: emailpage.cpp:135 emailpage.cpp:153
+msgid "Small (640 pixels)"
+msgstr "Petita (640 píxels)"
+
+#: emailpage.cpp:136 emailpage.cpp:154
+msgid "Medium (800 pixels)"
+msgstr "Mitjana (800 píxels)"
+
+#: emailpage.cpp:137 emailpage.cpp:155
+msgid "Big (1024 pixels)"
+msgstr "Gran (1024 píxels)"
+
+#: emailpage.cpp:138 emailpage.cpp:156
+msgid "Very Big (1280 pixels)"
+msgstr "Molt gran (1280 píxels)"
+
+#: emailpage.cpp:139 emailpage.cpp:157
+msgid "Huge - for printing (1600 pixels)"
+msgstr "Enorme - per imprimir (1600 píxels)"
+
+#: emailpage.cpp:141
+#, kde-format
+msgid ""
+"<p>Select the size of the images that are to be sent:</p><p><b>%1</b>: use "
+"this if you have a very slow Internet connection or the target mailbox size "
+"is very limited.</p><p><b>%2</b>: use this if you have a slow Internet "
+"connection and the target mailbox size is limited.</p><p><b>%3</b>: this is "
+"the default value for medium Internet connection speed and target mailbox "
+"size.</p><p><b>%4</b>: use this if you have a high-speed Internet connection "
+"and the target mailbox size is not limited.</p><p><b>%5</b>: use this if you "
+"have no size or speed restrictions.</p><p><b>%6</b>: use this only for "
+"printing purposes.</p>"
+msgstr ""
+"<p>Seleccioneu la mida de les imatges a enviar:</p><p><b>%1</b>: useu "
+"aquesta si teniu una connexió a Internet molt lenta o la mida de la bústia "
+"de correu de destí és molt limitada.</p><p><b>%2</b>: useu aquesta si teniu "
+"una connexió a Internet lenta o si la mida de la bústia de correu de destí "
+"és limitada.</p><p><b>%3</b>: aquest és el valor per omissió per una "
+"connexió a Internet i una mida de bústia de correu de destí mitjanes.</"
+"p><p><b>%4</b>: useu aquesta si teniu una connexió a Internet d'alta "
+"velocitat i la mida de la bústia de correu de destí no és limitada.</p><p><b>"
+"%5</b>: useu aquesta si no teniu restriccions de mida o velocitat.</p><p><b>%"
+"6</b>: useu aquesta només quan vulgueu imprimir-les.</p>"
+
+#: emailpage.cpp:161
+msgid "Image size:"
+msgstr "Mida de la imatge:"
+
+#: emailpage.cpp:170
+msgid "<p>Select the file format of the image files to be sent.</p>"
+msgstr "<p>Seleccioneu el format de fitxer de les imatges a enviar.</p>"
+
+#: emailpage.cpp:171
+msgid ""
+"<p><b>JPEG</b>: The Joint Photographic Experts Group file format is a good "
+"web file format but it uses lossy compression.</p><p><b>PNG</b>: the "
+"Portable Network Graphics format is an extensible file format for the "
+"lossless, portable, well-compressed storage of raster images. PNG provides a "
+"patent-free replacement for GIF and can also replace many common uses of "
+"TIFF. PNG is designed to work well in online viewing applications, such as "
+"the World Wide Web, so it is fully streamable with a progressive display "
+"option. Also, PNG can store gamma and chromaticity data for improved color-"
+"matching on heterogeneous platforms.</p>"
+msgstr ""
+"<p><b>JPEG</b>: el format de fitxer \"Joint Photographic Experts Group\" és "
+"un bon format de fitxer per la web però empra compressió amb pèrdua.</"
+"p><p><b>PNG</b>: el format \"Portable Network Graphics\" és un format de "
+"fitxer extensible per l'emmagatzematge ben comprimit d'imatges ràster, sense "
+"pèrdues i portable. El PNG proporciona una alternativa lliure de patents al "
+"GIF i també pot substituir en molts casos l'ús del TIFF. El PNG està "
+"dissenyat per treballar bé amb les aplicacions de visualització en línia, "
+"com la web, doncs és completament transmissible amb una opció de "
+"visualització progressiva. El PNG també pot emmagatzemar dades de gamma i "
+"cromaticitat per millorar la coincidència de color en plataformes "
+"heterogènies.</p>"
+
+#: emailpage.cpp:181
+msgid "Image file format:"
+msgstr "Format de fitxer de les imatges:"
+
+#: emailpage.cpp:189
+msgid "Image quality:"
+msgstr "Qualitat de la imatge:"
+
+#: emailpage.cpp:190
+msgid "<p>The new compression value of JPEG images to be sent:</p>"
+msgstr "<p>El nou valor de compressió de les imatges JPEG a enviar:</p>"
+
+#: emailpage.cpp:191
+msgid ""
+"<p><b>1</b>: very high compression<br/><b>25</b>: high compression<br/"
+"><b>50</b>: medium compression<br/><b>75</b>: low compression (default value)"
+"<br/><b>100</b>: no compression</p>"
+msgstr ""
+"<p><b>1</b>: compressió molt alta<br/><b>25</b>: compressió alta<br/><b>50</"
+"b>: compressió mitja<br/><b>75</b>: compressió baixa (valor per defecte)<br/"
+"><b>100</b>: sense compressió</p>"
+
+#: imageresize.cpp:187
+msgid "Error opening input file"
+msgstr "Error en obrir el fitxer d'entrada"
+
+#: imageresize.cpp:195
+msgid "Error opening temporary folder"
+msgstr "Error en obrir la carpeta temporal"
+
+#: imageresize.cpp:244
+msgid "Cannot resize image. Aborting."
+msgstr "No s'ha pogut redimensionar la imatge. S'està interrompent."
+
+#: imageresize.cpp:263
+msgid "Cannot save resized image (JPEG). Aborting."
+msgstr ""
+"No s'ha pogut desar la imatge redimensionada (JPEG). S'està interrompent."
+
+#: imageresize.cpp:278
+msgid "Cannot save resized image (PNG). Aborting."
+msgstr ""
+"No s'ha pogut desar la imatge redimensionada (PNG). S'està interrompent."
+
+#: plugin_sendimages.cpp:87
+msgid "Email Images..."
+msgstr "Envia les imatges per correu-e..."
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Josep Ma. Ferrer, Joan Maspons Ventura"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "txemaq@gmail.com,joanmaspons@gmail.com"
+
+#: sendimages.cpp:122
+msgid "Email images"
+msgstr "Envia les imatges per correu-e"
+
+#: sendimages.cpp:156
+msgid "Operation canceled by user"
+msgstr "Operació cancel·lada per l'usuari"
+
+#: sendimages.cpp:168
+#, kde-format
+msgid "Resizing %1"
+msgstr "S'està redimensionant %1"
+
+#: sendimages.cpp:179
+#, kde-format
+msgid "%1 resized successfully"
+msgstr "S'ha redimensionat correctament %1"
+
+#: sendimages.cpp:186
+#, kde-format
+msgid "Failed to resize %1: %2"
+msgstr "Ha fallat en redimensionar %1: %2"
+
+#: sendimages.cpp:215
+msgid "Build images properties file"
+msgstr "Construeix el fitxer de propietats de les imatges"
+
+#: sendimages.cpp:228
+msgid "no caption"
+msgstr "sense comentaris"
+
+#: sendimages.cpp:231
+msgid "no keywords"
+msgstr "sense paraules clau"
+
+#: sendimages.cpp:233
+#, kde-format
+msgid ""
+"file \"%1\":\n"
+"Original images: %2\n"
+msgstr ""
+"fitxer \"%1\":\n"
+"Imatges originals: %2\n"
+
+#: sendimages.cpp:236
+#, kde-format
+msgid "Comments: %1\n"
+msgstr "Comentaris: %1\n"
+
+#: sendimages.cpp:239
+#, kde-format
+msgid "Tags: %1\n"
+msgstr "Etiquetes: %1\n"
+
+#: sendimages.cpp:242
+#, kde-format
+msgid "Rating: %1\n"
+msgstr "Puntuació: %1\n"
+
+#: sendimages.cpp:247
+msgid "properties.txt"
+msgstr "propietats.txt"
+
+#: sendimages.cpp:256
+msgid "Image properties file done"
+msgstr "S'ha crear el fitxer de propietats de les imatges"
+
+#: sendimages.cpp:273
+msgid ""
+"The images listed below cannot be resized.\n"
+"Do you want them to be added as attachments (without resizing)?"
+msgstr ""
+"Les imatges indicades a sota no es poden redimensionar.\n"
+"Voleu que siguin afegides com adjunts (sense redimensionar)?"
+
+#: sendimages.cpp:277
+msgid "Failed to resize images"
+msgstr "Ha fallat en redimensionar les imatges"
+
+#: sendimages.cpp:339
+#, kde-format
+msgid ""
+"The file \"%1\" is too big to be sent, please reduce its size or change your "
+"settings"
+msgstr ""
+
+#: sendimages.cpp:383
+msgid "Starting default KDE email program..."
+msgstr ""
+"S'està iniciant el programa de correu electrònic per omissió del KDE..."
+
+#: sendimages.cpp:541
+#, kde-format
+msgid "Failed to start \"%1\" program. Check your system."
+msgstr "No s'ha pogut iniciar el programa \"%1\". Comproveu el sistema."
+
+#: sendimages.cpp:554
+#, kde-format
+msgid "Starting \"%1\" program..."
+msgstr "S'està iniciant el programa \"%1\"..."
+
+#: sendimages.cpp:564
+msgid "After having sent your images by email..."
+msgstr "Després d'enviar les imatges per correu electrònic..."
+
+#: sendimages.cpp:565
+msgid "Press 'Close' button to clean up temporary files"
+msgstr "Premeu el botó 'Tanca' per a netejar els fitxers temporals"
+
+#: sendimagesdialog.cpp:91
+msgid "Email Images Options"
+msgstr "Opcions a l'enviar imatges per correu-e"
+
+#: sendimagesdialog.cpp:100
+msgid "Images"
+msgstr "Imatges"
+
+#: sendimagesdialog.cpp:101
+msgid "Image List"
+msgstr "Llista d'imatges"
+
+#: sendimagesdialog.cpp:106
+msgid "Mail"
+msgstr "Correu-e"
+
+#: sendimagesdialog.cpp:107
+msgid "Mail Options"
+msgstr "Opcions del correu"
+
+#: sendimagesdialog.cpp:113
+msgid "Send Images"
+msgstr "Envia imatges"
+
+#: sendimagesdialog.cpp:116
+msgid "A plugin to email pictures"
+msgstr "Un connector per enviar imatges per correu-e"
+
+#: sendimagesdialog.cpp:117
+msgid "(c) 2003-2009, Gilles Caulier"
+msgstr "(c) 2003-2009, Gilles Caulier"
+
+#: sendimagesdialog.cpp:119
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: sendimagesdialog.cpp:119
+msgid "Author and Maintainer"
+msgstr "Autor i mantenidor"
+
+#: sendimagesdialog.cpp:122
+msgid "Michael Hoechstetter"
+msgstr "Michael Hoechstetter"
+
+#: sendimagesdialog.cpp:122 sendimagesdialog.cpp:125
+msgid "Developer"
+msgstr "Desenvolupador"
+
+#: sendimagesdialog.cpp:125
+msgid "Tom Albers"
+msgstr "Tom Albers"
+
+#: sendimagesdialog.cpp:133
+msgid "Handbook"
+msgstr "Manual"
+
+#~ msgid "very small (320 pixels)"
+#~ msgstr "molt petita (320 píxels)"
+
+#~ msgid "small (640 pixels)"
+#~ msgstr "petita (640 píxels)"
+
+#~ msgid "medium (800 pixels)"
+#~ msgstr "mitjana (800 píxels)"
+
+#~ msgid "big (1024 pixels)"
+#~ msgstr "gran (1024 píxels)"
+
+#~ msgid "very big (1280 pixels)"
+#~ msgstr "molt gran (1280 píxels)"
+
+#~ msgid "huge - for printing (1600 pixels)"
+#~ msgstr "enorme - per imprimir (1600 píxels)"

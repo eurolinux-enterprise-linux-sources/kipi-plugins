@@ -1,0 +1,788 @@
+# translation of kipiplugin_gpssync.po to čeština
+# translation of kipiplugin_gpssync.po to
+#
+# Klára Cihlářová <koty@seznam.cz>, 2007.
+# Vit Pelcak <vit@pelcak.org>, 2008.
+# Zdeněk Pech <dom.toretto@seznam.cz>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_gpssync\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-11 06:30+0200\n"
+"PO-Revision-Date: 2009-08-02 13:48+0200\n"
+"Last-Translator: Zdeněk Pech <dom.toretto@seznam.cz>\n"
+"Language-Team: čeština <cs@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: gpseditdialog.cpp:98
+#, kde-format
+msgid "%1 - Edit Geographical Coordinates"
+msgstr "%1 - Upravit geografické souřadnice"
+
+#: gpseditdialog.cpp:106
+msgid ""
+"<p>Use the map on the right to select the location where the picture was "
+"taken. Click with left mouse button or move the marker on the map to get the "
+"GPS coordinates.</p>"
+msgstr ""
+"<p>Použijte mapu po pravé straně k výběru místa pořízení snímku. Souřadnice "
+"GPS získáte stisknutím levého tlačítko myši, nebo přesunutím značky na mapě."
+"</p>"
+
+#: gpseditdialog.cpp:111
+msgid "Altitude:"
+msgstr "Nadmořská výška:"
+
+#: gpseditdialog.cpp:112
+msgid "Latitude:"
+msgstr "Zeměpisná šířka:"
+
+#: gpseditdialog.cpp:113
+msgid "Longitude:"
+msgstr "Zeměpisná délka:"
+
+#: gpseditdialog.cpp:127
+msgid "Go to Location"
+msgstr "Jít na umístění"
+
+#: gpseditdialog.cpp:152 gpslistviewcontextmenu.cpp:307
+#: gpslistviewcontextmenu.cpp:339 gpssyncdialog.cpp:267 gpssyncdialog.cpp:349
+#: gpssyncdialog.cpp:357 gpssyncdialog.cpp:486 gpssyncdialog.cpp:496
+#: gpssyncdialog.cpp:507 gpssyncdialog.cpp:536 gpstracklisteditdialog.cpp:127
+msgid "GPS Sync"
+msgstr "GPS Sync"
+
+#: gpseditdialog.cpp:155
+msgid "A Plugin to edit geographical coordinates"
+msgstr "Modul pro úpravu geografických souřadnic"
+
+#: gpseditdialog.cpp:156 gpssyncdialog.cpp:271
+msgid "(c) 2006-2009, Gilles Caulier"
+msgstr "(c) 2006-2009, Gilles Caulier"
+
+#: gpseditdialog.cpp:158 gpssyncdialog.cpp:273 gpstracklisteditdialog.cpp:133
+#: kmlexportconfig.cpp:290
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: gpseditdialog.cpp:159 gpssyncdialog.cpp:274 gpstracklisteditdialog.cpp:134
+#: kmlexportconfig.cpp:287 kmlexportconfig.cpp:291
+msgid "Developer and maintainer"
+msgstr "Autor a správce"
+
+#: gpseditdialog.cpp:167 gpssyncdialog.cpp:282 gpstracklisteditdialog.cpp:142
+#: kmlexportconfig.cpp:299
+msgid "Handbook"
+msgstr "Příručka"
+
+#: gpseditdialog.cpp:319
+msgid "Altitude value is invalid."
+msgstr "Neplatná hodnota nadmořské výšky."
+
+#: gpseditdialog.cpp:320 gpseditdialog.cpp:328 gpseditdialog.cpp:336
+msgid "Edit Geographical Coordinates"
+msgstr "Upravit geografické souřadnice"
+
+#: gpseditdialog.cpp:327
+msgid "Latitude value is invalid."
+msgstr "Neplatná hodnota zeměpisné šířky."
+
+#: gpseditdialog.cpp:335
+msgid "Longitude value is invalid."
+msgstr "Neplatná hodnota zeměpisné délky."
+
+#: gpslistviewcontextmenu.cpp:78
+msgid "Copy coordinates"
+msgstr "Kopírovat souřadnice"
+
+#: gpslistviewcontextmenu.cpp:79
+msgid "Paste coordinates"
+msgstr "Vložit souřadnice"
+
+#: gpslistviewcontextmenu.cpp:306
+msgid ""
+"Found more than one point on the clipboard - can only assign one point at a "
+"time."
+msgstr ""
+"Ve schránce byl nalezen více než jeden bod - najednou lze přiřadit pouze "
+"jeden bod."
+
+#: gpslistviewcontextmenu.cpp:339
+msgid "Could not find any coordinates on the clipboard."
+msgstr "Ve schránce nelze nalézt žádné souřadnice."
+
+#: gpslistviewitem.cpp:127
+msgid "Interpolated"
+msgstr "Interpolované"
+
+#: gpslistviewitem.cpp:131
+msgid "Added"
+msgstr "Přidáno"
+
+#: gpslistviewitem.cpp:133
+msgid "Found"
+msgstr "Nalezeno"
+
+#: gpslistviewitem.cpp:149
+msgid "Deleted"
+msgstr "Smazáno"
+
+#: gpslistviewitem.cpp:161
+msgid "Not available"
+msgstr "Není k dispozici"
+
+#: gpssyncdialog.cpp:118 plugin_gpssync.cpp:78
+msgid "Geolocation"
+msgstr "Geolokace"
+
+#: gpssyncdialog.cpp:121
+msgid "Correlate"
+msgstr "Korelovat"
+
+#: gpssyncdialog.cpp:122
+msgid "Edit..."
+msgstr "Upravit..."
+
+#: gpssyncdialog.cpp:123
+msgid "Remove"
+msgstr "Odstranit"
+
+#: gpssyncdialog.cpp:125
+msgid ""
+"Correlate in time and interpolate distance of data from GPX file with all "
+"images on the list."
+msgstr ""
+"Časově korelovat a vzdálenost dat ze souboru GPX interpolovat se všemi "
+"obrázky v seznamu."
+
+#: gpssyncdialog.cpp:126
+msgid "Manually edit GPS coordinates of selected images from the list."
+msgstr "Ručně upravit GPS souřadnice obrázků vybraných ze seznamu."
+
+#: gpssyncdialog.cpp:127
+msgid "Remove GPS coordinates of selected images from the list."
+msgstr "Odstranit GPS souřadnice obrázků vybraných ze seznamu."
+
+#: gpssyncdialog.cpp:144 gpstracklisteditdialog.cpp:101
+msgid "Date"
+msgstr "Datum"
+
+#: gpssyncdialog.cpp:146 gpstracklisteditdialog.cpp:103
+msgid "Latitude"
+msgstr "Zem. šířka"
+
+#: gpssyncdialog.cpp:148 gpstracklisteditdialog.cpp:105
+msgid "Longitude"
+msgstr "Zem. délka"
+
+#: gpssyncdialog.cpp:150 gpstracklisteditdialog.cpp:107
+msgid "Altitude"
+msgstr "Nadmořská výška"
+
+#: gpssyncdialog.cpp:152
+msgid "Status"
+msgstr "Stav"
+
+#: gpssyncdialog.cpp:163
+msgid "Settings"
+msgstr "Nastavení"
+
+#: gpssyncdialog.cpp:166
+msgid "Load GPX File..."
+msgstr "Načíst soubor GPX..."
+
+#: gpssyncdialog.cpp:168
+msgid "Current GPX file:"
+msgstr "Aktuální soubor GPX:"
+
+#: gpssyncdialog.cpp:169
+msgid "No GPX file"
+msgstr "Žádný soubor GPX"
+
+#: gpssyncdialog.cpp:173
+msgid "Max. time gap (sec.):"
+msgstr "Max. časový interval (sek.):"
+
+#: gpssyncdialog.cpp:175
+msgid ""
+"Sets the maximum difference in seconds from a GPS track point to the image "
+"time to be matched. If the time difference exceeds this setting, no match "
+"will be attempted."
+msgstr ""
+"Nastaví maximální rozdíl v sekundách mezi sledovaným bodem GPS a "
+"odpovídajícím časem obrázku. Pokud rozdíl přesáhne tuto hodnotu, nebude "
+"shoda uznána."
+
+#: gpssyncdialog.cpp:179
+msgid "Time zone:"
+msgstr "Časové pásmo:"
+
+#: gpssyncdialog.cpp:225
+msgid ""
+"<p>Sets the time zone the camera was set to during photo shooting, so that "
+"the time stamps of the images can be converted to GMT to match the GPS time "
+"reference.</p><p>Note: positive offsets count eastwards from zero longitude "
+"(GMT), they are 'ahead of time'.</p>"
+msgstr ""
+"<p>Nastaví časovou zónu na kterou byl při fotografování nastaven fotoaparát, "
+"takže časové značky obrázků mohou být převedeny na GMT, aby se shodovaly s "
+"časovým posunem GPS.</p><p>Pozn.: kladný posun znamená východně od nulové "
+"zeměpisné délky (GMT), kde jsou 's časem vpředu'.</p>"
+
+#: gpssyncdialog.cpp:231
+msgid "Interpolate"
+msgstr "Interpolovat"
+
+#: gpssyncdialog.cpp:232
+msgid ""
+"Set this option to interpolate GPS track points which are not closely "
+"matched to the GPX data file."
+msgstr ""
+"Tuto volbu nastavit pro interpolaci mezi sledovanými body GPS, které jsou "
+"nejblíže k datům souboru GPX."
+
+#: gpssyncdialog.cpp:235
+msgid "Difference in min.:"
+msgstr "Rozdíl v min.:"
+
+#: gpssyncdialog.cpp:237
+msgid ""
+"Sets the maximum time difference in minutes (240 max.) to interpolate GPX "
+"file points to image time data."
+msgstr ""
+"Nastaví maximální časový rozdíl v minutách (max. 240) pro interpolaci mezi "
+"body GPX souboru a časovými údaji obrázku."
+
+#: gpssyncdialog.cpp:270
+msgid "A Plugin to synchronize pictures' metadata with a GPS device"
+msgstr "Modul pro synchronizaci metadat obrázku se zařízením GPS"
+
+#: gpssyncdialog.cpp:336 kmlexportconfig.cpp:174
+#, kde-format
+msgid "%1|GPS Exchange Format"
+msgstr "%1|Výměnný formát GPS"
+
+#: gpssyncdialog.cpp:337 kmlexportconfig.cpp:175
+msgid "Select GPX File to Load"
+msgstr "Zvolit soubor GPX pro načtení"
+
+#: gpssyncdialog.cpp:348 kmlexport.cpp:374
+#, kde-format
+msgid "Cannot parse %1 GPX file."
+msgstr "Nelze analyzovat GPX soubor %1."
+
+#: gpssyncdialog.cpp:356
+#, kde-format
+msgid "The %1 GPX file does not have a date-time track to use."
+msgstr "GPX soubor %1 neobsahuje použitelnou stopu s datem a časem."
+
+#: gpssyncdialog.cpp:363
+#, kde-format
+msgid "Points parsed: %1"
+msgstr "Analyzované body: %1"
+
+#: gpssyncdialog.cpp:403
+#, kde-format
+msgid "1 image from the list is not updated."
+msgid_plural "%1 images from the list are not updated."
+msgstr[0] "1 obrázek ze seznamu není aktualizován."
+msgstr[1] "%1 obrázky ze seznamu nejsou aktualizovány."
+msgstr[2] "%1 obrázků ze seznamu není aktualizováno."
+
+#: gpssyncdialog.cpp:407
+#, kde-format
+msgid ""
+"<p>%1\n"
+"Do you really want to close this window without applying changes?</p>"
+msgstr ""
+"<p>%1\n"
+"Opravdu chcete zavřít toto okno bez uložení změn?</p>"
+
+#: gpssyncdialog.cpp:485
+msgid "Cannot find pictures to correlate with GPX file data."
+msgstr "Nelze nalézt obrázky ke korelaci s daty souboru GPX."
+
+#: gpssyncdialog.cpp:490
+#, kde-format
+msgid "The GPS data of 1 image have been updated using the GPX data file."
+msgid_plural ""
+"The GPS data of %1 images have been updated using the GPX data file."
+msgstr[0] "GPS data 1 obrázku byla aktualizována použitím dat souboru GPX."
+msgstr[1] "GPS data %1 obrázků byla aktualizována použitím dat souboru GPX."
+msgstr[2] "GPS data %1 obrázků byla aktualizována použitím dat souboru GPX."
+
+#: gpssyncdialog.cpp:494
+msgid "Press the Apply button to update the image's metadata."
+msgid_plural "Press the Apply button to update the images' metadata."
+msgstr[0] "Pro aktualizaci metadat obrázku stiskněte tlačítko Použít."
+msgstr[1] "Pro aktualizaci metadat obrázků stiskněte tlačítko Použít."
+msgstr[2] "Pro aktualizaci metadat obrázků stiskněte tlačítko Použít."
+
+#: gpssyncdialog.cpp:506
+msgid ""
+"Please select at least one image from the list to edit GPS coordinates "
+"manually."
+msgstr ""
+"Zvolte prosím nejméně jeden obrázek ze seznamu pro ruční úpravu souřadnic "
+"GPS."
+
+#: gpssyncdialog.cpp:535
+msgid "Please select at least one image from which to remove GPS coordinates."
+msgstr ""
+"Zvolte prosím nejméně jeden obrázek, ze kterého mají být odstraněny "
+"souřadnice GPS."
+
+#: gpstracklisteditdialog.cpp:87
+msgid "Edit Track List Geographical Coordinates"
+msgstr "Upravit seznam stop geografických souřadnic"
+
+#: gpstracklisteditdialog.cpp:99
+msgid "Id"
+msgstr "Id"
+
+#: gpstracklisteditdialog.cpp:109
+msgid "Changed"
+msgstr "Změněno"
+
+#: gpstracklisteditdialog.cpp:130
+msgid "A plugin to edit GPS track lists."
+msgstr "Modul pro úpravu seznamu stop GPS."
+
+#: gpstracklisteditdialog.cpp:131
+msgid "(c) 2008-2009, Gilles Caulier"
+msgstr "(c) 2008-2009, Gilles Caulier"
+
+#: gpstracklistviewitem.cpp:76
+msgid "Yes"
+msgstr "Ano"
+
+#: gpstracklistviewitem.cpp:76
+msgid "No"
+msgstr "Ne"
+
+#: kmlexportconfig.cpp:70 kmlexportconfig.cpp:280
+msgid "KML Export"
+msgstr "Export KML"
+
+#: kmlexportconfig.cpp:79
+msgid "Target Preferences"
+msgstr "Předvolby cíle"
+
+#: kmlexportconfig.cpp:83
+msgid "Target Type"
+msgstr "Typ cíle"
+
+#: kmlexportconfig.cpp:86
+msgid "&Local or web target used by GoogleEarth"
+msgstr "Místní, nebo webový cí&l použitý pomocí GoogleEarth"
+
+#: kmlexportconfig.cpp:89
+msgid "Web target used by GoogleMap"
+msgstr "Webový cíl použitý pomocí GoogleEarth"
+
+#: kmlexportconfig.cpp:90
+msgid ""
+"When using GoogleMap, all images must have complete URLs, icons are squared, "
+"and when drawing a track, only line track is exported."
+msgstr ""
+"Při použití GoogleMap musí mít všechny obrázky úplné URL, ikony být "
+"čtvercové a při kreslení cesty bude exportována cesta pouze jako čára."
+
+#: kmlexportconfig.cpp:102
+msgid "Picture Altitude:"
+msgstr "Nadmořská výška obrázku:"
+
+#: kmlexportconfig.cpp:104 kmlexportconfig.cpp:225
+msgid "clamp to ground"
+msgstr "vztaženo k zemi"
+
+#: kmlexportconfig.cpp:105 kmlexportconfig.cpp:226
+msgid "relative to ground"
+msgstr "relativně k zemi"
+
+#: kmlexportconfig.cpp:106 kmlexportconfig.cpp:227
+msgid "absolute"
+msgstr "absolutní"
+
+#: kmlexportconfig.cpp:107
+msgid ""
+"<p>Specifies how pictures are displayed<dl><dt>clamp to ground (default)</"
+"dt><dd>Indicates to ignore an altitude specification</dd><dt>relative to "
+"ground</dt><dd>Sets the altitude of the element relative to the actual "
+"ground elevation of a particular location.</dd><dt>absolute</dt><dd>Sets the "
+"altitude of the coordinate relative to sea level, regardless of the actual "
+"elevation of the terrain beneath the element.</dd></dl>"
+msgstr ""
+"<p>Určuje, jak budou obrázky zobrazeny<dl><dt>vztaženo k zemi (výchozí)</"
+"dt><dd>Vyjadŕuje ignorování zadání nadmořské výšky</dd><dt>relativně k zemi</"
+"dt><dd>Nastavuje nadmořskou výšku prvku relativně k aktuální elevaci země "
+"příslušného místa.</dd><dt>absolutně</dt><dd>Nastavuje nadmořskou výšku "
+"souřadnic relativně k hladině moře bez ohledu na aktuální elevaci terénu pod "
+"prvkem.</dd></dl>"
+
+#: kmlexportconfig.cpp:117
+msgid "Destination Directory:"
+msgstr "Cílový adresář:"
+
+#: kmlexportconfig.cpp:121
+msgid "Select a directory in which to save the kml file and pictures"
+msgstr "Vybrat adresář pro uložení souboru KML a obrázků"
+
+#: kmlexportconfig.cpp:124
+msgid "Destination URL:"
+msgstr "Cílové URL:"
+
+#: kmlexportconfig.cpp:126
+msgid "Filename:"
+msgstr "Název souboru:"
+
+#: kmlexportconfig.cpp:144
+msgid "Sizes"
+msgstr "Velikosti"
+
+#: kmlexportconfig.cpp:146
+msgid "Icon Size:"
+msgstr "Velikost ikony:"
+
+#: kmlexportconfig.cpp:150
+msgid "Image Size:"
+msgstr "Velikost obrázku:"
+
+#: kmlexportconfig.cpp:164
+msgid "GPX Tracks"
+msgstr "Stopy GPX"
+
+#: kmlexportconfig.cpp:168
+msgid "Draw GPX Track"
+msgstr "Nakreslit stopu GPX"
+
+#: kmlexportconfig.cpp:171
+msgid "GPX file:"
+msgstr "Soubor GPX:"
+
+#: kmlexportconfig.cpp:177
+msgid "Time Zone:"
+msgstr "Časové pásmo:"
+
+#: kmlexportconfig.cpp:179
+msgid "GMT-12:00"
+msgstr "GMT-12:00"
+
+#: kmlexportconfig.cpp:180
+msgid "GMT-11:00"
+msgstr "GMT-11:00"
+
+#: kmlexportconfig.cpp:181
+msgid "GMT-10:00"
+msgstr "GMT-10:00"
+
+#: kmlexportconfig.cpp:182
+msgid "GMT-09:00"
+msgstr "GMT-09:00"
+
+#: kmlexportconfig.cpp:183
+msgid "GMT-08:00"
+msgstr "GMT-08:00"
+
+#: kmlexportconfig.cpp:184
+msgid "GMT-07:00"
+msgstr "GMT-07:00"
+
+#: kmlexportconfig.cpp:185
+msgid "GMT-06:00"
+msgstr "GMT-06:00"
+
+#: kmlexportconfig.cpp:186
+msgid "GMT-05:00"
+msgstr "GMT-05:00"
+
+#: kmlexportconfig.cpp:187
+msgid "GMT-04:00"
+msgstr "GMT-04:00"
+
+#: kmlexportconfig.cpp:188
+msgid "GMT-03:00"
+msgstr "GMT-03:00"
+
+#: kmlexportconfig.cpp:189
+msgid "GMT-02:00"
+msgstr "GMT-02:00"
+
+#: kmlexportconfig.cpp:190
+msgid "GMT-01:00"
+msgstr "GMT-01:00"
+
+#: kmlexportconfig.cpp:191
+msgid "GMT"
+msgstr "GMT"
+
+#: kmlexportconfig.cpp:192
+msgid "GMT+01:00"
+msgstr "GMT+01:00"
+
+#: kmlexportconfig.cpp:193
+msgid "GMT+02:00"
+msgstr "GMT+02:00"
+
+#: kmlexportconfig.cpp:194
+msgid "GMT+03:00"
+msgstr "GMT+03:00"
+
+#: kmlexportconfig.cpp:195
+msgid "GMT+04:00"
+msgstr "GMT+04:00"
+
+#: kmlexportconfig.cpp:196
+msgid "GMT+05:00"
+msgstr "GMT+05:00"
+
+#: kmlexportconfig.cpp:197
+msgid "GMT+06:00"
+msgstr "GMT+06:00"
+
+#: kmlexportconfig.cpp:198
+msgid "GMT+07:00"
+msgstr "GMT+07:00"
+
+#: kmlexportconfig.cpp:199
+msgid "GMT+08:00"
+msgstr "GMT+08:00"
+
+#: kmlexportconfig.cpp:200
+msgid "GMT+09:00"
+msgstr "GMT+09:00"
+
+#: kmlexportconfig.cpp:201
+msgid "GMT+10:00"
+msgstr "GMT+10:00"
+
+#: kmlexportconfig.cpp:202
+msgid "GMT+11:00"
+msgstr "GMT+11:00"
+
+#: kmlexportconfig.cpp:203
+msgid "GMT+12:00"
+msgstr "GMT+12:00"
+
+#: kmlexportconfig.cpp:204
+msgid "GMT+13:00"
+msgstr "GMT+13:00"
+
+#: kmlexportconfig.cpp:205
+msgid "GMT+14:00"
+msgstr "GMT+14:00"
+
+#: kmlexportconfig.cpp:206
+msgid ""
+"Sets the time zone of the camera during picture shooting, so that the time "
+"stamps of the GPS can be converted to match the local time"
+msgstr ""
+"Nastaví časovou zónu fotoaparátu při fotografování, takže časové značky GPS "
+"mohou být převedeny, aby se shodovaly s místním časem"
+
+#: kmlexportconfig.cpp:210
+msgid "Track Width:"
+msgstr "Šířka stopy:"
+
+#: kmlexportconfig.cpp:214
+msgid "Track Color:"
+msgstr "Barva stopy:"
+
+#: kmlexportconfig.cpp:220
+msgid "Opacity:"
+msgstr "Neprůhlednost:"
+
+#: kmlexportconfig.cpp:223
+msgid "Track Altitude:"
+msgstr "Nadmořská výška stopy:"
+
+#: kmlexportconfig.cpp:228
+msgid ""
+"<p>Specifies how the points are displayed<dl><dt>clamp to ground (default)</"
+"dt><dd>Indicates to ignore an altitude specification</dd><dt>relative to "
+"ground</dt><dd>Sets the altitude of the element relative to the actual "
+"ground elevation of a particular location.</dd><dt>absolute</dt><dd>Sets the "
+"altitude of the coordinate relative to sea level, regardless of the actual "
+"elevation of the terrain beneath the element.</dd></dl>"
+msgstr ""
+"<p>Určuje, jak budou body zobrazeny<dl><dt>vztaženo k zemi (výchozí)</"
+"dt><dd>Vyjadŕuje ignorování zadání nadmořské výšky</dd><dt>relativně k zemi</"
+"dt><dd>Nastavuje nadmořskou výšku prvku relativně k aktuální elevaci země "
+"příslušného místa.</dd><dt>absolutně</dt><dd>Nastavuje nadmořskou výšku "
+"souřadnic relativně k hladině moře bez ohledu na aktuální elevaci terénu pod "
+"prvkem.</dd></dl>"
+
+#: kmlexportconfig.cpp:283
+msgid "A Kipi plugin for KML exporting"
+msgstr "KIPI modul pro export KML"
+
+#: kmlexportconfig.cpp:284
+msgid "(c) 2006-2007, Stéphane Pontier"
+msgstr "(c) 2006-2007, Stéphane Pontier"
+
+#: kmlexportconfig.cpp:286
+msgid "Stéphane Pontier"
+msgstr "Stéphane Pontier"
+
+#: kmlexport.cpp:69
+msgid "Generating KML file..."
+msgstr "Vytváření souboru KML..."
+
+#: kmlexport.cpp:89
+#, kde-format
+msgid "Could not create '%1'"
+msgstr "Nelze vytvořit '%1'"
+
+#: kmlexport.cpp:173
+#, kde-format
+msgid "Could not read image '%1'"
+msgstr "Nelze načíst obrázek '%1'"
+
+#: kmlexport.cpp:181
+#, kde-format
+msgid "Format of image '%1' is unknown"
+msgstr "Neznámý formát obrázku '%1'"
+
+#: kmlexport.cpp:191
+#, kde-format
+msgid "Error loading image '%1'"
+msgstr "Chyba při načítání obrázku '%1'"
+
+#: kmlexport.cpp:231
+#, kde-format
+msgid "Could not save image '%1' to '%2'"
+msgstr "Nelze uložit obrázek '%1' do '%2'"
+
+#: kmlexport.cpp:328
+#, kde-format
+msgid "Creation of placemark '%1'"
+msgstr "Vytváření značky místa '%1'"
+
+#: kmlexport.cpp:335
+#, kde-format
+msgid "Could not save icon for image '%1' to '%2'"
+msgstr "Nelze vytvořit ikona obrázku '%1' do '%2'"
+
+#: kmlexport.cpp:365
+msgid "No GPX file chosen."
+msgstr "Nebyl vybrán soubor GPX."
+
+#: kmlexport.cpp:380
+#, kde-format
+msgid "The %1 GPX file do not have a date-time track to use."
+msgstr "GPX soubor %1 neobsahuje použitelnou stopu s datem a časem."
+
+#: kmlexport.cpp:387
+msgid "Tracks"
+msgstr "Stopy"
+
+#: kmlexport.cpp:484
+#, kde-format
+msgid "No position data for '%1'"
+msgstr "Chybí údaje o pozici pro '%1'"
+
+#: kmlexport.cpp:495
+#, kde-format
+msgid "No position data for 1 picture"
+msgid_plural "No position data for %1 pictures"
+msgstr[0] "Žádné údaje o pozici 1 obrázku"
+msgstr[1] "Žádné údaje o pozici %1 obrázků"
+msgstr[2] "Žádné údaje o pozici %1 obrázků"
+
+#: kmlexport.cpp:510
+msgid "Move to final directory"
+msgstr "Přesunout do finální složky"
+
+#: kmlgpsdataparser.cpp:65
+msgid "Track"
+msgstr "Stopa"
+
+#: kmlgpsdataparser.cpp:94
+msgid "Points"
+msgstr "Body"
+
+#: kmlgpsdataparser.cpp:104
+msgid "Point"
+msgstr "Bod"
+
+#: plugin_gpssync.cpp:81
+msgid "Correlator"
+msgstr "Korelátor"
+
+#: plugin_gpssync.cpp:88
+msgid "Edit Coordinates..."
+msgstr "Upravit souřadnice..."
+
+#: plugin_gpssync.cpp:94
+msgid "Track List Editor..."
+msgstr "Editor seznamu stop..."
+
+#: plugin_gpssync.cpp:100
+msgid "Remove Coordinates..."
+msgstr "Odebrat souřadnice..."
+
+#: plugin_gpssync.cpp:108
+#, fuzzy
+#| msgid "KML Export..."
+msgid "Export to KML..."
+msgstr "Export KML..."
+
+#: plugin_gpssync.cpp:139
+#, kde-format
+msgid ""
+"<p>Unable to find the gpsbabel executable:<br/> This program is required by "
+"this plugin to support GPS data file decoding. Please install gpsbabel as a "
+"package from your distributor or <a href=\"%1\">download the source</a>.</"
+"p><p>Note: at least, gpsbabel version %2 is required by this plugin.</p>"
+msgstr ""
+"<p>Nelze nalézt aplikaci gpsbabel:<br/> Tento program je vyžadován modulem "
+"pro podporu dekódování souboru s GPS daty. Nainstalujte prosím gpsbabel jako "
+"balíček od vašeho distributora, nebo <a href=\"%1\"> stáhněte zdroje</a>.</"
+"p><p>Pozn.: pro tento modul je vyžadována verze nejméně %2.</p>"
+
+#: plugin_gpssync.cpp:156
+#, kde-format
+msgid ""
+"<p>gpsbabel executable is not up to date:<br/> The version %1 of gpsbabel "
+"have been found on your computer. This version is too old to run properly "
+"with this plugin. Please update gpsbabel as a package from your distributor "
+"or <a href=\"%2\">download the source</a>.</p><p>Note: at least, gpsbabel "
+"version %3 is required by this plugin</p>"
+msgstr ""
+"<p>Aplikace gpsbabel není aktuální:<br/> Na vašem počítači byla nalezena "
+"verze programu gpsbabel %1. Tato verze je příliš stará pro správnou činnost "
+"s tímto modulem.Aktualizujte prosím gpsbabel jako balíček od vašeho "
+"distributora, nebo <a href=\"%2\"> stáhněte zdroje</a>.</p><p>Pozn.: pro "
+"tento modul je vyžadována verze nejméně %3.</p>"
+
+#: plugin_gpssync.cpp:331
+msgid "No GPS locations have been found in your pictures."
+msgstr "Ve vašich obrázcích nebylo nalezeno žádné umístění GPS."
+
+#: plugin_gpssync.cpp:392
+msgid ""
+"Geographical coordinates will be definitively removed from all selected "
+"images.\n"
+"Do you want to continue ?"
+msgstr ""
+"Geografické souřadnice budou definitivně odebrány ze všech vybraných "
+"obrázků.\n"
+"Chcete pokračovat?"
+
+#: plugin_gpssync.cpp:394
+msgid "Remove Geographical Coordinates"
+msgstr "Odebrat geografické souřadnice"
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Vít Pelčák, Zdeněk Pech"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "vit@pelcak.org, dom.toretto@seznam.cz"

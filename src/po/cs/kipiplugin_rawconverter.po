@@ -1,0 +1,280 @@
+# translation of kipiplugin_rawconverter.po to
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Klara Cihlarova <koty@seznam.cz>, 2005.
+# Jakub Friedl <jfriedl@suse.cz>, 2005, 2006.
+# Vit Pelcak <vit@pelcak.org>, 2009.
+# Zdenek Pech <dom.toretto@seznam.cz>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_rawconverter\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-24 06:20+0200\n"
+"PO-Revision-Date: 2009-06-25 22:54-0400\n"
+"Last-Translator: \n"
+"Language-Team:  <en@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: actionthread.cpp:235
+msgid "Cannot identify RAW image"
+msgstr "Obrázek RAW nelze identifikovat"
+
+#: actionthread.cpp:242
+#, kde-format
+msgid "Make: %1\n"
+msgstr "Výrobce: %1\n"
+
+#: actionthread.cpp:243
+#, kde-format
+msgid "Model: %1\n"
+msgstr "Model: %1\n"
+
+#: actionthread.cpp:247
+#, kde-format
+msgid "Created: %1\n"
+msgstr "Vytvořeno: %1\n"
+
+#: actionthread.cpp:254
+#, kde-format
+msgid "Aperture: f/%1\n"
+msgstr "Clona: f/%1\n"
+
+#: actionthread.cpp:259
+#, kde-format
+msgid "Focal: %1 mm\n"
+msgstr "Ohnisko: %1 mm\n"
+
+#: actionthread.cpp:264
+#, kde-format
+msgid "Exposure: 1/%1 s\n"
+msgstr "Expozice: 1/%1 s\n"
+
+#: actionthread.cpp:269
+#, kde-format
+msgid "Sensitivity: %1 ISO"
+msgstr "Citlivost: %1 ISO"
+
+#: batchdialog.cpp:148 singledialog.cpp:213
+msgid "Exit RAW Converter"
+msgstr "Ukončit převaděč RAW"
+
+#: batchdialog.cpp:149
+msgid "RAW Image Batch Converter"
+msgstr "Hromadný převaděč RAW obrázků"
+
+#: batchdialog.cpp:152
+msgid "&Add"
+msgstr "Při&dat"
+
+#: batchdialog.cpp:153
+msgid "Add new RAW files to the list"
+msgstr "Přidat do seznamu nové soubory RAW"
+
+#: batchdialog.cpp:155
+msgid "&Remove"
+msgstr "Odst&ranit"
+
+#: batchdialog.cpp:156
+msgid "Remove selected RAW files from the list"
+msgstr "Odstranit vybrané soubory RAW ze seznamu"
+
+#: batchdialog.cpp:175
+msgid "Thumbnail"
+msgstr "Náhled"
+
+#: batchdialog.cpp:176
+msgid "RAW File"
+msgstr "RAW soubor"
+
+#: batchdialog.cpp:177
+msgid "Target File"
+msgstr "Cílový soubor"
+
+#: batchdialog.cpp:178
+msgid "Camera"
+msgstr "Fotoaparát"
+
+#: batchdialog.cpp:195 batchdialog.cpp:199 singledialog.cpp:158
+#: singledialog.cpp:161
+msgid "Save settings"
+msgstr "Nastavení ukládání"
+
+#: batchdialog.cpp:220 singledialog.cpp:140 singledialog.cpp:176
+msgid "RAW Image Converter"
+msgstr "Převaděč obrázků RAW"
+
+#: batchdialog.cpp:223
+msgid "A Kipi plugin to batch convert RAW images"
+msgstr "Kipi modul pro hromadný převod obrázků RAW"
+
+#: batchdialog.cpp:224 singledialog.cpp:180
+msgid ""
+"(c) 2003-2005, Renchi Raju\n"
+"(c) 2006-2009, Gilles Caulier"
+msgstr ""
+"(c) 2003-2005, Renchi Raju\n"
+"(c) 2006-2009, Gilles Caulier"
+
+#: batchdialog.cpp:227 singledialog.cpp:183
+msgid "Renchi Raju"
+msgstr "Renchi Raju"
+
+#: batchdialog.cpp:228 singledialog.cpp:184
+msgid "Author"
+msgstr "Autor"
+
+#: batchdialog.cpp:231 singledialog.cpp:187
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: batchdialog.cpp:232 singledialog.cpp:188
+msgid "Developer and maintainer"
+msgstr "Vývojář a správce"
+
+#: batchdialog.cpp:240 singledialog.cpp:196
+msgid "Handbook"
+msgstr "Příručka"
+
+#: batchdialog.cpp:452
+msgid "There is no RAW file in the list to process."
+msgstr "V seznamu není žádný RAW soubor ke zpracování."
+
+#: batchdialog.cpp:668 singledialog.cpp:139
+msgid "&Abort"
+msgstr "&Přerušit"
+
+#: batchdialog.cpp:669 singledialog.cpp:211
+msgid "Abort the current RAW file conversion"
+msgstr "Přerušit právě probíhající převod obrázku RAW"
+
+#: batchdialog.cpp:674 singledialog.cpp:138
+msgid "Con&vert"
+msgstr "Pře&vést"
+
+#: batchdialog.cpp:675
+msgid "Start converting the RAW images using current settings."
+msgstr "Spuštění převodu obrázků RAW se současným nastavením."
+
+#: batchdialog.cpp:725 singledialog.cpp:580
+#, kde-format
+msgid "Save RAW image converted from '%1' as"
+msgstr "Uložit obrázek RAW převedný z '%1' na"
+
+#: batchdialog.cpp:754 singledialog.cpp:607
+#, kde-format
+msgid "Failed to save image %1"
+msgstr "Chyba při ukládání obrázku %1"
+
+#: plugin_rawconverter.cpp:86
+msgid "RAW Image Converter..."
+msgstr "Převaděč obrázků RAW..."
+
+#: plugin_rawconverter.cpp:95
+msgid "Batch RAW Converter..."
+msgstr "Hromadný převaděč RAW..."
+
+#: plugin_rawconverter.cpp:169
+#, kde-format
+msgid "\"%1\" is not a RAW file."
+msgstr "\"%1\" není RAW soubor."
+
+#: previewwidget.cpp:90
+msgid "Failed to load image after processing"
+msgstr "Chyba při načítání obrázku po zpracování"
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Vít Pelčák,Zdeněk Pech"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "vit@pelcak.org,dom.toretto@seznam.cz"
+
+#: savesettingswidget.cpp:75
+msgid "Output file format:"
+msgstr "Formát výstupního souboru:"
+
+#: savesettingswidget.cpp:77
+msgid ""
+"<p>Set the output file format to use here:</p><p><b>JPEG</b>: output the "
+"processed image in JPEG format. This format will give smaller-sized files. "
+"Minimum JPEG compression level will be used during RAW conversion.</"
+"p><p><b>Warning: Due to the destructive compression algorithm, JPEG is a "
+"lossy quality format.</b></p><p><b>TIFF</b>: output the processed image in "
+"TIFF format. This generates large files, without losing quality. Adobe "
+"Deflate compression will be used during conversion.</p><p><b>PPM</b>: output "
+"the processed image in PPM format. This generates the largest files, without "
+"losing quality.</p><p><b>PNG</b>: output the processed image in PNG format. "
+"This generates large files, without losing quality. Maximum PNG compression "
+"will be used during conversion.</p>"
+msgstr ""
+"<p>Nastavení formátu výstupního souboru:</p><p><b>JPEG</b>: výstup "
+"zpracovaného obrázku do formátu JPEG. Tento formát poskytuje malé soubory.  "
+"Při převodu RAW bude použita minimální úroveň komprimace.</"
+"p><p><b>Upozornění: kvůli destruktivnímu komprimačnímu algoritmu ztrácí JPEG "
+"část kvality.</b></p><p><b>TIFF</b>: výstup zpracovaného obrázku do formátu "
+"TIFF. Vytváří se velké soubory bez ztráty kvality. Při převodu je použita "
+"komprimace Adobe Deflate.</p><p><b>PPM</b>: výstup zpracovaného obrázku do "
+"formátu PPM. Budou vytvořeny největší soubory bez ztráty kvality.</"
+"p><p><b>PNG</b>: výstup zpracovaného obrázku do formátu PNG .Budou vytvořeny "
+"velké soubory bez ztráty kvality. Při převodu do PNG bude použita maximální "
+"úroveň komprimace.</p>"
+
+#: savesettingswidget.cpp:96
+msgid "If Target File Exists:"
+msgstr "Pokud již cílový soubor existuje:"
+
+#: savesettingswidget.cpp:100
+msgid "Overwrite automatically"
+msgstr "Automaticky přepsat"
+
+#: savesettingswidget.cpp:101
+msgid "Open rename-file dialog"
+msgstr "Otevřít dialog pro přejmenování souboru"
+
+#: singledialog.cpp:137
+msgid "&Preview"
+msgstr "Ná&hled"
+
+#: singledialog.cpp:179
+msgid "A Kipi plugin to convert RAW images"
+msgstr "Kipi modul pro převod obrázků RAW"
+
+#: singledialog.cpp:204
+msgid ""
+"Generate a preview using current settings. Uses a simple bilinear "
+"interpolation for quick results."
+msgstr ""
+"Vytvoření náhledu podle aktuálních nastavení. Pro urychlení používá "
+"jednoduchou bilineární interpolaci."
+
+#: singledialog.cpp:208
+msgid ""
+"Convert the RAW Image using current settings. This uses a high-quality "
+"adaptive algorithm."
+msgstr ""
+"Převod obrázku RAW podle aktuálních nastavení. Používá kvalitní adaptivní "
+"algoritmus."
+
+#: singledialog.cpp:537
+msgid "Failed to generate preview"
+msgstr "Chyba při vytváření náhledu"
+
+#: singledialog.cpp:624
+msgid "Failed to convert RAW image"
+msgstr "Převod obrázku RAW selhal"
+
+#: singledialog.cpp:629
+msgid "Generating Preview..."
+msgstr "Vytváření náhledu..."
+
+#: singledialog.cpp:642
+msgid "Converting RAW Image..."
+msgstr "Převod obrázku RAW..."

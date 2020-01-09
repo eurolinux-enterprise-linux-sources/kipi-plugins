@@ -1,0 +1,558 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Шмелёв Артемий Геннадьевич <sgartjom@mail.ru>, 2008.
+# Nick Shaforostoff <shaforostoff@kde.ru>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_simpleviewerexport\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-09-22 06:16+0200\n"
+"PO-Revision-Date: 2008-08-04 21:40+0300\n"
+"Last-Translator: Nick Shaforostoff <shaforostoff@kde.ru>\n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: firstrundlg.cpp:78 firstrundlg.cpp:88 simpleviewer.cpp:207 svedialog.cpp:92
+#: svedialog.cpp:121
+msgid "Flash Export"
+msgstr "Экспорт во Flash-ролик"
+
+#: firstrundlg.cpp:91 svedialog.cpp:124
+#, fuzzy
+#| msgid ""
+#| "A Kipi plugin to export images to Flash using Simple Viewer component"
+msgid ""
+"A Kipi plugin to export images to Flash using the Simple Viewer component."
+msgstr ""
+"Модуль расширения Kipi для экспорта изображений во Flash-ролик использую "
+"компонент Простой Просмотрщик"
+
+#: firstrundlg.cpp:92 svedialog.cpp:125
+#, fuzzy
+#| msgid ""
+#| "(c) 2005-2006, Joern Ahrens\n"
+#| "(c) 2008, Gilles Caulier"
+msgid ""
+"(c) 2005-2006, Joern Ahrens\n"
+"(c) 2008-2009, Gilles Caulier"
+msgstr ""
+"© 2005-2006 Joern Ahrens\n"
+"© 2008 Gilles Caulier"
+
+#: firstrundlg.cpp:95 svedialog.cpp:128
+msgid "Joern Ahrens"
+msgstr "Joern Ahrens"
+
+#: firstrundlg.cpp:96 svedialog.cpp:129
+msgid "Author"
+msgstr "Автор"
+
+#: firstrundlg.cpp:99 svedialog.cpp:132
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: firstrundlg.cpp:100 svedialog.cpp:133
+msgid "Developer and maintainer"
+msgstr "Разработчик и поддержка"
+
+#: firstrundlg.cpp:103 svedialog.cpp:136
+msgid "Felix Turner"
+msgstr "Felix Turner"
+
+#: firstrundlg.cpp:104 svedialog.cpp:137
+msgid "Author of the Simple Viewer Flash component"
+msgstr "Автор компонента Простой Просмотрщик"
+
+#: firstrundlg.cpp:108 svedialog.cpp:141
+msgid "Mikkel B. Stegmann"
+msgstr "Mikkel B. Stegmann"
+
+#: firstrundlg.cpp:109 svedialog.cpp:142
+msgid "Basis for the index.html template"
+msgstr "Основа для шаблона index.html"
+
+#: firstrundlg.cpp:118 svedialog.cpp:151
+#, fuzzy
+#| msgid "Plugin Handbook"
+msgid "Handbook"
+msgstr "Руководство по модулю"
+
+#: firstrundlg.cpp:130
+msgid ""
+"<p>SimpleViewer is a Flash component which is free to use, but uses a "
+"license which comes into conflict with several distributions. Due to the "
+"license it is not possible to ship it with this plugin.</p><p>You can now "
+"download SimpleViewer from its homepage and point this tool to the "
+"downloaded archive. The archive will be stored with the plugin "
+"configuration, so it is available for further use.</p>"
+msgstr ""
+"<p>Простой Просмотрщик — это компонент Flash который можно свободно "
+"использовать, но его лицензия вступает в конфлик с лицензионной политикой "
+"некоторых дистрибутивов. Также нельзя распространять этот компонент вместе с "
+"этим модулем расширения.</p><p>Вы можете загрузить Простой Просмотрщик через "
+"его домашнюю страницу и указать этому модулю расширения на загруженный "
+"архив. Архив будет сохранён вместе с настройками модуля, так что вы сможете "
+"его использовать после при необходимости.</p>"
+
+#: firstrundlg.cpp:138
+#, fuzzy
+#| msgid "<p>1.) Download SimpleViewer Version 1.8.x</p>"
+msgid "<p>1.) Download SimpleViewer Version 1.9.x</p>"
+msgstr ""
+"<p>1. Загрузите Простой Просмотрщик версии 1.8.х (SimpleViewer Version 1.8.x)"
+"</p>"
+
+#: firstrundlg.cpp:148
+msgid "<p>2.) Point this tool to the downloaded archive</p>"
+msgstr "<p>2. Укажите на загруженный архив</p>"
+
+#: generalpage.cpp:82
+msgid "Gallery &Title"
+msgstr "Название &галереи"
+
+#: generalpage.cpp:85
+#, fuzzy
+#| msgid "<p>Enter here the gallery title"
+msgid "Enter here the gallery title"
+msgstr "<p>Введите название галереи"
+
+#: generalpage.cpp:93
+msgid "Save Gallery To"
+msgstr "Сохранить галерею в"
+
+#: generalpage.cpp:104
+msgid "Image Properties"
+msgstr "Свойства изображений"
+
+#: generalpage.cpp:106
+msgid "Resize Target Images"
+msgstr "Изменить размер изображений"
+
+#: generalpage.cpp:108
+#, fuzzy
+#| msgid "<p>If you enable this option, all target images can be resized."
+msgid "If you enable this option, all target images can be resized."
+msgstr ""
+"<p>Если эта опция включена, размер всех изоражений в галерее будет изменён."
+
+#: generalpage.cpp:112
+msgid "Auto-Rotate/Flip Images"
+msgstr "Авто поворот/отражение"
+
+#: generalpage.cpp:114
+#, fuzzy
+#| msgid ""
+#| "<p>If you enable this option, the images orientation will be fixed "
+#| "accordingly with Exif information"
+msgid ""
+"If you enable this option, the images' orientations will be set according to "
+"their Exif information."
+msgstr ""
+"<p>Если вы включите эту опцию, ориентация всех изображений будет изменена в "
+"соответствии с информацией метаданных EXIF."
+
+#: generalpage.cpp:121
+#, fuzzy
+#| msgid "&Target Images Size:"
+msgid "&Target Images' Size:"
+msgstr "&Размер изображений:"
+
+#: generalpage.cpp:122
+#, fuzzy
+#| msgid ""
+#| "<p>The new size of the exported images in pixels. SimpleViewer resizes "
+#| "the images as well, but this resizes your images before they are uploaded "
+#| "to your server"
+msgid ""
+"The new size of the exported images, in pixels. SimpleViewer resizes the "
+"images too, but this resizes the images before they are uploaded to your "
+"server."
+msgstr ""
+"<p>Укажите размер экспортруемых изображений в пикселах. Простой Просмотрщик "
+"также может изменять размер изображений, но эта опция заставит изменить "
+"размер изображений до загрузки га сервер."
+
+#: generalpage.cpp:135
+#, fuzzy
+#| msgid "&Displayed Images Size:"
+msgid "&Displayed Images' Size:"
+msgstr "&Отображаемый размер изображений:"
+
+#: generalpage.cpp:136
+#, fuzzy
+#| msgid ""
+#| "<p>scales the displayed images to this size. Largest height or width of "
+#| "your largest image (in pixels). Images will not be scaled up above this "
+#| "size, to ensure best image quality."
+msgid ""
+"Scales the displayed images to this size. Normally, use the height or width "
+"of your largest image (in pixels). Images will not be scaled up above this "
+"size, to preserve image quality."
+msgstr ""
+"<p>При отрисовке изображения будут изменены до данного размера. Наибольшая "
+"высота или щирина самого большого из изображений (в пикселях). Изображения "
+"не будут увеличиваться больше данного размера, чтобы качество было хорошим."
+
+#: generalpage.cpp:151
+msgid "Misc"
+msgstr "Разное"
+
+#: generalpage.cpp:154
+msgid "Display Captions"
+msgstr "Заголовки"
+
+#: generalpage.cpp:156
+#, fuzzy
+#| msgid "<p>If you enable this option, the images caption will be shown"
+msgid "If this option is enabled, the images' captions will be shown."
+msgstr ""
+"<p>Если вы включите данную опцию, будут показаны заголовки изображений."
+
+#: generalpage.cpp:159
+msgid "Open Image with Right Click"
+msgstr "Открыть изображения по правому клику"
+
+#: generalpage.cpp:161
+#, fuzzy
+#| msgid ""
+#| "<p>If you enable this option, user will be able to open the target image "
+#| "in a separate window using right mouse button"
+msgid ""
+"If this option is enabled, the user will be able to open the target image in "
+"a separate window using the right mouse button."
+msgstr ""
+"<p>Если вы включите данную опцию, пользователь сможет открыть изобрежния в "
+"новом окне, щёлкнув правой кнопкой мыши."
+
+#: generalpage.cpp:165
+msgid "Open gallery in Konqueror"
+msgstr "Открыть галерею в Konqueror"
+
+#: generalpage.cpp:167
+#, fuzzy
+#| msgid ""
+#| "<p>If you enable this option, gallery will be open in Konqueror "
+#| "automaticaly"
+msgid ""
+"If this option is enabled, the gallery will be opened in Konqueror "
+"automatically."
+msgstr ""
+"<p>Если вы включите данную опцию, галерея будет автоматически открыта в "
+"Konqueror."
+
+#: lookpage.cpp:81
+#, fuzzy
+#| msgid "Navigation"
+msgctxt "Settings for flash export navigation"
+msgid "Navigation"
+msgstr "Навигация"
+
+#: lookpage.cpp:87
+msgid "Thumbnail &Rows:"
+msgstr "Эскизы &строки:"
+
+#: lookpage.cpp:88
+#, fuzzy
+#| msgid "<p>Number of thumbnails rows"
+msgid "Number of thumbnails rows"
+msgstr "<p>Количество строк эскизов"
+
+#: lookpage.cpp:93
+msgid "Thumbnail &Columns:"
+msgstr "Эскизы с&толбцы:"
+
+#: lookpage.cpp:94
+#, fuzzy
+#| msgid "<p>Number of thumbnails columns"
+msgid "Number of thumbnails columns"
+msgstr "<p>Количество столбцов эскизов"
+
+#: lookpage.cpp:97
+msgid "Thumbnail &Position:"
+msgstr "Эскизы р&асположение:"
+
+#: lookpage.cpp:99
+#, fuzzy
+#| msgid "Right"
+msgctxt "thumbnail position: right"
+msgid "Right"
+msgstr "Справа"
+
+#: lookpage.cpp:100
+#, fuzzy
+#| msgid "Left"
+msgctxt "thumbnail position: left"
+msgid "Left"
+msgstr "Слева"
+
+#: lookpage.cpp:101
+#, fuzzy
+#| msgid "Top"
+msgctxt "thumbnail position: top"
+msgid "Top"
+msgstr "Сверху"
+
+#: lookpage.cpp:102
+#, fuzzy
+#| msgid "Bottom"
+msgctxt "thumbnail position: bottom"
+msgid "Bottom"
+msgstr "Снизу"
+
+#: lookpage.cpp:111
+msgid "&Direction of Navigation:"
+msgstr "&Направление навигации:"
+
+#: lookpage.cpp:113
+msgid "Left to Right"
+msgstr "Слева на право"
+
+#: lookpage.cpp:114
+msgid "Right to Left"
+msgstr "Справа налево"
+
+#: lookpage.cpp:127
+msgid "Colors"
+msgstr "Цвета"
+
+#: lookpage.cpp:131
+msgid "&Text Color:"
+msgstr "&Цвет текста:"
+
+#: lookpage.cpp:134
+#, fuzzy
+#| msgid "<p>Color of title and caption text"
+msgid "Color of title and caption text"
+msgstr "<p>Цвет заголовка и подписи"
+
+#: lookpage.cpp:138
+msgid "&Background Color:"
+msgstr "Цвет &фона"
+
+#: lookpage.cpp:144
+msgid "&Frame Color:"
+msgstr "Цвет &рамки:"
+
+#: lookpage.cpp:147
+#, fuzzy
+#| msgid "<p>Color of image frame, viewed icon, load bars, thumbnail arrows"
+msgid "Color of image frame, viewed icon, load bars, thumbnail arrows"
+msgstr ""
+"<p>Цвет рамки изображения, просмотренных иконок, полос загрузки, стрелок "
+"эскизов"
+
+#: lookpage.cpp:158
+msgid "Style"
+msgstr "Стиль"
+
+#: lookpage.cpp:164
+msgid "Frame &Width:"
+msgstr "&Толщина рамки:"
+
+#: lookpage.cpp:165
+#, fuzzy
+#| msgid "<p>Width of image frame in pixels."
+msgid "Width of image frame in pixels."
+msgstr "<p>Толщина рамки изображений в пикселях."
+
+#: lookpage.cpp:170
+msgid "Stage &Padding:"
+msgstr "&Бордюр:"
+
+#: lookpage.cpp:171
+#, fuzzy
+#| msgid "<p>Distance between image and thumbnails in pixels."
+msgid "Distance between image and thumbnails in pixels."
+msgstr "<p>Расстояние между изображениями и эскизами в пикселях."
+
+#: plugin_flashexport.cpp:63
+msgid "Export to F&lash..."
+msgstr ""
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Артемий Шмелёв"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sgartjom_at_mail.ru"
+
+#: simpleviewer.cpp:145
+msgid "SimpleViewer installation failed"
+msgstr "Установка Простого Просмотрщика не удалась"
+
+#: simpleviewer.cpp:172
+#, fuzzy, kde-format
+#| msgid ""
+#| "Target folder %1 already exists.\n"
+#| "Do you want to overwrite it (all data in this folder will be lost)"
+msgid ""
+"Target folder %1 already exists.\n"
+"Do you want to overwrite it?  All data in this folder will be lost."
+msgstr ""
+"Целевой каталог %1 уже существует.\n"
+"Вы хотите переписать его (все данные внутри каталога будут потеряны)?"
+
+#: simpleviewer.cpp:181
+#, fuzzy, kde-format
+#| msgid ""
+#| "Could not delete %1\n"
+#| "Please choose another export folder"
+msgid ""
+"Could not delete %1.\n"
+"Please choose another export folder."
+msgstr ""
+"Невозможно удалить %1\n"
+"Выберите другой каталог"
+
+#: simpleviewer.cpp:216
+msgid "Initialising..."
+msgstr "Инициализация..."
+
+#: simpleviewer.cpp:237
+msgid "Export canceled"
+msgstr "Экспорт отменён"
+
+#: simpleviewer.cpp:248
+msgid "Failed to create export directories"
+msgstr "Не удалось создать каталоги для экспорта"
+
+#: simpleviewer.cpp:255
+msgid "Failed to export the images"
+msgstr "Невозможно экспортировать изображения"
+
+#: simpleviewer.cpp:262
+msgid "Failed to create index.html"
+msgstr "Невозможно создать файл index.html"
+
+#: simpleviewer.cpp:269
+msgid "Failed to copy SimpleViewer files"
+msgstr "Ошибка копирования файлов Простого Просмотрщика"
+
+#: simpleviewer.cpp:276
+msgid "Failed to upload the gallery"
+msgstr "Невозможно загрузить галерею"
+
+#: simpleviewer.cpp:284
+#, fuzzy, kde-format
+#| msgid ""
+#| "Export was canceled.\n"
+#| "Do you want to delete the yet created files in %1 ?"
+msgid ""
+"Export was canceled.\n"
+"Do you want to delete files in %1 that have already been created?"
+msgstr ""
+"Экспорт был отменён.\n"
+"Вы хотите удалить уже созданные файлы в %1 ?"
+
+#: simpleviewer.cpp:294
+#, fuzzy
+#| msgid "Finished..."
+msgctxt "Flash export has finished"
+msgid "Finished..."
+msgstr "Завершено..."
+
+#: simpleviewer.cpp:306
+msgid "Creating directories..."
+msgstr "Создание каталогов..."
+
+#: simpleviewer.cpp:311 simpleviewer.cpp:320 simpleviewer.cpp:329
+#, kde-format
+msgid "Could not create folder '%1'"
+msgstr "Невозможно создать каталог %1"
+
+#: simpleviewer.cpp:344
+msgid "Creating images and thumbnails..."
+msgstr "Создание изображений и эскизов..."
+
+#: simpleviewer.cpp:401
+#, kde-format
+msgid "Processing %1"
+msgstr "Обработка %1"
+
+#: simpleviewer.cpp:416
+#, kde-format
+msgid "Could not open image '%1'"
+msgstr "Невозможно открыть изображений %1"
+
+#: simpleviewer.cpp:423
+#, kde-format
+msgid "Could not create thumbnail from '%1'"
+msgstr "Невозможно создать эскиз для %1"
+
+#: simpleviewer.cpp:430
+#, kde-format
+msgid "Could not resize image '%1'"
+msgstr "Невозможно изменить размер изображений %1"
+
+#: simpleviewer.cpp:558
+msgid "Creating index.html..."
+msgstr "Создание файла index.html..."
+
+#: simpleviewer.cpp:587
+msgid "index.html created..."
+msgstr "файл index.html создан..."
+
+#: simpleviewer.cpp:597
+msgid "Copying flash files..."
+msgstr "Сопирование flash файлов"
+
+#: simpleviewer.cpp:630
+msgid "Flash files copied..."
+msgstr "Flash файлы скопированы..."
+
+#: simpleviewer.cpp:640
+msgid "Uploading gallery..."
+msgstr "Загрузка галереи..."
+
+#: simpleviewer.cpp:645
+msgid "Gallery uploaded..."
+msgstr "Галерея загружена..."
+
+#: svedialog.cpp:103
+#, fuzzy
+#| msgid "Selection"
+msgctxt "Settings tab for selections"
+msgid "Selection"
+msgstr "Выделение"
+
+#: svedialog.cpp:104
+msgid "Collections List"
+msgstr "Список коллекций"
+
+#: svedialog.cpp:108
+#, fuzzy
+#| msgid "General"
+msgctxt "General settings tab"
+msgid "General"
+msgstr "Общие"
+
+#: svedialog.cpp:109
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: svedialog.cpp:114
+#, fuzzy
+#| msgid "Look"
+msgctxt "Settings tab for the look of the flash export"
+msgid "Look"
+msgstr "Вид"
+
+#: svedialog.cpp:115
+msgid "Look Settings"
+msgstr "Настройки вида"
+
+#: svedialog.cpp:228
+msgid "You must select at least one collection to export."
+msgstr "Необходимо выбрать хотя бы одну коллекцию для экспорта."
+
+#~ msgid "Flash Export..."
+#~ msgstr "Экспорт..."

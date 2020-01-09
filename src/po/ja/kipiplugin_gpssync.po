@@ -1,0 +1,834 @@
+# Translation of kipiplugin_gpssync into Japanese.
+# This file is distributed under the same license as the kipi-plugins package.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_gpssync\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-11 06:30+0200\n"
+"PO-Revision-Date: 2008-12-21 22:06+0900\n"
+"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
+"Language-Team: Japanese <Kdeveloper@kde.gr.jp>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: gpseditdialog.cpp:98
+#, kde-format
+msgid "%1 - Edit Geographical Coordinates"
+msgstr "%1 - 地理座標を編集"
+
+#: gpseditdialog.cpp:106
+#, fuzzy
+#| msgid ""
+#| "<p>Use the map on the right to select the location where the picture has "
+#| "been taken. Click with left mouse button or move the marker on the map to "
+#| "get the GPS coordinates.</p>"
+msgid ""
+"<p>Use the map on the right to select the location where the picture was "
+"taken. Click with left mouse button or move the marker on the map to get the "
+"GPS coordinates.</p>"
+msgstr ""
+"<p>右の地図を使って写真が撮影された場所を選択します。GPS 座標を取得するには、"
+"地図の上で左クリックするか、マーカーを移動します。</p>"
+
+#: gpseditdialog.cpp:111
+msgid "Altitude:"
+msgstr "高度:"
+
+#: gpseditdialog.cpp:112
+msgid "Latitude:"
+msgstr "緯度:"
+
+#: gpseditdialog.cpp:113
+msgid "Longitude:"
+msgstr "経度:"
+
+#: gpseditdialog.cpp:127
+#, fuzzy
+#| msgid "Goto Location"
+msgid "Go to Location"
+msgstr "場所に移動"
+
+#: gpseditdialog.cpp:152 gpslistviewcontextmenu.cpp:307
+#: gpslistviewcontextmenu.cpp:339 gpssyncdialog.cpp:267 gpssyncdialog.cpp:349
+#: gpssyncdialog.cpp:357 gpssyncdialog.cpp:486 gpssyncdialog.cpp:496
+#: gpssyncdialog.cpp:507 gpssyncdialog.cpp:536 gpstracklisteditdialog.cpp:127
+msgid "GPS Sync"
+msgstr "GPS 同期"
+
+#: gpseditdialog.cpp:155
+msgid "A Plugin to edit geographical coordinates"
+msgstr "地理座標を編集するプラグイン"
+
+#: gpseditdialog.cpp:156 gpssyncdialog.cpp:271
+msgid "(c) 2006-2009, Gilles Caulier"
+msgstr "(c) 2006-2009, Gilles Caulier"
+
+#: gpseditdialog.cpp:158 gpssyncdialog.cpp:273 gpstracklisteditdialog.cpp:133
+#: kmlexportconfig.cpp:290
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: gpseditdialog.cpp:159 gpssyncdialog.cpp:274 gpstracklisteditdialog.cpp:134
+#: kmlexportconfig.cpp:287 kmlexportconfig.cpp:291
+msgid "Developer and maintainer"
+msgstr "開発者およびメンテナ"
+
+#: gpseditdialog.cpp:167 gpssyncdialog.cpp:282 gpstracklisteditdialog.cpp:142
+#: kmlexportconfig.cpp:299
+msgid "Handbook"
+msgstr "ハンドブック"
+
+#: gpseditdialog.cpp:319
+#, fuzzy
+#| msgid "Altitude value is not correct!"
+msgid "Altitude value is invalid."
+msgstr "高度の値が正しくありません。"
+
+#: gpseditdialog.cpp:320 gpseditdialog.cpp:328 gpseditdialog.cpp:336
+msgid "Edit Geographical Coordinates"
+msgstr "地理座標を編集"
+
+#: gpseditdialog.cpp:327
+#, fuzzy
+#| msgid "Latitude value is not correct!"
+msgid "Latitude value is invalid."
+msgstr "緯度の値が正しくありません。"
+
+#: gpseditdialog.cpp:335
+#, fuzzy
+#| msgid "Longitude value is not correct!"
+msgid "Longitude value is invalid."
+msgstr "経度の値が正しくありません。"
+
+#: gpslistviewcontextmenu.cpp:78
+#, fuzzy
+#| msgid "Remove Coordinates..."
+msgid "Copy coordinates"
+msgstr "座標を削除..."
+
+#: gpslistviewcontextmenu.cpp:79
+#, fuzzy
+#| msgid "Edit Coordinates..."
+msgid "Paste coordinates"
+msgstr "座標を編集..."
+
+#: gpslistviewcontextmenu.cpp:306
+msgid ""
+"Found more than one point on the clipboard - can only assign one point at a "
+"time."
+msgstr ""
+
+#: gpslistviewcontextmenu.cpp:339
+msgid "Could not find any coordinates on the clipboard."
+msgstr ""
+
+#: gpslistviewitem.cpp:127
+msgid "Interpolated"
+msgstr "補正"
+
+#: gpslistviewitem.cpp:131
+msgid "Added"
+msgstr "追加"
+
+#: gpslistviewitem.cpp:133
+msgid "Found"
+msgstr "検出"
+
+#: gpslistviewitem.cpp:149
+#, fuzzy
+#| msgid "Deleted!"
+msgid "Deleted"
+msgstr "削除されました!"
+
+#: gpslistviewitem.cpp:161
+msgid "Not available"
+msgstr "情報がありません"
+
+#: gpssyncdialog.cpp:118 plugin_gpssync.cpp:78
+msgid "Geolocation"
+msgstr "ジオロケーション"
+
+#: gpssyncdialog.cpp:121
+msgid "Correlate"
+msgstr "関連付け"
+
+#: gpssyncdialog.cpp:122
+msgid "Edit..."
+msgstr "編集..."
+
+#: gpssyncdialog.cpp:123
+msgid "Remove"
+msgstr "削除"
+
+#: gpssyncdialog.cpp:125
+msgid ""
+"Correlate in time and interpolate distance of data from GPX file with all "
+"images on the list."
+msgstr ""
+
+#: gpssyncdialog.cpp:126
+msgid "Manually edit GPS coordinates of selected images from the list."
+msgstr "リストから選択した画像の GPS 座標を手動で編集します。"
+
+#: gpssyncdialog.cpp:127
+msgid "Remove GPS coordinates of selected images from the list."
+msgstr "リストから選択した画像の GPS 座標を削除します。"
+
+#: gpssyncdialog.cpp:144 gpstracklisteditdialog.cpp:101
+msgid "Date"
+msgstr "日付"
+
+#: gpssyncdialog.cpp:146 gpstracklisteditdialog.cpp:103
+msgid "Latitude"
+msgstr "緯度"
+
+#: gpssyncdialog.cpp:148 gpstracklisteditdialog.cpp:105
+msgid "Longitude"
+msgstr "経度"
+
+#: gpssyncdialog.cpp:150 gpstracklisteditdialog.cpp:107
+msgid "Altitude"
+msgstr "高度"
+
+#: gpssyncdialog.cpp:152
+msgid "Status"
+msgstr "状態"
+
+#: gpssyncdialog.cpp:163
+msgid "Settings"
+msgstr "設定"
+
+#: gpssyncdialog.cpp:166
+msgid "Load GPX File..."
+msgstr "GPX ファイルを読み込み..."
+
+#: gpssyncdialog.cpp:168
+msgid "Current GPX file:"
+msgstr "現在の GPX ファイル:"
+
+#: gpssyncdialog.cpp:169
+msgid "No GPX file"
+msgstr "GPX ファイルがありません"
+
+#: gpssyncdialog.cpp:173
+msgid "Max. time gap (sec.):"
+msgstr ""
+
+#: gpssyncdialog.cpp:175
+msgid ""
+"Sets the maximum difference in seconds from a GPS track point to the image "
+"time to be matched. If the time difference exceeds this setting, no match "
+"will be attempted."
+msgstr ""
+
+#: gpssyncdialog.cpp:179
+msgid "Time zone:"
+msgstr "タイムゾーン:"
+
+#: gpssyncdialog.cpp:225
+msgid ""
+"<p>Sets the time zone the camera was set to during photo shooting, so that "
+"the time stamps of the images can be converted to GMT to match the GPS time "
+"reference.</p><p>Note: positive offsets count eastwards from zero longitude "
+"(GMT), they are 'ahead of time'.</p>"
+msgstr ""
+"<p>写真を撮影したときのカメラのタイムゾーンを指定します。それに基づいて画像の"
+"タイムスタンプを GMT に変換し、GPS の時間とマッチさせます。</p><p><note "
+"label='注'>正のオフセット (+) は GMT より時間が進んでいることを表し、経度 0 "
+"(GMT) から東方向にカウントされます。</note></p>"
+
+#: gpssyncdialog.cpp:231
+msgid "Interpolate"
+msgstr "補正"
+
+#: gpssyncdialog.cpp:232
+msgid ""
+"Set this option to interpolate GPS track points which are not closely "
+"matched to the GPX data file."
+msgstr ""
+"GPX データファイルと厳密にマッチしない GPS トラックポイントを補正するには、こ"
+"のオプションを有効にしてください。"
+
+#: gpssyncdialog.cpp:235
+msgid "Difference in min.:"
+msgstr ""
+
+#: gpssyncdialog.cpp:237
+msgid ""
+"Sets the maximum time difference in minutes (240 max.) to interpolate GPX "
+"file points to image time data."
+msgstr ""
+
+#: gpssyncdialog.cpp:270
+#, fuzzy
+#| msgid "A Plugin to synchronize pictures metadata with a GPS device"
+msgid "A Plugin to synchronize pictures' metadata with a GPS device"
+msgstr "画像のメタデータを GPS デバイスと同期するためのプラグイン"
+
+#: gpssyncdialog.cpp:336 kmlexportconfig.cpp:174
+#, kde-format
+msgid "%1|GPS Exchange Format"
+msgstr "%1|GPS データ交換フォーマット"
+
+#: gpssyncdialog.cpp:337 kmlexportconfig.cpp:175
+msgid "Select GPX File to Load"
+msgstr "読み込む GPX ファイルを選択"
+
+#: gpssyncdialog.cpp:348 kmlexport.cpp:374
+#, fuzzy, kde-format
+#| msgid "Cannot parse %1 GPX file!"
+msgid "Cannot parse %1 GPX file."
+msgstr "%1 GPX ファイルを解析できません。"
+
+#: gpssyncdialog.cpp:356
+#, fuzzy, kde-format
+#| msgid "The %1 GPX file do not have a date-time track to use!"
+msgid "The %1 GPX file does not have a date-time track to use."
+msgstr "%1 GPX ファイルには date-time トラックがありません。"
+
+#: gpssyncdialog.cpp:363
+#, kde-format
+msgid "Points parsed: %1"
+msgstr "解析したポイント: %1"
+
+#: gpssyncdialog.cpp:403
+#, kde-format
+msgid "1 image from the list is not updated."
+msgid_plural "%1 images from the list are not updated."
+msgstr[0] "リストの 1 画像は更新されていません。"
+msgstr[1] "リストの %1 画像は更新されていません。"
+
+#: gpssyncdialog.cpp:407
+#, kde-format
+msgid ""
+"<p>%1\n"
+"Do you really want to close this window without applying changes?</p>"
+msgstr ""
+"<p>%1\n"
+"本当に変更を適用せずにこのウィンドウを閉じますか？</p>"
+
+#: gpssyncdialog.cpp:485
+msgid "Cannot find pictures to correlate with GPX file data."
+msgstr "GPX ファイルのデータと関連付ける画像が見つかりません。"
+
+#: gpssyncdialog.cpp:490
+#, fuzzy, kde-format
+#| msgid ""
+#| "GPS data of 1 image have been updated on the list using the GPX data file."
+#| msgid_plural ""
+#| "GPS data of %1 images have been updated on the list using the GPX data "
+#| "file."
+msgid "The GPS data of 1 image have been updated using the GPX data file."
+msgid_plural ""
+"The GPS data of %1 images have been updated using the GPX data file."
+msgstr[0] ""
+"GPX データファイルを使って 1 画像の GPS データをリスト上で更新しました。"
+msgstr[1] ""
+"GPX データファイルを使って %1 画像の GPS データをリスト上で更新しました。"
+
+#: gpssyncdialog.cpp:494
+#, fuzzy
+#| msgid "Press Apply button to update images metadata."
+msgid "Press the Apply button to update the image's metadata."
+msgid_plural "Press the Apply button to update the images' metadata."
+msgstr[0] ""
+"画像のメタデータを更新するには<interface>適用</interface>ボタンを押してくださ"
+"い。"
+msgstr[1] ""
+"画像のメタデータを更新するには<interface>適用</interface>ボタンを押してくださ"
+"い。"
+
+#: gpssyncdialog.cpp:506
+#, fuzzy
+#| msgid ""
+#| "Please, select at least one image from the list to edit GPS coordinates "
+#| "manually."
+msgid ""
+"Please select at least one image from the list to edit GPS coordinates "
+"manually."
+msgstr "GPS 座標を手動で編集する画像を最低一つリストから選んでください。"
+
+#: gpssyncdialog.cpp:535
+#, fuzzy
+#| msgid ""
+#| "Please, select at least one image from the list to remove GPS coordinates."
+msgid "Please select at least one image from which to remove GPS coordinates."
+msgstr "GPS 座標を削除する画像を最低一つリストから選んでください。"
+
+#: gpstracklisteditdialog.cpp:87
+msgid "Edit Track List Geographical Coordinates"
+msgstr "トラックリストの地理座標を編集"
+
+#: gpstracklisteditdialog.cpp:99
+msgid "Id"
+msgstr "ID"
+
+#: gpstracklisteditdialog.cpp:109
+msgid "Changed"
+msgstr "変更された"
+
+#: gpstracklisteditdialog.cpp:130
+#, fuzzy
+#| msgid "A Plugin to edit GPS track list"
+msgid "A plugin to edit GPS track lists."
+msgstr "GPS トラックリストを編集するプラグイン"
+
+#: gpstracklisteditdialog.cpp:131
+msgid "(c) 2008-2009, Gilles Caulier"
+msgstr "(c) 2006-2009, Gilles Caulier"
+
+#: gpstracklistviewitem.cpp:76
+msgid "Yes"
+msgstr "はい"
+
+#: gpstracklistviewitem.cpp:76
+msgid "No"
+msgstr "いいえ"
+
+#: kmlexportconfig.cpp:70 kmlexportconfig.cpp:280
+msgid "KML Export"
+msgstr "KML エクスポート"
+
+#: kmlexportconfig.cpp:79
+msgid "Target Preferences"
+msgstr "ターゲットの設定"
+
+#: kmlexportconfig.cpp:83
+msgid "Target Type"
+msgstr "ターゲットのタイプ"
+
+#: kmlexportconfig.cpp:86
+msgid "&Local or web target used by GoogleEarth"
+msgstr "Google Earth で使用するローカルまたウェブ上のターゲット"
+
+#: kmlexportconfig.cpp:89
+msgid "Web target used by GoogleMap"
+msgstr "Google マップで使用するウェブ上のターゲット"
+
+#: kmlexportconfig.cpp:90
+#, fuzzy
+#| msgid ""
+#| "When using GoogleMap, all image must have complete Url, icons are squared "
+#| "and when drawing a track, only linetrack is exported"
+msgid ""
+"When using GoogleMap, all images must have complete URLs, icons are squared, "
+"and when drawing a track, only line track is exported."
+msgstr ""
+"Google マップで使用する画像には完全な URL が必要で、アイコンは正方形になりま"
+"す。トラックを描画する場合、線のトラック (原文: linetrack) のみがエクスポート"
+"されます。"
+
+#: kmlexportconfig.cpp:102
+msgid "Picture Altitude:"
+msgstr "画像の高度:"
+
+#: kmlexportconfig.cpp:104 kmlexportconfig.cpp:225
+msgid "clamp to ground"
+msgstr "地面"
+
+#: kmlexportconfig.cpp:105 kmlexportconfig.cpp:226
+msgid "relative to ground"
+msgstr "地面に対する相対値"
+
+#: kmlexportconfig.cpp:106 kmlexportconfig.cpp:227
+msgid "absolute"
+msgstr "絶対値"
+
+#: kmlexportconfig.cpp:107
+msgid ""
+"<p>Specifies how pictures are displayed<dl><dt>clamp to ground (default)</"
+"dt><dd>Indicates to ignore an altitude specification</dd><dt>relative to "
+"ground</dt><dd>Sets the altitude of the element relative to the actual "
+"ground elevation of a particular location.</dd><dt>absolute</dt><dd>Sets the "
+"altitude of the coordinate relative to sea level, regardless of the actual "
+"elevation of the terrain beneath the element.</dd></dl>"
+msgstr ""
+"<p>画像の表示方法を指定します。<dl><dt>地面 (標準)</dt><dd>高度に関する指定を"
+"無視します。</dd><dt>地面に対する相対値</dt><dd>要素の高度を、特定の場所の実"
+"際の高度に対する相対値に設定します。</dd><dt>絶対値</dt><dd>要素の下の地面の"
+"実際の高度に関係なく、座標の高度を海抜高度に設定します。</dd></dl>"
+
+#: kmlexportconfig.cpp:117
+msgid "Destination Directory:"
+msgstr "行き先ディレクトリ:"
+
+#: kmlexportconfig.cpp:121
+#, fuzzy
+#| msgid "Select a directory to save the kml file and pictures"
+msgid "Select a directory in which to save the kml file and pictures"
+msgstr "kml ファイルと画像を保存するディレクトリを選択"
+
+#: kmlexportconfig.cpp:124
+#, fuzzy
+#| msgid "Destination Url:"
+msgid "Destination URL:"
+msgstr "行き先 URL:"
+
+#: kmlexportconfig.cpp:126
+#, fuzzy
+#| msgid "File Name:"
+msgid "Filename:"
+msgstr "ファイル名:"
+
+#: kmlexportconfig.cpp:144
+msgid "Sizes"
+msgstr "サイズ"
+
+#: kmlexportconfig.cpp:146
+msgid "Icon Size:"
+msgstr "アイコンサイズ:"
+
+#: kmlexportconfig.cpp:150
+msgid "Image Size:"
+msgstr "画像サイズ:"
+
+#: kmlexportconfig.cpp:164
+msgid "GPX Tracks"
+msgstr "GPX トラック"
+
+#: kmlexportconfig.cpp:168
+msgid "Draw GPX Track"
+msgstr "GPX トラックを描画する"
+
+#: kmlexportconfig.cpp:171
+msgid "GPX file:"
+msgstr "GPX ファイル:"
+
+#: kmlexportconfig.cpp:177
+msgid "Time Zone:"
+msgstr "タイムゾーン:"
+
+#: kmlexportconfig.cpp:179
+msgid "GMT-12:00"
+msgstr "GMT-12:00"
+
+#: kmlexportconfig.cpp:180
+msgid "GMT-11:00"
+msgstr "GMT-11:00"
+
+#: kmlexportconfig.cpp:181
+msgid "GMT-10:00"
+msgstr "GMT-10:00"
+
+#: kmlexportconfig.cpp:182
+msgid "GMT-09:00"
+msgstr "GMT-09:00"
+
+#: kmlexportconfig.cpp:183
+msgid "GMT-08:00"
+msgstr "GMT-08:00"
+
+#: kmlexportconfig.cpp:184
+msgid "GMT-07:00"
+msgstr "GMT-07:00"
+
+#: kmlexportconfig.cpp:185
+msgid "GMT-06:00"
+msgstr "GMT-06:00"
+
+#: kmlexportconfig.cpp:186
+msgid "GMT-05:00"
+msgstr "GMT-05:00"
+
+#: kmlexportconfig.cpp:187
+msgid "GMT-04:00"
+msgstr "GMT-04:00"
+
+#: kmlexportconfig.cpp:188
+msgid "GMT-03:00"
+msgstr "GMT-03:00"
+
+#: kmlexportconfig.cpp:189
+msgid "GMT-02:00"
+msgstr "GMT-02:00"
+
+#: kmlexportconfig.cpp:190
+msgid "GMT-01:00"
+msgstr "GMT-01:00"
+
+#: kmlexportconfig.cpp:191
+msgid "GMT"
+msgstr "GMT"
+
+#: kmlexportconfig.cpp:192
+msgid "GMT+01:00"
+msgstr "GMT+01:00"
+
+#: kmlexportconfig.cpp:193
+msgid "GMT+02:00"
+msgstr "GMT+02:00"
+
+#: kmlexportconfig.cpp:194
+msgid "GMT+03:00"
+msgstr "GMT+03:00"
+
+#: kmlexportconfig.cpp:195
+msgid "GMT+04:00"
+msgstr "GMT+04:00"
+
+#: kmlexportconfig.cpp:196
+msgid "GMT+05:00"
+msgstr "GMT+05:00"
+
+#: kmlexportconfig.cpp:197
+msgid "GMT+06:00"
+msgstr "GMT+06:00"
+
+#: kmlexportconfig.cpp:198
+msgid "GMT+07:00"
+msgstr "GMT+07:00"
+
+#: kmlexportconfig.cpp:199
+msgid "GMT+08:00"
+msgstr "GMT+08:00"
+
+#: kmlexportconfig.cpp:200
+msgid "GMT+09:00"
+msgstr "GMT+09:00"
+
+#: kmlexportconfig.cpp:201
+msgid "GMT+10:00"
+msgstr "GMT+10:00"
+
+#: kmlexportconfig.cpp:202
+msgid "GMT+11:00"
+msgstr "GMT+11:00"
+
+#: kmlexportconfig.cpp:203
+msgid "GMT+12:00"
+msgstr "GMT+12:00"
+
+#: kmlexportconfig.cpp:204
+msgid "GMT+13:00"
+msgstr "GMT+13:00"
+
+#: kmlexportconfig.cpp:205
+msgid "GMT+14:00"
+msgstr "GMT+14:00"
+
+#: kmlexportconfig.cpp:206
+msgid ""
+"Sets the time zone of the camera during picture shooting, so that the time "
+"stamps of the GPS can be converted to match the local time"
+msgstr ""
+"写真を撮影したときのカメラのタイムゾーンを指定します。それに基づいて GPS のタ"
+"イムスタンプを変換し、現地時間とマッチさせます。"
+
+#: kmlexportconfig.cpp:210
+msgid "Track Width:"
+msgstr "トラックの幅:"
+
+#: kmlexportconfig.cpp:214
+msgid "Track Color:"
+msgstr "トラックの色:"
+
+#: kmlexportconfig.cpp:220
+msgid "Opacity:"
+msgstr "不透明度:"
+
+#: kmlexportconfig.cpp:223
+msgid "Track Altitude:"
+msgstr "トラックの高度:"
+
+#: kmlexportconfig.cpp:228
+msgid ""
+"<p>Specifies how the points are displayed<dl><dt>clamp to ground (default)</"
+"dt><dd>Indicates to ignore an altitude specification</dd><dt>relative to "
+"ground</dt><dd>Sets the altitude of the element relative to the actual "
+"ground elevation of a particular location.</dd><dt>absolute</dt><dd>Sets the "
+"altitude of the coordinate relative to sea level, regardless of the actual "
+"elevation of the terrain beneath the element.</dd></dl>"
+msgstr ""
+"<p>ポイントの表示方法を指定します。<dl><dt>地面 (標準)</dt><dd>高度に関する指"
+"定を無視します。</dd><dt>地面に対する相対値</dt><dd>要素の高度を、特定の場所"
+"の実際の高度に対する相対値に設定します。</dd><dt>絶対値</dt><dd>要素の下の地"
+"面の実際の高度に関係なく、座標の高度を海抜高度に設定します。</dd></dl>"
+
+#: kmlexportconfig.cpp:283
+msgid "A Kipi plugin for KML exporting"
+msgstr "Kipi KML エクスポートプラグイン"
+
+#: kmlexportconfig.cpp:284
+msgid "(c) 2006-2007, Stéphane Pontier"
+msgstr "(c) 2006-2007, Stéphane Pontier"
+
+#: kmlexportconfig.cpp:286
+msgid "Stéphane Pontier"
+msgstr "Stéphane Pontier"
+
+#: kmlexport.cpp:69
+msgid "Generating KML file..."
+msgstr "KML ファイルを生成中..."
+
+#: kmlexport.cpp:89
+#, kde-format
+msgid "Could not create '%1'"
+msgstr "<filename>%1</filename> を作成できませんでした"
+
+#: kmlexport.cpp:173
+#, kde-format
+msgid "Could not read image '%1'"
+msgstr "画像 <filename>%1</filename> を読めませんでした"
+
+#: kmlexport.cpp:181
+#, kde-format
+msgid "Format of image '%1' is unknown"
+msgstr "画像 <filename>%1</filename> は未知のフォーマットです"
+
+#: kmlexport.cpp:191
+#, kde-format
+msgid "Error loading image '%1'"
+msgstr "画像 <filename>%1</filename> の読み込みエラー"
+
+#: kmlexport.cpp:231
+#, kde-format
+msgid "Could not save image '%1' to '%2'"
+msgstr ""
+"画像 <filename>%1</filename> を <filename>%2</filename> に保存できませんでし"
+"た"
+
+#: kmlexport.cpp:328
+#, kde-format
+msgid "Creation of placemark '%1'"
+msgstr "プレースマーク “%1” の作成"
+
+#: kmlexport.cpp:335
+#, kde-format
+msgid "Could not save icon for image '%1' to '%2'"
+msgstr ""
+"画像 <filename>%1</filename> のアイコンを <filename>%2</filename> に保存でき"
+"ませんでした"
+
+#: kmlexport.cpp:365
+#, fuzzy
+#| msgid "No GPX file Chosen!"
+msgid "No GPX file chosen."
+msgstr "GPX ファイルが選択されていません。"
+
+#: kmlexport.cpp:380
+#, fuzzy, kde-format
+#| msgid "The %1 GPX file do not have a date-time track to use!"
+msgid "The %1 GPX file do not have a date-time track to use."
+msgstr "%1 GPX ファイルには date-time トラックがありません。"
+
+#: kmlexport.cpp:387
+msgid "Tracks"
+msgstr "トラック"
+
+#: kmlexport.cpp:484
+#, kde-format
+msgid "No position data for '%1'"
+msgstr "<filename>%1</filename> の位置データがありません"
+
+#: kmlexport.cpp:495
+#, kde-format
+msgid "No position data for 1 picture"
+msgid_plural "No position data for %1 pictures"
+msgstr[0] "1 画像に位置データがありません"
+msgstr[1] "%1 画像に位置データがありません"
+
+#: kmlexport.cpp:510
+msgid "Move to final directory"
+msgstr "最終ディレクトリに移動"
+
+#: kmlgpsdataparser.cpp:65
+msgid "Track"
+msgstr "トラック"
+
+#: kmlgpsdataparser.cpp:94
+msgid "Points"
+msgstr "ポイント"
+
+#: kmlgpsdataparser.cpp:104
+msgid "Point"
+msgstr "ポイント"
+
+#: plugin_gpssync.cpp:81
+msgid "Correlator"
+msgstr "関連付け"
+
+#: plugin_gpssync.cpp:88
+msgid "Edit Coordinates..."
+msgstr "座標を編集..."
+
+#: plugin_gpssync.cpp:94
+msgid "Track List Editor..."
+msgstr "トラックリストエディタ..."
+
+#: plugin_gpssync.cpp:100
+msgid "Remove Coordinates..."
+msgstr "座標を削除..."
+
+#: plugin_gpssync.cpp:108
+#, fuzzy
+#| msgid "KML Export..."
+msgid "Export to KML..."
+msgstr "KML エクスポート..."
+
+#: plugin_gpssync.cpp:139
+#, kde-format
+msgid ""
+"<p>Unable to find the gpsbabel executable:<br/> This program is required by "
+"this plugin to support GPS data file decoding. Please install gpsbabel as a "
+"package from your distributor or <a href=\"%1\">download the source</a>.</"
+"p><p>Note: at least, gpsbabel version %2 is required by this plugin.</p>"
+msgstr ""
+"<p>gpsbabel 実行ファイルが見つかりません。</p><p>このプログラムは GPS データ"
+"ファイルをデコードするためにこのプラグインが必要とします。お使いのディストリ"
+"ビューションのパッケージまたは <a href=\"%1\">ソースをダウンロード</a> して "
+"gpsbabel をインストールしてください。</p><p><note>このプラグインには最低 "
+"gpsbabel のバージョン %2 が必要です。</note></p>"
+
+#: plugin_gpssync.cpp:156
+#, kde-format
+msgid ""
+"<p>gpsbabel executable is not up to date:<br/> The version %1 of gpsbabel "
+"have been found on your computer. This version is too old to run properly "
+"with this plugin. Please update gpsbabel as a package from your distributor "
+"or <a href=\"%2\">download the source</a>.</p><p>Note: at least, gpsbabel "
+"version %3 is required by this plugin</p>"
+msgstr ""
+"<p>gpsbabel 実行ファイルのバージョンが古すぎます。</p><p>バージョン %1 の "
+"gpsbabel をコンピュータ上に検出しました。このバージョンは古すぎて、このプラグ"
+"インで正しく動作しません。お使いのディストリビューションのパッケージまたは "
+"<a href=\"%2\">ソースをダウンロード</a> して gpsbabel をアップデートしてくだ"
+"さい。</p><p><note>このプラグインには最低 gpsbabel のバージョン %3 が必要で"
+"す。</note></p>"
+
+#: plugin_gpssync.cpp:331
+#, fuzzy
+#| msgid "No GPS location have been found in your pictures."
+msgid "No GPS locations have been found in your pictures."
+msgstr "画像に GPS の場所が見つかりませんでした。"
+
+#: plugin_gpssync.cpp:392
+msgid ""
+"Geographical coordinates will be definitively removed from all selected "
+"images.\n"
+"Do you want to continue ?"
+msgstr ""
+"選択されているすべての画像から地理座標が完全に削除されます。\n"
+"続けますか？"
+
+#: plugin_gpssync.cpp:394
+msgid "Remove Geographical Coordinates"
+msgstr "地理座標を削除"
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Yukiko Bando"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ybando@k6.dion.ne.jp"
+
+#~ msgid "(c) 2006-2008, Gilles Caulier"
+#~ msgstr "(c) 2006-2008, Gilles Caulier"

@@ -1,0 +1,333 @@
+# Translation of kipiplugin_htmlexport to Norwegian Bokmål
+#
+# Bjørn Kvisli <bjorn.kvisli@gmail.com>, 2008.
+# Bjørn Steensrud <bjornst@skogkatt.homelinux.org>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_htmlexport\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-11 06:30+0200\n"
+"PO-Revision-Date: 2009-07-23 20:59+0200\n"
+"Last-Translator: Bjørn Steensrud <bjornst@skogkatt.homelinux.org>\n"
+"Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: nb\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: generator.cpp:135
+#, kde-format
+msgid "Could not find theme in '%1'"
+msgstr "Fant ikke tema i «%1»"
+
+#: generator.cpp:142
+msgid "Copying theme"
+msgstr "Kopierer tema"
+
+#: generator.cpp:154
+msgid "Could not copy theme"
+msgstr "Klarte ikke å kopiere tema"
+
+#: generator.cpp:177
+#, kde-format
+msgid "Downloading remote files for \"%1\""
+msgstr "Laster ned  filer for «%1» …"
+
+#: generator.cpp:192
+msgid "Could not open temporary file"
+msgstr "Klarte ikke åpne en midlertidig fil."
+
+#: generator.cpp:200
+#, kde-format
+msgid "Could not download %1"
+msgstr "Klarte ikke laste ned %1"
+
+#: generator.cpp:218
+msgid "Could not create gallery.xml"
+msgstr "Klarte ikke å opprette gallery.xml"
+
+#: generator.cpp:257
+#, kde-format
+msgid "Generating files for \"%1\""
+msgstr "Oppretter filer for «%1»"
+
+#: generator.cpp:289
+msgid "Previous"
+msgstr "Forrige"
+
+#: generator.cpp:290
+msgid "Next"
+msgstr "Neste"
+
+#: generator.cpp:291
+msgid "Collection List"
+msgstr "Liste over samlinger"
+
+#: generator.cpp:292
+msgid "Original Image"
+msgstr "Opprinnelig bilde"
+
+#: generator.cpp:293
+msgid "Go Up"
+msgstr "Gå opp"
+
+#: generator.cpp:320
+msgid "Generating HTML files"
+msgstr "Oppretter HTML-filer"
+
+#: generator.cpp:326
+#, kde-format
+msgid "Could not load XSL file '%1'"
+msgstr "Klarte ikke å laste inn XSL-fila %1"
+
+#: generator.cpp:332
+#, kde-format
+msgid "Could not load XML file '%1'"
+msgstr "Klarte ikke å laste inn XML-fila %1"
+
+#: generator.cpp:364
+msgid "Error processing XML file"
+msgstr "Det oppstod en feil ved behandlinga av en XML-fil"
+
+#: generator.cpp:371
+#, kde-format
+msgid "Could not open '%1' for writing"
+msgstr "Klarte ikke å åpne %1 for skriving"
+
+#: generator.cpp:387
+#, kde-format
+msgid "Could not create folder '%1' in '%2'"
+msgstr "Klarte ikke å opprette mappe %1 i %2"
+
+#: imagegenerationfunctor.cpp:74
+#, kde-format
+msgid "Could not read image '%1'"
+msgstr "Klarte ikke å lese bilde «%1»"
+
+#: imagegenerationfunctor.cpp:80
+#, kde-format
+msgid "Format of image '%1' is unknown"
+msgstr "Ukjent format på fila «%1»"
+
+#: imagegenerationfunctor.cpp:89
+#, kde-format
+msgid "Error loading image '%1'"
+msgstr "Feil ved innlasting av bildet «%1»"
+
+#: imagegenerationfunctor.cpp:125
+#, kde-format
+msgid "Could not save image '%1' to '%2'"
+msgstr "Klarte ikke å lagre bilde «%1» i «%2»"
+
+#: imagegenerationfunctor.cpp:146
+#, kde-format
+msgid "Could not save thumbnail for image '%1' to '%2'"
+msgstr "Klarte ikke å lagre miniatyr for bildet «%1» i «%2»"
+
+#: imagegenerationfunctor.cpp:158
+#, kde-format
+msgid "Could not open file '%1' for writing"
+msgstr "Klarte ikke å åpne fila «%1» for skriving"
+
+#: imagegenerationfunctor.cpp:162
+#, kde-format
+msgid "Could not save image to file '%1'"
+msgstr "Klarte ikke å lagre bildet i fila «%1»"
+
+#: plugin.cpp:72
+msgid "Export to &HTML..."
+msgstr ""
+
+#: plugin.cpp:92
+msgid "Generating gallery..."
+msgstr "Oppretter galleri ...."
+
+#: plugin.cpp:99
+msgid "Finished, but some warnings occurred."
+msgstr "Ferdig, men det ble gitt noen advarsler"
+
+#. i18n: file: imagesettingspage.ui:22
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: rc.cpp:3 rc.cpp:65
+msgid "Full Image"
+msgstr "Helt bilde"
+
+#. i18n: file: imagesettingspage.ui:29
+#. i18n: ectx: property (text), widget (QRadioButton, mSaveImageButton)
+#: rc.cpp:6 rc.cpp:68
+msgid "Save image"
+msgstr "Lagre bilde"
+
+#. i18n: file: imagesettingspage.ui:39
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2_2_2)
+#. i18n: file: imagesettingspage.ui:232
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2_2)
+#. i18n: file: imagesettingspage.ui:39
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2_2_2)
+#. i18n: file: imagesettingspage.ui:232
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2_2)
+#: rc.cpp:9 rc.cpp:33 rc.cpp:71 rc.cpp:95
+msgid "Format:"
+msgstr "Format:"
+
+#. i18n: file: imagesettingspage.ui:56
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_fullFormat)
+#. i18n: file: imagesettingspage.ui:249
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_thumbnailFormat)
+#. i18n: file: imagesettingspage.ui:56
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_fullFormat)
+#. i18n: file: imagesettingspage.ui:249
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_thumbnailFormat)
+#: rc.cpp:12 rc.cpp:36 rc.cpp:74 rc.cpp:98
+msgid "JPEG"
+msgstr "JPEG"
+
+#. i18n: file: imagesettingspage.ui:61
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_fullFormat)
+#. i18n: file: imagesettingspage.ui:254
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_thumbnailFormat)
+#. i18n: file: imagesettingspage.ui:61
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_fullFormat)
+#. i18n: file: imagesettingspage.ui:254
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_thumbnailFormat)
+#: rc.cpp:15 rc.cpp:39 rc.cpp:77 rc.cpp:101
+msgid "PNG"
+msgstr "PNG"
+
+#. i18n: file: imagesettingspage.ui:85
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#. i18n: file: imagesettingspage.ui:278
+#. i18n: ectx: property (text), widget (QLabel, textLabel4_2)
+#. i18n: file: imagesettingspage.ui:85
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#. i18n: file: imagesettingspage.ui:278
+#. i18n: ectx: property (text), widget (QLabel, textLabel4_2)
+#: rc.cpp:18 rc.cpp:42 rc.cpp:80 rc.cpp:104
+msgid "Quality:"
+msgstr "Kvalitet::"
+
+#. i18n: file: imagesettingspage.ui:130
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_fullResize)
+#: rc.cpp:21 rc.cpp:83
+msgid "Max size:"
+msgstr "Sørste størrelse:"
+
+#. i18n: file: imagesettingspage.ui:171
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_copyOriginalImage)
+#: rc.cpp:24 rc.cpp:86
+msgid "Include full-size original images for download"
+msgstr "Ta med bilde i full størrelse til nedlasting"
+
+#. i18n: file: imagesettingspage.ui:196
+#. i18n: ectx: property (text), widget (QRadioButton, mUseOriginalImageButton)
+#: rc.cpp:27 rc.cpp:89
+msgid "Use original image"
+msgstr "Bruk opprinnelig bilde"
+
+#. i18n: file: imagesettingspage.ui:225
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: rc.cpp:30 rc.cpp:92
+msgid "Thumbnail"
+msgstr "Miniatyr"
+
+#. i18n: file: imagesettingspage.ui:314
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2)
+#: rc.cpp:45 rc.cpp:107
+msgid "Size:"
+msgstr "Størrelse:"
+
+#. i18n: file: outputpage.ui:21
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:48 rc.cpp:59
+msgid "Destination folder:"
+msgstr "Målmappe:"
+
+#. i18n: file: outputpage.ui:39
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_openInBrowser)
+#: rc.cpp:51 rc.cpp:62
+msgid "Open in browser"
+msgstr "Åpne i nettleser"
+
+#. i18n: file: themeparameterspage.ui:22
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:54 rc.cpp:110
+msgid ""
+"In this page, you can change some theme parameters. Depending on the theme, "
+"different parameters are available."
+msgstr ""
+"På denne siden kan du endre noen innstillinger for temaet. Hvilke "
+"innstillinger, avhenger av temaet."
+
+#: rc.cpp:55
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Bjørn Kvisli"
+
+#: rc.cpp:56
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "bjorn.kvisli@gmail.com"
+
+#: wizard.cpp:170
+#, kde-format
+msgctxt "'%1' is a label for a theme parameter"
+msgid "%1:"
+msgstr "%1:"
+
+#: wizard.cpp:206
+msgid "Export image collections to HTML pages"
+msgstr "Eksporter bildesamlinger til HTML-sider"
+
+#: wizard.cpp:212
+msgid "HTML Export"
+msgstr "HTML-eksport"
+
+#: wizard.cpp:215
+msgid "A KIPI plugin to export image collections to HTML pages"
+msgstr "Et Kipi programtilliegg for å eksportere bildesamlinger til HTML-sider"
+
+#: wizard.cpp:216
+msgid "(c) 2006-2008, Aurelien Gateau"
+msgstr "© 2006–2008 Aurelien Gateau"
+
+#: wizard.cpp:219
+msgid "Aurelien Gateau"
+msgstr "Aurelien Gateau"
+
+#: wizard.cpp:220
+msgid "Author and Maintainer"
+msgstr "Forfatter og vedlikeholder"
+
+#: wizard.cpp:228
+msgid "Handbook"
+msgstr "Håndbok"
+
+#: wizard.cpp:237
+msgid "Collection Selection"
+msgstr "Utvalg av samlinger"
+
+#: wizard.cpp:242
+msgid "Theme"
+msgstr "Tema"
+
+#: wizard.cpp:247
+msgid "Theme Parameters"
+msgstr "Temainnstillinger"
+
+#: wizard.cpp:249
+msgid "Image Settings"
+msgstr "Bildeoppsett"
+
+#: wizard.cpp:251
+msgid "Output"
+msgstr "Utdata"
+
+#: wizard.cpp:300
+#, kde-format
+msgid "Author: %1"
+msgstr "Forfatter: %1"

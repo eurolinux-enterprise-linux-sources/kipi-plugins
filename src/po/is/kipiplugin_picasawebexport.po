@@ -1,0 +1,441 @@
+# translation of kipiplugin_picasawebexport.po to
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_picasawebexport\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-25 05:49+0100\n"
+"PO-Revision-Date: 2009-08-02 16:38+0000\n"
+"Last-Translator: \n"
+"Language-Team:  <is@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: picasaweblogin.cpp:69
+#, fuzzy
+msgid "Google Login:"
+msgstr "Google innskráning:"
+
+#: picasaweblogin.cpp:73
+#, fuzzy
+msgid "Password:"
+msgstr "Lykilorð:"
+
+#: picasaweblogin.cpp:84
+#, fuzzy
+msgid "&OK"
+msgstr "Í &lagi"
+
+#: picasaweblogin.cpp:87
+#, fuzzy
+msgid "&Cancel"
+msgstr "&Hætta við"
+
+#: picasawebtalker.cpp:138 picasawebwindow.cpp:279
+#, fuzzy
+msgid "Login"
+msgstr "Innskráning"
+
+#: picasawebtalker.cpp:177
+#, fuzzy
+msgid "Getting the token"
+msgstr "Næ í staðfestingu"
+
+#: picasawebtalker.cpp:230
+#, fuzzy
+msgid "Checking if previous token is still valid"
+msgstr "Athuga hvort eldri staðfesting sé ennþá gild"
+
+#: picasawebtalker.cpp:579
+#, fuzzy
+msgid "No photo specified"
+msgstr "Engin mynd tilgreind"
+
+#: picasawebtalker.cpp:581
+#, fuzzy
+msgid "General upload failure"
+msgstr "Almenn villa við sendingu"
+
+#: picasawebtalker.cpp:583
+msgid "File-size was zero"
+msgstr ""
+
+#: picasawebtalker.cpp:585
+msgid "File-type was not recognized"
+msgstr ""
+
+#: picasawebtalker.cpp:587
+#, fuzzy
+msgid "User exceeded upload limit"
+msgstr "Notandi fór fram yfir upphleðslutakmarkanir"
+
+#: picasawebtalker.cpp:589
+#, fuzzy
+msgid "Invalid signature"
+msgstr "Ógild undirskrift"
+
+#: picasawebtalker.cpp:591
+#, fuzzy
+msgid "Missing signature"
+msgstr "Vantar undirskrift"
+
+#: picasawebtalker.cpp:593
+msgid "Login failed / Invalid auth token"
+msgstr ""
+
+#: picasawebtalker.cpp:595
+#, fuzzy
+msgid "Invalid API Key"
+msgstr "Ógildur API lykill"
+
+#: picasawebtalker.cpp:597
+#, fuzzy
+msgid "Service currently unavailable"
+msgstr "Þjónusta óstarfhæf"
+
+#: picasawebtalker.cpp:599
+#, fuzzy
+msgid "Invalid Frob"
+msgstr "Ógilt Frob"
+
+#: picasawebtalker.cpp:601
+#, fuzzy
+msgid "Format \"xxx\" not found"
+msgstr "Sniðið \"xxx\" finnst ekki"
+
+#: picasawebtalker.cpp:603
+#, fuzzy
+msgid "Method \"xxx\" not found"
+msgstr "Aðferðin \"xxx\" finnst ekki"
+
+#: picasawebtalker.cpp:605
+#, fuzzy
+msgid "Invalid SOAP envelope"
+msgstr "Ógilt SOAP envelope"
+
+#: picasawebtalker.cpp:607
+#, fuzzy
+msgid "Invalid XML-RPC Method Call"
+msgstr "Ógilt XML-RPC Method Call"
+
+#: picasawebtalker.cpp:609
+msgid "The POST method is now required for all setters."
+msgstr ""
+
+#: picasawebtalker.cpp:611
+#, fuzzy
+msgid "Unknown error"
+msgstr "Óþekkt villa"
+
+#: picasawebtalker.cpp:614
+#, kde-format
+msgid ""
+"Error occurred: %1\n"
+"Unable to proceed further."
+msgstr ""
+
+#: picasawebtalker.cpp:800
+msgid "Failed to fetch photo-set list"
+msgstr ""
+
+#: picasawebtalker.cpp:913
+#, fuzzy
+msgid "Failed to upload photo"
+msgstr "Mistókst að senda ljósmynd"
+
+#: picasawebtalker.cpp:971
+#, fuzzy
+msgid "Failed to query photo information"
+msgstr "Mistókst að ná í ljósmyndaupplýsingar"
+
+#: picasawebwindow.cpp:76
+#, fuzzy
+msgid "Export to Picasa Web Service"
+msgstr "Flytja út til Picasa vefþjónustu"
+
+#: picasawebwindow.cpp:110
+msgid "PicasaWeb Export"
+msgstr ""
+
+#: picasawebwindow.cpp:113
+msgid "A Kipi plugin to export image collections to PicasaWeb web service."
+msgstr ""
+
+#: picasawebwindow.cpp:115
+msgid ""
+"(c) 2007-2009, Vardhman Jain\n"
+"(c) 2008-2009, Gilles Caulier\n"
+"(c) 2009, Luka Renko"
+msgstr ""
+
+#: picasawebwindow.cpp:119
+msgid "Vardhman Jain"
+msgstr ""
+
+#: picasawebwindow.cpp:119
+#, fuzzy
+msgid "Author and maintainer"
+msgstr "Höfundur og umsjónaraðili"
+
+#: picasawebwindow.cpp:122
+#, fuzzy
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: picasawebwindow.cpp:122 picasawebwindow.cpp:125
+#, fuzzy
+msgid "Developer"
+msgstr "Forritari"
+
+#: picasawebwindow.cpp:125
+#, fuzzy
+msgid "Luka Renko"
+msgstr "Luka Renko"
+
+#: picasawebwindow.cpp:130
+#, fuzzy
+msgid "Handbook"
+msgstr "Handbók"
+
+#: picasawebwindow.cpp:429
+msgid "No album selected - please create and select album."
+msgstr ""
+
+#: picasawebwindow.cpp:443
+msgid "Nothing to upload - please select photos to upload."
+msgstr ""
+
+#: picasawebwindow.cpp:537
+#, fuzzy, kde-format
+msgid "Uploading file %1 "
+msgstr "Sendi skrá %1 "
+
+#: picasawebwindow.cpp:554
+#, kde-format
+msgid ""
+"Failed to upload photo to PicasaWeb. %1\n"
+"Do you want to continue?"
+msgstr ""
+
+#: plugin_picasawebexport.cpp:73
+msgid "Export to &PicasaWeb..."
+msgstr ""
+
+#. i18n: file: picasawebnewalbumdialog.ui:13
+#. i18n: ectx: property (windowTitle), widget (QDialog, NewAlbumDialog)
+#: rc.cpp:3 rc.cpp:92
+#, fuzzy
+msgid "New Album Dialog"
+msgstr "Valgluggi fyrir nýtt albúm"
+
+#. i18n: file: picasawebnewalbumdialog.ui:19
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:6 rc.cpp:95
+#, fuzzy
+msgid "Title"
+msgstr "Titill"
+
+#. i18n: file: picasawebnewalbumdialog.ui:32
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: rc.cpp:9 rc.cpp:98
+#, fuzzy
+msgid "Description"
+msgstr "Lýsing"
+
+#. i18n: file: picasawebnewalbumdialog.ui:45
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: rc.cpp:12 rc.cpp:101
+#, fuzzy
+msgid "Place Taken"
+msgstr "Staðsetning"
+
+#. i18n: file: picasawebnewalbumdialog.ui:58
+#. i18n: ectx: property (title), widget (QGroupBox, m_accessRadioButton)
+#: rc.cpp:15 rc.cpp:104
+#, fuzzy
+msgid "Access Level"
+msgstr "Aðgangsheimild"
+
+#. i18n: file: picasawebnewalbumdialog.ui:64
+#. i18n: ectx: property (text), widget (QRadioButton, m_isPublicRadioButton)
+#: rc.cpp:18 rc.cpp:107
+#, fuzzy
+msgid "Public"
+msgstr "Almenn"
+
+#. i18n: file: picasawebnewalbumdialog.ui:71
+#. i18n: ectx: property (text), widget (QRadioButton, m_isUnlistedRadioButton)
+#: rc.cpp:21 rc.cpp:110
+msgid "Unlisted / Private"
+msgstr ""
+
+#. i18n: file: picasawebnewalbumdialog.ui:78
+#. i18n: ectx: property (text), widget (QRadioButton, m_isProtectedRadioButton)
+#: rc.cpp:24 rc.cpp:113
+msgid "Sign-In Required to View"
+msgstr ""
+
+#. i18n: file: picasawebnewalbumdialog.ui:88
+#. i18n: ectx: property (text), widget (QPushButton, m_createAlbumButton)
+#: rc.cpp:27 rc.cpp:116
+#, fuzzy
+msgid "Create"
+msgstr "Búa til"
+
+#. i18n: file: picasawebnewalbumdialog.ui:95
+#. i18n: ectx: property (text), widget (QPushButton, m_cancelButton)
+#: rc.cpp:30 rc.cpp:119
+#, fuzzy
+msgid "Cancel"
+msgstr "Hætta við"
+
+#. i18n: file: picasawebnewalbumdialog.ui:102
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: rc.cpp:33 rc.cpp:122
+#, fuzzy
+msgid "Date"
+msgstr "Dagsetning"
+
+#. i18n: file: uploadwidget.ui:19
+#. i18n: ectx: property (windowTitle), widget (QWidget, UploadWidget)
+#: rc.cpp:36 rc.cpp:125
+#, fuzzy
+msgid "PicasaWeb Exporter Upload"
+msgstr "Senda til PicasaWeb"
+
+#. i18n: file: uploadwidget.ui:30
+#. i18n: ectx: property (text), widget (QLabel, m_WidgetLabel)
+#: rc.cpp:39 rc.cpp:128
+#, fuzzy
+msgid "PicasaWeb Uploader"
+msgstr "Picasaweb sending"
+
+#. i18n: file: uploadwidget.ui:43
+#. i18n: ectx: property (text), widget (QPushButton, m_startUploadButton)
+#: rc.cpp:42 rc.cpp:131
+#, fuzzy
+msgid "Start Uploading"
+msgstr "Byrja Sendingu"
+
+#. i18n: file: uploadwidget.ui:58
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:45 rc.cpp:134
+#, fuzzy
+msgid "Album:"
+msgstr "Plata:"
+
+#. i18n: file: uploadwidget.ui:87
+#. i18n: ectx: property (text), widget (QPushButton, m_reloadAlbumsListButton)
+#: rc.cpp:48 rc.cpp:137
+#, fuzzy
+msgid "Reload"
+msgstr "Endurlesa"
+
+#. i18n: file: uploadwidget.ui:100
+#. i18n: ectx: property (text), widget (QPushButton, m_newAlbumButton)
+#: rc.cpp:51 rc.cpp:140
+#, fuzzy
+msgid "New &Album"
+msgstr "Nýtt &albúm"
+
+#. i18n: file: uploadwidget.ui:111
+#. i18n: ectx: property (text), widget (QLabel, tagsTxtLabel)
+#: rc.cpp:54 rc.cpp:143
+#, fuzzy
+msgid "Tags:<p align=\"center\"></p>"
+msgstr "Merki:<p align=\"center\"></p>"
+
+#. i18n: file: uploadwidget.ui:126
+#. i18n: ectx: property (text), widget (QRadioButton, m_exportApplicationTags)
+#: rc.cpp:57 rc.cpp:146
+#, fuzzy
+msgid "E&xport Application Tags"
+msgstr "&Flytja út merki frá forriti"
+
+#. i18n: file: uploadwidget.ui:139
+#. i18n: ectx: property (text), widget (QCheckBox, m_resizeCheckBox)
+#: rc.cpp:60 rc.cpp:149
+#, fuzzy
+msgid "Resi&ze"
+msgstr "Bre&yta stærð"
+
+#. i18n: file: uploadwidget.ui:148
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: rc.cpp:63 rc.cpp:152
+#, fuzzy
+msgid "Size (pixels):"
+msgstr "Stærð (dílar):"
+
+#. i18n: file: uploadwidget.ui:171
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:66 rc.cpp:155
+#, fuzzy
+msgid "Compression:"
+msgstr "Þjöppun:"
+
+#. i18n: file: uploadwidget.ui:208
+#. i18n: ectx: property (title), widget (QGroupBox, buttonGroup1)
+#: rc.cpp:69 rc.cpp:158
+#, fuzzy
+msgid "Images to upload"
+msgstr "Myndir til að senda"
+
+#. i18n: file: uploadwidget.ui:214
+#. i18n: ectx: property (text), widget (QRadioButton, m_currentSelectionButton)
+#: rc.cpp:72 rc.cpp:161
+#, fuzzy
+msgid "Currentl&y Selected Images"
+msgstr "Valdar m&yndir"
+
+#. i18n: file: uploadwidget.ui:221
+#. i18n: ectx: property (text), widget (QRadioButton, m_selectImagesButton)
+#: rc.cpp:75 rc.cpp:164
+#, fuzzy
+msgid "Select Images for Upload"
+msgstr "Velja myndir fyrir sendaingu"
+
+#. i18n: file: uploadwidget.ui:231
+#. i18n: ectx: property (text), widget (QPushButton, m_selectPhotosButton)
+#: rc.cpp:78 rc.cpp:167
+#, fuzzy
+msgid "Select Photos"
+msgstr "Velja myndir"
+
+#. i18n: file: uploadwidget.ui:241
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
+#: rc.cpp:81 rc.cpp:170
+#, fuzzy
+msgid "Account Details"
+msgstr "Nánar um notanda"
+
+#. i18n: file: uploadwidget.ui:247
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: rc.cpp:84 rc.cpp:173
+#, fuzzy
+msgid "Username:"
+msgstr "Notandanafn:"
+
+#. i18n: file: uploadwidget.ui:270
+#. i18n: ectx: property (text), widget (QPushButton, m_changeUserButton)
+#: rc.cpp:87 rc.cpp:176
+#, fuzzy
+msgid "Change User"
+msgstr "Breyta notanda"
+
+#: rc.cpp:88
+#, fuzzy
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sveinn í Felli"
+
+#: rc.cpp:89
+#, fuzzy
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sveinki@nett.is"

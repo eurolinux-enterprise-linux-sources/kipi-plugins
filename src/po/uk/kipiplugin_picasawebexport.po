@@ -1,0 +1,395 @@
+# Translation of kipiplugin_picasawebexport.po to Ukrainian
+# translation of kipiplugin_picasawebexport.po to Ukrainian
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Yuri Chornoivan <yurchor@ukr.net>, 2008, 2009.
+# Ivan Petrouchtchak <fr.ivan@ukrainian-orthodox.org>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_picasawebexport\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-25 05:49+0100\n"
+"PO-Revision-Date: 2009-09-23 16:02+0300\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
+"Language-Team: Ukrainian <translation@linux.org.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: picasaweblogin.cpp:69
+msgid "Google Login:"
+msgstr "Користувач Google:"
+
+#: picasaweblogin.cpp:73
+msgid "Password:"
+msgstr "Пароль:"
+
+#: picasaweblogin.cpp:84
+msgid "&OK"
+msgstr "&Гаразд"
+
+#: picasaweblogin.cpp:87
+msgid "&Cancel"
+msgstr "&Скасувати"
+
+#: picasawebtalker.cpp:138 picasawebwindow.cpp:279
+msgid "Login"
+msgstr "Увійти"
+
+#: picasawebtalker.cpp:177
+msgid "Getting the token"
+msgstr "Отримання розпізнавального знаку"
+
+#: picasawebtalker.cpp:230
+msgid "Checking if previous token is still valid"
+msgstr "Перевірка стану попереднього розпізнавального знаку"
+
+#: picasawebtalker.cpp:579
+msgid "No photo specified"
+msgstr "Не вказано фотографій"
+
+#: picasawebtalker.cpp:581
+msgid "General upload failure"
+msgstr "Загальна невдача вивантаження"
+
+#: picasawebtalker.cpp:583
+msgid "File-size was zero"
+msgstr "Нульовий розмір файла"
+
+#: picasawebtalker.cpp:585
+msgid "File-type was not recognized"
+msgstr "Не вдалося визначити тип файла"
+
+#: picasawebtalker.cpp:587
+msgid "User exceeded upload limit"
+msgstr "Користувачем перевищено обмеження на вивантаження"
+
+#: picasawebtalker.cpp:589
+msgid "Invalid signature"
+msgstr "Нечинний підпис"
+
+#: picasawebtalker.cpp:591
+msgid "Missing signature"
+msgstr "Відсутній підпис"
+
+#: picasawebtalker.cpp:593
+msgid "Login failed / Invalid auth token"
+msgstr "Невдала спроба входу або нечинний розпізнавальний знак"
+
+#: picasawebtalker.cpp:595
+msgid "Invalid API Key"
+msgstr "Нечинний ключ API"
+
+#: picasawebtalker.cpp:597
+msgid "Service currently unavailable"
+msgstr "Зараз сервер недоступний"
+
+#: picasawebtalker.cpp:599
+msgid "Invalid Frob"
+msgstr "Нечинна штучка"
+
+#: picasawebtalker.cpp:601
+msgid "Format \"xxx\" not found"
+msgstr "Формат «xxx» не знайдено"
+
+#: picasawebtalker.cpp:603
+msgid "Method \"xxx\" not found"
+msgstr "Метод «xxx» не знайдено"
+
+#: picasawebtalker.cpp:605
+msgid "Invalid SOAP envelope"
+msgstr "Нечинна обгортка SOAP"
+
+#: picasawebtalker.cpp:607
+msgid "Invalid XML-RPC Method Call"
+msgstr "Нечинний виклик методу XML-RPC"
+
+#: picasawebtalker.cpp:609
+msgid "The POST method is now required for all setters."
+msgstr "Тепер слід використовувати метод POST для всіх механізмів."
+
+#: picasawebtalker.cpp:611
+msgid "Unknown error"
+msgstr "Невідома помилка"
+
+#: picasawebtalker.cpp:614
+#, kde-format
+msgid ""
+"Error occurred: %1\n"
+"Unable to proceed further."
+msgstr ""
+"Сталася помилка: %1\n"
+" Продовження роботи неможливе."
+
+#: picasawebtalker.cpp:800
+msgid "Failed to fetch photo-set list"
+msgstr "Спроба обробки списку фоторобіт зазнала невдачі"
+
+#: picasawebtalker.cpp:913
+msgid "Failed to upload photo"
+msgstr "Спроба вивантаження фотографії зазнала невдачі"
+
+#: picasawebtalker.cpp:971
+msgid "Failed to query photo information"
+msgstr "Спроба отримання інформації про зображення зазнала невдачі"
+
+#: picasawebwindow.cpp:76
+msgid "Export to Picasa Web Service"
+msgstr "Експортувати до веб-служби Picasa"
+
+#: picasawebwindow.cpp:110
+msgid "PicasaWeb Export"
+msgstr "Експортувати до PicasaWeb"
+
+#: picasawebwindow.cpp:113
+msgid "A Kipi plugin to export image collections to PicasaWeb web service."
+msgstr "Додаток Kipi для експорту збірок зображень до веб-служби PicasaWeb."
+
+#: picasawebwindow.cpp:115
+msgid ""
+"(c) 2007-2009, Vardhman Jain\n"
+"(c) 2008-2009, Gilles Caulier\n"
+"(c) 2009, Luka Renko"
+msgstr ""
+"© 2007-2009, Vardhman Jain\n"
+"© 2008-2009, Gilles Caulier\n"
+"© 2009, Luka Renko"
+
+#: picasawebwindow.cpp:119
+msgid "Vardhman Jain"
+msgstr "Vardhman Jain"
+
+#: picasawebwindow.cpp:119
+msgid "Author and maintainer"
+msgstr "Автор та супровід"
+
+#: picasawebwindow.cpp:122
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: picasawebwindow.cpp:122 picasawebwindow.cpp:125
+msgid "Developer"
+msgstr "Розробник"
+
+#: picasawebwindow.cpp:125
+msgid "Luka Renko"
+msgstr "Luka Renko"
+
+#: picasawebwindow.cpp:130
+msgid "Handbook"
+msgstr "Підручник"
+
+#: picasawebwindow.cpp:429
+msgid "No album selected - please create and select album."
+msgstr "Не обрано жодного альбому, — будь ласка, створіть і виберіть альбом."
+
+#: picasawebwindow.cpp:443
+msgid "Nothing to upload - please select photos to upload."
+msgstr ""
+"Нічого вивантажувати, — будь ласка, виберіть фотографії для вивантаження."
+
+#: picasawebwindow.cpp:537
+#, kde-format
+msgid "Uploading file %1 "
+msgstr "Вивантаження файла %1 "
+
+#: picasawebwindow.cpp:554
+#, kde-format
+msgid ""
+"Failed to upload photo to PicasaWeb. %1\n"
+"Do you want to continue?"
+msgstr ""
+"Спроба вивантаження фотографії на PicasaWeb зазнала невдачі. %1\n"
+"Бажаєте продовжувати?"
+
+#: plugin_picasawebexport.cpp:73
+msgid "Export to &PicasaWeb..."
+msgstr "Експортувати до &PicasaWeb..."
+
+#. i18n: file: picasawebnewalbumdialog.ui:13
+#. i18n: ectx: property (windowTitle), widget (QDialog, NewAlbumDialog)
+#: rc.cpp:3 rc.cpp:92
+msgid "New Album Dialog"
+msgstr "Діалогове вікно створення альбому"
+
+#. i18n: file: picasawebnewalbumdialog.ui:19
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:6 rc.cpp:95
+msgid "Title"
+msgstr "Заголовок"
+
+#. i18n: file: picasawebnewalbumdialog.ui:32
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: rc.cpp:9 rc.cpp:98
+msgid "Description"
+msgstr "Опис"
+
+#. i18n: file: picasawebnewalbumdialog.ui:45
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: rc.cpp:12 rc.cpp:101
+msgid "Place Taken"
+msgstr "Зайняте місце"
+
+#. i18n: file: picasawebnewalbumdialog.ui:58
+#. i18n: ectx: property (title), widget (QGroupBox, m_accessRadioButton)
+#: rc.cpp:15 rc.cpp:104
+msgid "Access Level"
+msgstr "Рівень доступу"
+
+#. i18n: file: picasawebnewalbumdialog.ui:64
+#. i18n: ectx: property (text), widget (QRadioButton, m_isPublicRadioButton)
+#: rc.cpp:18 rc.cpp:107
+msgid "Public"
+msgstr "Публічний"
+
+#. i18n: file: picasawebnewalbumdialog.ui:71
+#. i18n: ectx: property (text), widget (QRadioButton, m_isUnlistedRadioButton)
+#: rc.cpp:21 rc.cpp:110
+msgid "Unlisted / Private"
+msgstr "Не у списку / Конфіденційне"
+
+#. i18n: file: picasawebnewalbumdialog.ui:78
+#. i18n: ectx: property (text), widget (QRadioButton, m_isProtectedRadioButton)
+#: rc.cpp:24 rc.cpp:113
+msgid "Sign-In Required to View"
+msgstr "Для перегляду слід увійти до системи"
+
+#. i18n: file: picasawebnewalbumdialog.ui:88
+#. i18n: ectx: property (text), widget (QPushButton, m_createAlbumButton)
+#: rc.cpp:27 rc.cpp:116
+msgid "Create"
+msgstr "Створити"
+
+#. i18n: file: picasawebnewalbumdialog.ui:95
+#. i18n: ectx: property (text), widget (QPushButton, m_cancelButton)
+#: rc.cpp:30 rc.cpp:119
+msgid "Cancel"
+msgstr "Скасувати"
+
+#. i18n: file: picasawebnewalbumdialog.ui:102
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: rc.cpp:33 rc.cpp:122
+msgid "Date"
+msgstr "Дата"
+
+#. i18n: file: uploadwidget.ui:19
+#. i18n: ectx: property (windowTitle), widget (QWidget, UploadWidget)
+#: rc.cpp:36 rc.cpp:125
+msgid "PicasaWeb Exporter Upload"
+msgstr "Вивантаження для експорту на PicasaWeb"
+
+#. i18n: file: uploadwidget.ui:30
+#. i18n: ectx: property (text), widget (QLabel, m_WidgetLabel)
+#: rc.cpp:39 rc.cpp:128
+msgid "PicasaWeb Uploader"
+msgstr "Засіб для вивантаження на PicasaWeb"
+
+#. i18n: file: uploadwidget.ui:43
+#. i18n: ectx: property (text), widget (QPushButton, m_startUploadButton)
+#: rc.cpp:42 rc.cpp:131
+msgid "Start Uploading"
+msgstr "Почати вивантаження"
+
+#. i18n: file: uploadwidget.ui:58
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:45 rc.cpp:134
+msgid "Album:"
+msgstr "Альбом:"
+
+#. i18n: file: uploadwidget.ui:87
+#. i18n: ectx: property (text), widget (QPushButton, m_reloadAlbumsListButton)
+#: rc.cpp:48 rc.cpp:137
+msgid "Reload"
+msgstr "Перезавантажити"
+
+#. i18n: file: uploadwidget.ui:100
+#. i18n: ectx: property (text), widget (QPushButton, m_newAlbumButton)
+#: rc.cpp:51 rc.cpp:140
+msgid "New &Album"
+msgstr "Створити &альбом"
+
+#. i18n: file: uploadwidget.ui:111
+#. i18n: ectx: property (text), widget (QLabel, tagsTxtLabel)
+#: rc.cpp:54 rc.cpp:143
+msgid "Tags:<p align=\"center\"></p>"
+msgstr "Мітки:<p align=\"center\"></p>"
+
+#. i18n: file: uploadwidget.ui:126
+#. i18n: ectx: property (text), widget (QRadioButton, m_exportApplicationTags)
+#: rc.cpp:57 rc.cpp:146
+msgid "E&xport Application Tags"
+msgstr "Е&кспортувати програмні мітки"
+
+#. i18n: file: uploadwidget.ui:139
+#. i18n: ectx: property (text), widget (QCheckBox, m_resizeCheckBox)
+#: rc.cpp:60 rc.cpp:149
+msgid "Resi&ze"
+msgstr "Змінити &розмір"
+
+#. i18n: file: uploadwidget.ui:148
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: rc.cpp:63 rc.cpp:152
+msgid "Size (pixels):"
+msgstr "Розмір (у пікселях):"
+
+#. i18n: file: uploadwidget.ui:171
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:66 rc.cpp:155
+msgid "Compression:"
+msgstr "Стискання:"
+
+#. i18n: file: uploadwidget.ui:208
+#. i18n: ectx: property (title), widget (QGroupBox, buttonGroup1)
+#: rc.cpp:69 rc.cpp:158
+msgid "Images to upload"
+msgstr "Зображення для вивантаження"
+
+#. i18n: file: uploadwidget.ui:214
+#. i18n: ectx: property (text), widget (QRadioButton, m_currentSelectionButton)
+#: rc.cpp:72 rc.cpp:161
+msgid "Currentl&y Selected Images"
+msgstr "&Поточні вибрані зображення"
+
+#. i18n: file: uploadwidget.ui:221
+#. i18n: ectx: property (text), widget (QRadioButton, m_selectImagesButton)
+#: rc.cpp:75 rc.cpp:164
+msgid "Select Images for Upload"
+msgstr "Вибрати зображення для вивантаження"
+
+#. i18n: file: uploadwidget.ui:231
+#. i18n: ectx: property (text), widget (QPushButton, m_selectPhotosButton)
+#: rc.cpp:78 rc.cpp:167
+msgid "Select Photos"
+msgstr "Вибрати фотографії"
+
+#. i18n: file: uploadwidget.ui:241
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
+#: rc.cpp:81 rc.cpp:170
+msgid "Account Details"
+msgstr "Подробиці про обліковий запис"
+
+#. i18n: file: uploadwidget.ui:247
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: rc.cpp:84 rc.cpp:173
+msgid "Username:"
+msgstr "Користувач:"
+
+#. i18n: file: uploadwidget.ui:270
+#. i18n: ectx: property (text), widget (QPushButton, m_changeUserButton)
+#: rc.cpp:87 rc.cpp:176
+msgid "Change User"
+msgstr "Змінити користувача"
+
+#: rc.cpp:88
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Юрій Чорноіван"
+
+#: rc.cpp:89
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "yurchor@ukr.net"

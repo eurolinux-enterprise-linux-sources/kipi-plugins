@@ -1,0 +1,208 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Andrew Coles <andrew_coles@yahoo.co.uk>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-27 07:11+0100\n"
+"PO-Revision-Date: 2009-10-16 19:42+0100\n"
+"Last-Translator: Andrew Coles <andrew_coles@yahoo.co.uk>\n"
+"Language-Team: British English <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: aboutdata.h:47
+msgid "DNG Image Converter"
+msgstr "DNG Image Converter"
+
+#: aboutdata.h:49
+msgid "A tool to batch convert RAW camera images to DNG"
+msgstr "A tool to batch convert RAW camera images to DNG"
+
+#: aboutdata.h:50
+msgid "(c) 2008-2009, Gilles Caulier"
+msgstr "(c) 2008-2009, Gilles Caulier"
+
+#: aboutdata.h:52
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: aboutdata.h:53
+msgid "Author"
+msgstr "Author"
+
+#: actionthread.cpp:229
+msgid "Cannot identify Raw image"
+msgstr "Cannot identify Raw image"
+
+#: actionthread.cpp:236
+#, kde-format
+msgid "Make: %1\n"
+msgstr "Make: %1\n"
+
+#: actionthread.cpp:237
+#, kde-format
+msgid "Model: %1\n"
+msgstr "Model: %1\n"
+
+#: actionthread.cpp:241
+#, kde-format
+msgid "Created: %1\n"
+msgstr "Created: %1\n"
+
+#: actionthread.cpp:248
+#, kde-format
+msgid "Aperture: f/%1\n"
+msgstr "Aperture: f/%1\n"
+
+#: actionthread.cpp:253
+#, kde-format
+msgid "Focal: %1 mm\n"
+msgstr "Focal: %1 mm\n"
+
+#: actionthread.cpp:258
+#, kde-format
+msgid "Exposure: 1/%1 s\n"
+msgstr "Exposure: 1/%1 s\n"
+
+#: actionthread.cpp:263
+#, kde-format
+msgid "Sensitivity: %1 ISO"
+msgstr "Sensitivity: %1 ISO"
+
+#: batchdialog.cpp:129
+msgid "Exit DNG Converter"
+msgstr "Exit DNG Converter"
+
+#: batchdialog.cpp:130
+msgid "Batch convert RAW camera images to DNG"
+msgstr "Batch convert RAW camera images to DNG"
+
+#: batchdialog.cpp:133
+msgid "&Add"
+msgstr "&Add"
+
+#: batchdialog.cpp:134
+msgid "Add new Raw files to the list"
+msgstr "Add new Raw files to the list"
+
+#: batchdialog.cpp:136
+msgid "&Remove"
+msgstr "&Remove"
+
+#: batchdialog.cpp:137
+msgid "Remove selected Raw files from the list"
+msgstr "Remove selected Raw files from the list"
+
+#: batchdialog.cpp:156
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: batchdialog.cpp:157
+msgid "Raw File"
+msgstr "Raw File"
+
+#: batchdialog.cpp:158
+msgid "Target File"
+msgstr "Target File"
+
+#: batchdialog.cpp:159
+msgid "Camera"
+msgstr "Camera"
+
+#: batchdialog.cpp:190
+msgid "Handbook"
+msgstr "Handbook"
+
+#: batchdialog.cpp:331
+msgid "The list does not contain any Raw files to process."
+msgstr "The list does not contain any Raw files to process."
+
+#: batchdialog.cpp:472
+msgid "&Abort"
+msgstr "&Abort"
+
+#: batchdialog.cpp:473
+msgid "Abort the conversion of Raw files."
+msgstr "Abort the conversion of Raw files."
+
+#: batchdialog.cpp:478
+msgid "Con&vert"
+msgstr "Con&vert"
+
+#: batchdialog.cpp:479
+msgid "Start converting the Raw images using the current settings."
+msgstr "Start converting the Raw images using the current settings."
+
+#: batchdialog.cpp:528
+#, kde-format
+msgid "Save Raw Image converted from '%1' as"
+msgstr "Save Raw Image converted from '%1' as"
+
+#: batchdialog.cpp:557
+#, kde-format
+msgid "Failed to save image %1"
+msgstr "Failed to save image %1"
+
+#: dngconverter.cpp:54
+msgid "File(s) to convert"
+msgstr "File(s) to convert"
+
+#: plugin_dngconverter.cpp:66
+msgid "DNG Converter..."
+msgstr "DNG Converter..."
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Andrew Coles"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "andrew_coles@yahoo.co.uk"
+
+#: settingswidget.cpp:106
+msgid "Embed Original File"
+msgstr "Embed Original File"
+
+#: settingswidget.cpp:108
+msgid "Lossless Compression"
+msgstr "Lossless Compression"
+
+#: settingswidget.cpp:110
+msgid "Update File Modification Date"
+msgstr "Update File Modification Date"
+
+#: settingswidget.cpp:114
+msgid "JPEG Preview:"
+msgstr "JPEG Preview:"
+
+#: settingswidget.cpp:116
+msgid "None"
+msgstr "None"
+
+#: settingswidget.cpp:117
+msgid "Medium"
+msgstr "Medium"
+
+#: settingswidget.cpp:118
+msgid "Full size"
+msgstr "Full size"
+
+#: settingswidget.cpp:124
+msgid "If Target File Exists:"
+msgstr "If Target File Exists:"
+
+#: settingswidget.cpp:128
+msgid "Overwrite automatically"
+msgstr "Overwrite automatically"
+
+#: settingswidget.cpp:129
+msgid "Open rename-file dialog"
+msgstr "Open rename-file dialogue"

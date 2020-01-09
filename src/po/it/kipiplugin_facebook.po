@@ -1,0 +1,451 @@
+# translation of kipiplugin_fbexport.po to Italian
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Federico Zenith <federico.zenith@member.fsf.org>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_fbexport\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-25 05:49+0100\n"
+"PO-Revision-Date: 2009-10-12 04:43+0200\n"
+"Last-Translator: Federico Zenith <federico.zenith@member.fsf.org>\n"
+"Language-Team: Italiano <kde-i18n-it@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: fbalbum.cpp:45
+msgid "Facebook New Album"
+msgstr "Nuovo album di Facebook"
+
+#: fbalbum.cpp:58
+msgid "Title of the album that will be created (required)."
+msgstr "Titolo dell'album da creare (obbligatorio)."
+
+#: fbalbum.cpp:62
+msgid "Location of the album that will be created (optional)."
+msgstr "Luogo dell'album da creare (facoltativo)."
+
+#: fbalbum.cpp:66
+msgid "Description of the album that will be created (optional)."
+msgstr "Descrizione dell'album da creare (facoltativa)."
+
+#: fbalbum.cpp:71
+msgid "Privacy setting of the album that will be created (required)."
+msgstr "Impostazioni di riservatezza dell'album da creare (obbligatorie)."
+
+#: fbalbum.cpp:73
+msgid "Only Friends"
+msgstr "Solo amici"
+
+#: fbalbum.cpp:75
+msgid "Friends of Friends"
+msgstr "Amici di amici"
+
+#: fbalbum.cpp:77
+msgid "My Networks and Friends"
+msgstr "Le mie reti e i miei amici"
+
+#: fbalbum.cpp:79
+msgid "Everyone"
+msgstr "Tutti"
+
+#: fbalbum.cpp:82
+msgid "Title:"
+msgstr "Titolo:"
+
+#: fbalbum.cpp:83
+msgid "Location:"
+msgstr "Luogo:"
+
+#: fbalbum.cpp:84
+msgid "Description:"
+msgstr "Descrizione:"
+
+#: fbalbum.cpp:85
+msgid "Privacy:"
+msgstr "Riservatezza:"
+
+#: fbtalker.cpp:178
+msgid "Validate previous session..."
+msgstr "Convalida la sessione precedente..."
+
+#: fbtalker.cpp:198
+msgid "Logging in to Facebook service..."
+msgstr "Accesso al servizio Facebook..."
+
+#: fbtalker.cpp:389
+msgid ""
+"Please follow the instructions in the browser window. Press \"OK\" when done."
+msgstr ""
+"Segui le istruzioni nella finestra del browser. Premi «Ok» quando hai finito."
+
+#: fbtalker.cpp:391
+msgid "Facebook Application Authorization"
+msgstr "Autorizzazione dell'applicazione di Facebook"
+
+#: fbtalker.cpp:706
+msgid "The service is not available at this time."
+msgstr "Il servizio non è disponibile in questo momento."
+
+#: fbtalker.cpp:709
+msgid "The application has reached the maximum number of requests allowed."
+msgstr "L'applicazione ha raggiunto il massimo numero di richieste permesso."
+
+#: fbtalker.cpp:712
+msgid "Invalid session key or session expired. Try to log in again."
+msgstr "Sessione non valida o scaduta. Prova ad accedere di nuovo."
+
+#: fbtalker.cpp:715
+msgid "Invalid album ID."
+msgstr "Identificativo dell'album non valido."
+
+#: fbtalker.cpp:718
+msgid "Album is full."
+msgstr "L'album è pieno."
+
+#: fbtalker.cpp:721
+msgid "Missing or invalid file."
+msgstr "File mancante o non valido."
+
+#: fbtalker.cpp:724
+msgid "Too many unapproved photos pending."
+msgstr "Troppe foto non approvate in attesa."
+
+#: fbtalker.cpp:884
+msgid ""
+"Please follow the instructions in the browser window. Press \"Yes\" if you "
+"have authenticated and \"No\" if you failed."
+msgstr ""
+"Segui le istruzioni nella finestra del browser. Premi «Sì» se ti sei "
+"autenticato o «No» se non ci sei riuscito."
+
+#: fbtalker.cpp:886
+msgid "Facebook Service Web Authorization"
+msgstr "Autorizzazione al servizio Web Facebook"
+
+#: fbtalker.cpp:895
+msgid "Canceled by user."
+msgstr "Annullato dall'utente."
+
+#: fbwidget.cpp:71
+msgid "This is the list of images to upload to your Facebook account."
+msgstr "Questo è l'elenco di immagini da caricare sul tuo account di Facebook."
+
+#: fbwidget.cpp:78
+msgid ""
+"This is a clickable link to open the Facebook home page in a web browser."
+msgstr ""
+"Questo è un collegamento per aprire la pagina Web di Facebook in un browser "
+"Web."
+
+#: fbwidget.cpp:84
+msgid "Account"
+msgstr "4Account"
+
+#: fbwidget.cpp:86
+msgid "This is the Facebook account that is currently logged in."
+msgstr "Questo è l'account di Facebook con cui sei attualmente collegato."
+
+#: fbwidget.cpp:89
+msgid "Name:"
+msgstr "Nome:"
+
+#: fbwidget.cpp:91
+msgid "Permission:"
+msgstr "Permesso:"
+
+#: fbwidget.cpp:93
+msgid ""
+"Permission of KIPI Plugin application to upload photos directly. If not, "
+"user will need to manually approve uploaded photos in Facebook."
+msgstr ""
+"Permesso dell'estensione di Kipi per caricare le foto direttamente. "
+"Altrimenti, l'utente dovrà approvare manualmente le foto in Facebook."
+
+#: fbwidget.cpp:96
+msgid "Change Account"
+msgstr "Cambia account"
+
+#: fbwidget.cpp:97
+msgid "Logout and change Facebook Account used for transfer"
+msgstr "Esci e cambia l'account di Facebook usato per il trasferimento"
+
+#: fbwidget.cpp:100
+msgid "Change Permission"
+msgstr "Cambia permesso"
+
+#: fbwidget.cpp:101
+msgid "Change permission for KIPI application for photo upload"
+msgstr ""
+"Cambia il permesso per l'estensione di Kipi per il caricamento delle foto"
+
+#: fbwidget.cpp:118
+msgid "Download Selection"
+msgstr "Scarica selezione"
+
+#: fbwidget.cpp:120
+msgid "This is the selection of Facebook albums/photos to download."
+msgstr "Questa è la selezione di album e foto di Facebook da scaricare."
+
+#: fbwidget.cpp:124 fbwidget.cpp:177
+msgid "Destination"
+msgstr "Destinazione"
+
+#: fbwidget.cpp:126
+msgid "This is the Facebook album to which selected photos will be uploaded."
+msgstr ""
+"Questo è l'album di Facebook in cui saranno caricate le foto selezionate."
+
+#: fbwidget.cpp:130
+msgid "My &Album"
+msgstr "Il mio &album"
+
+#: fbwidget.cpp:132
+msgid "Download complete album of currently logged in user."
+msgstr "Scarica album completo dell'utente attualmente collegato."
+
+#: fbwidget.cpp:133
+msgid "Album &of My Friend"
+msgstr "Album di un mio a&mico"
+
+#: fbwidget.cpp:135
+msgid "Download complete album of selected friend."
+msgstr "Scarica l'album completo dell'amico selezionato."
+
+#: fbwidget.cpp:136
+msgid "Photos of &Me"
+msgstr "&Foto con me"
+
+#: fbwidget.cpp:138
+msgid "Download all photos of currently logged in user."
+msgstr "Scarica tutte le foto dell'utente attualmente selezionato."
+
+#: fbwidget.cpp:139
+msgid "Photos of My &Friend"
+msgstr "F&oto con il mio amico"
+
+#: fbwidget.cpp:141
+msgid "Download all photos of selected friend."
+msgstr "Scarica tutte le foto dell'amico selezionato."
+
+#: fbwidget.cpp:149
+msgid "Friend:"
+msgstr "Amico:"
+
+#: fbwidget.cpp:153
+msgid "Album:"
+msgstr "Album:"
+
+#: fbwidget.cpp:158
+msgid "New Album"
+msgstr "Nuovo album"
+
+#: fbwidget.cpp:159
+msgid "Create new Facebook album"
+msgstr "Crea un nuovo album di Facebook"
+
+#: fbwidget.cpp:161
+msgid "Reload"
+msgstr "Ricarica"
+
+#: fbwidget.cpp:162
+msgid "Reload album list"
+msgstr "Ricarica l'elenco degli album"
+
+#: fbwidget.cpp:179
+msgid "This is the location to which Facebook images will be downloaded."
+msgstr "Questo è dove saranno scaricate le immagini di Facebook."
+
+#: fbwidget.cpp:186
+msgid "Options"
+msgstr "Opzioni"
+
+#: fbwidget.cpp:188
+msgid "These are options that will be applied to photos before upload."
+msgstr ""
+"Queste sono le opzioni che saranno applicate alle foto prima del caricamento."
+
+#: fbwidget.cpp:192
+msgid "Resize photos before uploading"
+msgstr "Ridimensiona le foto prima del caricamento"
+
+#: fbwidget.cpp:202
+msgid "Maximum dimension:"
+msgstr "Dimensione massima:"
+
+#: fbwidget.cpp:210
+msgid "JPEG quality:"
+msgstr "Qualità JPEG:"
+
+#: fbwidget.cpp:315
+msgid "Direct upload"
+msgstr "Caricamento diretto"
+
+#: fbwidget.cpp:317
+msgid "Uploaded photos will not need manual approval by user."
+msgstr ""
+"Le foto caricate non necessiteranno di approvazione manuale da parte "
+"dell'utente."
+
+#: fbwidget.cpp:321
+msgid "Manual upload approval"
+msgstr "Approvazione del caricamento manuale"
+
+#: fbwidget.cpp:323
+msgid ""
+"Uploaded photos will wait in pending state until manually approved by user."
+msgstr ""
+"Le foto caricate rimarranno in stato di attesa fino all'approvazione manuale "
+"da parte dell'utente."
+
+#: fbwindow.cpp:99
+msgid "Import from Facebook Web Service"
+msgstr "Importa dal servizio Web Facebook"
+
+#: fbwindow.cpp:101
+msgid "Start Download"
+msgstr "Avvia scaricamento"
+
+#: fbwindow.cpp:102
+msgid "Start download from Facebook web service"
+msgstr "Avvia scaricamento dal servizio Web Facebook"
+
+#: fbwindow.cpp:107
+msgid "Export to Facebook Web Service"
+msgstr "Esporta al servizio Web Facebook"
+
+#: fbwindow.cpp:109
+msgid "Start Upload"
+msgstr "Avvia caricamento"
+
+#: fbwindow.cpp:110
+msgid "Start upload to Facebook web service"
+msgstr "Avvia caricamento al servizio Web Facebook"
+
+#: fbwindow.cpp:139
+msgid "Facebook Import/Export"
+msgstr "Importazione/esportazione Facebook"
+
+#: fbwindow.cpp:141
+msgid ""
+"A Kipi plugin to import/export image collection to/from Facebook web service."
+msgstr ""
+"Un'estensione di Kipi per importare o esportare una raccolta di immagini da/"
+"al servizio Web Facebook."
+
+#: fbwindow.cpp:143
+msgid ""
+"(c) 2005-2008, Vardhman Jain\n"
+"(c) 2008-2009, Gilles Caulier\n"
+"(c) 2008-2009, Luka Renko"
+msgstr ""
+"© 2005-2008, Vardhman Jain\n"
+"© 2008-2009, Gilles Caulier\n"
+"© 2008-2009, Luka Renko"
+
+#: fbwindow.cpp:147
+msgid "Luka Renko"
+msgstr "Luka Renko"
+
+#: fbwindow.cpp:147
+msgid "Author and maintainer"
+msgstr "Autore e responsabile"
+
+#: fbwindow.cpp:155
+msgid "Handbook"
+msgstr "Manuale"
+
+#: fbwindow.cpp:297
+msgid "Authentication"
+msgstr "Autenticazione"
+
+#: fbwindow.cpp:334 fbwindow.cpp:393
+msgid "<auto create>"
+msgstr "<creazione automatica>"
+
+#: fbwindow.cpp:349 fbwindow.cpp:362 fbwindow.cpp:379 fbwindow.cpp:427
+#: fbwindow.cpp:461
+#, kde-format
+msgid "Facebook Call Failed: %1\n"
+msgstr "Chiamata a Facebook non riuscita: %1\n"
+
+#: fbwindow.cpp:388
+msgctxt "name of special Facebook album for profile pictures"
+msgid "Profile Pictures"
+msgstr "Immagini del profilo"
+
+#: fbwindow.cpp:443 fbwindow.cpp:579
+msgid "Transfer Progress"
+msgstr "Avanzamento del trasferimento"
+
+#: fbwindow.cpp:448 fbwindow.cpp:584
+msgid "%v / %m"
+msgstr "%v / %m"
+
+#: fbwindow.cpp:714 fbwindow.cpp:733
+msgid "Cannot open file"
+msgstr "Impossibile aprire file"
+
+#: fbwindow.cpp:737
+#, kde-format
+msgid "Uploading file %1"
+msgstr "Caricamento del file %1"
+
+#: fbwindow.cpp:762
+#, kde-format
+msgid ""
+"Failed to upload photo into Facebook: %1\n"
+"Do you want to continue?"
+msgstr ""
+"Caricamento di foto su Facebook non riuscito: %1\n"
+"Vuoi continuare?"
+
+#: fbwindow.cpp:790
+#, kde-format
+msgid "Downloading file %1"
+msgstr "Scaricamento del file %1"
+
+#: fbwindow.cpp:824
+#, kde-format
+msgid ""
+"Failed to save photo: %1\n"
+"Do you want to continue?"
+msgstr ""
+"Salvataggio non riuscito della foto: %1\n"
+"Vuoi continuare?"
+
+#: fbwindow.cpp:838
+#, kde-format
+msgid ""
+"Failed to download photo: %1\n"
+"Do you want to continue?"
+msgstr ""
+"Scaricamento non riuscito della foto: %1\n"
+"Vuoi continuare?"
+
+#: fbwindow.cpp:863
+#, kde-format
+msgid "Facebook Call Failed: %1"
+msgstr "Chiamata a Facebook non riuscita: %1"
+
+#: plugin_facebook.cpp:75
+msgid "Export to &Facebook..."
+msgstr "Esporta a &Facebook..."
+
+#: plugin_facebook.cpp:85
+msgid "Import from &Facebook..."
+msgstr "Importa da &Facebook..."
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Federico Zenith"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "federico.zenith@member.fsf.org"

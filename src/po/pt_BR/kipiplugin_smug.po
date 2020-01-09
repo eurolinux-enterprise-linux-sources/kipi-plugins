@@ -1,0 +1,405 @@
+# tradução do kipiplugin_smug.po para Brazilian Portuguese
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# André Marcelo Alvarenga <andrealvarenga@gmx.net>, 2008, 2009.
+# Luiz Fernando Ranghetti <elchevive@opensuse.org>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_smug\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-25 05:49+0100\n"
+"PO-Revision-Date: 2009-10-25 00:29-0200\n"
+"Last-Translator: André Marcelo Alvarenga <andrealvarenga@gmx.net>\n"
+"Language-Team: Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: plugin_smug.cpp:75
+msgid "Export to &SmugMug..."
+msgstr "Exportar para o &SmugMug..."
+
+#: plugin_smug.cpp:85
+msgid "Import from &SmugMug..."
+msgstr "Importar do &SmugMug..."
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Luiz Fernando Ranghetti, André Marcelo Alvarenga"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "elchevive@opensuse.org, andrealvarenga@gmx.net"
+
+#: smugalbum.cpp:50
+msgid "SmugMug New Album"
+msgstr "Novo álbum do SmugMug"
+
+#: smugalbum.cpp:61 smugwidget.cpp:118
+msgid "Album"
+msgstr "Álbum"
+
+#: smugalbum.cpp:63
+msgid "These are basic settings for the new SmugMug album."
+msgstr "Estas são as configurações básicas para o novo álbum do SmugMug."
+
+#: smugalbum.cpp:67
+msgid "Title of the album that will be created (required)."
+msgstr "Título do álbum que será criado (obrigatório)."
+
+#: smugalbum.cpp:72
+msgid "Category of the album that will be created (required)."
+msgstr "A categoria do álbum que será criado (obrigatório)."
+
+#: smugalbum.cpp:77
+msgid "Subcategory of the album that will be created (optional)."
+msgstr "A subcategoria do álbum que será criado (opcional)."
+
+#: smugalbum.cpp:81
+msgid "Description of the album that will be created (optional)."
+msgstr "A descrição do álbum que será criado (opcional)."
+
+#: smugalbum.cpp:86
+msgid "Album template for the new album (optional)."
+msgstr "Modelo para o novo álbum (opcional)."
+
+#: smugalbum.cpp:89
+msgid "Title:"
+msgstr "Título:"
+
+#: smugalbum.cpp:90
+msgid "Category:"
+msgstr "Categoria:"
+
+#: smugalbum.cpp:91
+msgid "Subcategory:"
+msgstr "Subcategoria:"
+
+#: smugalbum.cpp:92
+msgid "Description:"
+msgstr "Descrição:"
+
+#: smugalbum.cpp:93
+msgid "Template:"
+msgstr "Modelo:"
+
+#: smugalbum.cpp:101
+msgid "Security && Privacy"
+msgstr "Segurança e privacidade"
+
+#: smugalbum.cpp:103
+msgid "These are security and privacy settings for the new SmugMug album."
+msgstr ""
+"Estas são as configurações de privacidade e segurança para o novo álbum "
+"SmugMug."
+
+#: smugalbum.cpp:105
+msgid "Public"
+msgstr "Público"
+
+#: smugalbum.cpp:108
+msgid "Public album is listed on your public SmugMug page."
+msgstr "Um álbum público é listado na sua página pública do SmugMug."
+
+#: smugalbum.cpp:109
+msgid "Unlisted"
+msgstr "Não listado"
+
+#: smugalbum.cpp:111
+msgid "Unlisted album is only accessible via URL."
+msgstr "Um álbum não listado só é acessível através do URL."
+
+#: smugalbum.cpp:119
+msgid "Require password to access the album (optional)."
+msgstr "Requer senha para acessar o álbum (opcional)."
+
+#: smugalbum.cpp:123
+msgid "Password hint to present to users in the password prompt (optional)."
+msgstr ""
+"A dica de senha a apresentar aos usuários na solicitação de senha (opcional)."
+
+#: smugalbum.cpp:126
+msgid "Privacy:"
+msgstr "Privacidade:"
+
+#: smugalbum.cpp:127
+msgid "Password:"
+msgstr "Senha:"
+
+#: smugalbum.cpp:128
+msgid "Password Hint:"
+msgstr "Dica de senha:"
+
+#: smugtalker.cpp:101
+msgid "Logging in to SmugMug service..."
+msgstr "Iniciando a sessão no serviço SmugMug..."
+
+#: smugtalker.cpp:472
+msgid "Login failed"
+msgstr "O login falhou"
+
+#: smugtalker.cpp:475
+msgid "Invalid user/nick/password"
+msgstr "Usuário/apelido/senha inválido"
+
+#: smugtalker.cpp:478
+msgid "Invalid API key"
+msgstr "Chave API inválida"
+
+#: smugwidget.cpp:72
+msgid "This is the list of images to upload to your SmugMug account."
+msgstr "Esta é a lista de imagens a enviar para sua conta do SmugMug."
+
+#: smugwidget.cpp:79
+msgid ""
+"This is a clickable link to open the SmugMug home page in a web browser."
+msgstr "Este é o link para abrir a página do SmugMug no navegador de Internet."
+
+#: smugwidget.cpp:85
+msgid "Account"
+msgstr "Conta"
+
+#: smugwidget.cpp:87
+msgid "This is the SmugMug account that will be used to authenticate."
+msgstr "Esta é a conta do SmugMug que será usada para autenticar."
+
+#: smugwidget.cpp:90
+msgid "Anonymous"
+msgstr "Anônimo"
+
+#: smugwidget.cpp:92
+msgid "Login as anonymous to SmugMug web service."
+msgstr "Iniciar a sessão como anônimo no serviço SmugMug."
+
+#: smugwidget.cpp:94
+msgid "SmugMug Account"
+msgstr "Conta do SmugMug"
+
+#: smugwidget.cpp:96
+msgid "Login to SmugMug web service using email and password."
+msgstr "Iniciar a sessão no serviço SmugMug usando e-mail e senha."
+
+#: smugwidget.cpp:98
+msgid "Name:"
+msgstr "Nome:"
+
+#: smugwidget.cpp:100
+msgid "Email:"
+msgstr "E-mail:"
+
+#: smugwidget.cpp:103
+msgid "Change Account"
+msgstr "Alterar conta"
+
+#: smugwidget.cpp:104
+msgid "Change SmugMug Account used to authenticate"
+msgstr "Alterar a conta do SmugMug usada para autenticar"
+
+#: smugwidget.cpp:120
+msgid "This is the SmugMug album that will be used for transfer."
+msgstr "Este é o álbum do SmugMug que será usado para transferência."
+
+#: smugwidget.cpp:125
+msgid "Nickname:"
+msgstr "Apelido:"
+
+#: smugwidget.cpp:128
+msgid "Nickname of SmugMug user to list albums."
+msgstr "Apelido do usuário SmugMug para listar os álbuns."
+
+#: smugwidget.cpp:129
+msgid "Site Password:"
+msgstr "Senha do site:"
+
+#: smugwidget.cpp:132
+msgid "Site-wide password for specified SmugMug nick/user."
+msgstr "Senha do site para o apelido/usuário especificado do SmugMug."
+
+#: smugwidget.cpp:133
+msgid "Album Password:"
+msgstr "Senha do álbum:"
+
+#: smugwidget.cpp:136
+msgid "Password for SmugMug album."
+msgstr "Senha do álbum do SmugMug."
+
+#: smugwidget.cpp:139
+msgid "New Album"
+msgstr "Novo álbum"
+
+#: smugwidget.cpp:140
+msgid "Create new SmugMug album"
+msgstr "Cria um novo álbum do SmugMug"
+
+#: smugwidget.cpp:142
+msgid "Reload"
+msgstr "Recarregar"
+
+#: smugwidget.cpp:143
+msgid "Reload album list"
+msgstr "Recarrega a lista de álbuns"
+
+#: smugwidget.cpp:157
+msgid "Destination"
+msgstr "Destino"
+
+#: smugwidget.cpp:159
+msgid "This is the location where SmugMug images will be downloaded."
+msgstr "Esta é a localização onde as imagens do SmugMug serão baixadas."
+
+#: smugwidget.cpp:166
+msgid "Options"
+msgstr "Opções"
+
+#: smugwidget.cpp:168
+msgid "These are options that will be applied to images before upload."
+msgstr "Estas são as opções que serão aplicadas às imagens antes do envio."
+
+#: smugwidget.cpp:172
+msgid "Resize photos before uploading"
+msgstr "Redimensionar as fotos antes de enviar"
+
+#: smugwidget.cpp:182
+msgid "Maximum dimension:"
+msgstr "Dimensão máxima:"
+
+#: smugwidget.cpp:190
+msgid "JPEG quality:"
+msgstr "Qualidade JPEG:"
+
+#: smugwindow.cpp:103
+msgid "Import from SmugMug Web Service"
+msgstr "Importar do serviço de Internet SmugMug"
+
+#: smugwindow.cpp:105
+msgid "Start Download"
+msgstr "Iniciar download"
+
+#: smugwindow.cpp:106
+msgid "Start download from SmugMug web service"
+msgstr "Iniciar o download do serviço de Internet SmugMug"
+
+#: smugwindow.cpp:111
+msgid "Export to SmugMug Web Service"
+msgstr "Exportar para o serviço da Internet SmugMug"
+
+#: smugwindow.cpp:113
+msgid "Start Upload"
+msgstr "Iniciar envio"
+
+#: smugwindow.cpp:114
+msgid "Start upload to SmugMug web service"
+msgstr "Inicia o envio para o serviço da Internet SmugMug"
+
+#: smugwindow.cpp:139
+msgid "Smug Import/Export"
+msgstr "Exportar/importar para o Smug"
+
+#: smugwindow.cpp:141
+msgid ""
+"A Kipi plugin to import/export image collections from/to the SmugMug web "
+"service."
+msgstr ""
+"Um plug-in do Kipi para exportar/importar coleções de imagens do/para o "
+"serviço da Internet SmugMug."
+
+#: smugwindow.cpp:143
+msgid ""
+"(c) 2005-2008, Vardhman Jain\n"
+"(c) 2008-2009, Gilles Caulier\n"
+"(c) 2008-2009, Luka Renko"
+msgstr ""
+"(c) 2005-2008, Vardhman Jain\n"
+"(c) 2008-2009, Gilles Caulier\n"
+"(c) 2008-2009, Luka Renko"
+
+#: smugwindow.cpp:147
+msgid "Luka Renko"
+msgstr "Luka Renko"
+
+#: smugwindow.cpp:147
+msgid "Author and maintainer"
+msgstr "Autor e mantenedor"
+
+#: smugwindow.cpp:155
+msgid "Handbook"
+msgstr "Manual"
+
+#: smugwindow.cpp:164
+msgid ""
+"<qt>Enter the <b>email address</b> and <b>password</b> for your <a href="
+"\"http://www.smugmug.com\">SmugMug</a> account</qt>"
+msgstr ""
+"<qt>Digite o <b>endereço de e-mail</b> e a <b>senha</b> da sua conta do <a "
+"href=\"http://www.smugmug.com\">SmugMug</a></qt>"
+
+#: smugwindow.cpp:278
+msgid "Authentication"
+msgstr "Autenticação"
+
+#: smugwindow.cpp:393 smugwindow.cpp:402 smugwindow.cpp:429 smugwindow.cpp:468
+#: smugwindow.cpp:499 smugwindow.cpp:528 smugwindow.cpp:905
+#, kde-format
+msgid "SmugMug Call Failed: %1\n"
+msgstr "Falha na chamada do SmugMug: %1\n"
+
+#: smugwindow.cpp:445 smugwindow.cpp:674
+msgid "Transfer Progress"
+msgstr "Progresso da transferência"
+
+#: smugwindow.cpp:450 smugwindow.cpp:679
+msgid "%v / %m"
+msgstr "%v / %m"
+
+#: smugwindow.cpp:464 smugwindow.cpp:524
+msgid "<none>"
+msgstr "<nenhum>"
+
+#: smugwindow.cpp:762 smugwindow.cpp:775
+msgid "Cannot open file"
+msgstr "Não foi possível abrir o arquivo"
+
+#: smugwindow.cpp:779
+#, kde-format
+msgid "Uploading file %1"
+msgstr "Enviando o arquivo %1"
+
+#: smugwindow.cpp:804
+#, kde-format
+msgid ""
+"Failed to upload photo into SmugMug: %1\n"
+"Do you want to continue?"
+msgstr ""
+"Falha ao enviar a foto para o SmugMug: %1\n"
+"Deseja continuar?"
+
+#: smugwindow.cpp:832
+#, kde-format
+msgid "Downloading file %1"
+msgstr "Baixando o arquivo %1"
+
+#: smugwindow.cpp:865
+#, kde-format
+msgid ""
+"Failed to save photo: %1\n"
+"Do you want to continue?"
+msgstr ""
+"Falha ao salvar a foto: %1\n"
+"Deseja continuar?"
+
+#: smugwindow.cpp:879
+#, kde-format
+msgid ""
+"Failed to download photo: %1\n"
+"Do you want to continue?"
+msgstr ""
+"Falha ao baixar a foto: %1\n"
+"Deseja continuar?"

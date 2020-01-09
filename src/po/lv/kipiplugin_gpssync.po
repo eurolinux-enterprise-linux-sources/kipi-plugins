@@ -1,0 +1,853 @@
+# translation of kipiplugin_gpssync.po to Latvian
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Viesturs Zarins <viesturs.zarins@mii.lu.lv>, 2008.
+# Maris Nartiss <maris.kde@gmail.com>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_gpssync\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-11 06:30+0200\n"
+"PO-Revision-Date: 2009-01-18 11:50+0200\n"
+"Last-Translator: Maris Nartiss <maris.kde@gmail.com>\n"
+"Language-Team: Latvian <locale@laka.lv>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: gpseditdialog.cpp:98
+#, kde-format
+msgid "%1 - Edit Geographical Coordinates"
+msgstr "%1 - rediģēt ģeogrāfiskās koordinātas"
+
+#: gpseditdialog.cpp:106
+#, fuzzy
+#| msgid ""
+#| "<p>Use the map on the right to select the location where the picture has "
+#| "been taken. Click with left mouse button or move the marker on the map to "
+#| "get the GPS coordinates.</p>"
+msgid ""
+"<p>Use the map on the right to select the location where the picture was "
+"taken. Click with left mouse button or move the marker on the map to get the "
+"GPS coordinates.</p>"
+msgstr ""
+"<p>Izmantojiet labajā pusē esošo karti, lai norādītu attēla uzņemšanas "
+"vietu. Nospiežot ar labo peles pogu vai pārvietojot marķieri, tiks nolasītas "
+"GPS koordinātas.</p>"
+
+#: gpseditdialog.cpp:111
+msgid "Altitude:"
+msgstr "Augstums:"
+
+#: gpseditdialog.cpp:112
+msgid "Latitude:"
+msgstr "Platums:"
+
+#: gpseditdialog.cpp:113
+msgid "Longitude:"
+msgstr "Garums:"
+
+#: gpseditdialog.cpp:127
+#, fuzzy
+#| msgid "Goto Location"
+msgid "Go to Location"
+msgstr "Doties uz vietu"
+
+#: gpseditdialog.cpp:152 gpslistviewcontextmenu.cpp:307
+#: gpslistviewcontextmenu.cpp:339 gpssyncdialog.cpp:267 gpssyncdialog.cpp:349
+#: gpssyncdialog.cpp:357 gpssyncdialog.cpp:486 gpssyncdialog.cpp:496
+#: gpssyncdialog.cpp:507 gpssyncdialog.cpp:536 gpstracklisteditdialog.cpp:127
+msgid "GPS Sync"
+msgstr "GPS Sync"
+
+#: gpseditdialog.cpp:155
+msgid "A Plugin to edit geographical coordinates"
+msgstr "Spraudnis ģeogrāfisko koordinātu rediģēšanai"
+
+#: gpseditdialog.cpp:156 gpssyncdialog.cpp:271
+#, fuzzy
+#| msgid "(c) 2006-2008, Gilles Caulier"
+msgid "(c) 2006-2009, Gilles Caulier"
+msgstr "(c) 2006-2008, Gilles Caulier"
+
+#: gpseditdialog.cpp:158 gpssyncdialog.cpp:273 gpstracklisteditdialog.cpp:133
+#: kmlexportconfig.cpp:290
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: gpseditdialog.cpp:159 gpssyncdialog.cpp:274 gpstracklisteditdialog.cpp:134
+#: kmlexportconfig.cpp:287 kmlexportconfig.cpp:291
+msgid "Developer and maintainer"
+msgstr "Izstrādātājs un uzturētājs"
+
+#: gpseditdialog.cpp:167 gpssyncdialog.cpp:282 gpstracklisteditdialog.cpp:142
+#: kmlexportconfig.cpp:299
+#, fuzzy
+#| msgid "Plugin Handbook"
+msgid "Handbook"
+msgstr "Spraudņa rokasgrāmata"
+
+#: gpseditdialog.cpp:319
+#, fuzzy
+#| msgid "Altitude value is not correct!"
+msgid "Altitude value is invalid."
+msgstr "Augstuma vērtība nav derīga!"
+
+#: gpseditdialog.cpp:320 gpseditdialog.cpp:328 gpseditdialog.cpp:336
+msgid "Edit Geographical Coordinates"
+msgstr "Rediģēt ģeogrāfsikās koordinātas"
+
+#: gpseditdialog.cpp:327
+#, fuzzy
+#| msgid "Latitude value is not correct!"
+msgid "Latitude value is invalid."
+msgstr "Platuma vērtība nav derīga!"
+
+#: gpseditdialog.cpp:335
+#, fuzzy
+#| msgid "Longitude value is not correct!"
+msgid "Longitude value is invalid."
+msgstr "Garuma vērtība nav derīga!"
+
+#: gpslistviewcontextmenu.cpp:78
+#, fuzzy
+#| msgid "Remove Coordinates..."
+msgid "Copy coordinates"
+msgstr "Izdzēst koordinātas..."
+
+#: gpslistviewcontextmenu.cpp:79
+#, fuzzy
+#| msgid "Edit Coordinates..."
+msgid "Paste coordinates"
+msgstr "Rediģēt koordinātas..."
+
+#: gpslistviewcontextmenu.cpp:306
+msgid ""
+"Found more than one point on the clipboard - can only assign one point at a "
+"time."
+msgstr ""
+
+#: gpslistviewcontextmenu.cpp:339
+msgid "Could not find any coordinates on the clipboard."
+msgstr ""
+
+#: gpslistviewitem.cpp:127
+msgid "Interpolated"
+msgstr "Iterpolēts"
+
+#: gpslistviewitem.cpp:131
+msgid "Added"
+msgstr "Pievienots"
+
+#: gpslistviewitem.cpp:133
+msgid "Found"
+msgstr "Atrasts"
+
+#: gpslistviewitem.cpp:149
+#, fuzzy
+#| msgid "Deleted!"
+msgid "Deleted"
+msgstr "Izdzēsts!"
+
+#: gpslistviewitem.cpp:161
+msgid "Not available"
+msgstr "Nav pieejams"
+
+#: gpssyncdialog.cpp:118 plugin_gpssync.cpp:78
+msgid "Geolocation"
+msgstr "Ģeolokācija"
+
+#: gpssyncdialog.cpp:121
+msgid "Correlate"
+msgstr "Korelēt"
+
+#: gpssyncdialog.cpp:122
+msgid "Edit..."
+msgstr "Rediģēt..."
+
+#: gpssyncdialog.cpp:123
+msgid "Remove"
+msgstr "Izdzēst"
+
+#: gpssyncdialog.cpp:125
+msgid ""
+"Correlate in time and interpolate distance of data from GPX file with all "
+"images on the list."
+msgstr ""
+"Visiem attēliem izmantot attēla uzņemšanas laiku un interpolēt attālumu no "
+"laikā tuvākajiem punktiem GPX failā."
+
+#: gpssyncdialog.cpp:126
+msgid "Manually edit GPS coordinates of selected images from the list."
+msgstr "Izvēlētajiem attēliem ar roku norādīt GPS koordinātas."
+
+#: gpssyncdialog.cpp:127
+msgid "Remove GPS coordinates of selected images from the list."
+msgstr "Izdzēst GPS koordinātas izvēlētajiem attēliem."
+
+#: gpssyncdialog.cpp:144 gpstracklisteditdialog.cpp:101
+msgid "Date"
+msgstr "Datums"
+
+#: gpssyncdialog.cpp:146 gpstracklisteditdialog.cpp:103
+msgid "Latitude"
+msgstr "Platums"
+
+#: gpssyncdialog.cpp:148 gpstracklisteditdialog.cpp:105
+msgid "Longitude"
+msgstr "Garums"
+
+#: gpssyncdialog.cpp:150 gpstracklisteditdialog.cpp:107
+msgid "Altitude"
+msgstr "Augstums"
+
+#: gpssyncdialog.cpp:152
+msgid "Status"
+msgstr "Statuss"
+
+#: gpssyncdialog.cpp:163
+msgid "Settings"
+msgstr "Iestatījumi"
+
+#: gpssyncdialog.cpp:166
+msgid "Load GPX File..."
+msgstr "Ielādēt GPX failu..."
+
+#: gpssyncdialog.cpp:168
+msgid "Current GPX file:"
+msgstr "Pašreizējais GPX fails:"
+
+#: gpssyncdialog.cpp:169
+msgid "No GPX file"
+msgstr "Nav GPX faila"
+
+#: gpssyncdialog.cpp:173
+msgid "Max. time gap (sec.):"
+msgstr "Maks. laika atstarpe (sek.):"
+
+#: gpssyncdialog.cpp:175
+msgid ""
+"Sets the maximum difference in seconds from a GPS track point to the image "
+"time to be matched. If the time difference exceeds this setting, no match "
+"will be attempted."
+msgstr ""
+"Norāda maksimālo atšķirību sekundēs no GPS punkta līdz attēla uzņemšanas "
+"brīdim, lai tie tiktu izskatīti par vienādiem. Ja atšķirība pārsniedz šo "
+"iestījumu, netiks mēģināts savietot attēlu."
+
+#: gpssyncdialog.cpp:179
+msgid "Time zone:"
+msgstr "Laika josla:"
+
+#: gpssyncdialog.cpp:225
+msgid ""
+"<p>Sets the time zone the camera was set to during photo shooting, so that "
+"the time stamps of the images can be converted to GMT to match the GPS time "
+"reference.</p><p>Note: positive offsets count eastwards from zero longitude "
+"(GMT), they are 'ahead of time'.</p>"
+msgstr ""
+"<p>Uzstāda fotoaparāta pulksteņa laika joslu attēlu uzņemšanas brīdī, lai "
+"varētu attēlu laika zīmogus pārveidot uz GMT, kas ir GPS laika atskaites "
+"sistēma.</p><p>Piezīme: pozitīvas nobīdes ir uz austrumiem no nulles "
+"meridiāna (GMT) tās atrodas 'laikam pa priekšu'.</p>"
+
+#: gpssyncdialog.cpp:231
+msgid "Interpolate"
+msgstr "Interpolēt"
+
+#: gpssyncdialog.cpp:232
+msgid ""
+"Set this option to interpolate GPS track points which are not closely "
+"matched to the GPX data file."
+msgstr ""
+"Ieslēdziet šo iespēju, lai interpolētu GPS ceļa punktus no GPX datu faila, "
+"ja tie neatrodas pietiekami tuvu."
+
+#: gpssyncdialog.cpp:235
+msgid "Difference in min.:"
+msgstr "Atstatums minūtēs:"
+
+#: gpssyncdialog.cpp:237
+msgid ""
+"Sets the maximum time difference in minutes (240 max.) to interpolate GPX "
+"file points to image time data."
+msgstr ""
+"Norāda maksimālo laika atšķirību minūtēs (maks. 240), kurai veikt "
+"interpolāciju starp GPX faila punktiem un attēla uzņemšanas laiku."
+
+#: gpssyncdialog.cpp:270
+#, fuzzy
+#| msgid "A Plugin to synchronize pictures metadata with a GPS device"
+msgid "A Plugin to synchronize pictures' metadata with a GPS device"
+msgstr "Spraudnis attēlu metadatu sinhronizēšanai ar GPS ierīci"
+
+#: gpssyncdialog.cpp:336 kmlexportconfig.cpp:174
+#, kde-format
+msgid "%1|GPS Exchange Format"
+msgstr "%1|GPS apmaiņas formāts"
+
+#: gpssyncdialog.cpp:337 kmlexportconfig.cpp:175
+msgid "Select GPX File to Load"
+msgstr "Izvēlieties ielādējamo GPX failu"
+
+#: gpssyncdialog.cpp:348 kmlexport.cpp:374
+#, fuzzy, kde-format
+#| msgid "Cannot parse %1 GPX file!"
+msgid "Cannot parse %1 GPX file."
+msgstr "Neizdevās parsēt %1 GPX failu!"
+
+#: gpssyncdialog.cpp:356
+#, fuzzy, kde-format
+#| msgid "The %1 GPX file do not have a date-time track to use!"
+msgid "The %1 GPX file does not have a date-time track to use."
+msgstr "GPX failā %1 nav izmantojama datuma-laika ceļa!"
+
+#: gpssyncdialog.cpp:363
+#, kde-format
+msgid "Points parsed: %1"
+msgstr "Ielasīti punkti: %1"
+
+#: gpssyncdialog.cpp:403
+#, kde-format
+msgid "1 image from the list is not updated."
+msgid_plural "%1 images from the list are not updated."
+msgstr[0] "%1 attēls no saraksta nav izmainīts."
+msgstr[1] "%1 attēli no saraksta nav izmainīti."
+msgstr[2] "%1 attēlu no saraksta nav izmainīti."
+
+#: gpssyncdialog.cpp:407
+#, kde-format
+msgid ""
+"<p>%1\n"
+"Do you really want to close this window without applying changes?</p>"
+msgstr ""
+"<p>%1\n"
+"Vai tiešām vēlaties aizvērt šo logu bez izmaiņu saglabāšanas?</p>"
+
+#: gpssyncdialog.cpp:485
+msgid "Cannot find pictures to correlate with GPX file data."
+msgstr ""
+"Neizdevās atrast nevienu attēlu, kas atbilstu GPX failā esošajam laika "
+"periodam."
+
+#: gpssyncdialog.cpp:490
+#, fuzzy, kde-format
+#| msgid ""
+#| "GPS data of 1 image have been updated on the list using the GPX data file."
+#| msgid_plural ""
+#| "GPS data of %1 images have been updated on the list using the GPX data "
+#| "file."
+msgid "The GPS data of 1 image have been updated using the GPX data file."
+msgid_plural ""
+"The GPS data of %1 images have been updated using the GPX data file."
+msgstr[0] "Tika mainīti %1 attēla GPS dati, izmantojot GPX datu failu."
+msgstr[1] "Tika mainīti %1 attēlu GPS dati, izmantojot GPX datu failu."
+msgstr[2] "Tika mainīti %1 attēlu GPS dati, izmantojot GPX datu failu."
+
+#: gpssyncdialog.cpp:494
+#, fuzzy
+#| msgid "Press Apply button to update images metadata."
+msgid "Press the Apply button to update the image's metadata."
+msgid_plural "Press the Apply button to update the images' metadata."
+msgstr[0] "Nspiediet pogu \"Pielietot\", lai saglabātu attēlu metadatus."
+msgstr[1] "Nspiediet pogu \"Pielietot\", lai saglabātu attēlu metadatus."
+msgstr[2] "Nspiediet pogu \"Pielietot\", lai saglabātu attēlu metadatus."
+
+#: gpssyncdialog.cpp:506
+#, fuzzy
+#| msgid ""
+#| "Please, select at least one image from the list to edit GPS coordinates "
+#| "manually."
+msgid ""
+"Please select at least one image from the list to edit GPS coordinates "
+"manually."
+msgstr ""
+"Lūdzu izvēlieties no saraksta vismaz vienu attēlu, kura koordinātas vēlaties "
+"rediģēt ar roku."
+
+#: gpssyncdialog.cpp:535
+#, fuzzy
+#| msgid ""
+#| "Please, select at least one image from the list to remove GPS coordinates."
+msgid "Please select at least one image from which to remove GPS coordinates."
+msgstr ""
+"Lūdzu izvēlieties no saraksta vismaz vienu attēlu, kuram vēlaties izdzēst "
+"GPS koordinātas."
+
+#: gpstracklisteditdialog.cpp:87
+msgid "Edit Track List Geographical Coordinates"
+msgstr "Rediģēt pēdu saraksta ģeogrāfiskās koordniātas"
+
+#: gpstracklisteditdialog.cpp:99
+msgid "Id"
+msgstr "Id"
+
+#: gpstracklisteditdialog.cpp:109
+msgid "Changed"
+msgstr "Izmanīts"
+
+#: gpstracklisteditdialog.cpp:130
+#, fuzzy
+#| msgid "A Plugin to edit GPS track list"
+msgid "A plugin to edit GPS track lists."
+msgstr "Spraudnis GPS pēdu sarakstu rediģēšanai"
+
+#: gpstracklisteditdialog.cpp:131
+#, fuzzy
+#| msgid "(c) 2006-2008, Gilles Caulier"
+msgid "(c) 2008-2009, Gilles Caulier"
+msgstr "(c) 2006-2008, Gilles Caulier"
+
+#: gpstracklistviewitem.cpp:76
+msgid "Yes"
+msgstr "Jā"
+
+#: gpstracklistviewitem.cpp:76
+msgid "No"
+msgstr "Nē"
+
+#: kmlexportconfig.cpp:70 kmlexportconfig.cpp:280
+msgid "KML Export"
+msgstr "KML eksports"
+
+#: kmlexportconfig.cpp:79
+msgid "Target Preferences"
+msgstr "Mērķa iestatījumi"
+
+#: kmlexportconfig.cpp:83
+msgid "Target Type"
+msgstr "Mērķa tips"
+
+#: kmlexportconfig.cpp:86
+msgid "&Local or web target used by GoogleEarth"
+msgstr "&Lokāls vai tīmekļa mērķis, ko lieto GoogleEarth"
+
+#: kmlexportconfig.cpp:89
+msgid "Web target used by GoogleMap"
+msgstr "Tīmekļa mērķis, ko lieto GoogleMap"
+
+#: kmlexportconfig.cpp:90
+#, fuzzy
+#| msgid ""
+#| "When using GoogleMap, all image must have complete Url, icons are squared "
+#| "and when drawing a track, only linetrack is exported"
+msgid ""
+"When using GoogleMap, all images must have complete URLs, icons are squared, "
+"and when drawing a track, only line track is exported."
+msgstr ""
+"Ja lietojiet GoogleMap, visu attēlu URL jābūt pilniem, ikonām jābūt "
+"kvadrātiem un pēdas tiek attēlotas ar līniju"
+
+#: kmlexportconfig.cpp:102
+msgid "Picture Altitude:"
+msgstr "Attēla augstums:"
+
+#: kmlexportconfig.cpp:104 kmlexportconfig.cpp:225
+msgid "clamp to ground"
+msgstr "pielīmēts pie zemes"
+
+#: kmlexportconfig.cpp:105 kmlexportconfig.cpp:226
+msgid "relative to ground"
+msgstr "relatīvs pret zemi"
+
+#: kmlexportconfig.cpp:106 kmlexportconfig.cpp:227
+msgid "absolute"
+msgstr "absolūts"
+
+#: kmlexportconfig.cpp:107
+msgid ""
+"<p>Specifies how pictures are displayed<dl><dt>clamp to ground (default)</"
+"dt><dd>Indicates to ignore an altitude specification</dd><dt>relative to "
+"ground</dt><dd>Sets the altitude of the element relative to the actual "
+"ground elevation of a particular location.</dd><dt>absolute</dt><dd>Sets the "
+"altitude of the coordinate relative to sea level, regardless of the actual "
+"elevation of the terrain beneath the element.</dd></dl>"
+msgstr ""
+"<p>Norāda kādā veidā novietot attēlus<dl><dt>pielīmēts pie zemes "
+"(noklusētais)</dt><dd>Augstums tiks ignorēts</dd><dt>relatīvs pret zemi</"
+"dt><dd>Norāda augstumu relatīvi pret konkrētās vietas reljefu.</"
+"dd><dt>absolūts</dt><dd>Norāda augstumu attiecībā pret jūras līmeni "
+"neatkarīgi no reljiefa konkrētajā punktā.</dd></dl>"
+
+#: kmlexportconfig.cpp:117
+msgid "Destination Directory:"
+msgstr "Mērķa mape:"
+
+#: kmlexportconfig.cpp:121
+#, fuzzy
+#| msgid "Select a directory to save the kml file and pictures"
+msgid "Select a directory in which to save the kml file and pictures"
+msgstr "Norādiet mapi, kurā saglabāt KML failu un attēlus"
+
+#: kmlexportconfig.cpp:124
+#, fuzzy
+#| msgid "Destination Url:"
+msgid "Destination URL:"
+msgstr "Mērķa URL:"
+
+#: kmlexportconfig.cpp:126
+#, fuzzy
+#| msgid "File Name:"
+msgid "Filename:"
+msgstr "Faila nosaukums:"
+
+#: kmlexportconfig.cpp:144
+msgid "Sizes"
+msgstr "Izmēri"
+
+#: kmlexportconfig.cpp:146
+msgid "Icon Size:"
+msgstr "Ikonas izmērs:"
+
+#: kmlexportconfig.cpp:150
+msgid "Image Size:"
+msgstr "Attēla izmērs:"
+
+#: kmlexportconfig.cpp:164
+msgid "GPX Tracks"
+msgstr "GPX pēdas"
+
+#: kmlexportconfig.cpp:168
+msgid "Draw GPX Track"
+msgstr "Zīmēt GPX ceļu"
+
+#: kmlexportconfig.cpp:171
+msgid "GPX file:"
+msgstr "GPX fails:"
+
+#: kmlexportconfig.cpp:177
+msgid "Time Zone:"
+msgstr "Laika josla:"
+
+#: kmlexportconfig.cpp:179
+msgid "GMT-12:00"
+msgstr "GMT-12:00"
+
+#: kmlexportconfig.cpp:180
+msgid "GMT-11:00"
+msgstr "GMT-11:00"
+
+#: kmlexportconfig.cpp:181
+msgid "GMT-10:00"
+msgstr "GMT-10:00"
+
+#: kmlexportconfig.cpp:182
+msgid "GMT-09:00"
+msgstr "GMT-09:00"
+
+#: kmlexportconfig.cpp:183
+msgid "GMT-08:00"
+msgstr "GMT-08:00"
+
+#: kmlexportconfig.cpp:184
+msgid "GMT-07:00"
+msgstr "GMT-07:00"
+
+#: kmlexportconfig.cpp:185
+msgid "GMT-06:00"
+msgstr "GMT-06:00"
+
+#: kmlexportconfig.cpp:186
+msgid "GMT-05:00"
+msgstr "GMT-05:00"
+
+#: kmlexportconfig.cpp:187
+msgid "GMT-04:00"
+msgstr "GMT-04:00"
+
+#: kmlexportconfig.cpp:188
+msgid "GMT-03:00"
+msgstr "GMT-03:00"
+
+#: kmlexportconfig.cpp:189
+msgid "GMT-02:00"
+msgstr "GMT-02:00"
+
+#: kmlexportconfig.cpp:190
+msgid "GMT-01:00"
+msgstr "GMT-01:00"
+
+#: kmlexportconfig.cpp:191
+msgid "GMT"
+msgstr "GMT"
+
+#: kmlexportconfig.cpp:192
+msgid "GMT+01:00"
+msgstr "GMT+01:00"
+
+#: kmlexportconfig.cpp:193
+msgid "GMT+02:00"
+msgstr "GMT+02:00"
+
+#: kmlexportconfig.cpp:194
+msgid "GMT+03:00"
+msgstr "GMT+03:00"
+
+#: kmlexportconfig.cpp:195
+msgid "GMT+04:00"
+msgstr "GMT+04:00"
+
+#: kmlexportconfig.cpp:196
+msgid "GMT+05:00"
+msgstr "GMT+05:00"
+
+#: kmlexportconfig.cpp:197
+msgid "GMT+06:00"
+msgstr "GMT+06:00"
+
+#: kmlexportconfig.cpp:198
+msgid "GMT+07:00"
+msgstr "GMT+07:00"
+
+#: kmlexportconfig.cpp:199
+msgid "GMT+08:00"
+msgstr "GMT+08:00"
+
+#: kmlexportconfig.cpp:200
+msgid "GMT+09:00"
+msgstr "GMT+09:00"
+
+#: kmlexportconfig.cpp:201
+msgid "GMT+10:00"
+msgstr "GMT+10:00"
+
+#: kmlexportconfig.cpp:202
+msgid "GMT+11:00"
+msgstr "GMT+11:00"
+
+#: kmlexportconfig.cpp:203
+msgid "GMT+12:00"
+msgstr "GMT+12:00"
+
+#: kmlexportconfig.cpp:204
+msgid "GMT+13:00"
+msgstr "GMT+13:00"
+
+#: kmlexportconfig.cpp:205
+msgid "GMT+14:00"
+msgstr "GMT+14:00"
+
+#: kmlexportconfig.cpp:206
+msgid ""
+"Sets the time zone of the camera during picture shooting, so that the time "
+"stamps of the GPS can be converted to match the local time"
+msgstr ""
+"Norāda fotoaparāta pulksteņa laika joslu attēlu uzņemšanas brīdī, lai varētu "
+"GPS laika zīmogus pārveidot uz lokālo laiku"
+
+#: kmlexportconfig.cpp:210
+msgid "Track Width:"
+msgstr "Ceļa platums:"
+
+#: kmlexportconfig.cpp:214
+msgid "Track Color:"
+msgstr "Ceļa krāsa:"
+
+#: kmlexportconfig.cpp:220
+msgid "Opacity:"
+msgstr "Necaurspīdīgums:"
+
+#: kmlexportconfig.cpp:223
+msgid "Track Altitude:"
+msgstr "Ceļa augstums:"
+
+#: kmlexportconfig.cpp:228
+msgid ""
+"<p>Specifies how the points are displayed<dl><dt>clamp to ground (default)</"
+"dt><dd>Indicates to ignore an altitude specification</dd><dt>relative to "
+"ground</dt><dd>Sets the altitude of the element relative to the actual "
+"ground elevation of a particular location.</dd><dt>absolute</dt><dd>Sets the "
+"altitude of the coordinate relative to sea level, regardless of the actual "
+"elevation of the terrain beneath the element.</dd></dl>"
+msgstr ""
+"<p>Norāda kādā veidā attēlot punktus<dl><dt>pielīmēts pie zemes (noklusētais)"
+"</dt><dd>Augstums tiks ignorēts</dd><dt>relatīvs pret zemi</dt><dd>Norāda "
+"augstumu relatīvi pret konkrētās vietas reljefu.</dd><dt>absolūts</"
+"dt><dd>Norāda augstumu attiecībā pret jūras līmeni neatkarīgi no reljiefa "
+"konkrētajā punktā.</dd></dl>"
+
+#: kmlexportconfig.cpp:283
+msgid "A Kipi plugin for KML exporting"
+msgstr "KIPI spraudnis KML eksportam"
+
+#: kmlexportconfig.cpp:284
+msgid "(c) 2006-2007, Stéphane Pontier"
+msgstr "(c) 2006-2007, Stéphane Pontier"
+
+#: kmlexportconfig.cpp:286
+msgid "Stéphane Pontier"
+msgstr "Stéphane Pontier"
+
+#: kmlexport.cpp:69
+msgid "Generating KML file..."
+msgstr "Ģenerē KML failu..."
+
+#: kmlexport.cpp:89
+#, kde-format
+msgid "Could not create '%1'"
+msgstr "Neizdevās izveidot '%1'"
+
+#: kmlexport.cpp:173
+#, kde-format
+msgid "Could not read image '%1'"
+msgstr "Neizdevās nolasīt attēlu '%1'"
+
+#: kmlexport.cpp:181
+#, kde-format
+msgid "Format of image '%1' is unknown"
+msgstr "Nepazīstams attēla formāts '%1'"
+
+#: kmlexport.cpp:191
+#, kde-format
+msgid "Error loading image '%1'"
+msgstr "Kļūda ielādējot attēlu '%1'"
+
+#: kmlexport.cpp:231
+#, kde-format
+msgid "Could not save image '%1' to '%2'"
+msgstr "Neizdevās saglabāt attēlu '%1' iekš '%2'"
+
+#: kmlexport.cpp:328
+#, kde-format
+msgid "Creation of placemark '%1'"
+msgstr "Vietas norādes '%1' izveidošana"
+
+#: kmlexport.cpp:335
+#, kde-format
+msgid "Could not save icon for image '%1' to '%2'"
+msgstr "Neizdevās saglabāt attēla '%1' ikonu iekš '%2'"
+
+#: kmlexport.cpp:365
+#, fuzzy
+#| msgid "No GPX file Chosen!"
+msgid "No GPX file chosen."
+msgstr "Nav norādīts GPX fails!"
+
+#: kmlexport.cpp:380
+#, fuzzy, kde-format
+#| msgid "The %1 GPX file do not have a date-time track to use!"
+msgid "The %1 GPX file do not have a date-time track to use."
+msgstr "GPX failā %1 nav izmantojama datuma-laika ceļa!"
+
+#: kmlexport.cpp:387
+msgid "Tracks"
+msgstr "Ceļi"
+
+#: kmlexport.cpp:484
+#, kde-format
+msgid "No position data for '%1'"
+msgstr "Nav pozīcijas datu priekš '%1'"
+
+#: kmlexport.cpp:495
+#, kde-format
+msgid "No position data for 1 picture"
+msgid_plural "No position data for %1 pictures"
+msgstr[0] "Nav pozīcijas datu %1 attēlam"
+msgstr[1] "Nav pozīcijas datu %1 attēliem"
+msgstr[2] "Nav pozīcijas datu %1 attēliem"
+
+#: kmlexport.cpp:510
+msgid "Move to final directory"
+msgstr "Pārvieto uz mērķa mapi"
+
+#: kmlgpsdataparser.cpp:65
+msgid "Track"
+msgstr "Ceļš"
+
+#: kmlgpsdataparser.cpp:94
+msgid "Points"
+msgstr "Punkti"
+
+#: kmlgpsdataparser.cpp:104
+msgid "Point"
+msgstr "Punkts"
+
+#: plugin_gpssync.cpp:81
+msgid "Correlator"
+msgstr "Korelators"
+
+#: plugin_gpssync.cpp:88
+msgid "Edit Coordinates..."
+msgstr "Rediģēt koordinātas..."
+
+#: plugin_gpssync.cpp:94
+msgid "Track List Editor..."
+msgstr "Pēdu saraksta redaktors..."
+
+#: plugin_gpssync.cpp:100
+msgid "Remove Coordinates..."
+msgstr "Izdzēst koordinātas..."
+
+#: plugin_gpssync.cpp:108
+#, fuzzy
+#| msgid "KML Export..."
+msgid "Export to KML..."
+msgstr "KML eksports..."
+
+#: plugin_gpssync.cpp:139
+#, kde-format
+msgid ""
+"<p>Unable to find the gpsbabel executable:<br/> This program is required by "
+"this plugin to support GPS data file decoding. Please install gpsbabel as a "
+"package from your distributor or <a href=\"%1\">download the source</a>.</"
+"p><p>Note: at least, gpsbabel version %2 is required by this plugin.</p>"
+msgstr ""
+"<p>Neizdevās atrast gpsbabel izpildfailu:<br/> Šī programma ir nepieciešama "
+"lai atkodētu GPS datu failus. Lūdzu instalēljet jūsu distribūcijas gpsbabel "
+"pakotni vai <a href=\"%1\">lejupielādējiet tās pirmkodu</a>.</p><p>Piezīme: "
+"šim spraudnim nepieciešma vismaz %2 gpsbabel versija.</p>"
+
+#: plugin_gpssync.cpp:156
+#, kde-format
+msgid ""
+"<p>gpsbabel executable is not up to date:<br/> The version %1 of gpsbabel "
+"have been found on your computer. This version is too old to run properly "
+"with this plugin. Please update gpsbabel as a package from your distributor "
+"or <a href=\"%2\">download the source</a>.</p><p>Note: at least, gpsbabel "
+"version %3 is required by this plugin</p>"
+msgstr ""
+"<p>gpsbabel izpildfails ir pārāk vecs:<br/> Jūsu datorā tika atrasta "
+"gpsbabel versija %1. Šī versija ir pārāk veca, lai šis spraudnis spētu ar to "
+"strādāt. Lūdzu atjauniniet jūsu distribūcijas gpsbabel pakotni vai <a href="
+"\"%2\"> lejupielādējiet tās pirmkodu</a>.</p> <p>Piezīme: šim spraudnim "
+"nepieciešma vismaz %3 gpsbabel versija.</p>"
+
+#: plugin_gpssync.cpp:331
+#, fuzzy
+#| msgid "No GPS location have been found in your pictures."
+msgid "No GPS locations have been found in your pictures."
+msgstr "Jūsu attēlos netika atrasta GPS pozīcijas informācija."
+
+#: plugin_gpssync.cpp:392
+msgid ""
+"Geographical coordinates will be definitively removed from all selected "
+"images.\n"
+"Do you want to continue ?"
+msgstr ""
+"Ģeogrāfiskās koordinātas tiks pilnībā izdzēstas no visiem iezīmētajiem "
+"attēliem.\n"
+"Vai vēlaties turpināt?"
+
+#: plugin_gpssync.cpp:394
+msgid "Remove Geographical Coordinates"
+msgstr "Izdzēst ģeogrāfiskās koordinātas"
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Viesturs Zariņš"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "viesturs.zarins@mi.lu.lv"
+
+#~ msgid "(c) 2006-2008, Gilles Caulier"
+#~ msgstr "(c) 2006-2008, Gilles Caulier"
+
+#~ msgid "(c) 2008, Gilles Caulier"
+#~ msgstr "(c) 2008, Gilles Caulier"

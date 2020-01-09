@@ -1,0 +1,210 @@
+# translation of kipiplugin_dngconverter.po to Dutch
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Freek de Kruijf <f.de.kruijf@hetnet.nl>, 2008, 2009.
+# Freek de Kruijf <f.de.kruijf@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_dngconverter\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-27 07:11+0100\n"
+"PO-Revision-Date: 2009-10-13 00:28+0200\n"
+"Last-Translator: Freek de Kruijf <f.de.kruijf@gmail.com>\n"
+"Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: aboutdata.h:47
+msgid "DNG Image Converter"
+msgstr "DNG-afbeelding-convertor"
+
+#: aboutdata.h:49
+msgid "A tool to batch convert RAW camera images to DNG"
+msgstr "Een hulpmiddel voor bulkconversie van RAW-camerabeelden naar DNG"
+
+#: aboutdata.h:50
+msgid "(c) 2008-2009, Gilles Caulier"
+msgstr "(c) 2008-2009, Gilles Caulier"
+
+#: aboutdata.h:52
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: aboutdata.h:53
+msgid "Author"
+msgstr "Auteur"
+
+#: actionthread.cpp:229
+msgid "Cannot identify Raw image"
+msgstr "RAW-afbeelding is niet herkend"
+
+#: actionthread.cpp:236
+#, kde-format
+msgid "Make: %1\n"
+msgstr "Fabrikant: %1\n"
+
+#: actionthread.cpp:237
+#, kde-format
+msgid "Model: %1\n"
+msgstr "Model: %1\n"
+
+#: actionthread.cpp:241
+#, kde-format
+msgid "Created: %1\n"
+msgstr "Aangemaakt: %1\n"
+
+#: actionthread.cpp:248
+#, kde-format
+msgid "Aperture: f/%1\n"
+msgstr "Diafragma: f/%1\n"
+
+#: actionthread.cpp:253
+#, kde-format
+msgid "Focal: %1 mm\n"
+msgstr "Brandpuntsafstand: %1 mm\n"
+
+#: actionthread.cpp:258
+#, kde-format
+msgid "Exposure: 1/%1 s\n"
+msgstr "Sluitertijd: 1/%1 s\n"
+
+#: actionthread.cpp:263
+#, kde-format
+msgid "Sensitivity: %1 ISO"
+msgstr "Lichtgevoeligheid: %1 ISO"
+
+#: batchdialog.cpp:129
+msgid "Exit DNG Converter"
+msgstr "DNG-convertor verlaten"
+
+#: batchdialog.cpp:130
+msgid "Batch convert RAW camera images to DNG"
+msgstr "Bulkconversie van RAW-camerabeelden naar DNG"
+
+#: batchdialog.cpp:133
+msgid "&Add"
+msgstr "&Toevoegen"
+
+#: batchdialog.cpp:134
+msgid "Add new Raw files to the list"
+msgstr "Nieuwe RAW-bestanden aan de lijst toevoegen"
+
+#: batchdialog.cpp:136
+msgid "&Remove"
+msgstr "&Verwijderen"
+
+#: batchdialog.cpp:137
+msgid "Remove selected Raw files from the list"
+msgstr "Geselecteerde RAW-bestanden uit de lijst verwijderen"
+
+#: batchdialog.cpp:156
+msgid "Thumbnail"
+msgstr "Miniatuur"
+
+#: batchdialog.cpp:157
+msgid "Raw File"
+msgstr "RAW-bestand"
+
+#: batchdialog.cpp:158
+msgid "Target File"
+msgstr "Doelbestand"
+
+#: batchdialog.cpp:159
+msgid "Camera"
+msgstr "Camera"
+
+#: batchdialog.cpp:190
+msgid "Handbook"
+msgstr "Handboek"
+
+#: batchdialog.cpp:331
+msgid "The list does not contain any Raw files to process."
+msgstr "Deze lijst bevat geen RAW-bestanden om te verwerken."
+
+#: batchdialog.cpp:472
+msgid "&Abort"
+msgstr "&Afbreken"
+
+#: batchdialog.cpp:473
+msgid "Abort the conversion of Raw files."
+msgstr "Breek de conversie van RAW-bestanden af"
+
+#: batchdialog.cpp:478
+msgid "Con&vert"
+msgstr "Con&verteren"
+
+#: batchdialog.cpp:479
+msgid "Start converting the Raw images using the current settings."
+msgstr "Start de conversie van de RAW-afbeeldingen met de huidige instellingen"
+
+#: batchdialog.cpp:528
+#, kde-format
+msgid "Save Raw Image converted from '%1' as"
+msgstr "Geconverteerde RAW-afbeelding uit '%1' opslaan als"
+
+#: batchdialog.cpp:557
+#, kde-format
+msgid "Failed to save image %1"
+msgstr "Opslaan van afbeelding %1 is mislukt"
+
+#: dngconverter.cpp:54
+msgid "File(s) to convert"
+msgstr "Te converteren bestand(en)"
+
+#: plugin_dngconverter.cpp:66
+msgid "DNG Converter..."
+msgstr "DNG-convertor..."
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Rinse de Vries, Freek de Kruijf"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "rinsedevries@kde.nl, f.de.kruijf@hetnet.nl"
+
+#: settingswidget.cpp:106
+msgid "Embed Original File"
+msgstr "Neem het originele bestand er in op"
+
+#: settingswidget.cpp:108
+msgid "Lossless Compression"
+msgstr "Compressie zonder verlies"
+
+#: settingswidget.cpp:110
+msgid "Update File Modification Date"
+msgstr "Datum van bestandswijziging bijwerken"
+
+#: settingswidget.cpp:114
+msgid "JPEG Preview:"
+msgstr "JPEG-voorbeeld:"
+
+#: settingswidget.cpp:116
+msgid "None"
+msgstr "Geen"
+
+#: settingswidget.cpp:117
+msgid "Medium"
+msgstr "Middel"
+
+#: settingswidget.cpp:118
+msgid "Full size"
+msgstr "Volledige grootte"
+
+#: settingswidget.cpp:124
+msgid "If Target File Exists:"
+msgstr "Als doelbestand al bestaat:"
+
+#: settingswidget.cpp:128
+msgid "Overwrite automatically"
+msgstr "Automatisch overschrijven"
+
+#: settingswidget.cpp:129
+msgid "Open rename-file dialog"
+msgstr "Dialoog voor bestandshernoeming openen"

@@ -1,0 +1,839 @@
+# translation of kipiplugin_gpssync.po to Thai
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_gpssync\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-11 06:30+0200\n"
+"PO-Revision-Date: 2008-12-16 12:49+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: gpseditdialog.cpp:98
+#, kde-format
+msgid "%1 - Edit Geographical Coordinates"
+msgstr "%1 - แก้ไขค่าพิกัดเชิงภูมิศาสตร์"
+
+#: gpseditdialog.cpp:106
+#, fuzzy
+#| msgid ""
+#| "<p>Use the map on the right to select the location where the picture has "
+#| "been taken. Click with left mouse button or move the marker on the map to "
+#| "get the GPS coordinates.</p>"
+msgid ""
+"<p>Use the map on the right to select the location where the picture was "
+"taken. Click with left mouse button or move the marker on the map to get the "
+"GPS coordinates.</p>"
+msgstr ""
+"<p>ใช้แผนที่ทางด้านขวาเพื่อเลือกสถานที่ที่ภาพถูกถ่ายมา คลิกบนแผนที่ด้วยเมาส์ปุ่มซ้าย "
+"หรือย้ายตัวทำเครื่อหมายบนแผนที่ เพื่อรับค่าพิกัดดาวเทียมจาก GPS<p>"
+
+#: gpseditdialog.cpp:111
+msgid "Altitude:"
+msgstr "ระดับความสูง:"
+
+#: gpseditdialog.cpp:112
+msgid "Latitude:"
+msgstr "เส้นรุ้ง:"
+
+#: gpseditdialog.cpp:113
+msgid "Longitude:"
+msgstr "เส้นแวง:"
+
+#: gpseditdialog.cpp:127
+#, fuzzy
+#| msgid "Goto Location"
+msgid "Go to Location"
+msgstr "ไปยังตำแหน่ง"
+
+#: gpseditdialog.cpp:152 gpslistviewcontextmenu.cpp:307
+#: gpslistviewcontextmenu.cpp:339 gpssyncdialog.cpp:267 gpssyncdialog.cpp:349
+#: gpssyncdialog.cpp:357 gpssyncdialog.cpp:486 gpssyncdialog.cpp:496
+#: gpssyncdialog.cpp:507 gpssyncdialog.cpp:536 gpstracklisteditdialog.cpp:127
+msgid "GPS Sync"
+msgstr "ปรับเทียบข้อมูล GPS"
+
+#: gpseditdialog.cpp:155
+msgid "A Plugin to edit geographical coordinates"
+msgstr "ส่วนเสริมสำหรับแก้ไขค่าพิกัดเชิงภูมิศาสตร์"
+
+#: gpseditdialog.cpp:156 gpssyncdialog.cpp:271
+#, fuzzy
+#| msgid "(c) 2006-2008, Gilles Caulier"
+msgid "(c) 2006-2009, Gilles Caulier"
+msgstr "สงวนลิขสิทธิ์ (c) 2006-2008, Gilles Caulier"
+
+#: gpseditdialog.cpp:158 gpssyncdialog.cpp:273 gpstracklisteditdialog.cpp:133
+#: kmlexportconfig.cpp:290
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: gpseditdialog.cpp:159 gpssyncdialog.cpp:274 gpstracklisteditdialog.cpp:134
+#: kmlexportconfig.cpp:287 kmlexportconfig.cpp:291
+msgid "Developer and maintainer"
+msgstr "ผู้พัฒนาและผู้ดูแล"
+
+#: gpseditdialog.cpp:167 gpssyncdialog.cpp:282 gpstracklisteditdialog.cpp:142
+#: kmlexportconfig.cpp:299
+#, fuzzy
+#| msgid "Plugin Handbook"
+msgid "Handbook"
+msgstr "คู่มือของส่วนเสริม"
+
+#: gpseditdialog.cpp:319
+#, fuzzy
+#| msgid "Altitude value is not correct!"
+msgid "Altitude value is invalid."
+msgstr "ค่าระดับความสูงเหนือน้ำทะเลไม่ถูกต้อง !"
+
+#: gpseditdialog.cpp:320 gpseditdialog.cpp:328 gpseditdialog.cpp:336
+msgid "Edit Geographical Coordinates"
+msgstr "แก้ไขพิกัดทางภูมิศาสตร์"
+
+#: gpseditdialog.cpp:327
+#, fuzzy
+#| msgid "Latitude value is not correct!"
+msgid "Latitude value is invalid."
+msgstr "ค่าของเส้นรุ้งไม่ถูกต้อง !"
+
+#: gpseditdialog.cpp:335
+#, fuzzy
+#| msgid "Longitude value is not correct!"
+msgid "Longitude value is invalid."
+msgstr "ค่าของเส้นแวงไม่ถูกต้อง !"
+
+#: gpslistviewcontextmenu.cpp:78
+#, fuzzy
+#| msgid "Remove Coordinates..."
+msgid "Copy coordinates"
+msgstr "ลบจุดพิกัด..."
+
+#: gpslistviewcontextmenu.cpp:79
+#, fuzzy
+#| msgid "Edit Coordinates..."
+msgid "Paste coordinates"
+msgstr "แก้ไขพิกัด..."
+
+#: gpslistviewcontextmenu.cpp:306
+msgid ""
+"Found more than one point on the clipboard - can only assign one point at a "
+"time."
+msgstr ""
+
+#: gpslistviewcontextmenu.cpp:339
+msgid "Could not find any coordinates on the clipboard."
+msgstr ""
+
+#: gpslistviewitem.cpp:127
+msgid "Interpolated"
+msgstr "ปรับเพิ่มจุดภาพแล้ว"
+
+#: gpslistviewitem.cpp:131
+msgid "Added"
+msgstr "เพิ่มแล้ว"
+
+#: gpslistviewitem.cpp:133
+msgid "Found"
+msgstr "พบ"
+
+#: gpslistviewitem.cpp:149
+#, fuzzy
+#| msgid "Deleted!"
+msgid "Deleted"
+msgstr "ลบแล้ว !"
+
+#: gpslistviewitem.cpp:161
+msgid "Not available"
+msgstr "ไม่มีอยู่"
+
+#: gpssyncdialog.cpp:118 plugin_gpssync.cpp:78
+msgid "Geolocation"
+msgstr "ตำแหน่งทางภูมิศาสตร์"
+
+#: gpssyncdialog.cpp:121
+msgid "Correlate"
+msgstr "ค่าสัมพันธ์"
+
+#: gpssyncdialog.cpp:122
+msgid "Edit..."
+msgstr "แก้ไข..."
+
+#: gpssyncdialog.cpp:123
+msgid "Remove"
+msgstr "ลบออก"
+
+#: gpssyncdialog.cpp:125
+msgid ""
+"Correlate in time and interpolate distance of data from GPX file with all "
+"images on the list."
+msgstr "หาความสัมพันธ์ของวันที่และระยะที่เพิ่มของข้อมูลจากแฟ้ม GPX กับทุกภาพในรายการ"
+
+#: gpssyncdialog.cpp:126
+msgid "Manually edit GPS coordinates of selected images from the list."
+msgstr "แก้ไขค่าพิกัด GPS ของภาพที่เลือกไว้ในรายการด้วยตัวเอง"
+
+#: gpssyncdialog.cpp:127
+msgid "Remove GPS coordinates of selected images from the list."
+msgstr "ลบค่าพิกัด GPS ออกจากภาพที่เลือกไว้ในรายการ"
+
+#: gpssyncdialog.cpp:144 gpstracklisteditdialog.cpp:101
+msgid "Date"
+msgstr "วันที่"
+
+#: gpssyncdialog.cpp:146 gpstracklisteditdialog.cpp:103
+msgid "Latitude"
+msgstr "เส้นรุ้ง"
+
+#: gpssyncdialog.cpp:148 gpstracklisteditdialog.cpp:105
+msgid "Longitude"
+msgstr "เส้นแวง"
+
+#: gpssyncdialog.cpp:150 gpstracklisteditdialog.cpp:107
+msgid "Altitude"
+msgstr "ระดับความสูง"
+
+#: gpssyncdialog.cpp:152
+msgid "Status"
+msgstr "สถานะ"
+
+#: gpssyncdialog.cpp:163
+msgid "Settings"
+msgstr "ตั้งค่า"
+
+#: gpssyncdialog.cpp:166
+msgid "Load GPX File..."
+msgstr "โหลดแฟ้ม GPX..."
+
+#: gpssyncdialog.cpp:168
+msgid "Current GPX file:"
+msgstr "แฟ้ม GPX ที่ใช้อยู่:"
+
+#: gpssyncdialog.cpp:169
+msgid "No GPX file"
+msgstr "ไม่มีแฟ้ม GPX"
+
+#: gpssyncdialog.cpp:173
+msgid "Max. time gap (sec.):"
+msgstr "ช่วงห่างสูงสุดของเวลา (วินาที):"
+
+#: gpssyncdialog.cpp:175
+msgid ""
+"Sets the maximum difference in seconds from a GPS track point to the image "
+"time to be matched. If the time difference exceeds this setting, no match "
+"will be attempted."
+msgstr ""
+"ตั้งค่าสูงสุดของช่วงห่างเวลา (หน่วยเป็นวินาที) จากจุดแทร็คติดตาม GPS มายังเวลาที่ตรงกับขอภาพ "
+"หากช่วงเวลานี้มากเกินกว่าค่าที่ตั้งนี้ จะทำให้เชื่อว่ายังไม่ตรงกัน"
+
+#: gpssyncdialog.cpp:179
+msgid "Time zone:"
+msgstr "เขตเวลา:"
+
+#: gpssyncdialog.cpp:225
+msgid ""
+"<p>Sets the time zone the camera was set to during photo shooting, so that "
+"the time stamps of the images can be converted to GMT to match the GPS time "
+"reference.</p><p>Note: positive offsets count eastwards from zero longitude "
+"(GMT), they are 'ahead of time'.</p>"
+msgstr ""
+"<p>ตั้งค่าเขตเวลาที่กล้องถูกตั้งไว้ระหว่างที่ทำการถ่ายภาพ ซึ่งจะทำให้เวลาที่ประทับของภาพ "
+"สามารถจะแปลงมาเป็นเวลาแบบ GMT เพื่อเหมาะกับการอ้างอิงกับเวลา GPS ได้</p><p>โปรดจำ: "
+"ค่าชดเชยมาทางด้านตะวันออกซึ่งเป็นค่าบวกจากเส้นแวงที่ศูนย์ (GMT) มันคือ 'เวลาล่วงหน้า'</p>"
+
+#: gpssyncdialog.cpp:231
+msgid "Interpolate"
+msgstr "ปรับเพิ่มจุดพิกัด"
+
+#: gpssyncdialog.cpp:232
+msgid ""
+"Set this option to interpolate GPS track points which are not closely "
+"matched to the GPX data file."
+msgstr ""
+"เปิดใช้ตัวเลือกนี้ เพื่อให้มีการปรับเพิ่มจุดพิกัดตำแหน่ง GPS "
+"ที่ไม่ใกล้เพียงพอกับค่าข้อมูลที่สัมพันธ์กันในแฟ้ม GPX"
+
+#: gpssyncdialog.cpp:235
+msgid "Difference in min.:"
+msgstr "ค่าแตกต่างเป็นนาที:"
+
+#: gpssyncdialog.cpp:237
+msgid ""
+"Sets the maximum time difference in minutes (240 max.) to interpolate GPX "
+"file points to image time data."
+msgstr ""
+"ตั้งค่าเวลาสูงสุดที่แตกต่าง มีหน่วยเป็นนาที (สูงสุด 240 นาที) "
+"สำหรับใช้ในการปรับเพิ่มจุดพิกัดแฟ้มข้อมูล GPX ไปยังข้อมูลเวลาของภาพ"
+
+#: gpssyncdialog.cpp:270
+#, fuzzy
+#| msgid "A Plugin to synchronize pictures metadata with a GPS device"
+msgid "A Plugin to synchronize pictures' metadata with a GPS device"
+msgstr "ส่วนเสริมสำหรับปรับเทียบข้อมูลภาพกับอุปกรณ์ GPS"
+
+#: gpssyncdialog.cpp:336 kmlexportconfig.cpp:174
+#, kde-format
+msgid "%1|GPS Exchange Format"
+msgstr "%1|ข้อมูลพิกัดตำแหน่ง GPS"
+
+#: gpssyncdialog.cpp:337 kmlexportconfig.cpp:175
+msgid "Select GPX File to Load"
+msgstr "เลือกแฟ้ม GPX ที่ต้องการใช้"
+
+#: gpssyncdialog.cpp:348 kmlexport.cpp:374
+#, fuzzy, kde-format
+#| msgid "Cannot parse %1 GPX file!"
+msgid "Cannot parse %1 GPX file."
+msgstr "ไม่สามารถวิเคราะห์แฟ้ม GPX %1 ได้ !"
+
+#: gpssyncdialog.cpp:356
+#, fuzzy, kde-format
+#| msgid "The %1 GPX file do not have a date-time track to use!"
+msgid "The %1 GPX file does not have a date-time track to use."
+msgstr "แฟ้ม GPX  %1 ยังไม่มีการติดตามด้วยวันที่และเวลา !"
+
+#: gpssyncdialog.cpp:363
+#, kde-format
+msgid "Points parsed: %1"
+msgstr "จุดต่าง ๆ ที่วิเคราะห์: %1"
+
+#: gpssyncdialog.cpp:403
+#, kde-format
+msgid "1 image from the list is not updated."
+msgid_plural "%1 images from the list are not updated."
+msgstr[0] "มี %1 ภาพในรายการที่ไม่ได้รับการปรับปรุงข้อมูล"
+
+#: gpssyncdialog.cpp:407
+#, kde-format
+msgid ""
+"<p>%1\n"
+"Do you really want to close this window without applying changes?</p>"
+msgstr ""
+"<p>%1\n"
+"คุณต้องการจะปิดหน้าต่างนี้โดยไม่แก้ไขค่าที่คุณเปลี่ยนแปลงใช่หรือไม่ ?</p>"
+
+#: gpssyncdialog.cpp:485
+msgid "Cannot find pictures to correlate with GPX file data."
+msgstr "ไม่พบภาพที่สัมพันธ์กับข้อมูลจากแฟ้ม GPX"
+
+#: gpssyncdialog.cpp:490
+#, fuzzy, kde-format
+#| msgid ""
+#| "GPS data of 1 image have been updated on the list using the GPX data file."
+#| msgid_plural ""
+#| "GPS data of %1 images have been updated on the list using the GPX data "
+#| "file."
+msgid "The GPS data of 1 image have been updated using the GPX data file."
+msgid_plural ""
+"The GPS data of %1 images have been updated using the GPX data file."
+msgstr[0] "ข้อมูล GPS ของภาพ %1 ภาพในรายการ ถูกปรับปรุงข้อมูลโดยใช้แฟ้มข้อมูล GPX"
+
+#: gpssyncdialog.cpp:494
+#, fuzzy
+#| msgid "Press Apply button to update images metadata."
+msgid "Press the Apply button to update the image's metadata."
+msgid_plural "Press the Apply button to update the images' metadata."
+msgstr[0] "กดปุ่ม ปรับใช้ เพื่อปรับปรุงข้อมูลกำกับของภาพต่าง ๆ"
+
+#: gpssyncdialog.cpp:506
+#, fuzzy
+#| msgid ""
+#| "Please, select at least one image from the list to edit GPS coordinates "
+#| "manually."
+msgid ""
+"Please select at least one image from the list to edit GPS coordinates "
+"manually."
+msgstr "กรุณาเลือกภาพจากรายการอย่างน้อยหนึ่งภาพ เพื่อแก้ไขข้อมูลค่าพิกัด GPS ด้วยตัวเอง"
+
+#: gpssyncdialog.cpp:535
+#, fuzzy
+#| msgid ""
+#| "Please, select at least one image from the list to remove GPS coordinates."
+msgid "Please select at least one image from which to remove GPS coordinates."
+msgstr "กรุณาเลือกภาพจากรายการอย่างน้อยหนึ่งภาพ เพื่อลบข้อมูลค่าพิกัด GPS"
+
+#: gpstracklisteditdialog.cpp:87
+msgid "Edit Track List Geographical Coordinates"
+msgstr "แก้ไขรายการแทร็คทางพิกัดทางภูมิศาสตร์"
+
+#: gpstracklisteditdialog.cpp:99
+msgid "Id"
+msgstr "หมายเลข"
+
+#: gpstracklisteditdialog.cpp:109
+msgid "Changed"
+msgstr "มีการเปลี่ยนแปลง"
+
+#: gpstracklisteditdialog.cpp:130
+#, fuzzy
+#| msgid "A Plugin to edit GPS track list"
+msgid "A plugin to edit GPS track lists."
+msgstr "ส่วนเสริมสำหรับแก้ไขรายการแทร็คทางพิกัด GPS"
+
+#: gpstracklisteditdialog.cpp:131
+#, fuzzy
+#| msgid "(c) 2006-2008, Gilles Caulier"
+msgid "(c) 2008-2009, Gilles Caulier"
+msgstr "สงวนลิขสิทธิ์ (c) 2006-2008, Gilles Caulier"
+
+#: gpstracklistviewitem.cpp:76
+msgid "Yes"
+msgstr "ใช่"
+
+#: gpstracklistviewitem.cpp:76
+msgid "No"
+msgstr "ไม่ใช่"
+
+#: kmlexportconfig.cpp:70 kmlexportconfig.cpp:280
+msgid "KML Export"
+msgstr "ส่งออก KML"
+
+#: kmlexportconfig.cpp:79
+msgid "Target Preferences"
+msgstr "ปรับแต่งเป้าหมาย"
+
+#: kmlexportconfig.cpp:83
+msgid "Target Type"
+msgstr "ประเภทเป้าหมาย"
+
+#: kmlexportconfig.cpp:86
+msgid "&Local or web target used by GoogleEarth"
+msgstr "เป้าหมาย&ภายในเครื่องหรือเว็บ ที่ถูกใช้โดย GoogleEarth"
+
+#: kmlexportconfig.cpp:89
+msgid "Web target used by GoogleMap"
+msgstr "เป้าหมายแบบเวบโดยใช้ GoogleMap"
+
+#: kmlexportconfig.cpp:90
+#, fuzzy
+#| msgid ""
+#| "When using GoogleMap, all image must have complete Url, icons are squared "
+#| "and when drawing a track, only linetrack is exported"
+msgid ""
+"When using GoogleMap, all images must have complete URLs, icons are squared, "
+"and when drawing a track, only line track is exported."
+msgstr ""
+"เมื่อมีการใช้งาน GoogleMap ภาพทั้งหมดจะต้องมีที่อยู่ Url ที่สมบูรณ์ด้วย "
+"โดยภาพไอคอนจะเป็นภาพสี่เหลี่ยมเมื่อกำลังวาดแทร็ค และมีเฉพาะเส้นแทร็คเท่านั้นที่จะถูกส่งออกมา"
+
+#: kmlexportconfig.cpp:102
+msgid "Picture Altitude:"
+msgstr "ระดับความสูงของภาพ:"
+
+#: kmlexportconfig.cpp:104 kmlexportconfig.cpp:225
+msgid "clamp to ground"
+msgstr "ติดพื้นดิน"
+
+#: kmlexportconfig.cpp:105 kmlexportconfig.cpp:226
+msgid "relative to ground"
+msgstr "สัมพันธ์กับพื้นดิน"
+
+#: kmlexportconfig.cpp:106 kmlexportconfig.cpp:227
+msgid "absolute"
+msgstr "ค่าสัมบูรณ์"
+
+#: kmlexportconfig.cpp:107
+msgid ""
+"<p>Specifies how pictures are displayed<dl><dt>clamp to ground (default)</"
+"dt><dd>Indicates to ignore an altitude specification</dd><dt>relative to "
+"ground</dt><dd>Sets the altitude of the element relative to the actual "
+"ground elevation of a particular location.</dd><dt>absolute</dt><dd>Sets the "
+"altitude of the coordinate relative to sea level, regardless of the actual "
+"elevation of the terrain beneath the element.</dd></dl>"
+msgstr ""
+"<p>กำหนดวิธีการที่รูปภาพจะถูกแสดงผล<dl><dt>ติดพื้นดิน (ค่าปริยาย)</"
+"dt><dd>ใช้แสดงเพื่อไม่สนใจต่อค่าระดับความสูงที่ถูกกำหนด</dd><dt>สัมพันธ์กับพื้นดิน</"
+"dt><dd>ตั้งค่าระดับความสูงขององค์ประกอบภาพให้สัมพันธ์กับระดับความสูงจริงของพื้นดินของแต่ละตำแหน่ง</"
+"dd><dt>ค่าสัมบูรณ์</dt><dd>ตั้งค่าระดับความสูงของจุดพิกัดสัมพันธ์กับระดับน้ำทะเล "
+"โดยไม่สนใจระดับความสูงต่ำของพื้นที่ภูมิประเทศขององค์ประกอบ</dd></dl>"
+
+#: kmlexportconfig.cpp:117
+msgid "Destination Directory:"
+msgstr "ไดเรกทอรีปลายทาง:"
+
+#: kmlexportconfig.cpp:121
+#, fuzzy
+#| msgid "Select a directory to save the kml file and pictures"
+msgid "Select a directory in which to save the kml file and pictures"
+msgstr "เลือกไดเรกทอรีที่จะจัดเก็บแฟ้ม kml และรูปภาพ"
+
+#: kmlexportconfig.cpp:124
+#, fuzzy
+#| msgid "Destination Url:"
+msgid "Destination URL:"
+msgstr "ที่อยู่ URL ปลายทาง:"
+
+#: kmlexportconfig.cpp:126
+#, fuzzy
+#| msgid "File Name:"
+msgid "Filename:"
+msgstr "ชื่อแฟ้ม:"
+
+#: kmlexportconfig.cpp:144
+msgid "Sizes"
+msgstr "ขนาด"
+
+#: kmlexportconfig.cpp:146
+msgid "Icon Size:"
+msgstr "ขนาดไอคอน:"
+
+#: kmlexportconfig.cpp:150
+msgid "Image Size:"
+msgstr "ขนาดภาพ:"
+
+#: kmlexportconfig.cpp:164
+msgid "GPX Tracks"
+msgstr "แทร็ค GPX"
+
+#: kmlexportconfig.cpp:168
+msgid "Draw GPX Track"
+msgstr "วาดแทร็ค GPX"
+
+#: kmlexportconfig.cpp:171
+msgid "GPX file:"
+msgstr "แฟ้ม GPX:"
+
+#: kmlexportconfig.cpp:177
+msgid "Time Zone:"
+msgstr "เขตเวลา:"
+
+#: kmlexportconfig.cpp:179
+msgid "GMT-12:00"
+msgstr "GMT-12:00"
+
+#: kmlexportconfig.cpp:180
+msgid "GMT-11:00"
+msgstr "GMT-11:00"
+
+#: kmlexportconfig.cpp:181
+msgid "GMT-10:00"
+msgstr "GMT-10:00"
+
+#: kmlexportconfig.cpp:182
+msgid "GMT-09:00"
+msgstr "GMT-09:00"
+
+#: kmlexportconfig.cpp:183
+msgid "GMT-08:00"
+msgstr "GMT-08:00"
+
+#: kmlexportconfig.cpp:184
+msgid "GMT-07:00"
+msgstr "GMT-07:00"
+
+#: kmlexportconfig.cpp:185
+msgid "GMT-06:00"
+msgstr "GMT-06:00"
+
+#: kmlexportconfig.cpp:186
+msgid "GMT-05:00"
+msgstr "GMT-05:00"
+
+#: kmlexportconfig.cpp:187
+msgid "GMT-04:00"
+msgstr "GMT-04:00"
+
+#: kmlexportconfig.cpp:188
+msgid "GMT-03:00"
+msgstr "GMT-03:00"
+
+#: kmlexportconfig.cpp:189
+msgid "GMT-02:00"
+msgstr "GMT-02:00"
+
+#: kmlexportconfig.cpp:190
+msgid "GMT-01:00"
+msgstr "GMT-01:00"
+
+#: kmlexportconfig.cpp:191
+msgid "GMT"
+msgstr "GMT"
+
+#: kmlexportconfig.cpp:192
+msgid "GMT+01:00"
+msgstr "GMT+01:00"
+
+#: kmlexportconfig.cpp:193
+msgid "GMT+02:00"
+msgstr "GMT+02:00"
+
+#: kmlexportconfig.cpp:194
+msgid "GMT+03:00"
+msgstr "GMT+03:00"
+
+#: kmlexportconfig.cpp:195
+msgid "GMT+04:00"
+msgstr "GMT+04:00"
+
+#: kmlexportconfig.cpp:196
+msgid "GMT+05:00"
+msgstr "GMT+05:00"
+
+#: kmlexportconfig.cpp:197
+msgid "GMT+06:00"
+msgstr "GMT+06:00"
+
+#: kmlexportconfig.cpp:198
+msgid "GMT+07:00"
+msgstr "GMT+07:00"
+
+#: kmlexportconfig.cpp:199
+msgid "GMT+08:00"
+msgstr "GMT+08:00"
+
+#: kmlexportconfig.cpp:200
+msgid "GMT+09:00"
+msgstr "GMT+09:00"
+
+#: kmlexportconfig.cpp:201
+msgid "GMT+10:00"
+msgstr "GMT+10:00"
+
+#: kmlexportconfig.cpp:202
+msgid "GMT+11:00"
+msgstr "GMT+11:00"
+
+#: kmlexportconfig.cpp:203
+msgid "GMT+12:00"
+msgstr "GMT+12:00"
+
+#: kmlexportconfig.cpp:204
+msgid "GMT+13:00"
+msgstr "GMT+13:00"
+
+#: kmlexportconfig.cpp:205
+msgid "GMT+14:00"
+msgstr "GMT+14:00"
+
+#: kmlexportconfig.cpp:206
+msgid ""
+"Sets the time zone of the camera during picture shooting, so that the time "
+"stamps of the GPS can be converted to match the local time"
+msgstr ""
+"ตั้งค่าเขตเวลาที่กล้องตั้งไว้ระหว่างกำลังถ่ายภาพ ซึ่งจะทำให้เวลาที่ประทับของ GPS "
+"สามารถแปลงมาให้เป็นเวลาภายในได้"
+
+#: kmlexportconfig.cpp:210
+msgid "Track Width:"
+msgstr "ความกว้างแทร็ค:"
+
+#: kmlexportconfig.cpp:214
+msgid "Track Color:"
+msgstr "สีของแทร็ค:"
+
+#: kmlexportconfig.cpp:220
+msgid "Opacity:"
+msgstr "ความโปร่งแสง:"
+
+#: kmlexportconfig.cpp:223
+msgid "Track Altitude:"
+msgstr "ระดับความสูงแทร็ค:"
+
+#: kmlexportconfig.cpp:228
+msgid ""
+"<p>Specifies how the points are displayed<dl><dt>clamp to ground (default)</"
+"dt><dd>Indicates to ignore an altitude specification</dd><dt>relative to "
+"ground</dt><dd>Sets the altitude of the element relative to the actual "
+"ground elevation of a particular location.</dd><dt>absolute</dt><dd>Sets the "
+"altitude of the coordinate relative to sea level, regardless of the actual "
+"elevation of the terrain beneath the element.</dd></dl>"
+msgstr ""
+"<p>กำหนดวิธีการที่จุดจะถูกแสดงผล<dl><dt>ติดพื้นดิน (ค่าปริยาย)</"
+"dt><dd>ใช้แสดงเพื่อไม่สนใจต่อค่าระดับความสูงที่ถูกกำหนด</dd><dt>สัมพันธ์กับพื้นดิน</"
+"dt><dd>ตั้งค่าระดับความสูงขององค์ประกอบภาพให้สัมพันธ์กับระดับความสูงจริงของพื้นดินของแต่ละตำแหน่ง</"
+"dd><dt>ค่าสัมบูรณ์</dt><dd>ตั้งค่าระดับความสูงของจุดพิกัดสัมพันธ์กับระดับน้ำทะเล "
+"โดยไม่สนใจระดับความสูงต่ำของพื้นที่ภูมิประเทศขององค์ประกอบ</dd></dl>"
+
+#: kmlexportconfig.cpp:283
+msgid "A Kipi plugin for KML exporting"
+msgstr "ส่วนเสริมของ Kipi สำหรับการส่งออก KML"
+
+#: kmlexportconfig.cpp:284
+msgid "(c) 2006-2007, Stéphane Pontier"
+msgstr "สงวนลิขสิทธิ์ (c) 2006-2007, Stéphane Pontier"
+
+#: kmlexportconfig.cpp:286
+msgid "Stéphane Pontier"
+msgstr "Stéphane Pontier"
+
+#: kmlexport.cpp:69
+msgid "Generating KML file..."
+msgstr "กำลังสร้างแฟ้ม KML..."
+
+#: kmlexport.cpp:89
+#, kde-format
+msgid "Could not create '%1'"
+msgstr "ไม่สามารถสร้าง '%1 ได้"
+
+#: kmlexport.cpp:173
+#, kde-format
+msgid "Could not read image '%1'"
+msgstr "ไม่สามารถอ่านภาพ '%1' ได้"
+
+#: kmlexport.cpp:181
+#, kde-format
+msgid "Format of image '%1' is unknown"
+msgstr "ไม่รู้จักรูปแบบของภาพ '%1'"
+
+#: kmlexport.cpp:191
+#, kde-format
+msgid "Error loading image '%1'"
+msgstr "เกิดข้อผิดพลาดระหว่างเรียกภาพ '%1'"
+
+#: kmlexport.cpp:231
+#, kde-format
+msgid "Could not save image '%1' to '%2'"
+msgstr "ไม่สามารถบันทึกภาพ '%1' ไปเป็น '%2' ได้"
+
+#: kmlexport.cpp:328
+#, kde-format
+msgid "Creation of placemark '%1'"
+msgstr "การสร้างจุดระบุสถานที่ '%1'"
+
+#: kmlexport.cpp:335
+#, kde-format
+msgid "Could not save icon for image '%1' to '%2'"
+msgstr "ไม่สามารถบันทึกไอคอนสำหรับภาพ '%1' ไปเป็น '%2' ได้"
+
+#: kmlexport.cpp:365
+#, fuzzy
+#| msgid "No GPX file Chosen!"
+msgid "No GPX file chosen."
+msgstr "ยังไม่มีการเลือกแฟ้ม GPX !"
+
+#: kmlexport.cpp:380
+#, fuzzy, kde-format
+#| msgid "The %1 GPX file do not have a date-time track to use!"
+msgid "The %1 GPX file do not have a date-time track to use."
+msgstr "แฟ้ม GPX  %1 ยังไม่มีการติดตามด้วยวันที่และเวลา !"
+
+#: kmlexport.cpp:387
+msgid "Tracks"
+msgstr "แทร็ค"
+
+#: kmlexport.cpp:484
+#, kde-format
+msgid "No position data for '%1'"
+msgstr "ไม่มีข้อมูลพิกัดสำหรับ '%1'"
+
+#: kmlexport.cpp:495
+#, kde-format
+msgid "No position data for 1 picture"
+msgid_plural "No position data for %1 pictures"
+msgstr[0] "ไม่มีข้อมูลพิกัดสำหรับ %1 ภาพ"
+
+#: kmlexport.cpp:510
+msgid "Move to final directory"
+msgstr "ย้ายไปยังไดเรกทอรีสุดท้าย"
+
+#: kmlgpsdataparser.cpp:65
+msgid "Track"
+msgstr "แทร็ค"
+
+#: kmlgpsdataparser.cpp:94
+msgid "Points"
+msgstr "จุด"
+
+#: kmlgpsdataparser.cpp:104
+msgid "Point"
+msgstr "จุด"
+
+#: plugin_gpssync.cpp:81
+msgid "Correlator"
+msgstr "ค่าสัมพันธ์"
+
+#: plugin_gpssync.cpp:88
+msgid "Edit Coordinates..."
+msgstr "แก้ไขพิกัด..."
+
+#: plugin_gpssync.cpp:94
+msgid "Track List Editor..."
+msgstr "แก้ไขรายการแทร็ค..."
+
+#: plugin_gpssync.cpp:100
+msgid "Remove Coordinates..."
+msgstr "ลบจุดพิกัด..."
+
+#: plugin_gpssync.cpp:108
+#, fuzzy
+#| msgid "KML Export..."
+msgid "Export to KML..."
+msgstr "ส่งออก KML..."
+
+#: plugin_gpssync.cpp:139
+#, kde-format
+msgid ""
+"<p>Unable to find the gpsbabel executable:<br/> This program is required by "
+"this plugin to support GPS data file decoding. Please install gpsbabel as a "
+"package from your distributor or <a href=\"%1\">download the source</a>.</"
+"p><p>Note: at least, gpsbabel version %2 is required by this plugin.</p>"
+msgstr ""
+"<p>ไม่พบคำสั่ง gpsbabel เพื่อใช้ประมวลผล:<br/> โปรแกรมนี้จำเป็นต้องถูกใช้โดยส่วนเสริมนี้ "
+"เพื่อให้สามารถรองรับการถอดรหัสข้อมูลแฟ้ม GPS ได้, โปรดทำการติดตั้งโปรแกรม gpsbabel "
+"จากดิสทริบิวชันของคุณก่อน หรือ <a href=\"%1\">ดาวน์โหลดต้นฉบับโปรแกรม</a></"
+"p><p>โปรดจำ: จะต้องใช้โปรแกรม gpsbabel อย่างน้อยต้องเป็นรุ่น %2 ขึ้นไป</p>"
+
+#: plugin_gpssync.cpp:156
+#, kde-format
+msgid ""
+"<p>gpsbabel executable is not up to date:<br/> The version %1 of gpsbabel "
+"have been found on your computer. This version is too old to run properly "
+"with this plugin. Please update gpsbabel as a package from your distributor "
+"or <a href=\"%2\">download the source</a>.</p><p>Note: at least, gpsbabel "
+"version %3 is required by this plugin</p>"
+msgstr ""
+"<p>แฟ้มคำสั่ง gpsbabel เป็นรุ่นเก่าแล้ว:<br/> พบโปรแกรมนี้บนเครื่องของคุณ แต่เป็นรุ่น %1 "
+"ซึ่งไม่ใช่รุ่นที่ต้องการเนื่องจากเก่ามากแล้วที่จะทำงานร่วมกับส่วนเสริมนี้ได้ โปรดทำการปรับรุ่นโปรแกรม "
+"gpsbabel จากดิสทริบิวชันของคุณก่อน หรือ <a href=\"%2\">ดาวน์โหลดต้นฉบับโปรแกรม</a></"
+"p><p>โปรดจำ: จะต้องใช้โปรแกรม gpsbabel อย่างน้อยต้องเป็นรุ่น %3 ขึ้นไป</p>"
+
+#: plugin_gpssync.cpp:331
+#, fuzzy
+#| msgid "No GPS location have been found in your pictures."
+msgid "No GPS locations have been found in your pictures."
+msgstr "ไม่พบตำแหน่ง GPS ในภาพของคุณ"
+
+#: plugin_gpssync.cpp:392
+msgid ""
+"Geographical coordinates will be definitively removed from all selected "
+"images.\n"
+"Do you want to continue ?"
+msgstr ""
+"จุดพิกัดเชิงภูมิศาสตร์จะถูกลบออกจากภาพที่เลือกไว้ทั้งหมด\n"
+"คุณต้องการจะทำต่อไปหรือไม่ ?"
+
+#: plugin_gpssync.cpp:394
+msgid "Remove Geographical Coordinates"
+msgstr "ลบข้อมูลจุดพิกัดเชิงภูมิศาสตร์ออกไป"
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ถนอมทรัพย์ นพบูรณ์"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "donga.nb@gmail.com"
+
+#~ msgid "(c) 2006-2008, Gilles Caulier"
+#~ msgstr "สงวนลิขสิทธิ์ (c) 2006-2008, Gilles Caulier"
+
+#~ msgid "(c) 2008, Gilles Caulier"
+#~ msgstr "สงวนลิขสิทธิ์ (c) 2008, Gilles Caulier"
+
+#~ msgid "Thumbnail"
+#~ msgstr "ภาพตัวอย่าง"
+
+#~ msgid "File Name"
+#~ msgstr "ชื่อแฟ้ม"
+
+#~ msgid "Camera time stamp"
+#~ msgstr "เวลาจากกล้อง"

@@ -1,0 +1,474 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Шмелёв Артемий Геннадьевич <sgartjom@mail.ru>, 2008.
+# Nick Shaforostoff <shaforostoff@kde.ru>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_sendimages\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-07-10 12:00+0200\n"
+"PO-Revision-Date: 2008-08-04 21:38+0300\n"
+"Last-Translator: Nick Shaforostoff <shaforostoff@kde.ru>\n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: emailpage.cpp:87
+msgid "Mail program:"
+msgstr "Почтовая програма:"
+
+#: emailpage.cpp:90
+msgid "Default"
+msgstr "По умолчанию"
+
+#: emailpage.cpp:102
+#, fuzzy
+#| msgid ""
+#| "<p>Select here your preferred external e-mail program. <b>Default</b> is "
+#| "the current e-mail program set on KDE Control Panel."
+msgid ""
+"Select your preferred external email program here. <b>Default</b> is the "
+"current email program set in KDE System Settings."
+msgstr ""
+"<p>Выберите предпочитаемую программу для электронной почты. <b>По умолчанию</"
+"b> — клиент электронной почты выбранный в Системных параметрах KDE."
+
+#: emailpage.cpp:108
+#, fuzzy, kde-format
+#| msgid "Attach a file with caption and tags"
+msgid "Attach a file with image properties from %1"
+msgstr "Прикрепить файл с заголовком и метками"
+
+#: emailpage.cpp:111
+#, fuzzy, kde-format
+#| msgid ""
+#| "<p>If you enable this option, all image captions and tags will be added "
+#| "as an attached file."
+msgid ""
+"If you enable this option, all image properties set by %1 as Comments, "
+"Rating, or Tags, will be added as an attached file."
+msgstr ""
+"<p>Если вы выберите эту опцию, все заголовки и метки будут добавлены к "
+"прикреплённому к письму файлу."
+
+#: emailpage.cpp:120
+#, fuzzy
+#| msgid "Maximum e-mail size limit:"
+msgid "Maximum email size limit:"
+msgstr "Максимальный размер письма:"
+
+#: emailpage.cpp:121
+msgid "MB"
+msgstr "MБ"
+
+#: emailpage.cpp:125
+msgid "Adjust image properties"
+msgstr "Изменить свойсвта изображения"
+
+#: emailpage.cpp:127
+#, fuzzy
+#| msgid ""
+#| "<p>If you enable this option, all images to send can be resized and "
+#| "recompressed."
+msgid ""
+"If you enable this option, all images to be sent can be resized and "
+"recompressed."
+msgstr ""
+"<p>Если вы выберите эту опцию, размер всех посылаемых изображений будет "
+"изменён и они будут заново сжаты."
+
+#: emailpage.cpp:130
+msgid "Image Properties"
+msgstr "Свойства изображения"
+
+#: emailpage.cpp:134 emailpage.cpp:152
+msgid "Very Small (320 pixels)"
+msgstr "Очень маленькое (320 пикселей)"
+
+#: emailpage.cpp:135 emailpage.cpp:153
+msgid "Small (640 pixels)"
+msgstr "Маленькое (640 пикселей)"
+
+#: emailpage.cpp:136 emailpage.cpp:154
+msgid "Medium (800 pixels)"
+msgstr "Среднее (800 пикселей)"
+
+#: emailpage.cpp:137 emailpage.cpp:155
+msgid "Big (1024 pixels)"
+msgstr "Большое (1024 пикселя)"
+
+#: emailpage.cpp:138 emailpage.cpp:156
+msgid "Very Big (1280 pixels)"
+msgstr "Очень большое (1280 пикселей)"
+
+#: emailpage.cpp:139 emailpage.cpp:157
+msgid "Huge - for printing (1600 pixels)"
+msgstr "Огромное — для печати (1600 пикселей)"
+
+#: emailpage.cpp:141
+#, fuzzy, kde-format
+#| msgid ""
+#| "<p>Select here the images size to send:<p><b>%1</b>: use this if you have "
+#| "a very slow internet connection or if the target mailbox size is very "
+#| "limited.<p><b>%2</b>: use this if you have a slow internet connection and "
+#| "if the target mailbox size is limited.<p><b>%3</b>: this is the default "
+#| "value for a medium internet connection and a target mailbox size.<p><b>%"
+#| "4</b>: use this if you have a high-speed internet connection and if the "
+#| "target mailbox size is not limited.<p><b>%5</b>: use this if you have no "
+#| "size or speed restrictions.<p><b>%6</b>: use this only for printing "
+#| "purpose.<p>"
+msgid ""
+"<p>Select the size of the images that are to be sent:</p><p><b>%1</b>: use "
+"this if you have a very slow Internet connection or the target mailbox size "
+"is very limited.</p><p><b>%2</b>: use this if you have a slow Internet "
+"connection and the target mailbox size is limited.</p><p><b>%3</b>: this is "
+"the default value for medium Internet connection speed and target mailbox "
+"size.</p><p><b>%4</b>: use this if you have a high-speed Internet connection "
+"and the target mailbox size is not limited.</p><p><b>%5</b>: use this if you "
+"have no size or speed restrictions.</p><p><b>%6</b>: use this only for "
+"printing purposes.</p>"
+msgstr ""
+"<p>Выберите размер изобаржений при пересылке по электронной почте: <p><b>%1</"
+"b>: используйте этот размер с очень медленным интернет-соединением, или если "
+"почтовый ящик получателя имеет ограничения по размеру письма.<p><b>%2</b>: "
+"используйте этот размер если у вас медленное интернет-соединение, или если "
+"размер постового ящика получателя ограничен. <p><b>%3</b>этот размер "
+"подходит для обычных интернет-соединений и почтовых ящиков. <p><b>%4</b>: "
+"используйте этот размер если у вас высокоскоростное интернет-соединение и "
+"обём почтового ящика неограничен. <p><b>%5</b>: используйте этот размер если "
+"нет ограничений ни по скорости, ни по размеру почтового ящика. <p><b>%6</b>: "
+"используйте этот размер только печати.<p>"
+
+#: emailpage.cpp:161
+msgid "Image size:"
+msgstr "Размер изображения:"
+
+#: emailpage.cpp:170
+#, fuzzy
+#| msgid "<p>Select here the images files format to send.<p>"
+msgid "<p>Select the file format of the image files to be sent.</p>"
+msgstr "<p>Укажите формат файла в котором вы хотите послать изображение.<p>"
+
+#: emailpage.cpp:171
+#, fuzzy
+#| msgid ""
+#| "<b>JPEG</b>: The Joint Photographic Experts Group's file format is a good "
+#| "Web file format but it uses lossy compression.<p><b>PNG</b>: the Portable "
+#| "Network Graphics format is an extensible file format for the lossless, "
+#| "portable, well-compressed storage of raster images. PNG provides a patent-"
+#| "free replacement for GIF and can also replace many common uses of TIFF. "
+#| "PNG is designed to work well in online viewing applications, such as the "
+#| "World Wide Web, so it is fully streamable with a progressive display "
+#| "option. Also, PNG can store gamma and chromaticity data for improved "
+#| "color matching on heterogeneous platforms."
+msgid ""
+"<p><b>JPEG</b>: The Joint Photographic Experts Group file format is a good "
+"web file format but it uses lossy compression.</p><p><b>PNG</b>: the "
+"Portable Network Graphics format is an extensible file format for the "
+"lossless, portable, well-compressed storage of raster images. PNG provides a "
+"patent-free replacement for GIF and can also replace many common uses of "
+"TIFF. PNG is designed to work well in online viewing applications, such as "
+"the World Wide Web, so it is fully streamable with a progressive display "
+"option. Also, PNG can store gamma and chromaticity data for improved color-"
+"matching on heterogeneous platforms.</p>"
+msgstr ""
+"<b>JPEG</b>: формат файлов объединённой группы экспертов фотографии ( Joint "
+"Photographic Experts Group — JPEG) хороший формат для Интернета, но он "
+"использует алгоритм сжатия с потерями. <p><b>PNG</b>: переносимый формат "
+"сетевой графики (Portable Network Graphics — PNG) — расширяемый формат для "
+"переносимого хранения без потерь хоршосжатых растровых изображений. PNG "
+"предоставляет свободный от патентов аналог GIF и может также заменить "
+"большинсвто форматов TIFF. PNG создавался чтобы хорошо смотреться в Сети, "
+"например в WWW, таким образом он полностью поддерживает поточную закачку с "
+"прогрессивным отображением. Также, PNG может сохранять значения гаммы и "
+"информацию о цветности для лучшего отображения цветов на гетерогенных "
+"платформах."
+
+#: emailpage.cpp:181
+msgid "Image file format:"
+msgstr "Формат файла изображения:"
+
+#: emailpage.cpp:189
+msgid "Image quality:"
+msgstr "Качество изображения:"
+
+#: emailpage.cpp:190
+#, fuzzy
+#| msgid "<p>The new compression value of JPEG images to send:<p>"
+msgid "<p>The new compression value of JPEG images to be sent:</p>"
+msgstr "<p>Новый уровень сжатия JPEG изображений для передачи:<p>"
+
+#: emailpage.cpp:191
+#, fuzzy
+#| msgid ""
+#| "<b>1</b>: very high compression<p><b>25</b>: high compression<p><b>50</"
+#| "b>: medium compression<p><b>75</b>: low compression (default value)"
+#| "<p><b>100</b>: no compression"
+msgid ""
+"<p><b>1</b>: very high compression<br/><b>25</b>: high compression<br/"
+"><b>50</b>: medium compression<br/><b>75</b>: low compression (default value)"
+"<br/><b>100</b>: no compression</p>"
+msgstr ""
+"<b>1</b>: очень высокое сжатие<p><b>25</b>:высокое сжатие<p><b>50</b>: "
+"среднее сжатие<p><b>75</b>: низкое сжатие (значение по умолчанию) <p><b>100</"
+"b>: без сжатия."
+
+#: imageresize.cpp:187
+#, fuzzy
+#| msgid "Error in opening input file"
+msgid "Error opening input file"
+msgstr "Ошибка открытия входного файла"
+
+#: imageresize.cpp:195
+#, fuzzy
+#| msgid "Error in opening temporary folder"
+msgid "Error opening temporary folder"
+msgstr "Ошибка открытия временного каталога"
+
+#: imageresize.cpp:244
+#, fuzzy
+#| msgid "Cannot resizing image. Aborting."
+msgid "Cannot resize image. Aborting."
+msgstr "Невозможно изменить размер. Прерывание."
+
+#: imageresize.cpp:263
+msgid "Cannot save resized image (JPEG). Aborting."
+msgstr "Невозможно изменить размер изображения (JPEG). Прерывание."
+
+#: imageresize.cpp:278
+msgid "Cannot save resized image (PNG). Aborting."
+msgstr "Невозможно сохранить изображение с изменённым размером. Прерывание."
+
+#: plugin_sendimages.cpp:87
+msgid "Email Images..."
+msgstr "Послать изображения по почте..."
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Артемий Шмелёв"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sgartjom_at_mail.ru"
+
+#: sendimages.cpp:122
+#, fuzzy
+#| msgid "E-mail images"
+msgid "Email images"
+msgstr "Послать изображения по электронной почте"
+
+#: sendimages.cpp:156
+msgid "Operation canceled by user"
+msgstr "Операция отменена пользователем"
+
+#: sendimages.cpp:168
+#, kde-format
+msgid "Resizing %1"
+msgstr "Изменение размера %1"
+
+#: sendimages.cpp:179
+#, fuzzy, kde-format
+#| msgid "%1 resized succesfully"
+msgid "%1 resized successfully"
+msgstr "%1 размер изменён успешно"
+
+#: sendimages.cpp:186
+#, fuzzy, kde-format
+#| msgid "Failed to resize %1 : %2"
+msgid "Failed to resize %1: %2"
+msgstr "Невозможно изменить размер %1 : %2"
+
+#: sendimages.cpp:215
+msgid "Build images properties file"
+msgstr "Создать файл со свойствами файлов"
+
+#: sendimages.cpp:228
+msgid "no caption"
+msgstr "нет заголовка"
+
+#: sendimages.cpp:231
+msgid "no keywords"
+msgstr "нет ключевых слов"
+
+#: sendimages.cpp:233
+#, kde-format
+msgid ""
+"file \"%1\":\n"
+"Original images: %2\n"
+msgstr ""
+"файл «%1»:\n"
+"Исходные изображения: %2\n"
+
+#: sendimages.cpp:236
+#, kde-format
+msgid "Comments: %1\n"
+msgstr "Комментарии: %1\n"
+
+#: sendimages.cpp:239
+#, kde-format
+msgid "Tags: %1\n"
+msgstr "Метки: %1\n"
+
+#: sendimages.cpp:242
+#, kde-format
+msgid "Rating: %1\n"
+msgstr "Рейтинг: %1\n"
+
+#: sendimages.cpp:247
+msgid "properties.txt"
+msgstr "properties.txt"
+
+#: sendimages.cpp:256
+#, fuzzy
+#| msgid "Images properties file done"
+msgid "Image properties file done"
+msgstr "Файл со свойствами изображений создан"
+
+#: sendimages.cpp:273
+msgid ""
+"The images listed below cannot be resized.\n"
+"Do you want them to be added as attachments (without resizing)?"
+msgstr ""
+"У изображений ниже не может быть изменён размер.\n"
+"Вы хотите их добавить к письму в качестве вложения (без изменения размера)?"
+
+#: sendimages.cpp:277
+msgid "Failed to resize images"
+msgstr "Невозможно изменить размер изображений"
+
+#: sendimages.cpp:339
+#, kde-format
+msgid ""
+"The file \"%1\" is too big to be sent, please reduce its size or change your "
+"settings"
+msgstr ""
+
+#: sendimages.cpp:383
+#, fuzzy
+#| msgid "Starting default KDE e-mail program..."
+msgid "Starting default KDE email program..."
+msgstr "Зпуск почтовой программы KDE по-умолчанию..."
+
+#: sendimages.cpp:541
+#, kde-format
+msgid "Failed to start \"%1\" program. Check your system."
+msgstr "Невозможно запустить программу «%1». Проверьте настройки."
+
+#: sendimages.cpp:554
+#, kde-format
+msgid "Starting \"%1\" program..."
+msgstr "Запуск программы «%1»..."
+
+#: sendimages.cpp:564
+#, fuzzy
+#| msgid "After to have sent your images by e-mail..."
+msgid "After having sent your images by email..."
+msgstr "После того как вы послали изображения по почте..."
+
+#: sendimages.cpp:565
+#, fuzzy
+#| msgid "Press 'Close' button to clean-up temporary files"
+msgid "Press 'Close' button to clean up temporary files"
+msgstr "Нажмите кнопку «Закрыть» чтобы удалить временные файлы"
+
+#: sendimagesdialog.cpp:91
+#, fuzzy
+#| msgid "E-Mail Images Options"
+msgid "Email Images Options"
+msgstr "Послать изображения по почте. Настройки"
+
+#: sendimagesdialog.cpp:100
+msgid "Images"
+msgstr "Изображения"
+
+#: sendimagesdialog.cpp:101
+#, fuzzy
+#| msgid "Images List"
+msgid "Image List"
+msgstr "Список изображений"
+
+#: sendimagesdialog.cpp:106
+msgid "Mail"
+msgstr "Почта"
+
+#: sendimagesdialog.cpp:107
+msgid "Mail Options"
+msgstr "Настройки почты"
+
+#: sendimagesdialog.cpp:113
+msgid "Send Images"
+msgstr "Послать изображения"
+
+#: sendimagesdialog.cpp:116
+#, fuzzy
+#| msgid "A Plugin to e-mail pictures"
+msgid "A plugin to email pictures"
+msgstr "Модуль расширения Kipi для отправки изображений по электронной почте"
+
+#: sendimagesdialog.cpp:117
+#, fuzzy
+#| msgid "(c) 2003-2008, Gilles Caulier"
+msgid "(c) 2003-2009, Gilles Caulier"
+msgstr "© 2003-2008 Gilles Caulier"
+
+#: sendimagesdialog.cpp:119
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: sendimagesdialog.cpp:119
+msgid "Author and Maintainer"
+msgstr "Автор и поддержка"
+
+#: sendimagesdialog.cpp:122
+msgid "Michael Hoechstetter"
+msgstr "Michael Hoechstetter"
+
+#: sendimagesdialog.cpp:122 sendimagesdialog.cpp:125
+msgid "Developer"
+msgstr "Разработчик"
+
+#: sendimagesdialog.cpp:125
+msgid "Tom Albers"
+msgstr "Tom Albers"
+
+#: sendimagesdialog.cpp:133
+#, fuzzy
+#| msgid "Plugin Handbook"
+msgid "Handbook"
+msgstr "Руководство по модулю"
+
+#~ msgid "very small (320 pixels)"
+#~ msgstr "очень маленькое (320 пикселей)"
+
+#~ msgid "small (640 pixels)"
+#~ msgstr "маленькое (640 пикселей)"
+
+#~ msgid "medium (800 pixels)"
+#~ msgstr "среднее (800 пикселей)"
+
+#~ msgid "big (1024 pixels)"
+#~ msgstr "большое (1024 пикселей)"
+
+#~ msgid "very big (1280 pixels)"
+#~ msgstr "очень большое (1280 пикселей)"
+
+#~ msgid "huge - for printing (1600 pixels)"
+#~ msgstr "огромное — для печати (1600 пикселей)"
+
+#, fuzzy
+#~| msgid "<p>This is the list of images to e-mail."
+#~ msgid "This is the list of images to e-mail."
+#~ msgstr "<p>Это список изображений для посылки через e-mail."
+
+#~ msgid "&Add"
+#~ msgstr "&Добвить"
+
+#~ msgid "&Remove"
+#~ msgstr "&Удалить"

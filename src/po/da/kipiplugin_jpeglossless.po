@@ -1,0 +1,219 @@
+# Danish translation of kipiplugin_jpeglossless
+# Copyright (C)
+#
+# Rune Rønde Laursen <runerl@skjoldhoej.dk>, 2004.
+# Erik Kjær Pedersen <erik@binghamton.edu>, 2006.
+# Martin Schlander <mschlander@opensuse.org>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_jpeglossless\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-22 06:48+0200\n"
+"PO-Revision-Date: 2008-03-31 16:58+0200\n"
+"Last-Translator: Martin Schlander <mschlander@opensuse.org>\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LoKalize 0.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: convert2grayscale.cpp:85 convert2grayscale.cpp:162 imageflip.cpp:79
+#: imagerotate.cpp:80 jpegtransform.cpp:216 jpegtransform.cpp:319
+msgid "Error in opening input file"
+msgstr "Fejl under åbning af inddatafil"
+
+#: convert2grayscale.cpp:91 imageflip.cpp:85 imagerotate.cpp:88
+msgid "Error in opening temporary file"
+msgstr "Fejl under åbning af midlertidig fil"
+
+#: convert2grayscale.cpp:99
+msgid "Cannot convert to gray scale RAW file"
+msgstr "Kan ikke konvertere RAW-fil til gråskala"
+
+#: convert2grayscale.cpp:123 imageflip.cpp:117 imagerotate.cpp:123
+msgid "Cannot update source image"
+msgstr "Kan ikke opdatere kildebillede"
+
+#: convert2grayscale.cpp:171 jpegtransform.cpp:225 jpegtransform.cpp:262
+#: jpegtransform.cpp:328
+msgid "Error in opening output file"
+msgstr "Fejl under åbning af uddatafil"
+
+#: convert2grayscale.cpp:273
+#, kde-format
+msgid "Cannot convert to gray scale: %1"
+msgstr "Kan ikke konvertere til gråskala: %1"
+
+#: imageflip.cpp:93 imagerotate.cpp:96
+msgid "Cannot rotate RAW file"
+msgstr "Kan ikke rotere RAW-fil"
+
+#: imageflip.cpp:144 imageflip.cpp:173
+msgid "Nonstandard flip action"
+msgstr "Ikke-standard vendehandling"
+
+#: imageflip.cpp:206
+#, kde-format
+msgid "Cannot flip: %1"
+msgstr "Kan ikke flippe: %1"
+
+#: imagerotate.cpp:160 imagerotate.cpp:200
+msgid "Nonstandard rotation angle"
+msgstr "Ikke-standard rotationsvinkel"
+
+#: imagerotate.cpp:233
+#, kde-format
+msgid "Cannot rotate: %1"
+msgstr "Kan ikke rotere: %1"
+
+#: plugin_jpeglossless.cpp:113
+msgid "Auto Rotate/Flip Using Exif Information"
+msgstr "Automatisk rotering/vending med EXIF-information"
+
+#: plugin_jpeglossless.cpp:118
+msgid "Rotate"
+msgstr "Rotér"
+
+#: plugin_jpeglossless.cpp:123
+msgid "Left"
+msgstr "Venstre"
+
+#: plugin_jpeglossless.cpp:130
+msgid "Right"
+msgstr "Højre"
+
+#: plugin_jpeglossless.cpp:136
+msgid "Flip"
+msgstr "Vend"
+
+#: plugin_jpeglossless.cpp:140
+msgid "Horizontally"
+msgstr "Horisontalt"
+
+#: plugin_jpeglossless.cpp:147
+msgid "Vertically"
+msgstr "Vertikalt"
+
+#: plugin_jpeglossless.cpp:154
+msgid "Convert to Black && White"
+msgstr "Omdan til sort && hvid"
+
+#: plugin_jpeglossless.cpp:198
+msgid "horizontally"
+msgstr "horisontalt"
+
+#: plugin_jpeglossless.cpp:203
+msgid "vertically"
+msgstr "vertikalt"
+
+#: plugin_jpeglossless.cpp:224
+#, kde-format
+msgid "Flip images %1"
+msgstr "Flip billeder %1"
+
+#: plugin_jpeglossless.cpp:237
+msgid "right (clockwise)"
+msgstr "højre (med uret)"
+
+#: plugin_jpeglossless.cpp:242
+msgid "left (counterclockwise)"
+msgstr "venstre (mod uret)"
+
+#: plugin_jpeglossless.cpp:247
+msgid "using Exif orientation tag"
+msgstr "ved brug af EXIF's orienteringsmærke"
+
+#: plugin_jpeglossless.cpp:268
+#, kde-format
+msgid "Rotate images %1"
+msgstr "Rotér billeder %1"
+
+#: plugin_jpeglossless.cpp:284
+msgid ""
+"<p>Are you sure you wish to convert the selected image(s) to black and "
+"white? This operation <b>cannot</b> be undone.</p>"
+msgstr ""
+"<p>Er du sikker på du vil konvertere de markerede billeder til sort/hvid? "
+"Denne handling kan <b>ikke</b> fortrydes.</p>"
+
+#: plugin_jpeglossless.cpp:301
+msgid "Convert images to black & white"
+msgstr "Konvertér billeder til sort-hvidt"
+
+#: plugin_jpeglossless.cpp:336
+#, kde-format
+msgid "Rotating Image \"%1\""
+msgstr "Roterer billede \"%1\""
+
+#: plugin_jpeglossless.cpp:341
+#, kde-format
+msgid "Flipping Image \"%1\""
+msgstr "Vender billede \"%1\""
+
+#: plugin_jpeglossless.cpp:346
+#, kde-format
+msgid "Converting to Black & White \"%1\""
+msgstr "Omdanner til sort/hvid \"%1\""
+
+#: plugin_jpeglossless.cpp:368
+msgid "Rotate image complete"
+msgstr "Rotér billede fuldstændigt"
+
+#: plugin_jpeglossless.cpp:373
+msgid "Flip image complete"
+msgstr "Flip billede fuldstændigt"
+
+#: plugin_jpeglossless.cpp:378
+msgid "Convert to Black & White complete"
+msgstr "Konvertering til sort & hvid færdig"
+
+#: plugin_jpeglossless.cpp:403
+msgid "Failed to Rotate image"
+msgstr "Kunne ikke rotere billede"
+
+#: plugin_jpeglossless.cpp:408
+msgid "Failed to Flip image"
+msgstr "Kunne ikke vende billede"
+
+#: plugin_jpeglossless.cpp:413
+msgid "Failed to convert image to Black & White"
+msgstr "Kunne ikke omdanne billede til sort / hvid"
+
+#: utils.cpp:88
+msgid "unable to open source file"
+msgstr "kan ikke åbne kildefil"
+
+#: utils.cpp:112 utils.cpp:139
+msgid "unable to open temp file"
+msgstr "kan ikke åbne midlertidig fil"
+
+#: utils.cpp:126
+msgid "Cannot rotate: unable to open temp file"
+msgstr "Kan ikke rotere: Kan ikke åbne midlertidig fil"
+
+#: utils.cpp:188
+#, kde-format
+msgid "Cannot update metadata: %1"
+msgstr "Kan ikke opdatere metadata: %1"
+
+#~ msgid "90 Degrees"
+#~ msgstr "90 grader"
+
+#~ msgid "180 Degrees"
+#~ msgstr "180 grader"
+
+#~ msgid "270 Degrees"
+#~ msgstr "270 grader"
+
+#~ msgid "to 90 degrees"
+#~ msgstr "til 90 grader"
+
+#~ msgid "to 180 degrees"
+#~ msgstr "til 180 grader"
+
+#~ msgid "to 270 degrees"
+#~ msgstr "til 270 grader"
+
+#~ msgid "The following error(s) occurred ..."
+#~ msgstr "Der skete følgende fejl ..."

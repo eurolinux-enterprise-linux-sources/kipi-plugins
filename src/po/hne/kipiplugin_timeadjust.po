@@ -1,0 +1,274 @@
+# translation of kipiplugin_timeadjust.po to Hindi
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Ravishankar Shrivastava <raviratlami@yahoo.com>, 2008.
+# Ravishankar Shrivastava <raviratlami@aol.in>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_timeadjust\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-17 07:01+0200\n"
+"PO-Revision-Date: 2009-02-17 11:56+0530\n"
+"Last-Translator: Ravishankar Shrivastava <raviratlami@aol.in>\n"
+"Language-Team: Hindi <kde-i18n-doc@lists.kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Lokalize 0.2\n"
+
+#: clockphotodialog.cpp:174
+msgid "Determine time difference with clock photo"
+msgstr ""
+
+#: clockphotodialog.cpp:176
+msgid "Load different photo"
+msgstr ""
+
+#: clockphotodialog.cpp:186
+msgid ""
+"If you have a photo in your set with a clock or another external time source "
+"on it, you can load it here and set the indicator to the (date and) time "
+"displayed. The difference of your internal camera clock will be determined "
+"from this setting."
+msgstr ""
+
+#: clockphotodialog.cpp:215
+msgid "Scale:"
+msgstr ""
+
+#: clockphotodialog.cpp:235
+msgid "The clock date and time:"
+msgstr ""
+
+#: clockphotodialog.cpp:326
+#, kde-format
+msgid ""
+"<font color=\"red\"><b>Could not obtain date and time information from image "
+"%1.</b></font>"
+msgstr ""
+
+#: clockphotodialog.cpp:338
+#, kde-format
+msgid "<font color=\"red\"><b>Could not load image %1.</b></font>"
+msgstr ""
+
+#: plugin_timeadjust.cpp:66
+msgid "Adjust Time && Date..."
+msgstr "तारीक अउ समय एडजस्ट करव..."
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "रविसंकर सिरीवास्तव, जी. करूनाकर"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "raviratlami@aol.in"
+
+#: timeadjustdialog.cpp:184 timeadjustdialog.cpp:922 timeadjustdialog.cpp:931
+msgid "Adjust Time & Date"
+msgstr "तारीक अउ समय एडजस्ट करव"
+
+#: timeadjustdialog.cpp:192
+msgid "Time Adjust"
+msgstr "समय एडजस्ट करव"
+
+#: timeadjustdialog.cpp:195
+msgid "A Kipi plugin for adjusting the timestamp of picture files"
+msgstr ""
+
+#: timeadjustdialog.cpp:196
+#, fuzzy
+msgid ""
+"(c) 2003-2005, Jesper K. Pedersen\n"
+"(c) 2006-2009, Gilles Caulier"
+msgstr "(c) 2003-2005,जेस्पर के. पेदर्सन(c) 2007-2008, गिल्स काउलिएर"
+
+#: timeadjustdialog.cpp:199
+msgid "Jesper K. Pedersen"
+msgstr "जेस्पर के. पेदर्सन"
+
+#: timeadjustdialog.cpp:200
+msgid "Author"
+msgstr "लेखक"
+
+#: timeadjustdialog.cpp:203
+msgid "Gilles Caulier"
+msgstr "गिल्स काउलिएर"
+
+#: timeadjustdialog.cpp:204
+msgid "Developer and maintainer"
+msgstr "डेवलपर अउ मेंटेनर"
+
+#: timeadjustdialog.cpp:212
+#, fuzzy
+msgid "Handbook"
+msgstr "प्लगइन हेंड-बुक"
+
+#: timeadjustdialog.cpp:220
+#, fuzzy
+#| msgid "Adjust Time & Date"
+msgid "Use Time && Date"
+msgstr "तारीक अउ समय एडजस्ट करव"
+
+#: timeadjustdialog.cpp:226
+#, kde-format
+msgid "%1 timestamp"
+msgstr ""
+
+#: timeadjustdialog.cpp:234 timeadjustdialog.cpp:311
+msgid "File last modified"
+msgstr ""
+
+#: timeadjustdialog.cpp:238
+msgid "EXIF/IPTC/XMP"
+msgstr ""
+
+#: timeadjustdialog.cpp:239 timeadjustdialog.cpp:312
+msgid "EXIF: created"
+msgstr ""
+
+#: timeadjustdialog.cpp:240 timeadjustdialog.cpp:313
+msgid "EXIF: original"
+msgstr ""
+
+#: timeadjustdialog.cpp:241 timeadjustdialog.cpp:314
+msgid "EXIF: digitized"
+msgstr ""
+
+#: timeadjustdialog.cpp:242 timeadjustdialog.cpp:315
+msgid "IPTC: created"
+msgstr ""
+
+#: timeadjustdialog.cpp:243
+msgid "XMP: created"
+msgstr ""
+
+#: timeadjustdialog.cpp:253
+msgid "Reset to current date"
+msgstr ""
+
+#: timeadjustdialog.cpp:279
+#, fuzzy
+#| msgid "Time Adjust"
+msgid "Adjust"
+msgstr "समय एडजस्ट करव"
+
+#: timeadjustdialog.cpp:283
+msgid "Copy value"
+msgstr ""
+
+#: timeadjustdialog.cpp:284
+msgid "Add"
+msgstr "जोड़व"
+
+#: timeadjustdialog.cpp:285
+msgid "Subtract"
+msgstr "घटाव"
+
+#: timeadjustdialog.cpp:289
+#, fuzzy
+#| msgid "Days:"
+msgid "days"
+msgstr "दिन:"
+
+#: timeadjustdialog.cpp:292
+msgid "Determine from clock photo"
+msgstr ""
+
+#: timeadjustdialog.cpp:307
+#, fuzzy
+#| msgid "Adjust Time & Date"
+msgid "Update Time && Date"
+msgstr "तारीक अउ समय एडजस्ट करव"
+
+#: timeadjustdialog.cpp:316
+msgid "XMP"
+msgstr ""
+
+#: timeadjustdialog.cpp:338
+msgid "Example"
+msgstr "उदाहरन"
+
+#: timeadjustdialog.cpp:516 timeadjustdialog.cpp:547 timeadjustdialog.cpp:573
+#: timeadjustdialog.cpp:633
+#, kde-format
+msgid "1 image will be changed"
+msgid_plural "%1 images will be changed"
+msgstr[0] ""
+msgstr[1] ""
+
+#: timeadjustdialog.cpp:553 timeadjustdialog.cpp:639
+#, kde-format
+msgid "1 image will be changed; "
+msgid_plural "%1 images will be changed; "
+msgstr[0] ""
+msgstr[1] ""
+
+#: timeadjustdialog.cpp:557
+#, kde-format
+msgid "1 image will be skipped due to an inexact date."
+msgid_plural "%1 images will be skipped due to inexact dates."
+msgstr[0] ""
+msgstr[1] ""
+
+#: timeadjustdialog.cpp:643
+#, kde-format
+msgid "1 image will be skipped due to a missing source timestamp."
+msgid_plural "%1 images will be skipped due to missing source timestamps."
+msgstr[0] ""
+msgstr[1] ""
+
+#: timeadjustdialog.cpp:740
+#, kde-format
+msgid "Custom: <b>%1</b>"
+msgstr ""
+
+#: timeadjustdialog.cpp:756
+msgid "Original: <b>N/A</b><br/>Image will be skipped"
+msgstr ""
+
+#: timeadjustdialog.cpp:765
+#, kde-format
+msgid "Original: <b>%1</b>"
+msgstr ""
+
+#: timeadjustdialog.cpp:772
+#, kde-format
+msgid "Original: <b>%1</b><br/>Adjusted: <b>%2</b>"
+msgstr ""
+
+#: timeadjustdialog.cpp:920
+msgid "Unable to update metadata in:"
+msgstr ""
+
+#: timeadjustdialog.cpp:929
+msgid "Unable to update file modification time in:"
+msgstr ""
+
+#~ msgid "Adjustment Type"
+#~ msgstr "समायोजन किसिम"
+
+#~ msgid "Custom date"
+#~ msgstr "मनमाफिक तारीक"
+
+#~ msgid "Adjustments"
+#~ msgstr "समायोजन"
+
+#~ msgid "Hours:"
+#~ msgstr "घंटे:"
+
+#~ msgid "Minutes:"
+#~ msgstr "मिनट्स:"
+
+#~ msgid "Seconds:"
+#~ msgstr "सेकन्ड:"
+
+#~ msgid "Months:"
+#~ msgstr "महिना:"
+
+#~ msgid "Years:"
+#~ msgstr "साल:"

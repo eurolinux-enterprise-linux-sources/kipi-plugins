@@ -1,0 +1,197 @@
+# translation of kipiplugin_jpeglossless.po to Hindi
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Ravishankar Shrivastava <raviratlami@yahoo.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_jpeglossless\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-22 06:48+0200\n"
+"PO-Revision-Date: 2008-03-30 13:14+0530\n"
+"Last-Translator: Ravishankar Shrivastava <aviratlami@aol.in>\n"
+"Language-Team: Hindi <indlinux-hindi@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: convert2grayscale.cpp:85 convert2grayscale.cpp:162 imageflip.cpp:79
+#: imagerotate.cpp:80 jpegtransform.cpp:216 jpegtransform.cpp:319
+msgid "Error in opening input file"
+msgstr "इनपुट फ़ाइल में त्रुटियाँ"
+
+#: convert2grayscale.cpp:91 imageflip.cpp:85 imagerotate.cpp:88
+msgid "Error in opening temporary file"
+msgstr "अस्थाई फ़ाइल को खोलने में त्रुटि"
+
+#: convert2grayscale.cpp:99
+msgid "Cannot convert to gray scale RAW file"
+msgstr "ग्रे स्केल रॉ फ़ाइल में परिवर्तित नहीं किया जा सका"
+
+#: convert2grayscale.cpp:123 imageflip.cpp:117 imagerotate.cpp:123
+msgid "Cannot update source image"
+msgstr "स्रोत छवियाँ अद्यतन नहीं कर सका"
+
+#: convert2grayscale.cpp:171 jpegtransform.cpp:225 jpegtransform.cpp:262
+#: jpegtransform.cpp:328
+msgid "Error in opening output file"
+msgstr "आउटपुट फ़ाइल खोलने में त्रुटि"
+
+#: convert2grayscale.cpp:273
+#, kde-format
+msgid "Cannot convert to gray scale: %1"
+msgstr "ग्रे स्केल में परिवर्तित नहीं किया जा सका: %1"
+
+#: imageflip.cpp:93 imagerotate.cpp:96
+msgid "Cannot rotate RAW file"
+msgstr "रॉ फ़ाइल घुमाया नहीं जा सका"
+
+#: imageflip.cpp:144 imageflip.cpp:173
+msgid "Nonstandard flip action"
+msgstr "पलटने की अ-मानक क्रिया"
+
+#: imageflip.cpp:206
+#, kde-format
+msgid "Cannot flip: %1"
+msgstr "पलटा नहीं जा सका: %1"
+
+#: imagerotate.cpp:160 imagerotate.cpp:200
+msgid "Nonstandard rotation angle"
+msgstr "घुमाने की अ-मानक क्रिया"
+
+#: imagerotate.cpp:233
+#, kde-format
+msgid "Cannot rotate: %1"
+msgstr "घुमाया नहीं जा सका: %1"
+
+#: plugin_jpeglossless.cpp:113
+msgid "Auto Rotate/Flip Using Exif Information"
+msgstr "एक्जइफ जानकारी के इस्तेमाल से स्वचालित घुमाएँ/पलटें"
+
+#: plugin_jpeglossless.cpp:118
+msgid "Rotate"
+msgstr "घुमाएँ"
+
+#: plugin_jpeglossless.cpp:123
+msgid "Left"
+msgstr "बायाँ"
+
+#: plugin_jpeglossless.cpp:130
+msgid "Right"
+msgstr "दायाँ"
+
+#: plugin_jpeglossless.cpp:136
+msgid "Flip"
+msgstr "पलटें"
+
+#: plugin_jpeglossless.cpp:140
+msgid "Horizontally"
+msgstr "आड़ा"
+
+#: plugin_jpeglossless.cpp:147
+msgid "Vertically"
+msgstr "खड़ा"
+
+#: plugin_jpeglossless.cpp:154
+msgid "Convert to Black && White"
+msgstr "श्वेत-श्याम में बदलें"
+
+#: plugin_jpeglossless.cpp:198
+msgid "horizontally"
+msgstr "आड़ा"
+
+#: plugin_jpeglossless.cpp:203
+msgid "vertically"
+msgstr "खड़ा"
+
+#: plugin_jpeglossless.cpp:224
+#, kde-format
+msgid "Flip images %1"
+msgstr "छवियाँ पलटें %1"
+
+#: plugin_jpeglossless.cpp:237
+msgid "right (clockwise)"
+msgstr "दाएं (घड़ी की दिशा में)"
+
+#: plugin_jpeglossless.cpp:242
+msgid "left (counterclockwise)"
+msgstr "बाएं (घड़ी की विपरीत दिशा में)"
+
+#: plugin_jpeglossless.cpp:247
+msgid "using Exif orientation tag"
+msgstr "एक्सइफ दिशा-निर्धारण टैग के जरिए"
+
+#: plugin_jpeglossless.cpp:268
+#, kde-format
+msgid "Rotate images %1"
+msgstr "छवियों को घुमाएँ %1"
+
+#: plugin_jpeglossless.cpp:284
+msgid ""
+"<p>Are you sure you wish to convert the selected image(s) to black and "
+"white? This operation <b>cannot</b> be undone.</p>"
+msgstr ""
+"<p>क्या आप सुनिश्चित हैं कि आप चयनित छवियों को श्वेत श्याम में परिवर्तित करना चाहते हैं? यह "
+"क्रिया वापस पूर्ववत् <b>नहीं</b> की जा सकेगी.</p>"
+
+#: plugin_jpeglossless.cpp:301
+msgid "Convert images to black & white"
+msgstr "छवियों को श्वेत श्याम में बदलें "
+
+#: plugin_jpeglossless.cpp:336
+#, kde-format
+msgid "Rotating Image \"%1\""
+msgstr "छवि घुमाया जा रहा है \"%1\""
+
+#: plugin_jpeglossless.cpp:341
+#, kde-format
+msgid "Flipping Image \"%1\""
+msgstr "पलटी जा रही है छवि \"%1\""
+
+#: plugin_jpeglossless.cpp:346
+#, kde-format
+msgid "Converting to Black & White \"%1\""
+msgstr "श्वेत-श्याम में बदला जा रहा है \"%1\""
+
+#: plugin_jpeglossless.cpp:368
+msgid "Rotate image complete"
+msgstr "छवि घुमाना सम्पन्न"
+
+#: plugin_jpeglossless.cpp:373
+msgid "Flip image complete"
+msgstr "छवि पलटना सम्पन्न"
+
+#: plugin_jpeglossless.cpp:378
+msgid "Convert to Black & White complete"
+msgstr "श्वेत श्याम में बदलना सम्पन्न"
+
+#: plugin_jpeglossless.cpp:403
+msgid "Failed to Rotate image"
+msgstr "छवि घुमाने में असफल"
+
+#: plugin_jpeglossless.cpp:408
+msgid "Failed to Flip image"
+msgstr "छवि पलटने में असफल"
+
+#: plugin_jpeglossless.cpp:413
+msgid "Failed to convert image to Black & White"
+msgstr "छवि श्वेत-श्याम में बदलने में असफल"
+
+#: utils.cpp:88
+msgid "unable to open source file"
+msgstr "स्रोत फ़ाइल खोलने में अक्षम"
+
+#: utils.cpp:112 utils.cpp:139
+msgid "unable to open temp file"
+msgstr "अस्थाई फ़ाइल खोलने में अक्षम"
+
+#: utils.cpp:126
+msgid "Cannot rotate: unable to open temp file"
+msgstr "घुमाया नहीं जा सका: अस्थाई फ़ाइल खोलने में अक्षम"
+
+#: utils.cpp:188
+#, kde-format
+msgid "Cannot update metadata: %1"
+msgstr "मेटाडाटा अद्यतन नहीं किया जा सका: %1"

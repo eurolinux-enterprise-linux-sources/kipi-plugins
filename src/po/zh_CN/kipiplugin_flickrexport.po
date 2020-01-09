@@ -1,0 +1,563 @@
+# translation of kipiplugin_flickrexport.po to 简体中文
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Ni Hui <shuizhuyuanluo@126.com>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kipiplugin_flickrexport\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-26 06:48+0100\n"
+"PO-Revision-Date: 2009-05-28 10:08+0000\n"
+"Last-Translator: Ni Hui <shuizhuyuanluo@126.com>\n"
+"Language-Team: 简体中文 <kde-china@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: flickrlist.cpp:393
+msgid ""
+"Check if photo should be publicly visible or use Upload Options tab to "
+"specify this for all images"
+msgstr ""
+
+#: flickrlist.cpp:397
+msgid ""
+"Check if photo should be visible to family or use Upload Options tab to "
+"specify this for all images"
+msgstr ""
+
+#: flickrlist.cpp:401
+msgid ""
+"Check if photo should be visible to friends or use Upload Options tab to "
+"specify this for all images"
+msgstr ""
+
+#: flickrlist.cpp:405
+msgid ""
+"Indicate the safety level for the photo or use Upload Options tab to specify "
+"this for all images"
+msgstr ""
+
+#: flickrlist.cpp:409
+msgid ""
+"Indicate what kind of image this is or use Upload Options tab to specify "
+"this for all images"
+msgstr ""
+
+#: flickrlist.cpp:422
+msgid ""
+"Add extra tags per image or use Upload Options tab to add tags for all images"
+msgstr ""
+
+#: flickrlist.cpp:425
+#, fuzzy
+#| msgid "Enter new tags here, separated by spaces."
+msgid "Enter extra tags, separated by commas."
+msgstr "在此输入新的标记，以空格分割。"
+
+#: flickrtalker.cpp:209
+msgid "Getting the Frob"
+msgstr "正在获取 Frob(临时密钥)"
+
+#: flickrtalker.cpp:254
+msgid "Checking if previous token is still valid"
+msgstr "正在检查上一张令牌是否依旧有效"
+
+#: flickrtalker.cpp:280
+msgid ""
+"Please follow the instructions in the browser window, then return to press "
+"Yes if you are authenticated, or No otherwise."
+msgstr "请按照浏览器窗口中的指导操作，如果您已经验证过就返回按确定，否则按否。"
+
+#: flickrtalker.cpp:282
+#, kde-format
+msgid "%1 Service Web Authorization"
+msgstr "%1 服务网络验证"
+
+#: flickrtalker.cpp:287
+msgid "Authenticating the User on web"
+msgstr "正在验证网络用户"
+
+#: flickrtalker.cpp:339
+msgid "Getting the Token from the server"
+msgstr "正在获取服务器令牌"
+
+#: flickrtalker.cpp:708
+msgid "No photo specified"
+msgstr "未指定照片"
+
+#: flickrtalker.cpp:711
+msgid "General upload failure"
+msgstr "常规上传失败"
+
+#: flickrtalker.cpp:714
+msgid "Filesize was zero"
+msgstr "文件大小为零"
+
+#: flickrtalker.cpp:717
+msgid "Filetype was not recognized"
+msgstr "文件类型不可识别"
+
+#: flickrtalker.cpp:720
+msgid "User exceeded upload limit"
+msgstr "用户超出上传限制"
+
+#: flickrtalker.cpp:723
+msgid "Invalid signature"
+msgstr "无效的签名"
+
+#: flickrtalker.cpp:726
+msgid "Missing signature"
+msgstr "缺失的签名"
+
+#: flickrtalker.cpp:729
+msgid "Login Failed / Invalid auth token"
+msgstr "登录失败 / 无效的验证令牌"
+
+#: flickrtalker.cpp:732
+msgid "Invalid API Key"
+msgstr "无效的 API 密钥"
+
+#: flickrtalker.cpp:735
+msgid "Service currently unavailable"
+msgstr "服务当前不可用"
+
+#: flickrtalker.cpp:738
+msgid "Invalid Frob"
+msgstr "无效的 Frob(临时密钥)"
+
+#: flickrtalker.cpp:741
+msgid "Format \"xxx\" not found"
+msgstr "没有找到格式“xxx”"
+
+#: flickrtalker.cpp:744
+msgid "Method \"xxx\" not found"
+msgstr "没有找到方法“xxx”"
+
+#: flickrtalker.cpp:747
+msgid "Invalid SOAP envelope"
+msgstr "无效的 SOAP 信封"
+
+#: flickrtalker.cpp:750
+msgid "Invalid XML-RPC Method Call"
+msgstr "无效的 XML-PRC 方法调用"
+
+#: flickrtalker.cpp:753
+msgid "The POST method is now required for all setters"
+msgstr "POST 方法现在对所有设置者都需要"
+
+#: flickrtalker.cpp:756
+msgid "Unknown error"
+msgstr "未知错误"
+
+#: flickrtalker.cpp:761
+#, kde-format
+msgid ""
+"Error Occurred: %1\n"
+"Cannot proceed any further."
+msgstr ""
+"发生错误：%1\n"
+"无法进一步处理。"
+
+#: flickrtalker.cpp:908
+#, fuzzy
+#| msgctxt "As in the persmission to"
+#| msgid "write"
+msgctxt "As in the permission to"
+msgid "write"
+msgstr "写入"
+
+#: flickrtalker.cpp:910
+msgctxt "As in the permission to"
+msgid "read"
+msgstr "读取"
+
+#: flickrtalker.cpp:912
+msgctxt "As in the permission to"
+msgid "delete"
+msgstr "删除"
+
+#: flickrtalker.cpp:942
+msgid "Your token is invalid. Would you like to get a new token to proceed?\n"
+msgstr "您的令牌无效。您想要获取一个新令牌以继续进行吗？\n"
+
+#: flickrtalker.cpp:1084
+msgid "PhotoSet creation failed: "
+msgstr "照片专辑创建失败："
+
+#: flickrtalker.cpp:1174
+msgid "Failed to fetch list of photo sets."
+msgstr "获取照片专辑列表失败。"
+
+#: flickrtalker.cpp:1244
+msgid "Failed to upload photo"
+msgstr "上传照片失败"
+
+#: flickrtalker.cpp:1308
+msgid "Failed to query photo information"
+msgstr "查询照片信息失败"
+
+#: flickrwidget.cpp:81
+msgid ""
+"<b><h2><a href='http://www.23hq.com'><font color=\"#7CD164\">23</font></a> "
+"Export</h2></b>"
+msgstr ""
+"<b><h2><a href='http://www.23hq.com'><font color=\"#7CD164\">23</font></a> 导"
+"出</h2></b>"
+
+#: flickrwidget.cpp:86
+#, fuzzy
+#| msgid ""
+#| "<b><h2><a href='http://www.23hq.com'><font color=\"#7CD164\">23</font></"
+#| "a> Export</h2></b>"
+msgid ""
+"<b><h2><a href='http://www.zooomr.com'><font color=\"#7CD164\">zooomr</"
+"font></a> Export</h2></b>"
+msgstr ""
+"<b><h2><a href='http://www.23hq.com'><font color=\"#7CD164\">23</font></a> 导"
+"出</h2></b>"
+
+#: flickrwidget.cpp:91
+msgid ""
+"<b><h2><a href='http://www.flickr.com'><font color=\"#0065DE\">flick</"
+"font><font color=\"#FF0084\">r</font></a> Export</h2></b>"
+msgstr ""
+"<b><h2><a href='http://www.flickr.com'><font color=\"#0065DE\">flick</"
+"font><font color=\"#FF0084\">r</font></a> 导出</h2></b>"
+
+#: flickrwidget.cpp:104 flickrwidget.cpp:109
+msgid "Public"
+msgstr ""
+
+#: flickrwidget.cpp:108
+msgid "This is the list of images to upload to your Flickr account."
+msgstr "这是一份要上传到您 Flickr 账户的图像清单。"
+
+#: flickrwidget.cpp:113
+msgid "Extra tags"
+msgstr ""
+
+#: flickrwidget.cpp:118 flickrwidget.cpp:128
+msgid "Family"
+msgstr ""
+
+#: flickrwidget.cpp:122 flickrwidget.cpp:130
+msgid "Friends"
+msgstr ""
+
+#: flickrwidget.cpp:137
+msgid "Safety level"
+msgstr ""
+
+#: flickrwidget.cpp:139
+msgid "Content type"
+msgstr ""
+
+#: flickrwidget.cpp:142 flickrwidget.cpp:272
+msgid "Safe"
+msgstr ""
+
+#: flickrwidget.cpp:143 flickrwidget.cpp:273
+msgid "Moderate"
+msgstr ""
+
+#: flickrwidget.cpp:144 flickrwidget.cpp:274
+msgid "Restricted"
+msgstr ""
+
+#: flickrwidget.cpp:145 flickrwidget.cpp:278
+#, fuzzy
+#| msgid "PhotoSet:"
+msgid "Photo"
+msgstr "照片专辑："
+
+#: flickrwidget.cpp:146 flickrwidget.cpp:279
+msgid "Screenshot"
+msgstr ""
+
+#: flickrwidget.cpp:147 flickrwidget.cpp:280
+msgid "Other"
+msgstr ""
+
+#: flickrwidget.cpp:173
+msgid "Account"
+msgstr "账户"
+
+#: flickrwidget.cpp:176
+msgid "Username: "
+msgstr "用户名："
+
+#: flickrwidget.cpp:179
+msgid "Use a different account"
+msgstr "使用其它账户"
+
+#: flickrwidget.cpp:182
+msgid "PhotoSet:"
+msgstr "照片专辑："
+
+#: flickrwidget.cpp:185
+msgid "&New PhotoSet"
+msgstr "新建照片专辑(&N)"
+
+#: flickrwidget.cpp:200
+#, fuzzy
+#| msgid "Upload Options"
+msgid "Tag options"
+msgstr "上传选项"
+
+#: flickrwidget.cpp:204
+msgid "Use Host Application Tags"
+msgstr "使用主应用程序标记"
+
+#: flickrwidget.cpp:206
+#, fuzzy
+#| msgid "Upload Options"
+msgid "More tag options"
+msgstr "上传选项"
+
+#: flickrwidget.cpp:220
+msgid "Added Tags: "
+msgstr "添加的标记："
+
+#: flickrwidget.cpp:223
+#, fuzzy
+#| msgid "Enter new tags here, separated by spaces."
+msgid "Enter new tags here, separated by commas."
+msgstr "在此输入新的标记，以空格分割。"
+
+#: flickrwidget.cpp:225
+msgid "Add tags per image"
+msgstr ""
+
+#: flickrwidget.cpp:226
+msgid "If checked, you can set extra tags for each image in the File List tab"
+msgstr ""
+
+#: flickrwidget.cpp:230
+#, fuzzy
+#| msgid "Strip Space From Host Application Tags"
+msgid "Strip Spaces From Tags"
+msgstr "从主应用程序标记中去除空格"
+
+#: flickrwidget.cpp:243
+#, fuzzy
+#| msgid "Upload Options"
+msgid "Publication Options"
+msgstr "上传选项"
+
+#: flickrwidget.cpp:248
+msgctxt "As in accessible for people"
+msgid "Public (anyone can see them)"
+msgstr "公开(任何人可以看到它们)"
+
+#: flickrwidget.cpp:251
+msgid "Visible to Family"
+msgstr "对家人可见"
+
+#: flickrwidget.cpp:254
+msgid "Visible to Friends"
+msgstr "对朋友可见"
+
+#: flickrwidget.cpp:257
+#, fuzzy
+#| msgid "Upload Options"
+msgid "More publication options"
+msgstr "上传选项"
+
+#: flickrwidget.cpp:270
+msgid "Safety level:"
+msgstr ""
+
+#: flickrwidget.cpp:276
+msgid "Content type:"
+msgstr ""
+
+#: flickrwidget.cpp:297
+msgid "Resizing Options"
+msgstr ""
+
+#: flickrwidget.cpp:302
+msgid "Resize photos before uploading"
+msgstr "上传前调整照片大小"
+
+#: flickrwidget.cpp:313
+msgid "Maximum dimension (pixels):"
+msgstr "最大尺寸(像素)："
+
+#: flickrwidget.cpp:323
+msgid "JPEG Image Quality (higher is better):"
+msgstr "JPEG 图像质量(越高越精细)："
+
+#: flickrwidget.cpp:351
+msgid "File List"
+msgstr "文件列表"
+
+#: flickrwidget.cpp:352
+msgid "Upload Options"
+msgstr "上传选项"
+
+#: flickrwindow.cpp:85
+#, kde-format
+msgid "Export to %1 Web Service"
+msgstr "导出至 %1 网络服务"
+
+#: flickrwindow.cpp:120
+msgid "Start Uploading"
+msgstr "开始上传"
+
+#: flickrwindow.cpp:132
+#, fuzzy
+#| msgid "Flickr/23 Export"
+msgid "Flickr/23/Zooomr Export"
+msgstr "Flickr/23 导出"
+
+#: flickrwindow.cpp:135
+#, fuzzy
+#| msgid "A Kipi plugin to export image collection to Flickr / 23 web service."
+msgid ""
+"A Kipi plugin to export an image collection to a Flickr / 23 / Zooomr web "
+"service."
+msgstr "一个将图像收藏导出至 Flickr/23 网络服务的 Kipi 插件。"
+
+#: flickrwindow.cpp:137
+#, fuzzy
+#| msgid ""
+#| "(c) 2005-2008, Vardhman Jain\n"
+#| "(c) 2008, Gilles Caulier\n"
+#| "(c) 2009, Luka Renko"
+msgid ""
+"(c) 2005-2008, Vardhman Jain\n"
+"(c) 2008-2009, Gilles Caulier\n"
+"(c) 2009, Luka Renko"
+msgstr ""
+"(c) 2005-2008，Vardhman Jain\n"
+"(c) 2008，Gilles Caulier\n"
+"(c) 2009，Luka Renko"
+
+#: flickrwindow.cpp:141
+msgid "Vardhman Jain"
+msgstr "Vardhman Jain"
+
+#: flickrwindow.cpp:141
+msgid "Author and maintainer"
+msgstr "作者和维护者"
+
+#: flickrwindow.cpp:144
+msgid "Gilles Caulier"
+msgstr "Gilles Caulier"
+
+#: flickrwindow.cpp:144
+msgid "Developer"
+msgstr "开发者"
+
+#: flickrwindow.cpp:152
+msgid "Handbook"
+msgstr "手册"
+
+#: flickrwindow.cpp:489
+msgid "<Photostream Only>"
+msgstr "<仅照片数据流>"
+
+#: flickrwindow.cpp:663
+#, kde-format
+msgid "Uploading file %1"
+msgstr "正在上传文件 %1"
+
+#: flickrwindow.cpp:683
+#, kde-format
+msgid "Failed to Fetch Photoset information from %1. %2\n"
+msgstr "从 %1 获取照片专辑信息失败。%2\n"
+
+#: flickrwindow.cpp:688
+#, kde-format
+msgid ""
+"Failed to upload photo into %1. %2\n"
+"Do you want to continue?"
+msgstr ""
+"上传照片到 %1 失败。%2\n"
+"您想要继续吗？"
+
+#: login.cpp:69
+msgid "Username:"
+msgstr "用户名："
+
+#: login.cpp:72
+msgid "Password:"
+msgstr "密码："
+
+#: plugin_flickrexport.cpp:76
+msgid "Export to Flick&r..."
+msgstr "导出至 Flickr(&R)..."
+
+#: plugin_flickrexport.cpp:87
+msgid "Export to &23..."
+msgstr "导出至 23(&2)..."
+
+#: plugin_flickrexport.cpp:98
+#, fuzzy
+#| msgid "Export to &23..."
+msgid "Export to &Zooomr..."
+msgstr "导出至 23(&2)..."
+
+#. i18n: file: flickralbumdialog.ui:14
+#. i18n: ectx: property (windowTitle), widget (QDialog, FlickrAlbumDialog)
+#: rc.cpp:3 rc.cpp:23
+msgid "New PhotoSet"
+msgstr "新建照片专辑"
+
+#. i18n: file: flickralbumdialog.ui:29
+#. i18n: ectx: property (text), widget (QLabel, header)
+#: rc.cpp:6 rc.cpp:26
+msgid "<h3>Create New PhotoSet </h3>"
+msgstr "<h3>创建新照片专辑 </h3>"
+
+#. i18n: file: flickralbumdialog.ui:86
+#. i18n: ectx: property (text), widget (QPushButton, buttonOk)
+#: rc.cpp:9 rc.cpp:29
+msgid "&OK"
+msgstr "确定(&O)"
+
+#. i18n: file: flickralbumdialog.ui:102
+#. i18n: ectx: property (text), widget (QPushButton, buttonCancel)
+#: rc.cpp:12 rc.cpp:32
+msgid "&Cancel"
+msgstr "取消(&C)"
+
+#. i18n: file: flickralbumdialog.ui:130
+#. i18n: ectx: property (text), widget (QLabel, titleLabel)
+#: rc.cpp:15 rc.cpp:35
+msgid "Title (required):"
+msgstr "标题(必需)："
+
+#. i18n: file: flickralbumdialog.ui:143
+#. i18n: ectx: property (text), widget (QLabel, captionLabel)
+#: rc.cpp:18 rc.cpp:38
+#, fuzzy
+#| msgid "Description (optional):"
+msgid "Description (optional)"
+msgstr "描述(可选)："
+
+#: rc.cpp:19
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Ni Hui"
+
+#: rc.cpp:20
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "shuizhuyuanluo@126.com"
+
+#~ msgid "Override Default Options"
+#~ msgstr "覆盖默认选项"
+
+#~ msgid "PhotoSet created successfully"
+#~ msgstr "照片专辑创建成功"
+
+#~ msgid "Name (optional):"
+#~ msgstr "名称(可选)："
+
+#~ msgid "Primary Photo Id"
+#~ msgstr "主照片标识符"
