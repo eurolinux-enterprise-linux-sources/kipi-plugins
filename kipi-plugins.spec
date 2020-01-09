@@ -3,12 +3,13 @@
 Name:    kipi-plugins
 Summary: Plugins to use with Kipi
 Version: 0.8.0
-Release: 5%{?dist}
+Release: 7%{?dist}
 
 License: GPLv2+
 Group:   Applications/Multimedia
 Url:	 http://www.kipi-plugins.org/
 Source0: http://downloads.sourceforge.net/kipi/kipi-plugins-%{version}-patched.tar.bz2
+Patch0:  gdk-path-fix.patch
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 
 BuildRequires: desktop-file-utils
@@ -34,7 +35,7 @@ Obsoletes: kipi-plugins < 0.7.0
 Requires: %{name}-libs%{?_isa} = %{version}-%{release}
 
 ## jpeglossless plugin
-Requires: ImageMagick
+Requires: ImageMagick >= 6.7.2.7
 
 %description
 This package contains plugins to use with Kipi, the KDE Image Plugin
@@ -71,6 +72,7 @@ Requires: %{name} = %{version}-%{release}
 
 %prep
 %setup -q -n %{name}-%{version}-patched
+%patch0 -p1 -b .gdk-patch-fix
 
 
 %build
@@ -178,6 +180,10 @@ gtk-update-icon-cache %{_kde4_iconsdir}/oxygen >& /dev/null ||:
 
 
 %changelog
+* Thu Feb 19 2015 Jan Horak <jhorak@redhat.com> - 0.8.0-7
+- Rebuild due to rebase of ImageMagick
+- Added build path for latest gdk-pixbuf-2.0
+
 * Tue Jun 29 2010 Lukas Tinkl <ltinkl@redhat.com> - 0.8.0-5
 - Resolves: #608738 - LEGAL: kipi-plugins-0.8.0-4.el6.src.rpm problematic license terms
 
